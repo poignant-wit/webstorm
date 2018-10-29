@@ -27,11 +27,11 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/payment/PaymentContainer.tsx" timestamp="1540811418111">
-        <mark key="[" line="43" column="4" />
-        <mark key="]" line="43" column="9" />
-        <mark key="^" line="43" column="9" />
-        <mark key="." line="43" column="9" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/payment/PaymentContainer.tsx" timestamp="1540813935929">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="42" column="9" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/components/Landing/index.js" timestamp="1540300279731">
         <mark key="'" line="11" column="9" />
@@ -484,11 +484,11 @@
         <mark key="^" line="1" column="85" />
         <mark key="." line="1" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/SubscriptionsStore.ts" timestamp="1540799895053">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="5" column="14" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/SubscriptionsStore.ts" timestamp="1540814486638">
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="17" />
+        <mark key="." line="30" column="17" />
+        <mark key="^" line="30" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/PaymentPage.tsx" timestamp="1540566146950">
         <mark key="[" line="4" column="16" />
@@ -809,43 +809,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{
+    interval: IN
+                     }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCcmFpblRyZWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgcGVybWlzc2lvbnNTdG9yZTogUGVybWlzc2lvbnNTdG9yZTsK</text>
+        <text encoding="base64">ICBAb2JzZXJ2YWJsZQogIHByaXZhdGUgYnJhaW50cmVlVG9rZW46IHN0cmluZzsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{
+    interval: IN
+                     }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICA8ZGl2IHJlZj17dGhpcy5icmFpbnRyZWVDb250YWluZXJ9IC8+Owo=</text>
+        <text encoding="base64">ICBAb2JzZXJ2YWJsZQogIHB1YmxpYyBicmFpbnRyZWVUb2tlbjogc3RyaW5nOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG9rZW4pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2VuKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYXN5bmMgZ2V0Q3VycmVudFN1YnNjcmlwdGlvbigpIHsKICAgIGNvbnN0IHsgZGF0YSB9ID0gYXdhaXQgcmVxdWVzdCgpLmdldCgnL3N1YnNjcmlwdGlvbicpOwogICAgcmV0dXJuIGRhdGEuZGF0YSBhcyBJU3Vic2NyaXB0aW9uOwogIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoYW5kbGUnLCBlcnIsIHBheWxvYWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYnJhaW50cmVlV2lkZ2V0ID0gYXdhaXQgYnJhaW50cmVlLmNyZWF0ZSh7CiAgICAgIGF1dGhvcml6YXRpb246ICdzZGZzZGZrJywKICAgICAgY29udGFpbmVyOiB0aGlzLmJyYWludHJlZUNvbnRhaW5lci5jdXJyZW50LAogICAgICBwYXlwYWw6IHsKICAgICAgICBmbG93OiAndmF1bHQnLAogICAgICB9LAogICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
