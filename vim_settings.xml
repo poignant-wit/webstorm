@@ -27,11 +27,11 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/payment/PaymentContainer.tsx" timestamp="1540813935929">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="42" column="9" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/payment/PaymentContainer.tsx" timestamp="1540815366756">
+        <mark key="[" line="52" column="63" />
+        <mark key="]" line="52" column="78" />
+        <mark key="^" line="52" column="78" />
+        <mark key="." line="52" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/components/Landing/index.js" timestamp="1540300279731">
         <mark key="'" line="11" column="9" />
@@ -279,6 +279,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/PaymentsStore.ts" timestamp="1540815193611">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+        <mark key="^" line="20" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/services/AuthTokenService.ts" timestamp="1540540653899">
         <mark key="[" line="16" column="31" />
         <mark key="]" line="16" column="43" />
@@ -484,11 +490,11 @@
         <mark key="^" line="1" column="85" />
         <mark key="." line="1" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/SubscriptionsStore.ts" timestamp="1540814486638">
-        <mark key="[" line="30" column="19" />
-        <mark key="]" line="30" column="17" />
-        <mark key="." line="30" column="17" />
-        <mark key="^" line="30" column="17" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/SubscriptionsStore.ts" timestamp="1540815168144">
+        <mark key="[" line="85" column="54" />
+        <mark key="]" line="85" column="54" />
+        <mark key="^" line="85" column="54" />
+        <mark key="." line="85" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/PaymentPage.tsx" timestamp="1540566146950">
         <mark key="[" line="4" column="16" />
@@ -554,11 +560,11 @@
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/components/common/BrainTree.js" timestamp="1540809583917">
         <mark key="'" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/subscriptions.ts" timestamp="1540802430572">
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="10" column="37" />
-        <mark key="^" line="9" column="54" />
-        <mark key="." line="10" column="37" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/subscriptions.ts" timestamp="1540815118319">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="8" />
+        <mark key="^" line="20" column="8" />
+        <mark key="." line="20" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/routePath.ts" timestamp="1540568911756">
         <mark key="[" line="2" column="45" />
@@ -596,11 +602,11 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/RootStore.ts" timestamp="1540811319854">
-        <mark key="[" line="78" column="48" />
-        <mark key="]" line="78" column="48" />
-        <mark key="." line="78" column="48" />
-        <mark key="^" line="78" column="48" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/RootStore.ts" timestamp="1540814754666">
+        <mark key="[" line="70" column="53" />
+        <mark key="]" line="71" column="10" />
+        <mark key="." line="71" column="10" />
+        <mark key="^" line="71" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/client/SocketProvider.ts" timestamp="1540482026909">
         <mark key="[" line="23" column="13" />
@@ -808,51 +814,49 @@
       <jump line="9" column="43" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/components/App/Payment/PaymentPage.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{
-    interval: IN
-                     }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGF3YWl0IHRoaXMucHJvcHMucGF5bWVudHNTdG9yZS51cGRhdGVQYXltZW50TWV0aG9kKHBheWxvYWQubm9uY2UpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCcmFpblRyZWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAb2JzZXJ2YWJsZQogIHByaXZhdGUgYnJhaW50cmVlVG9rZW46IHN0cmluZzsK</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRoaXMucHJvcHMucGF5bWVudHNTdG9yZS51cGRhdGVQYXltZW50TWV0aG9kKHBheWxvYWQubm9uY2UpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGF3YWl0IHRoaXMucHJvcHMucGF5bWVudHNTdG9yZS51cGRhdGVQYXltZW50TWV0aG9kKHBheWxvYWQubm9uY2UpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHRoaXMucGF5bWVudFRva2VuID0gYXdhaXQgdGhpcy5yb290U3RvcmUuYXBpLnBheW1lbnRzLnVwZGF0ZVBheW1lbnRNZXRob2QoCiAgICAgIG5vbmNlLAogICAgKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG5vdW46IHN0cmluZzsK</text>
+      </register>
+      <register name="4" type="4">
         <text>{
     interval: IN
                      }</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBwdWJsaWMgcwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBwdWJsaWMgCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBAb2JzZXJ2YWJsZQogIHB1YmxpYyBicmFpbnRyZWVUb2tlbjogc3RyaW5nOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2VuKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoYW5kbGUnLCBlcnIsIHBheWxvYWQpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action $SelectAll</text>
       </register>
     </registers>
     <search>
@@ -890,10 +894,10 @@
         <entry>action ReformatCode</entry>
         <entry>action $Paste</entry>
         <entry>action Find</entry>
-        <entry>action $SelectAll</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action ImplementMethods</entry>
         <entry>action GotoFile</entry>
+        <entry>action $SelectAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
