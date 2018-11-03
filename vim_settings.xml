@@ -261,6 +261,12 @@
         <mark key="^" line="97" column="40" />
         <mark key="." line="97" column="40" />
       </file>
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/store/SubscriptionsStore.ts" timestamp="1541282936126">
+        <mark key="[" line="186" column="63" />
+        <mark key="]" line="186" column="63" />
+        <mark key="^" line="186" column="63" />
+        <mark key="." line="186" column="63" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/analytics/index.ts" timestamp="1539683244079">
         <mark key="[" line="173" column="15" />
         <mark key="]" line="173" column="19" />
@@ -400,11 +406,11 @@
         <mark key="^" line="27" column="69" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/billing/containers/BillingPlanContainer.tsx" timestamp="1541281634431">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="31" />
-        <mark key="^" line="0" column="31" />
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/billing/containers/BillingPlanContainer.tsx" timestamp="1541285110993">
+        <mark key="[" line="76" column="33" />
+        <mark key="]" line="76" column="50" />
+        <mark key="." line="76" column="50" />
+        <mark key="^" line="76" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/LandingContainer.tsx" timestamp="1540454979189">
         <mark key="[" line="4" column="0" />
@@ -645,9 +651,9 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" timestamp="1541281316449">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="91" column="35" />
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" timestamp="1541282609094">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="100" column="31" />
         <mark key="." line="78" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/_own/my-razzle/src/Home.js" timestamp="1538752067674">
@@ -790,7 +796,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="21" filename="$USER_HOME$/Documents/_own/with-typescript/src/Home.tsx" />
       <jump line="4" column="2" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/analytics/fbq.ts" />
       <jump line="39" column="6" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/index.js" />
       <jump line="52" column="10" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/index.js" />
@@ -890,49 +895,50 @@
       <jump line="19" column="73" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/videos/containers/VideosListContainer.tsx" />
       <jump line="106" column="58" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/videos/containers/VideosListContainer.tsx" />
       <jump line="27" column="38" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/videos/containers/VideosListContainer.tsx" />
+      <jump line="44" column="72" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/billing/containers/BillingPlanContainer.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">KCkgPT4ge30=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">KCkgPT4ge30=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQYXltZW50QmlsbGluZ1NlY3Rpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8VHlwb2dyYXBoeSB2YXJpYW50PSJoNiIgZ3V0dGVyQm90dG9tPXt0cnVlfT4KICAgICAgICAgIFlvdXIgcGxhbgogICAgICAgIDwvVHlwb2dyYXBoeT4K</text>
+        <text encoding="base64">ICAgIGNvbnN0IGN1cnJlbnRTdWJzY3JpcHRpb24gPSB0aGlzLnByb3BzLnN1YnNjcmlwdGlvbnNTdG9yZSEKICAgICAgLmN1cnJlbnRTdWJzY3JpcHRpb247Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWW91ciBwbGFuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8VHlwb2dyYXBoeQogICAgICAgICAgICAgICAgdmFyaWFudD0ic3VidGl0bGUyIgogICAgICAgICAgICAgICAgZ3V0dGVyQm90dG9tPXt0cnVlfQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtjbGFzc2VzLmNhbmNlbEJ1dHRvbn0KICAgICAgICAgICAgICAgIG9uQ2xpY2s9e3RoaXMuaGFuZGxlT25DbGlja0NhbmNlbFN1YnNjcmlwdGlvbn0KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICBDYW5jZWwgc3Vic2NyaXB0aW9uCiAgICAgICAgICAgICAgPC9UeXBvZ3JhcGh5Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtjdXJyZW50UGxhbi5kaXNwbGF5TmFtZX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5leHQgcGF5bWVudHsnICd9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7dGhpcy5zaG93Q2FuY2VsU3Vic2NyaXB0aW9uQnV0dG9uKCkgJiYgKCAvLyB0c2xpbnQ6ZGlzYWJsZS1saW5lCiAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e3RoaXMuaGFuZGxlT25DbGlja0NhbmNlbFN1YnNjcmlwdGlvbn0+Q2FuY2VsPC9idXR0b24+CiAgICAgICAgKX0KICAgICAgICB7dGhpcy5zaG93UmVuZXdCdXR0b24oKSAmJiAoIC8vIHRzbGludDpkaXNhYmxlLWxpbmUKICAgICAgICAgIDxidXR0b24gb25DbGljaz17dGhpcy5oYW5kbGVPbkNsaWNrUmVuZXdTdWJzY3JpcHRpb259PlJlbmV3PC9idXR0b24+CiAgICAgICAgKX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7c3Vic2NyaXB0aW9uc1N0b3JlLmlzTm90RnJlZVBsYW4gJiYgdGhpcy5yZW5kZXJDYW5jZWxTdWJzY3JpcHRpb24oKX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEdyaWQgZnJvbSAiQG1hdGVyaWFsLXVpL2NvcmUvZXMvR3JpZC9HcmlkIjsK</text>
+        <text encoding="base64">ICAgICAgICAgIGN1cnJlbnRTdWJzY3JpcHRpb24uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIFlvdXIgcGxhbgo=</text>
+        <text encoding="base64">ICAgICAgPC9SZWFjdC5GcmFnbWVudD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIFlvdXIgcGxhbgo=</text>
+        <text encoding="base64">ICAgICAgICA8RGl2aWRlciAvPgogICAgICAgIDxkaXYgc3R5bGU9e3sgbWluSGVpZ2h0OiAyNCB9fSAvPgogICAgICAgIDxHcmlkIGNvbnRhaW5lcj17dHJ1ZX0+CiAgICAgICAgICB7c3Vic2NyaXB0aW9uc1N0b3JlIS5pc05vdEZyZWVQbGFuICYmICgKICAgICAgICAgICAgPFJlYWN0LkZyYWdtZW50PgogICAgICAgICAgICAgIDxUeXBvZ3JhcGh5IHZhcmlhbnQ9InN1YnRpdGxlMiIgZ3V0dGVyQm90dG9tPXt0cnVlfT4KICAgICAgICAgICAgICAgIE5leHQgcGF5bWVudHsnICd9CiAgICAgICAgICAgICAgICB7bW9tZW50CiAgICAgICAgICAgICAgICAgIC51bml4KGN1cnJlbnRTdWJzY3JpcHRpb24udGltZVRvUmVuZXcpCiAgICAgICAgICAgICAgICAgIC5mb3JtYXQoJ01NTU0gRG8gWVlZWScpfQogICAgICAgICAgICAgIDwvVHlwb2dyYXBoeT4KICAgICAgICAgICAgICA8VHlwb2dyYXBoeQogICAgICAgICAgICAgICAgdmFyaWFudD0ic3VidGl0bGUyIgogICAgICAgICAgICAgICAgZ3V0dGVyQm90dG9tPXt0cnVlfQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtjbGFzc2VzLmNhbmNlbEJ1dHRvbn0KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICBDYW5jZWwgc3Vic2NyaXB0aW9uCiAgICAgICAgICAgICAgPC9UeXBvZ3JhcGh5PgogICAgICAgICAgICA8L1JlYWN0LkZyYWdtZW50PgogICAgICAgICAgKX0KICAgICAgICA8L0dyaWQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIFlvdXIgcGxhbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBSZW5ldwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIEFjdGl2ZSB7dGhpcy5hY3RpdmVMYWJlbENvdW50ZXIoKX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PSBjb2xvcj0ic2Vjb25kYXJ5IiBvbkNsaWNrPXsoKSA9PiB7fX0+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action $SelectAll</text>
       </register>
     </registers>
     <search>
@@ -972,8 +978,8 @@
         <entry>action Find</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action ImplementMethods</entry>
-        <entry>action $SelectAll</entry>
         <entry>action GotoFile</entry>
+        <entry>action $SelectAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
