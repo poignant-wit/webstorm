@@ -60,10 +60,6 @@
         <mark key="^" line="91" column="46" />
         <mark key="." line="91" column="45" />
       </file>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/.example.env" timestamp="1541246436688">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="79" />
-      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/AppStore.ts" timestamp="1540202322159">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="6" />
@@ -376,6 +372,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="11" column="6" />
       </file>
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/store/domain/Video.ts" timestamp="1541274845717">
+        <mark key="[" line="66" column="21" />
+        <mark key="]" line="66" column="23" />
+        <mark key="." line="66" column="23" />
+        <mark key="^" line="66" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/server.tsx" timestamp="1539711715326">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="36" column="35" />
@@ -406,16 +408,23 @@
         <mark key="." line="48" column="42" />
         <mark key="^" line="48" column="41" />
       </file>
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/videos/components/VideosList.tsx" timestamp="1541271272873">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/constants/window.ts" timestamp="1540207285644">
         <mark key="[" line="0" column="48" />
         <mark key="]" line="0" column="48" />
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/components/EventItem.tsx" timestamp="1541255507190">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/components/EventItem.tsx" timestamp="1541275926703">
+        <mark key="'" line="120" column="19" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="36" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/index.js" timestamp="1540366959449">
         <mark key="[" line="27" column="27" />
@@ -513,10 +522,11 @@
         <mark key="^" line="48" column="29" />
         <mark key="." line="48" column="29" />
       </file>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/server/middlewares/initialStateBuilderMiddleware.ts" timestamp="1541255491324">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/server/middlewares/initialStateBuilderMiddleware.ts" timestamp="1541272613416">
+        <mark key="[" line="38" column="52" />
+        <mark key="]" line="40" column="27" />
+        <mark key="." line="40" column="27" />
+        <mark key="^" line="40" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/components/App/Videos/List/Item/Actions.jsx" timestamp="1539157191101">
         <mark key="[" line="31" column="0" />
@@ -552,6 +562,12 @@
         <mark key="." line="55" column="38" />
         <mark key="^" line="55" column="38" />
       </file>
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/videos/containers/VideosListContainer.tsx" timestamp="1541277640463">
+        <mark key="[" line="92" column="23" />
+        <mark key="]" line="93" column="11" />
+        <mark key="." line="93" column="11" />
+        <mark key="^" line="93" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/package.json" timestamp="1539428767819">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="16" />
@@ -575,6 +591,12 @@
         <mark key="]" line="27" column="35" />
         <mark key="." line="27" column="35" />
         <mark key="^" line="27" column="35" />
+      </file>
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/videos/components/VideoItem.tsx" timestamp="1541277790750">
+        <mark key="[" line="78" column="43" />
+        <mark key="]" line="78" column="44" />
+        <mark key="." line="78" column="44" />
+        <mark key="^" line="78" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/common/modals/ModalRoot.tsx" timestamp="1540558569726">
         <mark key="[" line="35" column="13" />
@@ -606,10 +628,10 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" timestamp="1541257426828">
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" timestamp="1541277574951">
         <mark key="'" line="205" column="10" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="102" column="27" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="81" column="45" />
         <mark key="." line="151" column="55" />
         <mark key="^" line="151" column="55" />
       </file>
@@ -637,6 +659,7 @@
         <mark key="." line="104" column="75" />
         <mark key="^" line="104" column="61" />
       </file>
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/videos/VideosListPage.tsx" timestamp="1541271343047" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/EventModal.tsx" timestamp="1540671342339">
         <mark key="[" line="115" column="57" />
         <mark key="]" line="115" column="64" />
@@ -720,6 +743,7 @@
         <mark key="^" line="24" column="22" />
         <mark key="." line="24" column="22" />
       </file>
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/common/modals/ModalContext.tsx" timestamp="1541277069117" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/typings/index.d.ts" timestamp="1540548473575">
         <mark key="[" line="24" column="20" />
         <mark key="]" line="24" column="20" />
@@ -734,9 +758,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="13" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/components/App/Payment/PaymentPage.js" />
-      <jump line="103" column="2" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/components/App/Payment/PaymentPage.js" />
-      <jump line="0" column="11" filename="$USER_HOME$/Documents/_own/with-typescript/src/Home.tsx" />
       <jump line="8" column="0" filename="$USER_HOME$/Documents/_own/with-typescript/src/Home.tsx" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/_own/with-typescript/src/Home.tsx" />
       <jump line="11" column="8" filename="$USER_HOME$/Documents/_own/with-typescript/src/components/Header.tsx" />
@@ -834,61 +855,63 @@
       <jump line="373" column="17" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/EventModal.tsx" />
       <jump line="7" column="6" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/common/modals/ConfirmationModal.tsx" />
       <jump line="192" column="10" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
+      <jump line="7" column="5" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/videos/components/VideoItem.tsx" />
+      <jump line="52" column="54" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/videos/components/VideoItem.tsx" />
+      <jump line="121" column="19" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/components/EventItem.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Active</text>
+        <text>Loading</text>
       </register>
       <register name="-" type="4">
-        <text>Active</text>
+        <text>Loading</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVPbkNsaWNrUmVtb3ZlRXZlbnRcPg==</text>
+        <text encoding="base64">XDxNb3JlVmVydFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8R3JpZAogICAgICAgICAgICAgICAgICAgICAgY29udGFpbmVyPXt0cnVlfQogICAgICAgICAgICAgICAgICAgICAgYWxpZ25JdGVtcz0iYmFzZWxpbmUiCiAgICAgICAgICAgICAgICAgICAgICBqdXN0aWZ5PSJzcGFjZS1iZXR3ZWVuIgogICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgIDxUeXBvZ3JhcGh5IHZhcmlhbnQ9Img2IiBndXR0ZXJCb3R0b209e3RydWV9PgogICAgICAgICAgICAgICAgICAgICAgICBBY3RpdmUge3RoaXMuYWN0aXZlTGFiZWxDb3VudGVyKCl9CiAgICAgICAgICAgICAgICAgICAgICA8L1R5cG9ncmFwaHk+CiAgICAgICAgICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgICAgIHZhcmlhbnQ9ImNvbnRhaW5lZCIKICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I9InNlY29uZGFyeSIKICAgICAgICAgICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4geyAvLyB0c2xpbnQ6ZGlzYWJsZS1saW5lCiAgICAgICAgICAgICAgICAgICAgICAgICAgc2hvd01vZGFsKEV2ZW50TW9kYWwsIHRoaXMuZXZlbnRNb2RhbFByb3BzKCkpOwogICAgICAgICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICBTY2hlZHVsZSBldmVudAogICAgICAgICAgICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgICAgICAgICAgPC9HcmlkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPE9ic2VydmVyPgogICAgICAgICAgICAgIHsoKSA9PiB7IC8vIHRzbGludDpkaXNhYmxlLWxpbmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2NoZWR1bGUgZXZlbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzaG93TW9kYWwoRXZlbnRNb2RhbCwgdGhpcy5ldmVudE1vZGFsUHJvcHMoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmVhdDogZWRpdCBldmVudCBjaGFubmVscwo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IHZpZGVvLnJlbW92ZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgV2l0aFN0eWxlcyB9IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlJzsK</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuc2hvd01vZGFsKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUNoYW5uZWwgfSBmcm9tICcuLi8uLi8uLi9zdG9yZS9kb21haW4vQ2hhbm5lbHNTdG9yZSc7CmltcG9ydCB7IEV2ZW50LCBJRXZlbnQgfSBmcm9tICcuLi8uLi8uLi9zdG9yZS9kb21haW4vRXZlbnQnOwppbXBvcnQgeyBWaWRlbyB9IGZyb20gJy4uLy4uLy4uL3N0b3JlL2RvbWFpbi9WaWRlbyc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuc2hvd01vZGFsKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2aWRlb3M6IFZpZGVvW107CiAgY2hhbm5lbHM6IElDaGFubmVsW107CiAgZXZlbnQ/OiBFdmVudDsK</text>
+        <text encoding="base64">QHdpdGhNb2RhbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8R3JpZAogICAgICAgICAgICAgICAgICAgICAgY29udGFpbmVyPXt0cnVlfQogICAgICAgICAgICAgICAgICAgICAgYWxpZ25JdGVtcz0iYmFzZWxpbmUiCiAgICAgICAgICAgICAgICAgICAgICBqdXN0aWZ5PSJzcGFjZS1iZXR3ZWVuIgogICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgIDxUeXBvZ3JhcGh5IHZhcmlhbnQ9Img2IiBndXR0ZXJCb3R0b209e3RydWV9PgogICAgICAgICAgICAgICAgICAgICAgICBIaXN0b3J5CiAgICAgICAgICAgICAgICAgICAgICA8L1R5cG9ncmFwaHk+CiAgICAgICAgICAgICAgICAgICAgPC9HcmlkPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5oYW5kbGVPbkNsaWNrUmVtb3ZlRXZlbnQK</text>
+        <text encoding="base64">ICByZXR1cm4gPE1vZGFsQ29uc3VtZXI+CiAgICAoe3Nob3dNb2RhbH0pID0+IHsKICAgcmV0dXJuIDxXaXRoTW9kYWwvPgogIH0KICA8L01vZGFsQ29uc3VtZXI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zdCBXaXRoTW9kYWwgPSBjb21wb25lbnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVPbkNsaWNrUmVtb3ZlRXZlbnRcPg==</last-search>
+      <last-search encoding="base64">XDxNb3JlVmVydFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVPbkNsaWNrUmVtb3ZlRXZlbnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxNb3JlVmVydFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>location</entry>
         <entry encoding="base64">XDxwYXRobmFtZVw+</entry>
         <entry encoding="base64">XDxMaW5rXD4=</entry>
         <entry encoding="base64">XDxkb3dubG9hZFw+</entry>
@@ -908,6 +931,7 @@
         <entry encoding="base64">XDxvblN1Ym1pdFw+</entry>
         <entry encoding="base64">XDxzZWxlY3RlZENoYW5uZWxzXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVPbkNsaWNrUmVtb3ZlRXZlbnRcPg==</entry>
+        <entry encoding="base64">XDxNb3JlVmVydFw+</entry>
       </history-search>
       <history-cmd>
         <entry>action Vcs.UpdateProject</entry>
