@@ -101,11 +101,11 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/billing/containers/BillingPaymentContainer.tsx" timestamp="1541336805479">
-        <mark key="[" line="156" column="60" />
-        <mark key="]" line="156" column="65" />
-        <mark key="." line="156" column="65" />
-        <mark key="^" line="156" column="65" />
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/billing/containers/BillingPaymentContainer.tsx" timestamp="1541342515079">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="59" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="63" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/components/Layout/Header/Header.js" timestamp="1539946873054">
         <mark key="[" line="22" column="6" />
@@ -657,11 +657,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="68" column="67" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541293396511">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="24" />
-        <mark key="^" line="0" column="24" />
-        <mark key="." line="0" column="24" />
+      <file name="/Dummy.txt" timestamp="1541343188355">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/components/App/Billing/BillingPageContainer.js" timestamp="1539853312451">
         <mark key="[" line="102" column="35" />
@@ -747,11 +747,11 @@
         <mark key="." line="27" column="28" />
         <mark key="^" line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/store/PaymentsStore.ts" timestamp="1541292026778">
-        <mark key="[" line="59" column="55" />
-        <mark key="]" line="59" column="55" />
-        <mark key="." line="59" column="55" />
-        <mark key="^" line="59" column="55" />
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/store/PaymentsStore.ts" timestamp="1541342604517">
+        <mark key="[" line="65" column="19" />
+        <mark key="]" line="65" column="22" />
+        <mark key="^" line="65" column="22" />
+        <mark key="." line="65" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/controllers/spaController.tsx" timestamp="1540892503576">
         <mark key="[" line="25" column="0" />
@@ -869,46 +869,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>async</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>async</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCcmFpbnRyZWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYnJhaW50cmVlQ29udGFpbmVyID0gUmVhY3QuY3JlYXRlUmVmPEhUTUxEaXZFbGVtZW50PigpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5sb2FkaW5nID0gZmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRoaXMuYnJhaW50cmVlUmVmLmN1cnJlbnQuc3VibWl0KHRoaXMuaGFuZGxlUmVxdWVzdFBheW1lbnRNZXRob2QpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBheWxvYWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGJyYWludHJlZVJlZiA9IGNyZWF0ZQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wYXltZW50TWV0aG9kRGF0YSA9IGRlZmF1bHRQYXltZW50TWV0aG9kRGF0YTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbml0aWFsU3RhdGVCdWlsZGVyTWlkZGxld2FyZShEQVRBLlZJREVPUyksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbml0aWFsU3RhdGVCdWlsZGVyTWlkZGxld2FyZShEQVRBLlZJREVPUyksCg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRoaXMuYnJhaW50cmVlUmVmLmN1cnJlbnQuc3VibWl0KHRoaXMuaGFuZGxlUmVxdWVzdFBheW1lbnRNZXRob2QpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGV4dDoK</text>
+        <text encoding="base64">ICBwcml2YXRlIGJyYWludHJlZVJlZiA9IGNyZWF0ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExldCBHb29nbGUgaGVscCBhcHBzIGRldGVybWluZSBsb2NhdGlvbi4gVGhpcyBtZWFucyBzZW5kaW5nCiAgICAgICAgICAgICAgICBhbm9ueW1vdXMgbG9jYXRpb24gZGF0YSB0byBHb29nbGUsIGV2ZW4gd2hlbiBubyBhcHBzIGFyZSBydW5uaW5nLgo=</text>
+        <text encoding="base64">ICBpbml0aWFsU3RhdGVCdWlsZGVyTWlkZGxld2FyZShEQVRBLlZJREVPUyksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxEaWFsb2dDb250ZW50VGV4dCBpZD0iYWxlcnQtZGlhbG9nLWRlc2NyaXB0aW9uIj4KICAgICAgICAgIExldCBHb29nbGUgaGVscCBhcHBzIGRldGVybWluZSBsb2NhdGlvbi4gVGhpcyBtZWFucyBzZW5kaW5nCiAgICAgICAgICBhbm9ueW1vdXMgbG9jYXRpb24gZGF0YSB0byBHb29nbGUsIGV2ZW4gd2hlbiBubyBhcHBzIGFyZSBydW5uaW5nLgogICAgICAgICAgPC9EaWFsb2dDb250ZW50VGV4dD4K</text>
+        <text encoding="base64">ICBpbml0aWFsU3RhdGVCdWlsZGVyTWlkZGxld2FyZShEQVRBLlZJREVPUyksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGV4dDoK</text>
       </register>
       <register name=":" type="4">
-        <text>action ImplementMethods</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -947,9 +947,9 @@
         <entry>action $Paste</entry>
         <entry>action Find</entry>
         <entry>action $SelectAll</entry>
-        <entry>action GotoFile</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action ImplementMethods</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
