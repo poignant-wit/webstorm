@@ -60,11 +60,12 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/store/RootStore.ts" timestamp="1541287743927">
-        <mark key="[" line="80" column="47" />
-        <mark key="]" line="80" column="74" />
-        <mark key="^" line="80" column="74" />
-        <mark key="." line="80" column="74" />
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/store/RootStore.ts" timestamp="1541344655232">
+        <mark key="'" line="45" column="36" />
+        <mark key="[" line="87" column="76" />
+        <mark key="]" line="87" column="76" />
+        <mark key="^" line="87" column="76" />
+        <mark key="." line="87" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/docker/scheduler-website-frontend/config/config.development.json" timestamp="1539603496567">
         <mark key="[" line="14" column="0" />
@@ -154,6 +155,12 @@
         <mark key="]" line="13" column="27" />
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
+      </file>
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/api/index.ts" timestamp="1541344740138">
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+        <mark key="^" line="17" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/config/config.production.json" timestamp="1540910483387">
         <mark key="[" line="12" column="0" />
@@ -421,6 +428,12 @@
         <mark key="." line="161" column="31" />
         <mark key="^" line="160" column="63" />
       </file>
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/billing/containers/BillingExtraInfoContainer.tsx" timestamp="1541344088375">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/analitycs/index.ts" timestamp="1538666654226">
         <mark key="[" line="48" column="41" />
         <mark key="]" line="48" column="42" />
@@ -523,11 +536,11 @@
         <mark key="^" line="48" column="29" />
         <mark key="." line="48" column="29" />
       </file>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/server/middlewares/initialStateBuilderMiddleware.ts" timestamp="1541292981573">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="76" column="12" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="91" column="27" />
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/server/middlewares/initialStateBuilderMiddleware.ts" timestamp="1541344795525">
+        <mark key="[" line="57" column="60" />
+        <mark key="]" line="58" column="30" />
+        <mark key="." line="58" column="30" />
+        <mark key="^" line="58" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/components/App/Videos/List/Item/Actions.jsx" timestamp="1539157191101">
         <mark key="[" line="31" column="0" />
@@ -758,16 +771,14 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/billing/BillingPage.tsx" timestamp="1541281556921">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="12" column="21" />
-        <mark key="." line="11" column="19" />
-        <mark key="^" line="11" column="19" />
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/billing/BillingPage.tsx" timestamp="1541344102320">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="22" column="35" />
+        <mark key="." line="22" column="35" />
+        <mark key="^" line="22" column="35" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="10" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/index.js" />
-      <jump line="60" column="8" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/index.js" />
       <jump line="75" column="16" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/index.js" />
       <jump line="78" column="4" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/index.js" />
       <jump line="75" column="11" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/components/Layout/Header/UserMenu.js" />
@@ -866,46 +877,48 @@
       <jump line="44" column="72" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/billing/containers/BillingPlanContainer.tsx" />
       <jump line="75" column="11" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/billing/containers/BillingPlanContainer.tsx" />
       <jump line="6" column="40" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/billing/containers/BillingPaymentContainer.tsx" />
+      <jump line="79" column="34" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/store/RootStore.ts" />
+      <jump line="42" column="36" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/store/RootStore.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCcmFpbnRyZWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5sb2FkaW5nID0gZmFsc2UK</text>
+        <text encoding="base64">ICBwdWJsaWMgcGF5bWVudHM6IFBheW1lbnRzID0gcGF5bWVudHM7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBheWxvYWQpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wYXltZW50TWV0aG9kRGF0YSA9IGRlZmF1bHRQYXltZW50TWV0aG9kRGF0YTsK</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihyb290U3RvcmU6IFJvb3RTdG9yZSwgaW5pdGlhbFN0YXRlOiBJSW52b2ljZXNTdG9yZUluaXRpYWxTdGF0ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRoaXMuYnJhaW50cmVlUmVmLmN1cnJlbnQuc3VibWl0KHRoaXMuaGFuZGxlUmVxdWVzdFBheW1lbnRNZXRob2QpOwo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQmlsbGluZ0V4dHJhSW5mb0NvbnRhaW5lcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGJyYWludHJlZVJlZiA9IGNyZWF0ZQo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQmlsbGluZ0V4dHJhSW5mb0NvbnRhaW5lcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbml0aWFsU3RhdGVCdWlsZGVyTWlkZGxld2FyZShEQVRBLlZJREVPUyksCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbml0aWFsU3RhdGVCdWlsZGVyTWlkZGxld2FyZShEQVRBLlZJREVPUyksCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBheWxvYWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGV4dDoK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wYXltZW50TWV0aG9kRGF0YSA9IGRlZmF1bHRQYXltZW50TWV0aG9kRGF0YTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
