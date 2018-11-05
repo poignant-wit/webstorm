@@ -193,9 +193,9 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventItem.tsx" timestamp="1541425070701">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventItem.tsx" timestamp="1541431067229">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="97" column="4" />
         <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/.gitignore" timestamp="1539430951970">
@@ -303,9 +303,6 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/components/App/Billing/BillingPage.js" timestamp="1541412387370">
-        <mark key="'" line="11" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/middlewares/authMiddleware.ts" timestamp="1540557954717">
         <mark key="[" line="22" column="0" />
@@ -801,6 +798,12 @@
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/videos/components/VideoItem.tsx" timestamp="1541431133437">
+        <mark key="[" line="128" column="30" />
+        <mark key="]" line="128" column="57" />
+        <mark key="." line="128" column="57" />
+        <mark key="^" line="128" column="57" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/common/platforms/index.ts" timestamp="1541191692912">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
@@ -979,7 +982,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2h3Y2tpamknKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgcmVuZGVyT3ZlcmxheSA9ICgpID0+IHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYKICAgICAgICBzdHlsZT17ewogICAgICAgICAgcG9zaXRpb246ICdhYnNvbHV0ZScsCiAgICAgICAgICBiYWNrZ3JvdW5kOiAnI2U0ZTRlNGIwJywKICAgICAgICAgIHdpZHRoOiAnMTAwJScsCiAgICAgICAgICBoZWlnaHQ6ICcxMDAlJywKICAgICAgICAgIHRvcDogMCwKICAgICAgICAgIGxlZnQ6IDAsCiAgICAgICAgICB6SW5kZXg6IDEwMCwKICAgICAgICAgIGRpc3BsYXk6ICdmbGV4JywKICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICAgIH19CiAgICAgID4KICAgICAgICA8Q2lyY3VsYXJQcm9ncmVzcyAvPgogICAgICA8L2Rpdj4KICAgICk7CiAgfTsK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -987,8 +990,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxJbnZvaWNlc0JpbGxpbmdTZWN0aW9uXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>wrappedInstance</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwdWJsaWMgcmVuZGVyT3ZlcmxheSA9ICgpID0+IHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYKICAgICAgICBzdHlsZT17ewogICAgICAgICAgcG9zaXRpb246ICdhYnNvbHV0ZScsCiAgICAgICAgICBiYWNrZ3JvdW5kOiAnI2U0ZTRlNGIwJywKICAgICAgICAgIHdpZHRoOiAnMTAwJScsCiAgICAgICAgICBoZWlnaHQ6ICcxMDAlJywKICAgICAgICAgIHRvcDogMCwKICAgICAgICAgIGxlZnQ6IDAsCiAgICAgICAgICB6SW5kZXg6IDEwMCwKICAgICAgICAgIGRpc3BsYXk6ICdmbGV4JywKICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICAgIH19CiAgICAgID4KICAgICAgICA8Q2lyY3VsYXJQcm9ncmVzcyAvPgogICAgICA8L2Rpdj4KICAgICk7CiAgfTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2h3Y2tpamknKTsK</text>
