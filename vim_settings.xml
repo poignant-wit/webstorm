@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/landing/subscriptions/LandingSubscriptions.tsx" timestamp="1541356302741" />
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/components/App/Videos/Uploader/ExceededLimit/index.jsx" timestamp="1539000383794">
         <mark key="[" line="28" column="41" />
         <mark key="]" line="28" column="59" />
@@ -15,6 +14,11 @@
         <mark key="]" line="18" column="21" />
         <mark key="." line="18" column="21" />
         <mark key="^" line="9" column="6" />
+      </file>
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/store/domain/Event.ts" timestamp="1541537639811">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/common/Header.tsx" timestamp="1540458427296">
         <mark key="[" line="2" column="19" />
@@ -394,7 +398,13 @@
         <mark key="." line="26" column="30" />
         <mark key="^" line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/EventModal.tsx" timestamp="1541350491744" />
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/EventModal.tsx" timestamp="1541537896648">
+        <mark key="'" line="131" column="52" />
+        <mark key="[" line="193" column="2" />
+        <mark key="]" line="193" column="9" />
+        <mark key="^" line="193" column="9" />
+        <mark key="." line="193" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/LandingContainer.tsx" timestamp="1540454979189">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -443,6 +453,12 @@
         <mark key="]" line="48" column="42" />
         <mark key="." line="48" column="42" />
         <mark key="^" line="48" column="41" />
+      </file>
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/HeaderContainer.tsx" timestamp="1541538326658">
+        <mark key="[" line="172" column="24" />
+        <mark key="]" line="172" column="25" />
+        <mark key="." line="172" column="25" />
+        <mark key="^" line="172" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/constants/window.ts" timestamp="1540207285644">
         <mark key="[" line="0" column="48" />
@@ -522,6 +538,12 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/billing/containers/BillingInvoicesContainer.tsx" timestamp="1541538031180">
+        <mark key="[" line="65" column="25" />
+        <mark key="]" line="65" column="30" />
+        <mark key="^" line="65" column="30" />
+        <mark key="." line="65" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/components/App/Playlists/NewPlaylist.tsx" timestamp="1539851740075">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -569,6 +591,12 @@
         <mark key="." line="6" column="29" />
         <mark key="^" line="6" column="29" />
       </file>
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/store/domain/ChannelsStore.ts" timestamp="1541537621897">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/client/socket/index.ts" timestamp="1540543752530">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -582,7 +610,6 @@
         <mark key="." line="30" column="65" />
       </file>
       <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/videos/containers/VideosListContainer.tsx" timestamp="1541363978759">
-        <mark key="'" line="45" column="13" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="59" />
         <mark key="." line="3" column="56" />
@@ -776,7 +803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="12" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/components/Layout/Header/Navigation.js" />
       <jump line="1" column="9" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/components/Layout/Header/UserMenu.js" />
       <jump line="62" column="4" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/components/App/Billing/BillingPage.js" />
       <jump line="3" column="7" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/components/App/Billing/BillingPage.js" />
@@ -876,61 +902,61 @@
       <jump line="17" column="27" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/payment/PaymentContainer.tsx" />
       <jump line="46" column="23" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/videos/containers/VideosListContainer.tsx" />
       <jump line="45" column="13" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/videos/containers/VideosListContainer.tsx" />
+      <jump line="400" column="52" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/EventModal.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaXNJZExvY2FsIH0gZnJvbSAnLi4vLi4vLi4vdXRpbHMvbG9jYWxJZCc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDbG91ZFVwbG9hZFw+</text>
+        <text encoding="base64">XDxpc0NoYW5uZWxzRXJyb3JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICBDbG91ZFVwbG9hZCAgZnJvbSAnQG1hdGVyaWFsLXVpL2ljb25zL0Nsb3VkVXBsb2FkJzsK</text>
+        <text encoding="base64">ICBpZDogbnVtYmVyOwogIHN0cmVhbWluZ1BsYXRmb3JtSWQ6IG51bWJlcjsKICBkaXNwbGF5TmFtZTogc3RyaW5nOwogIGVuYWJsZWQ6IGJvb2xlYW47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaXNJZExvY2FsIH0gZnJvbSAnLi4vLi4vLi4vdXRpbHMvbG9jYWxJZCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuY2hhbm5lbHMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxCaWxsaW5nQmxvY2s+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0c2xpbnQ6ZGlzYWJsZS1saW5lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdHJlYW1pCiAgZW5hYmxlZDogYm9vbGVhbjsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUeXBvZ3JhcGh5IHZhcmlhbnQ9Img1IiBhbGlnbj0iY2VudGVyIj4KICAgICAgICAgICAgJHt0aGlzLmdldFByaWNlKCl9CiAgICAgICAgICA8L1R5cG9ncmFwaHk+Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ID0+IHsKICAgICAgICAgIGlmIChjLmVuYWJsZWQpIHsKICAgICAgICAgICAgcmV0dXJuIFsuLi5hY2MsIGMuc3RyZWFtaW5nUGxhdGZvcm1JZF07CiAgICAgICAgICB9CiAgICAgICAgICByZXR1cm4gYWNjOwogICAgICAgIH0sIFtd</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGMuc3RyZWFtaW5nUGxhdGZvcm1JZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgaXNJZExvY2FsIH0gZnJvbSAnLi4vLi4vLi4vdXRpbHMvbG9jYWxJZCc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8c3Ryb25nPkJZIENMSUNLSU5HIFNVQlNDUklCRSwgWU9VIEFHUkVFIFRIQVQ6PC9zdHJvbmc+Cg==</text>
+        <text encoding="base64">aQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7aXNTcGVjaWFsT2ZmZXJBY3RpdmUgJiYKICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9e2NuKGNsYXNzZXMucnVsZXNfX3NlY3Rpb24sIGNsYXNzZXMub2ZmT25seUZpcnN0KX0+CiAgICAgICAgICAgICAgICAgIFNhbGUgNTAlIE9mZiBkaXNjb3VudCBpcyB2YWxpZCBmb3IgdGhlIGZpcnN0IHBheW1lbnQgb25seS4KICAgICAgICAgICAgICA8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxCaWxsaW5nQmxvY2s+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDbG91ZFVwbG9hZFw+</last-search>
+      <last-search encoding="base64">XDxpc0NoYW5uZWxzRXJyb3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDbG91ZFVwbG9hZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxpc0NoYW5uZWxzRXJyb3JcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcGlVcmxcPg==</entry>
         <entry encoding="base64">XDxsb2dVcGxvYWRGaWxlRXZlbnRcPg==</entry>
         <entry encoding="base64">XDxsb2dpblw+</entry>
         <entry encoding="base64">XDxwbGFuSW50ZXJ2YWxcPg==</entry>
@@ -950,6 +976,7 @@
         <entry>added</entry>
         <entry>bgPrice</entry>
         <entry encoding="base64">XDxDbG91ZFVwbG9hZFw+</entry>
+        <entry encoding="base64">XDxpc0NoYW5uZWxzRXJyb3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action Vcs.UpdateProject</entry>
@@ -994,6 +1021,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
