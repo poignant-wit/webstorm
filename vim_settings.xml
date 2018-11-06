@@ -1028,7 +1028,7 @@
         <text encoding="base64">ICAgICAgdGhpcy5icmFpbnRyZWVSZWYuY3VycmVudC53cmFwcGVkSW5zdGFuY2Uuc3VibWl0KAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1066,10 +1066,10 @@
         <entry>action $Paste</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action ImplementMethods</entry>
-        <entry>action ReformatCode</entry>
         <entry>action Find</entry>
         <entry>action $SelectAll</entry>
         <entry>action GotoFile</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
