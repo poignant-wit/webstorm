@@ -679,11 +679,11 @@
         <mark key="^" line="24" column="22" />
         <mark key="." line="24" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541519083418">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1541524756241">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/upgrade/UpgradePage.tsx" timestamp="1541492014583">
         <mark key="[" line="11" column="0" />
@@ -922,10 +922,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>errorReporter</text>
+        <text>start error handling</text>
       </register>
       <register name="-" type="4">
-        <text>errorReporter</text>
+        <text>start error handling</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhdGlvblw+</text>
@@ -934,28 +934,28 @@
         <text encoding="base64">Y29uc3QgeyBTRU5UUllfRFNOIH0gPSBjb25maWcoKTsKCgplcnJvcnMuaW5pdCh7IGRzbjogU0VOVFJZX0RTTiB9KTsKZXJyb3JzLmNhcHR1cmVFeGNlcHRpb24oRXJyb3IoJ0hFTExPIEVSUk9SJykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coU2VudHJ5KTsK</text>
+        <text encoding="base64">Zml4OiBldmVudCBjaGFubmVscyBlZGl0aW5nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0RXJyb3JSZXBvcnRlciB9IGZyb20gJy4vZXJyb3JzJzsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coU2VudHJ5KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGVycm9yUmVwb3J0ZXIgPSBnZXRFcnJvclJlcG9ydGVyKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0RXJyb3JSZXBvcnRlciB9IGZyb20gJy4vZXJyb3JzJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGVycm9yUmVwb3J0ZXIgPSBnZXRFcnJvclJlcG9ydGVyKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaW5pdEVycm9yUmVwb3J0ZXIgfSBmcm9tICcuLi9yZXBvcnRlcnMvZXJyb3JzJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2hlbiB9IGZyb20gJ21vYngnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgaW5pdEVycm9yUmVwb3J0ZXIgfSBmcm9tICcuLi9yZXBvcnRlcnMvZXJyb3JzJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZXJyb3JzIH0gZnJvbSAnLi4vcmVwb3J0ZXJzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgd2hlbiB9IGZyb20gJ21vYngnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZXJyb3JzIH0gZnJvbSAnLi4vcmVwb3J0ZXJzJzsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
