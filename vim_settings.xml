@@ -104,6 +104,7 @@
         <mark key="." line="96" column="24" />
         <mark key="^" line="96" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/security.js" timestamp="1541689869885" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/billing/containers/BillingExtraInfoContainer.tsx" timestamp="1541686692243">
         <mark key="'" line="167" column="11" />
         <mark key="[" line="200" column="0" />
@@ -145,16 +146,14 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="44" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/index.js" timestamp="1541689815162">
+        <mark key="'" line="15" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/middlewares/initialStateBuilderMiddleware.ts" timestamp="1541682281564">
         <mark key="[" line="32" column="26" />
         <mark key="]" line="32" column="26" />
         <mark key="." line="32" column="26" />
         <mark key="^" line="32" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/Event.ts" timestamp="1541668334417">
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/config.ts" timestamp="1541593205735">
         <mark key="[" line="8" column="2" />
@@ -265,6 +264,9 @@
         <mark key="." line="116" column="18" />
         <mark key="^" line="116" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/utils/utmData.ts" timestamp="1541689903339">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/client/socket/index.ts" timestamp="1541514304413">
         <mark key="[" line="38" column="43" />
         <mark key="]" line="38" column="45" />
@@ -297,7 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="13" filename="$USER_HOME$/Documents/_own/with-typescript/README.md" />
       <jump line="2" column="9" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/EventsStore.ts" />
       <jump line="43" column="38" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/EventsStore.ts" />
       <jump line="69" column="13" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/EventsStore.ts" />
@@ -397,16 +398,17 @@
       <jump line="136" column="22" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/Event.ts" />
       <jump line="111" column="34" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/videos/components/VideoItem.tsx" />
       <jump line="167" column="11" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/billing/containers/BillingExtraInfoContainer.tsx" />
+      <jump line="15" column="9" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Zml4OiByZW1vdmUgdW5uZWNlc3NhcnkgQVBJIHJlcXVlc3Qgb24gc2VydmVyCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>getVatId</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYXJkTWVkaWFTdGF0dXNDb250ZW50XD4=</text>
+        <text encoding="base64">XDxzYXZlVVRNRGF0YVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIGdldFZhdElkID0gKCkgPT4gewogICAgcmV0dXJuIHRoaXMuc3RhdGUudmF0SWQKICAgICAgPyB0aGlzLnN0YXRlLnZhdElkCiAgICAgIDogdGhpcy5wcm9wcy5pbnZvaWNlc1N0b3JlIS5leHRyYUluZm8udmF0SWQ7CiAgfTsK</text>
@@ -443,15 +445,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYXJkTWVkaWFTdGF0dXNDb250ZW50XD4=</last-search>
+      <last-search encoding="base64">XDxzYXZlVVRNRGF0YVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYXJkTWVkaWFTdGF0dXNDb250ZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzYXZlVVRNRGF0YVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkcm9waW5cPg==</entry>
         <entry encoding="base64">XDxCcmFpblRyZWVcPg==</entry>
         <entry encoding="base64">XDxIZWFkZXJDb250YWluZXJcPg==</entry>
         <entry encoding="base64">XDxpc0VkaXRcPg==</entry>
@@ -471,6 +472,7 @@
         <entry encoding="base64">XDxsb2dDcmVhdGVFdmVudFw+</entry>
         <entry encoding="base64">XDxVcGdyYWRlUGxhbk1vZGFsXD4=</entry>
         <entry encoding="base64">XDxjYXJkTWVkaWFTdGF0dXNDb250ZW50XD4=</entry>
+        <entry encoding="base64">XDxzYXZlVVRNRGF0YVw+</entry>
       </history-search>
       <history-cmd>
         <entry>action Vcs.UpdateProject</entry>
