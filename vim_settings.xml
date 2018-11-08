@@ -176,11 +176,11 @@
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/index.js" timestamp="1541689815162">
         <mark key="'" line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/middlewares/initialStateBuilderMiddleware.ts" timestamp="1541695496951">
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/middlewares/initialStateBuilderMiddleware.ts" timestamp="1541698497977">
         <mark key="'" line="90" column="8" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="35" />
+        <mark key="." line="108" column="0" />
         <mark key="^" line="32" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/upgrade/components/UpgradeListItem.tsx" timestamp="1541496205476">
@@ -244,10 +244,10 @@
         <mark key="." line="74" column="46" />
         <mark key="^" line="74" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541696466174">
+      <file name="/Dummy.txt" timestamp="1541698189517">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="24" />
+        <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/upgrade/UpgradePage.tsx" timestamp="1541492014583">
@@ -306,12 +306,12 @@
         <mark key="." line="116" column="18" />
         <mark key="^" line="116" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/controllers/authController.ts" timestamp="1541695461150">
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/controllers/authController.ts" timestamp="1541698534290">
         <mark key="'" line="54" column="34" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="54" column="34" />
-        <mark key="^" line="54" column="34" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="39" column="11" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="58" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/index.ts" timestamp="1541690762537">
         <mark key="[" line="21" column="32" />
@@ -457,10 +457,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogY2F0Y2ggc2VydmVyIGVycm9ycwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB1dG1EYXRhID0gY29va2llc1NlcnZpY2UuZ2V0Q29va2llKENPT0tJRVMuVVRNX0RBVEEpOwogICAgICAgIGlmICh1dG1EYXRhKSB7CiAgICAgICAgICAvLyBhd2FpdCBhcGkuYW5hbHl0aWNzLnNhdmVVdG1EYXRhKHV0bURhdGEpOwogICAgICAgICAgY29va2llc1NlcnZpY2UucmVtb3ZlQ29va2llKENPT0tJRVMuVVRNX0RBVEEpOwogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>OAUTH_STATE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWRlb19pZHNcPg==</text>
@@ -469,31 +469,31 @@
         <text encoding="base64">ICAgICAgICBTZW50cnkuY2FwdHVyZUV4Y2VwdGlvbihlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogY2F0Y2ggc2VydmVyIGVycm9ycwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB1dG1EYXRhID0gY29va2llc1NlcnZpY2UuZ2V0Q29va2llKENPT0tJRVMuVVRNX0RBVEEpOwogICAgICAgIGlmICh1dG1EYXRhKSB7CiAgICAgICAgICAvLyBhd2FpdCBhcGkuYW5hbHl0aWNzLnNhdmVVdG1EYXRhKHV0bURhdGEpOwogICAgICAgICAgY29va2llc1NlcnZpY2UucmVtb3ZlQ29va2llKENPT0tJRVMuVVRNX0RBVEEpOwogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmVhdDogc2F2ZSB1dG1iIGRhdGEK</text>
+        <text encoding="base64">ICAgICAgY29va2llc1NlcnZpY2UucmVtb3ZlQ29va2llKENPT0tJRVMuVVRNX0RBVEEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29uZmlnIH0gZnJvbSAnLi4vLi4vY29uZmlnJzsK</text>
+        <text encoding="base64">Zml4OiByZW5hbWUgZXZlbnQgdmlkZW9JZHMgdG8gdmlkZW9zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmVhdDogY2F0Y2ggc2VydmVyIGVycm9ycwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zml4OiBwYXlwYWwgcGF5bWVudCBtZXRob2QgZGF0YSB2aWV3Cg==</text>
+        <text encoding="base64">ZmVhdDogc2F2ZSB1dG1iIGRhdGEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1dG1EYXRhKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgY29uZmlnIH0gZnJvbSAnLi4vLi4vY29uZmlnJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHJlcXVlc3QoKS5wb3N0KCcvdXRtRGF0YScsIGRhdGEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh3aW5kb3cubG9jYXRpb24pOwo=</text>
+        <text encoding="base64">Zml4OiBwYXlwYWwgcGF5bWVudCBtZXRob2QgZGF0YSB2aWV3Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2F2ZVV0bSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1dG1EYXRhKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
