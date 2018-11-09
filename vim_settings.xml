@@ -87,10 +87,11 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" timestamp="1541758785937">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" timestamp="1541763828979">
+        <mark key="[" line="111" column="26" />
+        <mark key="]" line="112" column="19" />
+        <mark key="." line="112" column="19" />
+        <mark key="^" line="112" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/reporters/index.ts" timestamp="1541523450447">
         <mark key="[" line="0" column="0" />
@@ -136,16 +137,6 @@
         <mark key="]" line="281" column="62" />
         <mark key="." line="281" column="62" />
         <mark key="^" line="281" column="62" />
-      </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/reporters/analytics/tagmanager.js" timestamp="1541585218285">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/reporters/analytics/AnalyticsReporter.tsx" timestamp="1541604120142">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/RoutingStore.ts" timestamp="1541601421070">
         <mark key="[" line="8" column="30" />
@@ -227,11 +218,6 @@
         <mark key="]" line="13" column="21" />
         <mark key="." line="9" column="31" />
         <mark key="^" line="9" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/common/Braintree.tsx" timestamp="1541511513169">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/.env" timestamp="1541596281916">
         <mark key="[" line="6" column="0" />
@@ -466,10 +452,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgIC8vIHBvc2l0aW9uOiAnYWJzb2x1dGUnLAogICAgICAgICAgICB0b3A6ICc1MCUnLAogICAgICAgICAgICBsZWZ0OiAnNTAlJywKICAgICAgICAgIH19Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Grid</text>
+        <text>div</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWRlb19pZHNcPg==</text>
@@ -478,32 +464,31 @@
         <text encoding="base64">ICAgICAgICAgIGNvbnRhaW5lcj17dHJ1ZX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgIC8vIHBvc2l0aW9uOiAnYWJzb2x1dGUnLAogICAgICAgICAgICB0b3A6ICc1MCUnLAogICAgICAgICAgICBsZWZ0OiAnNTAlJywKICAgICAgICAgIH19Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxDaXJjdWxhclByb2dyZXNzIC8+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGp1c3RpZnk9ImNlbnRlciIKICAgICAgICAgIGFsaWduSXRlbXM9ImNlbnRlciIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnRhaW5lcj17dHJ1ZX0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGl0ZW09e3RydWV9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYKICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICBtaW5IZWlnaHQ6ICcxMDAlJywKICAgICAgICAgICAgICB3aWR0aDogJzEwMCUnLAogICAgICAgICAgICAgIGhlaWdodDogJzEwMCUnIC8qIE5FVyAqLywKICAgICAgICAgICAgfX0KICAgICAgICAgID4K</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxDaXJjdWxhclByb2dyZXNzIC8+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGp1c3RpZnk9ImNlbnRlciIKICAgICAgICAgIGFsaWduSXRlbXM9ImNlbnRlciIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnRhaW5lcj17dHJ1ZX0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIGl0ZW09e3RydWV9Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
