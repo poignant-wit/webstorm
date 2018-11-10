@@ -168,10 +168,11 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/EventsPageViewModel.tsx" timestamp="1541800778268">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/EventsPageViewModel.tsx" timestamp="1541801774302">
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="20" column="10" />
+        <mark key="." line="20" column="10" />
+        <mark key="^" line="20" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/App.tsx" timestamp="1541585781389">
         <mark key="[" line="33" column="8" />
@@ -347,11 +348,11 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/EventsStore.ts" timestamp="1541596923974">
-        <mark key="[" line="61" column="25" />
-        <mark key="]" line="61" column="29" />
-        <mark key="^" line="61" column="29" />
-        <mark key="." line="61" column="29" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/EventsStore.ts" timestamp="1541801736413">
+        <mark key="[" line="122" column="32" />
+        <mark key="]" line="122" column="34" />
+        <mark key="^" line="122" column="34" />
+        <mark key="." line="122" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/common/providers/ModalRoot.tsx" timestamp="1541771052207">
         <mark key="'" line="10" column="48" />
@@ -475,11 +476,11 @@
       <jump line="15" column="2" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsList.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgZGVzY2VudFNvcnQK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYW5DcmVhdGVFdmVudFw+</text>
@@ -488,31 +489,31 @@
         <text encoding="base64">ICBwcml2YXRlIGhhbmRsZU9uQ2xpY2tDYW5jZWxFdmVudCgpIHsKICAgIGNvbnNvbGUubG9nKCdoYW5kbGUnKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgZGVzY2VudFNvcnQK</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuZXZlbnRzU3RvcmUuY3JlYXRlRXZlbnQoKQogICAgdGhpcy5wcm9wcy5zaG93TW9kYWwoRXZlbnRNb2RhbCwge30pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gbG9nKHRhcmdldCwga2V5LCBkZXNjcmlwdG9yKSB7CiAgY29uc29sZS5sb2coJ3Rlc3QnKTsKICByZXR1cm4gZGVzY3JpcHRvcjsKfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoYW5kbGUhIScsIHRoaXMucHJvcHMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHdpdGhNb2RhbAo=</text>
+        <text encoding="base64">Y29uc3QgZGVzY2VudFNvcnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPENvbXBvbmVudCB7Li4ucHJvcHN9IC8+Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gbG9nKHRhcmdldCwga2V5LCBkZXNjcmlwdG9yKSB7CiAgY29uc29sZS5sb2coJ3Rlc3QnKTsKICByZXR1cm4gZGVzY3JpcHRvcjsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAbG9nCg==</text>
+        <text encoding="base64">QHdpdGhNb2RhbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gZnVuY3Rpb24oKXsKICAgIGNvbnNvbGUubG9nKGAke2tleX0gd2FzIGNhbGxlZCFgKTsKICAgIHJldHVybiBkZXNjcmlwdG9yOwogIH0K</text>
+        <text encoding="base64">ICAgICAgPENvbXBvbmVudCB7Li4ucHJvcHN9IC8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGAke2tleX0gd2FzIGNhbGxlZCFgKTsK</text>
+        <text encoding="base64">ICBAbG9nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gZnVuY3Rpb24oKXsKICAgIGNvbnNvbGUubG9nKGAke2tleX0gd2FzIGNhbGxlZCFgKTsKICAgIHJldHVybiBkZXNjcmlwdG9yOwogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhgJHtrZXl9IHdhcyBjYWxsZWQhYCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGAke2tleX0gd2FzIGNhbGxlZCFgKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
