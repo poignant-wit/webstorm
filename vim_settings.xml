@@ -159,11 +159,10 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/Playlist.ts" timestamp="1542121618773">
-        <mark key="[" line="43" column="31" />
-        <mark key="]" line="43" column="38" />
-        <mark key="." line="43" column="38" />
-        <mark key="^" line="43" column="38" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/Playlist.ts" timestamp="1542122456635">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsList.tsx" timestamp="1541798491945">
         <mark key="'" line="15" column="2" />
@@ -569,8 +568,8 @@
       <jump line="157" column="11" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/Event.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb25zdHJ1Y3RvcicsIHBsYXlsaXN0LCBwbGF5bGlzdC52aWRlb3MpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -582,31 +581,31 @@
         <text encoding="base64">ICAgIHRoaXMucmVhbE5hbWUgPSB2aWRlby5yZWFsTmFtZTsKICAgIHRoaXMudGh1bWJuYWlsID0gdmlkZW8udGh1bWJuYWlsOwogICAgdGhpcy50aHVtYm5haWxHaWYgPSB2aWRlby50aHVtYm5haWxHaWY7CiAgICB0aGlzLmRlbGV0ZWRBdCA9IHZpZGVvLmRlbGV0ZWRBdCA/IHZpZGVvLmRlbGV0ZWRBdCA6IG51bGw7CiAgICB0aGlzLmR1cmF0aW9uID0gdmlkZW8uZHVyYXRpb247CiAgICB0aGlzLnJlc29sdXRpb24gPSB2aWRlby5yZXNvbHV0aW9uOwogICAgdGhpcy5iaXRyYXRlID0gdmlkZW8uYml0cmF0ZTsKICAgIHRoaXMuYXZnS2V5ZnJhbWUgPSB2aWRlby5hdmdLZXlmcmFtZTsKICAgIHRoaXMuZnBzID0gdmlkZW8uZnBzOwogICAgdGhpcy5wcm9jZXNzZWQgPSB2aWRlby5wcm9jZXNzZWQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBsYXlsaXN0LnZpZGVvcyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb25zdHJ1Y3RvcicsIHBsYXlsaXN0LCBwbGF5bGlzdC52aWRlb3MpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2xvYWQgZXZlbnRzJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBsYXlsaXN0LnZpZGVvcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5wbGF5bGlzdHNbMF0uaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2xvYWQgZXZlbnRzJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIWRhdGEudGl0bGUgJiYgIWRhdGEudmlkZW9JZHMK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5wbGF5bGlzdHNbMF0uaWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEsCiAgICAgICdCVUlMRCBQTEFZTElTVCcpCg==</text>
+        <text encoding="base64">ICAgICAgIWRhdGEudGl0bGUgJiYgIWRhdGEudmlkZW9JZHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcGxheWxpc3RzLgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEsCiAgICAgICdCVUlMRCBQTEFZTElTVCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3JlbW92ZScpCg==</text>
+        <text encoding="base64">ICAgICAgcGxheWxpc3RzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW1vdmUnKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3JlbW92ZScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdyZW1vdmUnLmxvY2FsZUNvbXBhcmUoKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW1vdmUnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
