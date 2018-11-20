@@ -113,17 +113,16 @@
         <mark key="." line="96" column="15" />
         <mark key="^" line="96" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/RootStore.ts" timestamp="1542701551036">
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/RootStore.ts" timestamp="1542708375959">
         <mark key="'" line="55" column="9" />
-        <mark key="[" line="116" column="16" />
-        <mark key="]" line="116" column="17" />
-        <mark key="^" line="116" column="17" />
-        <mark key="." line="116" column="17" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542700392067">
+      <file name="/Dummy.txt" timestamp="1542709016848">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/playlists/components/PlaylistModal.tsx" timestamp="1542637647689">
@@ -196,11 +195,11 @@
         <mark key="." line="275" column="45" />
         <mark key="^" line="276" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/reporters/analytics/AnalyticsReporter.tsx" timestamp="1542702704829">
-        <mark key="[" line="49" column="16" />
-        <mark key="]" line="49" column="16" />
-        <mark key="." line="49" column="16" />
-        <mark key="^" line="49" column="16" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/reporters/analytics/AnalyticsReporter.tsx" timestamp="1542708988593">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="37" column="5" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/components/App/Events/EventDialog/Form/DatePickerForm.js" timestamp="1542267976193">
         <mark key="[" line="12" column="67" />
@@ -312,44 +311,44 @@
       <jump line="14" column="9" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/base/createViewModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmVhdDogZm9yayBjcmVhdGUtdmlldy1tb2RlbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>restreamId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnZhcmlhbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hbmFseXRpY3NSZXBvcnRlci5pZGVudGlmeSh7CiAgICAgICAgdXNlcklkOiBwYXJzZUludCh0aGlzLmF1dGhTdG9yZS51c2VySWQsIHVuZGVmaW5lZCksCiAgICAgICAgcmVzdHJlYW1JZDogdGhpcy5hdXRoU3RvcmUucmVzdHJlYW1JZCEsCiAgICAgICAgcGF5bWVudFN0YXR1czogdGhpcy5zdWJzY3JpcHRpb25zU3RvcmUuY3VycmVudFN1YnNjcmlwdGlvbgogICAgICAgICAgPyB0aGlzLnN1YnNjcmlwdGlvbnNTdG9yZS5jdXJyZW50U3Vic2NyaXB0aW9uLnBsYW5UeXBlID09PSAnZnJlZScKICAgICAgICAgICAgPyAnZnJlZScKICAgICAgICAgICAgOiAncGFpZCcKICAgICAgICAgIDogJ2ZyZWUnLAogICAgICAgIGVtYWlsOiAnJywKICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgaWRlbnRpZnkuc2V0KCdyZXN0cmVhbV9pZCcsIHBhcmFtcy5yZXN0cmVhbUlkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEFtcGxpdHVkZUNsaWVudCA9IGFtcGxpdHVkZS5BbXBsaXR1ZGVDbGllbnQK</text>
+        <text encoding="base64">ZmVhdDogZm9yayBjcmVhdGUtdmlldy1tb2RlbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YW1wbGl0dWRlLmdldEluc3RhbmNlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW50ZXJmYWNlIElBbXBsaXR1ZGUgewogIGluaXQoa2V5OiBzdHJpbmcsIHBhcmFtPzogYW55LCBvcHRzPzogYW55KTogdm9pZDsKICBsb2dFdmVudChldmVudDogc3RyaW5nLCBwYXJhbXM6IGFueSk6IHZvaWQ7CiAgc2V0VXNlcklkKGlkOiBudW1iZXIpOiB2b2lkOwogIGlkZW50aWZ5KHBhcmFtczogYW55KTogdm9pZDsKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBJZGVudGlmeSgpOiB7CiAgICBzZXQoKTogdm9pZDsKICB9Owo=</text>
+        <text encoding="base64">ICAgICAgLy8gdGhpcy5hbXBsaXR1ZGUgPSBhbXBsaXR1ZGUuZ2V0SW5zdGFuY2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcyk7Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IEFtcGxpdHVkZUNsaWVudCA9IGFtcGxpdHVkZS5BbXBsaXR1ZGVDbGllbnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IGFtcGxpdHVkZSBmcm9tICdhbXBsaXR1ZGUtanMnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYW5hbHl0aWNzUmVwb3J0ZXIuaWRlbnRpZnkoewogICAgICB1c2VySWQ6IHBhcnNlSW50KHRoaXMuYXV0aFN0b3JlLnVzZXJJZCEsIHVuZGVmaW5lZCksCiAgICAgIHJlc3RyZWFtSWQ6IHRoaXMuYXV0aFN0b3JlLnJlc3RyZWFtSWQhLAogICAgICBwYXltZW50U3RhdHVzOiB0aGlzLnN1YnNjcmlwdGlvbnNTdG9yZS5jdXJyZW50U3Vic2NyaXB0aW9uCiAgICAgICAgPyB0aGlzLnN1YnNjcmlwdGlvbnNTdG9yZS5jdXJyZW50U3Vic2NyaXB0aW9uLnBsYW5UeXBlID09PSAnZnJlZScKICAgICAgICAgID8gJ2ZyZWUnCiAgICAgICAgICA6ICdwYWlkJwogICAgICAgIDogJ2ZyZWUnLAogICAgICBlbWFpbDogJycsCiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBlbWFpbDogJycsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcyk7Cg==</text>
+        <text encoding="base64">ICAgIGVtYWlsOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGAke2N0eC5vcmlnaW4ucmVwbGFjZSgnaHR0cCcsICdodHRwcycpfS9vYXV0aC9yZXN0cmVhbWAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
