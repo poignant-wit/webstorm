@@ -27,6 +27,10 @@
         <mark key="." line="5" column="10" />
         <mark key="^" line="5" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/components/Landing/index.js" timestamp="1542789410928">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="66" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/common/modals/ModalRoot.tsx" timestamp="1542726255665">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -69,12 +73,24 @@
         <mark key="]" line="54" column="34" />
         <mark key="." line="54" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/landing/LandingPage.tsx" timestamp="1542789703723">
+        <mark key="[" line="48" column="16" />
+        <mark key="]" line="48" column="40" />
+        <mark key="." line="48" column="40" />
+        <mark key="^" line="48" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/playlists/containers/PlaylistsContainer.tsx" timestamp="1542730396937">
         <mark key="'" line="91" column="10" />
         <mark key="[" line="80" column="35" />
         <mark key="]" line="80" column="35" />
         <mark key="." line="80" column="35" />
         <mark key="^" line="80" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/landing/firstScreen/LandingFirstScreen.tsx" timestamp="1542789739024">
+        <mark key="[" line="23" column="41" />
+        <mark key="]" line="24" column="47" />
+        <mark key="." line="24" column="47" />
+        <mark key="^" line="24" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/playlists/components/PlaylistModal.tsx" timestamp="1542637647689">
         <mark key="[" line="1" column="0" />
@@ -237,11 +253,11 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542788092213">
+      <file name="/Dummy.txt" timestamp="1542789811775">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="31" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/videos/components/VideoItem.tsx" timestamp="1542639131671">
         <mark key="'" line="228" column="13" />
@@ -403,43 +419,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>feat</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>feat</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RlZFZpZGVvSWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2aWRlb3NTdG9yZTogVmlkZW9zU3RvcmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8TW9kYWwKICAgICAgICAgIHN0eWxlPXt7IGFsaWduSXRlbXM6ICdjZW50ZXInLCBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicgfX0KICAgICAgICAgIHNob3c9e3Nob3dWaWRlb01vZGFsfQogICAgICAgICAgb25CYWNrZHJvcENsaWNrPXt0aGlzLnRvZ2dsZVNob3dWaWRlb01vZGFsfQogICAgICAgID4KICAgICAgICAgIDxkaXYgc3R5bGU9e3t9fSBjbGFzc05hbWU9e2NsYXNzZXMucGFwZXJ9PgogICAgICAgICAgICA8aWZyYW1lIHNyYz0iaHR0cHM6Ly9wbGF5ZXIudmltZW8uY29tL3ZpZGVvLzIzNTM1MTU0OT90aXRsZT0wJmJ5bGluZT0wJnBvcnRyYWl0PTAmYXV0b3BsYXk9MSIgd2lkdGg9IjcyMCIgaGVpZ2h0PSI0MDUiIGZyYW1lQm9yZGVyPSIwIiB3ZWJraXRhbGxvd2Z1bGxzY3JlZW49InRydWUiIG1vemFsbG93ZnVsbHNjcmVlbj0idHJ1ZSIgYWxsb3dGdWxsU2NyZWVuPjwvaWZyYW1lPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9Nb2RhbD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGNvbWJpbmVEZWZhdWx0VGl0bGUodCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB3ZWJraXRBbGxvd0Z1bGxTY3JlZW49InRydWUiCiAgICAgICAgICAgICAgbW96YWxsb3dmdWxsc2NyZWVuPSJ0cnVlIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNob3c9e3RydWV9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZpZGVvSWQgPSAoc2VsZWN0ZWRWaWRlb0lkIGFzIHN0cmluZykuaW5jbHVkZXMoJ3ZpZGVvLScpCiAgICAgID8gKHNlbGVjdGVkVmlkZW9JZCBhcyBzdHJpbmcpLnJlcGxhY2UoJ3ZpZGVvLScsICcnKQogICAgICA6IHVuZGVmaW5lZDsKICAgIGNvbnN0IHBsYXlsaXN0SWQgPSAoc2VsZWN0ZWRWaWRlb0lkIGFzIHN0cmluZykuaW5jbHVkZXMoJ3BsYXlsaXN0LScpCiAgICAgID8gKHNlbGVjdGVkVmlkZW9JZCBhcyBzdHJpbmcpLnJlcGxhY2UoJ3BsYXlsaXN0LScsICcnKQogICAgICA6IHVuZGVmaW5lZDsKCiAgICBjb25zdCB0aXRsZSA9IHZpZGVvSWQKICAgICAgPyB0aGlzLnByb3BzLnZpZGVvcy5maW5kKHYgPT4gdi5pZCA9PT0gdmlkZW9JZC50b1N0cmluZygpKSEucmVhbE5hbWUKICAgICAgOiB0aGlzLnByb3BzLnBsYXlsaXN0c1N0b3JlIS5hY3RpdmVQbGF5bGlzdHMuZmluZCgKICAgICAgICAgIHAgPT4gcC5pZCA9PT0gcGxheWxpc3RJZCEudG9TdHJpbmcoKSwKICAgICAgICApIS50aXRsZTsK</text>
+        <text encoding="base64">ICAgICAgICAgIG9uQmFja2Ryb3BDbGljaz17dGhpcy50b2dnbGVTaG93VmlkZW9Nb2RhbH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2codmlkZW9JZCwgcGxheWxpc3RJZCwgdGhpcy5wcm9wcy5wbGF5bGlzdHNTdG9yZSEuYWN0aXZlUGxheWxpc3RzKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIGNvbWJpbmVEZWZhdWx0VGl0bGUodCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRpdGxlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVuZGVmaW5lZCwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZpZGVvSWQgPSAoc2VsZWN0ZWRWaWRlb0lkIGFzIHN0cmluZykuaW5jbHVkZXMoJ3ZpZGVvLScpCiAgICAgID8gKHNlbGVjdGVkVmlkZW9JZCBhcyBzdHJpbmcpLnJlcGxhY2UoJ3ZpZGVvLScsICcnKQogICAgICA6IHVuZGVmaW5lZDsKICAgIGNvbnN0IHBsYXlsaXN0SWQgPSAoc2VsZWN0ZWRWaWRlb0lkIGFzIHN0cmluZykuaW5jbHVkZXMoJ3BsYXlsaXN0LScpCiAgICAgID8gKHNlbGVjdGVkVmlkZW9JZCBhcyBzdHJpbmcpLnJlcGxhY2UoJ3BsYXlsaXN0LScsICcnKQogICAgICA6IHVuZGVmaW5lZDsKCiAgICBjb25zdCB0aXRsZSA9IHZpZGVvSWQKICAgICAgPyB0aGlzLnByb3BzLnZpZGVvcy5maW5kKHYgPT4gdi5pZCA9PT0gdmlkZW9JZC50b1N0cmluZygpKSEucmVhbE5hbWUKICAgICAgOiB0aGlzLnByb3BzLnBsYXlsaXN0c1N0b3JlIS5hY3RpdmVQbGF5bGlzdHMuZmluZCgKICAgICAgICAgIHAgPT4gcC5pZCA9PT0gcGxheWxpc3RJZCEudG9TdHJpbmcoKSwKICAgICAgICApIS50aXRsZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2codmlkZW9JZCwgcGxheWxpc3RJZCwgdGhpcy5wcm9wcy5wbGF5bGlzdHNTdG9yZSEuYWN0aXZlUGxheWxpc3RzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIHVzZXIgcGxhbiB0byBhbmFseXRpY3MK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRpdGxlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBjcmVhdGVWaWV3TW9kZWwsCiAgSVZpZXdNb2RlbCwKfSBmcm9tICcuLi8uLi8uLi9zdG9yZS9iYXNlL2NyZWF0ZVZpZXdNb2RlbCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHVuZGVmaW5lZCwK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -524,6 +540,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
