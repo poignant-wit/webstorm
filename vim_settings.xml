@@ -36,9 +36,6 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/Dummy.jql" timestamp="1542726509012">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/client/index.tsx" timestamp="1542727943050">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -73,6 +70,13 @@
         <mark key="]" line="54" column="34" />
         <mark key="." line="54" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/PermissionsStore.ts" timestamp="1542792250892">
+        <mark key="[" line="43" column="11" />
+        <mark key="]" line="43" column="11" />
+        <mark key="^" line="43" column="11" />
+        <mark key="." line="43" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/header/containers/HeaderContainer.tsx" timestamp="1542791757916" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/landing/LandingPage.tsx" timestamp="1542789703723">
         <mark key="[" line="48" column="16" />
         <mark key="]" line="48" column="40" />
@@ -85,6 +89,12 @@
         <mark key="]" line="80" column="35" />
         <mark key="." line="80" column="35" />
         <mark key="^" line="80" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/auth.ts" timestamp="1542791517176">
+        <mark key="[" line="9" column="62" />
+        <mark key="]" line="9" column="88" />
+        <mark key="^" line="9" column="88" />
+        <mark key="." line="9" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/landing/firstScreen/LandingFirstScreen.tsx" timestamp="1542789739024">
         <mark key="[" line="23" column="41" />
@@ -110,17 +120,23 @@
         <mark key="." line="111" column="13" />
         <mark key="^" line="112" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/AppAuth.tsx" timestamp="1542726305382">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="3" column="11" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/AppAuth.tsx" timestamp="1542791852399">
+        <mark key="[" line="65" column="34" />
+        <mark key="]" line="65" column="34" />
+        <mark key="^" line="65" column="34" />
+        <mark key="." line="65" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/ui/UIStore.ts" timestamp="1542721452793">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="6" />
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/AuthStore.ts" timestamp="1542791618393">
+        <mark key="[" line="74" column="36" />
+        <mark key="]" line="74" column="43" />
+        <mark key="." line="74" column="43" />
+        <mark key="^" line="74" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/videos/components/VideoUploadProgress.tsx" timestamp="1542615184237">
         <mark key="[" line="97" column="0" />
@@ -134,12 +150,12 @@
         <mark key="." line="80" column="17" />
         <mark key="^" line="80" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventModal.tsx" timestamp="1542787928077">
-        <mark key="'" line="307" column="32" />
-        <mark key="[" line="510" column="57" />
-        <mark key="]" line="510" column="57" />
-        <mark key="." line="510" column="57" />
-        <mark key="^" line="510" column="57" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventModal.tsx" timestamp="1542792222319">
+        <mark key="'" line="320" column="32" />
+        <mark key="[" line="32" column="111" />
+        <mark key="]" line="32" column="111" />
+        <mark key="." line="32" column="111" />
+        <mark key="^" line="32" column="108" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventItem.tsx" timestamp="1542629692948">
         <mark key="[" line="275" column="45" />
@@ -181,6 +197,12 @@
         <mark key="]" line="44" column="0" />
         <mark key="^" line="43" column="33" />
         <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/middlewares/initialStateBuilderMiddleware.ts" timestamp="1542791975298">
+        <mark key="'" line="63" column="14" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/base/ApiClient.tsx" timestamp="1542372822630">
         <mark key="[" line="5" column="8" />
@@ -253,11 +275,11 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542789811775">
+      <file name="/Dummy.txt" timestamp="1542792267416">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/videos/components/VideoItem.tsx" timestamp="1542639131671">
         <mark key="'" line="228" column="13" />
@@ -316,8 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="2" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/upgrade/containers/UpgradeContainer.tsx" />
-      <jump line="217" column="15" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/upgrade/containers/UpgradeContainer.tsx" />
       <jump line="221" column="15" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/upgrade/containers/UpgradeContainer.tsx" />
       <jump line="104" column="2" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/upgrade/containers/UpgradeContainer.tsx" />
       <jump line="108" column="9" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/upgrade/containers/UpgradeContainer.tsx" />
@@ -416,61 +436,62 @@
       <jump line="140" column="6" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventModal.tsx" />
       <jump line="184" column="49" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventModal.tsx" />
       <jump line="305" column="32" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventModal.tsx" />
+      <jump line="86" column="22" filename="$USER_HOME$/Documents/_own/with-typescript/src/server/middlewares/initialStateBuilderMiddleware.ts" />
+      <jump line="63" column="14" filename="$USER_HOME$/Documents/_own/with-typescript/src/server/middlewares/initialStateBuilderMiddleware.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>feat</text>
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>feat</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxlY3RlZFZpZGVvSWRcPg==</text>
+        <text encoding="base64">XDxtZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8TW9kYWwKICAgICAgICAgIHN0eWxlPXt7IGFsaWduSXRlbXM6ICdjZW50ZXInLCBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicgfX0KICAgICAgICAgIHNob3c9e3Nob3dWaWRlb01vZGFsfQogICAgICAgICAgb25CYWNrZHJvcENsaWNrPXt0aGlzLnRvZ2dsZVNob3dWaWRlb01vZGFsfQogICAgICAgID4KICAgICAgICAgIDxkaXYgc3R5bGU9e3t9fSBjbGFzc05hbWU9e2NsYXNzZXMucGFwZXJ9PgogICAgICAgICAgICA8aWZyYW1lIHNyYz0iaHR0cHM6Ly9wbGF5ZXIudmltZW8uY29tL3ZpZGVvLzIzNTM1MTU0OT90aXRsZT0wJmJ5bGluZT0wJnBvcnRyYWl0PTAmYXV0b3BsYXk9MSIgd2lkdGg9IjcyMCIgaGVpZ2h0PSI0MDUiIGZyYW1lQm9yZGVyPSIwIiB3ZWJraXRhbGxvd2Z1bGxzY3JlZW49InRydWUiIG1vemFsbG93ZnVsbHNjcmVlbj0idHJ1ZSIgYWxsb3dGdWxsU2NyZWVuPjwvaWZyYW1lPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9Nb2RhbD4K</text>
+        <text encoding="base64">ICBwbGF5bGlzdHNTdG9yZTogUGxheWxpc3RzU3RvcmU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB3ZWJraXRBbGxvd0Z1bGxTY3JlZW49InRydWUiCiAgICAgICAgICAgICAgbW96YWxsb3dmdWxsc2NyZWVuPSJ0cnVlIgo=</text>
+        <text encoding="base64">Zml4OiBTQ0hFRC02NCBWaWRlbyBjb3VsZG4ndCBiZSBvcGVuZWQgYnkgY2xpY2tpbmcgb24gdGhlIGltYWdlIGxpbmsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNob3c9e3RydWV9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uQmFja2Ryb3BDbGljaz17dGhpcy50b2dnbGVTaG93VmlkZW9Nb2RhbH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGNvbWJpbmVEZWZhdWx0VGl0bGUodCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIGV4YWN0PXt0cnVlfSBjb21wb25lbnQ9e1BsYXlsaXN0c1BhZ2V9IHBhdGg9Ii9wbGF5bGlzdHMiIC8+Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZpZGVvSWQgPSAoc2VsZWN0ZWRWaWRlb0lkIGFzIHN0cmluZykuaW5jbHVkZXMoJ3ZpZGVvLScpCiAgICAgID8gKHNlbGVjdGVkVmlkZW9JZCBhcyBzdHJpbmcpLnJlcGxhY2UoJ3ZpZGVvLScsICcnKQogICAgICA6IHVuZGVmaW5lZDsKICAgIGNvbnN0IHBsYXlsaXN0SWQgPSAoc2VsZWN0ZWRWaWRlb0lkIGFzIHN0cmluZykuaW5jbHVkZXMoJ3BsYXlsaXN0LScpCiAgICAgID8gKHNlbGVjdGVkVmlkZW9JZCBhcyBzdHJpbmcpLnJlcGxhY2UoJ3BsYXlsaXN0LScsICcnKQogICAgICA6IHVuZGVmaW5lZDsKCiAgICBjb25zdCB0aXRsZSA9IHZpZGVvSWQKICAgICAgPyB0aGlzLnByb3BzLnZpZGVvcy5maW5kKHYgPT4gdi5pZCA9PT0gdmlkZW9JZC50b1N0cmluZygpKSEucmVhbE5hbWUKICAgICAgOiB0aGlzLnByb3BzLnBsYXlsaXN0c1N0b3JlIS5hY3RpdmVQbGF5bGlzdHMuZmluZCgKICAgICAgICAgIHAgPT4gcC5pZCA9PT0gcGxheWxpc3RJZCEudG9TdHJpbmcoKSwKICAgICAgICApIS50aXRsZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8TWVudUl0ZW0gb25DbGljaz17dGhpcy5oYW5kbGVPbkNsaWNrUGxheWxpc3RzfT4KICAgICAgICAgICAgICAgIFBsYXlsaXN0cyAoQmV0YSkKICAgICAgICAgICAgICA8L01lbnVJdGVtPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2codmlkZW9JZCwgcGxheWxpc3RJZCwgdGhpcy5wcm9wcy5wbGF5bGlzdHNTdG9yZSEuYWN0aXZlUGxheWxpc3RzKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRpdGxlKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVuZGVmaW5lZCwK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxlY3RlZFZpZGVvSWRcPg==</last-search>
+      <last-search encoding="base64">XDxtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxlY3RlZFZpZGVvSWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getPrice</entry>
         <entry encoding="base64">XDxoYW5kbGVPbkNsaWNrQmlsbGluZ1w+</entry>
         <entry encoding="base64">XDxoYW5kbGVPbkNoYW5nZUNoYW5uZWxzXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVPbkNsaWNrRWRpdFBsYXlsaXN0XD4=</entry>
@@ -490,6 +511,7 @@
         <entry encoding="base64">XDxpbnZhcmlhbnRcPg==</entry>
         <entry encoding="base64">XDxhdXRoUmVzdHJlYW1cPg==</entry>
         <entry encoding="base64">XDxzZWxlY3RlZFZpZGVvSWRcPg==</entry>
+        <entry encoding="base64">XDxtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>action Vcs.UpdateProject</entry>
