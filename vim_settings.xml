@@ -62,7 +62,7 @@
         <mark key="^" line="43" column="11" />
         <mark key="." line="43" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/public/static/ga.js" timestamp="1542803252723" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/public/static/ga.js" timestamp="1542818927269" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/landing/LandingPage.tsx" timestamp="1542789703723">
         <mark key="[" line="48" column="16" />
         <mark key="]" line="48" column="40" />
@@ -111,6 +111,9 @@
         <mark key="]" line="65" column="34" />
         <mark key="^" line="65" column="34" />
         <mark key="." line="65" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/subscription.js" timestamp="1542818727567">
+        <mark key="'" line="69" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/ui/UIStore.ts" timestamp="1542721452793">
         <mark key="[" line="2" column="0" />
@@ -315,8 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="15" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/upgrade/containers/UpgradeContainer.tsx" />
-      <jump line="104" column="2" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/upgrade/containers/UpgradeContainer.tsx" />
       <jump line="108" column="9" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/upgrade/containers/UpgradeContainer.tsx" />
       <jump line="120" column="21" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/upgrade/containers/UpgradeContainer.tsx" />
       <jump line="181" column="13" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/upgrade/containers/UpgradeContainer.tsx" />
@@ -415,6 +416,8 @@
       <jump line="305" column="32" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventModal.tsx" />
       <jump line="86" column="22" filename="$USER_HOME$/Documents/_own/with-typescript/src/server/middlewares/initialStateBuilderMiddleware.ts" />
       <jump line="63" column="14" filename="$USER_HOME$/Documents/_own/with-typescript/src/server/middlewares/initialStateBuilderMiddleware.ts" />
+      <jump line="62" column="15" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/subscription.js" />
+      <jump line="69" column="15" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/subscription.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -424,7 +427,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZVw+</text>
+        <text encoding="base64">XDxkYl9yZWNvcmRfaWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbWFyZ2luUmlnaHQ6IDQsCg==</text>
@@ -461,15 +464,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZVw+</last-search>
+      <last-search encoding="base64">XDxkYl9yZWNvcmRfaWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxkYl9yZWNvcmRfaWRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVPbkNsaWNrQmlsbGluZ1w+</entry>
         <entry encoding="base64">XDxoYW5kbGVPbkNoYW5nZUNoYW5uZWxzXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVPbkNsaWNrRWRpdFBsYXlsaXN0XD4=</entry>
         <entry encoding="base64">XDxwbGF5bGlzdHNTdG9yZVw+</entry>
@@ -489,6 +491,7 @@
         <entry encoding="base64">XDxhdXRoUmVzdHJlYW1cPg==</entry>
         <entry encoding="base64">XDxzZWxlY3RlZFZpZGVvSWRcPg==</entry>
         <entry encoding="base64">XDxtZVw+</entry>
+        <entry encoding="base64">XDxkYl9yZWNvcmRfaWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action Vcs.UpdateProject</entry>
