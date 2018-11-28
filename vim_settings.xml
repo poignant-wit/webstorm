@@ -108,6 +108,12 @@
         <mark key="." line="96" column="22" />
         <mark key="^" line="96" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/.gitignore" timestamp="1543403200832">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/layout/Layout/Layout.tsx" timestamp="1543350435081">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -308,6 +314,12 @@
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/FeaturesStore.ts" timestamp="1543403106447">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/PermissionsStore.ts" timestamp="1542792250892">
         <mark key="[" line="43" column="11" />
         <mark key="]" line="43" column="11" />
@@ -490,9 +502,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/index.sass" timestamp="1543339957665">
-        <mark key="[" line="9" column="22" />
-      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/events.ts" timestamp="1543145618885">
         <mark key="[" line="47" column="34" />
         <mark key="]" line="47" column="41" />
@@ -674,8 +683,8 @@
       <jump line="8" column="8" filename="$USER_HOME$/Documents/developer-portal-frontend/typings/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -687,34 +696,31 @@
         <text encoding="base64">ICAgICAgW0JPT1RTVFJBUF9TVEVQLkZFQVRVUkVTXTogYXN5bmMgKCkgPT4gYXdhaXQgdGhpcy5nZXRGZWF0dXJlcygpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBJQ2hhbm5lbHNTdG9yZUluaXRpYWxTdGF0ZSwK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjaGFubmVsc1N0b3JlPzogSUNoYW5uZWxzU3RvcmVJbml0aWFsU3RhdGU7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">LmVudi5sb2NhbAouZW52LmRldmVsb3BtZW50LmxvY2FsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBJQ2hhbm5lbHNTdG9yZUluaXRpYWxTdGF0ZSwK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJQ2hhbm5lbHNTdG9yZUluaXRpYWxTdGF0ZSB7CiAgY2hhbm5lbHM6IElDaGFubmVsW107Cn0K</text>
+        <text encoding="base64">ICBjaGFubmVsc1N0b3JlPzogSUNoYW5uZWxzU3RvcmVJbml0aWFsU3RhdGU7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJQ2hhbm5lbHNTdG9yZUluaXRpYWxTdGF0ZSB7CiAgY2hhbm5lbHM6IElDaGFubmVsW107Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJQ2hhbm5lbHNTdG9yZUNvbnN0cnVjdG9yIHsKICByb290U3RvcmU6IFJvb3RTdG9yZTsKICBpbml0aWFsU3RhdGU/OiBJQ2hhbm5lbHNTdG9yZUluaXRpYWxTdGF0ZTsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZGVmYXVsdEluaXRpYWxTdGF0ZTogSUNoYW5uZWxzU3RvcmVJbml0aWFsU3RhdGUgPSB7CiAgY2hhbm5lbHM6IFtdLAp9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-      rootStore: this,
-      initialState: initialState.channelsStore,
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJQ2hhbm5lbHNTdG9yZUNvbnN0cnVjdG9yIHsKICByb290U3RvcmU6IFJvb3RTdG9yZTsKICBpbml0aWFsU3RhdGU/OiBJQ2hhbm5lbHNTdG9yZUluaXRpYWxTdGF0ZTsKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
