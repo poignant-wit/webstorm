@@ -39,11 +39,11 @@
         <mark key="^" line="58" column="57" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/containers/OnboardingContainer.tsx" timestamp="1543503697891">
-        <mark key="[" line="150" column="8" />
-        <mark key="]" line="150" column="9" />
-        <mark key="^" line="150" column="9" />
-        <mark key="." line="150" column="9" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/containers/OnboardingContainer.tsx" timestamp="1543505356617">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="^" line="149" column="9" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/billing/containers/BillingPaymentContainer.tsx" timestamp="1543243255092">
         <mark key="[" line="104" column="34" />
@@ -541,11 +541,11 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="95" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543493156220">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="33" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1543505678122">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingVideosStep.tsx" timestamp="1543492631265">
         <mark key="[" line="82" column="26" />
@@ -742,10 +742,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsXD4=</text>
@@ -754,31 +754,31 @@
         <text encoding="base64">ICBwcml2YXRlIGVuYWJsZWRDaGFubmVsczogbnVtYmVyW10gPSB0aGlzLmNoYW5uZWxzLnJlZHVjZSgKICAgIChhY2M6IG51bWJlcltdLCBjaGFubmVsKSA9PiB7CiAgICAgIGlmIChjaGFubmVsLmVuYWJsZWQpIHsKICAgICAgICByZXR1cm4gWy4uLmFjYywgY2hhbm5lbC5pZF07CiAgICAgIH0KICAgICAgcmV0dXJuIGFjYzsKICAgIH0sCiAgICBbXSwKICApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZW5hYmxlZENoYW5uZWxzID0gdGhpcy5lbmFibGVkQ2hhbm5lbHMuZmlsdGVyKAogICAgICBjID0+IGMuaWQgIT09IGNoYW5uZWwuaWQsCiAgICApOwo=</text>
+        <text encoding="base64">ZmVhdDogb25ib2FyZGluZyB1cGxvYWRpbmcgcGFnZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYW5uZWwuZW5hYmxlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5lbmFibGVkQ2hhbm5lbHMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZW5hYmxlZENoYW5uZWxzKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYW5uZWwuZW5hYmxlZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIChhY2M6IG51bWJlcltdLCBjaGFubmVsKSA9PiB7CiAgICAgIGlmIChjaGFubmVsLmVuYWJsZWQpIHsKICAgICAgICByZXR1cm4gWy4uLmFjYywgY2hhbm5lbC5pZF07CiAgICAgIH0KICAgICAgcmV0dXJuIGFjYzsKICAgIH0sCiAgICBbXSwKICApOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZW5hYmxlZENoYW5uZWxzID0gdGhpcy5lbmFibGVkQ2hhbm5lbHMuZmlsdGVyKAogICAgICBjID0+IGMuaWQgIT09IGNoYW5uZWwuaWQsCiAgICApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYW5uZWwuZW5hYmxlZCk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZW5hYmxlZENoYW5uZWxzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY2hhbm5lbCB9IGZyb20gJ3RoZW1pbmcnOwo=</text>
+        <text encoding="base64">ICAgIChhY2M6IG51bWJlcltdLCBjaGFubmVsKSA9PiB7CiAgICAgIGlmIChjaGFubmVsLmVuYWJsZWQpIHsKICAgICAgICByZXR1cm4gWy4uLmFjYywgY2hhbm5lbC5pZF07CiAgICAgIH0KICAgICAgcmV0dXJuIGFjYzsKICAgIH0sCiAgICBbXSwKICApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2hhbm5lbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZHRoPXszNn0KICAgICAgICAgICAgICAgIGhlaWdodD17MzZ9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZW5hYmxlZENoYW5uZWxzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action TsLintFileFixAction</text>
