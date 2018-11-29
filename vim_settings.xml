@@ -281,6 +281,7 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/request/Request.ts" timestamp="1543511469327" />
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/layout/Layout/Layout.sass" timestamp="1543343060774">
         <mark key="[" line="15" column="19" />
         <mark key="]" line="15" column="20" />
@@ -602,11 +603,11 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="95" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543509848360">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1543511554440">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingVideosStep.tsx" timestamp="1543492631265">
         <mark key="[" line="82" column="26" />
@@ -661,6 +662,12 @@
         <mark key="]" line="32" column="25" />
         <mark key="." line="32" column="25" />
         <mark key="^" line="32" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/index.ts" timestamp="1543511481327">
+        <mark key="[" line="27" column="49" />
+        <mark key="]" line="27" column="63" />
+        <mark key="^" line="27" column="63" />
+        <mark key="." line="27" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/payment/PaymentPage.tsx" timestamp="1542899911197">
         <mark key="[" line="28" column="0" />
@@ -807,11 +814,11 @@
       <jump line="126" column="16" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/containers/OnboardingContainer.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIHJlYWN0LWRhdGVwaWNrZXIK</text>
+      <register name="&quot;" type="4">
+        <text>Request</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Request</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsXD4=</text>
@@ -820,31 +827,31 @@
         <text encoding="base64">ICAgICAgICAgIDxPbmJvYXJkaW5nUHJpbWFyeVRleHQ+CiAgICAgICAgICAgIFdoZXJlIGRvIHlvdSB3YW50IHRvIHN0cmVhbT8KICAgICAgICAgIDwvT25ib2FyZGluZ1ByaW1hcnlUZXh0PgogICAgICAgICAgPE9uYm9hcmRpbmdTZWNvbmRhcnlUZXh0PgogICAgICAgICAgICBZb3UgbmVlZCB0byBzZWxlY3QgYXQgbGVhc3Qgb25lIGNoYW5uZWwgPGJyIC8+CiAgICAgICAgICAgIHRvIHN0cmVhbSB5b3VyIHZpZGVvLgogICAgICAgICAgPC9PbmJvYXJkaW5nU2Vjb25kYXJ5VGV4dD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIHJlYWN0LWRhdGVwaWNrZXIK</text>
+        <text encoding="base64">Zml4OiBsb2dvdXQgb24gYm9vdHN0cmFwIGVycm9yCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGUucmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMuYXhpb3MuaW50ZXJjZXB0b3JzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIFNlbnRyeS5jYXB0dXJlRXhjZXB0aW9uKGUpOwo=</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcml2YXRlIGNvb2tpZXNTZXJ2aWNlOiBDb29raWVzU2VydmljZSkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIChjb25maWcudXJsID09PSAnL3JlZnJlc2gnKSB7CiAgICAgIGNvbmZpZy5oZWFkZXJzWyd4LXJ4c3JmLXRva2VuJ10gPSB0aGlzLmNvb2tpZXMuZ2V0Q29va2llKAogICAgICAgICdyZWZyZXNoWHNyZlRva2VuJwogICAgICApCiAgICB9IGVsc2UgewogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uZmlnLmhlYWRlcnNbJ3gtYXhzcmYtdG9rZW4nXSA9IHRoaXMuY29va2llcy5nZXRDb29raWUoCiAgICAgICAgJ2FjY2Vzc1hzcmZUb2tlbicKICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIG9uYm9hcmRpbmcgZGF0ZSBzdGVwCg==</text>
+        <text encoding="base64">ICAgIGlmIChjb25maWcudXJsID09PSAnL3JlZnJlc2gnKSB7CiAgICAgIGNvbmZpZy5oZWFkZXJzWyd4LXJ4c3JmLXRva2VuJ10gPSB0aGlzLmNvb2tpZXMuZ2V0Q29va2llKAogICAgICAgICdyZWZyZXNoWHNyZlRva2VuJwogICAgICApCiAgICB9IGVsc2UgewogICAgICBjb25maWcuaGVhZGVyc1sneC1heHNyZi10b2tlbiddID0gdGhpcy5jb29raWVzLmdldENvb2tpZSgKICAgICAgICAnYWNjZXNzWHNyZlRva2VuJwogICAgICApCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhYmVsPSJUaW1lIgo=</text>
+        <text encoding="base64">ZmVhdDogYWRkIHJlYWN0LWRhdGVwaWNrZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvR3JpZD4K</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGUucmVzcG9uc2UpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyB0aW1lOiBlLnRhcmdldC52YWx1ZSB9LCAoKSA9PiB7CiAgICAgICAgICAgICAgICAgIHRoaXMuY2FsbE9uQ2hhbmdlKCk7CiAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIFNlbnRyeS5jYXB0dXJlRXhjZXB0aW9uKGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
