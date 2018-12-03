@@ -453,11 +453,11 @@
         <mark key="]" line="151" column="0" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/onboarding/components/OnboardingVideosStep/OnboardingVideosStep.tsx" timestamp="1543853637141">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="^" line="93" column="21" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/onboarding/components/OnboardingVideosStep/OnboardingVideosStep.tsx" timestamp="1543866234244">
+        <mark key="[" line="100" column="50" />
+        <mark key="]" line="100" column="65" />
+        <mark key="^" line="100" column="65" />
+        <mark key="." line="100" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/common/Braintree.tsx" timestamp="1542713570582">
         <mark key="[" line="119" column="39" />
@@ -709,11 +709,11 @@
         <mark key="." line="16" column="72" />
         <mark key="^" line="16" column="72" />
       </file>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/onboarding/components/OnboardingVideosStep/OnboardingVideoItem.tsx" timestamp="1543853676769">
-        <mark key="[" line="24" column="18" />
-        <mark key="]" line="24" column="20" />
-        <mark key="." line="24" column="20" />
-        <mark key="^" line="24" column="19" />
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/onboarding/components/OnboardingVideosStep/OnboardingVideoItem.tsx" timestamp="1543867312215">
+        <mark key="[" line="38" column="51" />
+        <mark key="]" line="39" column="27" />
+        <mark key="." line="39" column="27" />
+        <mark key="^" line="39" column="27" />
       </file>
       <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/onboarding/components/OnboardingDateStep/OnboardingDateStep.tsx" timestamp="1543838766043">
         <mark key="[" line="48" column="41" />
@@ -936,45 +936,45 @@
       <jump line="99" column="0" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/videos/components/VideoItem.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNwYWNpbmc9ezh9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>selected</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxicm9rZW5JbWdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxPbmJvYXJkaW5nU2Vjb25kYXJ5VGV4dD4KICAgICAgICAgICAgICAgICAgVHJ5IG91ciBkZW1vIG9yIHVwbG9hZCB5b3VyIG93biB2aWRlbyA8YnIgLz4gZm9yIHNjaGVkdWxlZAogICAgICAgICAgICAgICAgICBzdHJlYW1pbmcuCiAgICAgICAgICAgICAgICA8L09uYm9hcmRpbmdTZWNvbmRhcnlUZXh0Pgo=</text>
+        <text encoding="base64">ICAgICAgZm9udFNpemU6IDE0LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNwYWNpbmc9ezh9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgcGFkZGluZ1RvcDogJzU2LjI1JScsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZGlzcGxheTogJ2ZsZXgnLAogICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgbWFyZ2luTGVmdDogMTcK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNwYWNpbmc9ezh9Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1kPXs4fQogICAgICAgICAgICAgICAgc209ezh9Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>(
               )</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxHcmlkIGNvbnRhaW5lcj17dHJ1ZX0ganVzdGlmeT0iY2VudGVyIj4KICAgICAgICAgICAgICAgICAgPE9uYm9hcmRpbmdCdXR0b24KICAgICAgICAgICAgICAgICAgICB2YXJpYW50PSJwcmltYXJ5IgogICAgICAgICAgICAgICAgICAgIGNvbG9yPSJzZWNvbmRhcnkiCiAgICAgICAgICAgICAgICAgICAgb25DbGljaz17b25OZXh0U3RlcH0KICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIDxHcmlkCiAgICAgICAgICAgICAgICAgICAgICBjb250YWluZXI9e3RydWV9CiAgICAgICAgICAgICAgICAgICAgICBqdXN0aWZ5PSJjZW50ZXIiCiAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2NsYXNzZXMuYnV0dG9uVGV4dENvbnRhaW5lcn0KICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICBMZXQncyBnbwogICAgICAgICAgICAgICAgICAgICAgPEdyaWQKICAgICAgICAgICAgICAgICAgICAgICAgY29udGFpbmVyPXt0cnVlfQogICAgICAgICAgICAgICAgICAgICAgICBkaXJlY3Rpb249InJvdy1yZXZlcnNlIgogICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2NsYXNzZXMuYnV0dG9uSWNvbkNvbnRhaW5lcn0KICAgICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgICAgPEljb24+a2V5Ym9hcmRfYXJyb3dfcmlnaHQ8L0ljb24+CiAgICAgICAgICAgICAgICAgICAgICA8L0dyaWQ+CiAgICAgICAgICAgICAgICAgICAgPC9HcmlkPgogICAgICAgICAgICAgICAgICA8L09uYm9hcmRpbmdCdXR0b24+CiAgICAgICAgICAgICAgICA8L0dyaWQ+Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxJY29uPmtleWJvYXJkX2Fycm93X3JpZ2h0PC9JY29uPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMZXQncyBnbwogICAgICAgICAgICAgICAgICAgIDxJY29uPmtleWJvYXJkX2Fycm93X3JpZ2h0PC9JY29uPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TypeHierarchy</text>
