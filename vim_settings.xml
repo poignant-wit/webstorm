@@ -20,7 +20,7 @@
         <mark key="." line="34" column="22" />
         <mark key="^" line="34" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/payment/PaymentContainer.tsx" timestamp="1543932600787">
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/payment/PaymentContainer.tsx" timestamp="1543942400314">
         <mark key="'" line="95" column="19" />
         <mark key="[" line="362" column="7" />
         <mark key="]" line="362" column="33" />
@@ -298,11 +298,11 @@
         <mark key="^" line="4" column="68" />
         <mark key="." line="4" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingOffers/OnboardingOffersVideo.tsx" timestamp="1543937385435">
-        <mark key="[" line="34" column="44" />
-        <mark key="]" line="34" column="49" />
-        <mark key="^" line="34" column="49" />
-        <mark key="." line="34" column="49" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingOffers/OnboardingOffersVideo.tsx" timestamp="1543943832116">
+        <mark key="[" line="96" column="23" />
+        <mark key="]" line="98" column="22" />
+        <mark key="." line="98" column="22" />
+        <mark key="^" line="98" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/videos/containers/VideoUploaderContainer.tsx" timestamp="1542907160165">
         <mark key="[" line="36" column="28" />
@@ -817,44 +817,44 @@
       <jump line="185" column="14" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/containers/OnboardingContainer.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE9uYm9hcmRpbmdTZWNvbmRhcnlUZXh0PgogICAgICAgICAgICAgIFlvdSBuZWVkIHRvIHNlbGVjdCBhdCBsZWFzdCBvbmUgY2hhbm5lbCA8YnIgLz4KICAgICAgICAgICAgICB0byBzdHJlYW0geW91ciB2aWRlby4KICAgICAgICAgICAgPC9PbmJvYXJkaW5nU2Vjb25kYXJ5VGV4dD4K</text>
+      <register name="&quot;" type="4">
+        <text>right</text>
       </register>
       <register name="-" type="4">
-        <text>onboardingVideos</text>
+        <text>right</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1NlbGVjdGVkVmlkZW9EdXJhdGlvbkFsbG93ZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxHcmlkIGNvbnRhaW5lcj17dHJ1ZX0ganVzdGlmeT0iY2VudGVyIiBkaXJlY3Rpb249ImNvbHVtbiI+CiAgICAgICAgICAgIDxPbmJvYXJkaW5nUHJpbWFyeVRleHQ+CiAgICAgICAgICAgICAgV2hlcmUgZG8geW91IHdhbnQgdG8gc3RyZWFtPwogICAgICAgICAgICA8L09uYm9hcmRpbmdQcmltYXJ5VGV4dD4KICAgICAgICAgICAgPE9uYm9hcmRpbmdTZWNvbmRhcnlUZXh0PgogICAgICAgICAgICAgIFlvdSBuZWVkIHRvIHNlbGVjdCBhdCBsZWFzdCBvbmUgY2hhbm5lbCA8YnIgLz4KICAgICAgICAgICAgICB0byBzdHJlYW0geW91ciB2aWRlby4KICAgICAgICAgICAgPC9PbmJvYXJkaW5nU2Vjb25kYXJ5VGV4dD4KICAgICAgICAgIDwvR3JpZD4K</text>
+        <text encoding="base64">ICAgICAgZm9udEZhbWlseTogJ1JvYm90bycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE9uYm9hcmRpbmdTZWNvbmRhcnlUZXh0PgogICAgICAgICAgICAgIFlvdSBuZWVkIHRvIHNlbGVjdCBhdCBsZWFzdCBvbmUgY2hhbm5lbCA8YnIgLz4KICAgICAgICAgICAgICB0byBzdHJlYW0geW91ciB2aWRlby4KICAgICAgICAgICAgPC9PbmJvYXJkaW5nU2Vjb25kYXJ5VGV4dD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3RoaXMucmVuZGVyU3Vic2NyaWJlQnV0dG9uKHRoaXMuaXNSZWNvbW1lbmRlZChvZmZlcikpfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qe2NoYW5uZWxzLmxlbmd0aCA+IDAgJiYgKCovfQogICAgICAgICAgICB7Lyo8R3JpZCBjb250YWluZXI9e3RydWV9IGp1c3RpZnk9ImNlbnRlciI+Ki99CiAgICAgICAgICAgIHsvKjxPbmJvYXJkaW5nQnV0dG9uKi99CiAgICAgICAgICAgIHsvKnZhcmlhbnQ9InByaW1hcnkiKi99CiAgICAgICAgICAgIHsvKmNvbG9yPSJzZWNvbmRhcnkiKi99CiAgICAgICAgICAgIHsvKm9uQ2xpY2s9e29uTmV4dFN0ZXB9Ki99CiAgICAgICAgICAgIHsvKj4qL30KICAgICAgICAgICAgey8qTGV0J3MgZ28qL30KICAgICAgICAgICAgey8qPEljb24+a2V5Ym9hcmRfYXJyb3dfcmlnaHQ8L0ljb24+Ki99CiAgICAgICAgICAgIHsvKjwvT25ib2FyZGluZ0J1dHRvbj4qL30KICAgICAgICAgICAgey8qPC9HcmlkPiovfQogICAgICAgICAgICB7LyopfSovfQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgYnV0dG9uQ2xhc3NlcyA9IGNsYXNzbmFtZXMoY2xhc3Nlcy5idXR0b24sIHsKICAgICAgICBbY2xhc3Nlcy5idXR0b25SZWNvbW1lbmRlZF06IGlzUmVjb21tZW5kZWQsCiAgICAgIH0pOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHBsYW4udmlkZW9zRHVyYXRpb24gPj0gc3RhdGUudmlkZW9EdXJhdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgIGxhYmVsQ29udGFpbmVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc2VsZWN0ZWRWaWRlby5kdXJhdGlvblNlYyEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHtpc1JlY29tbWVuZGVkID8gJ0dldCB0aGUgRGVhbCcgOiAnU3Vic2NyaWJlJ30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKjxMaW5rIHRvPXtyb3V0ZVBhdGgub25ib2FyZGluZ1B1cmNoYXNlKCl9PlBVUkNIQVNFPC9MaW5rPiovfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgY29tcG9uZW50RGlkTW91bnQoKSB7CiAgICBjb25zdCB7IHN0YXRlIH0gPSB0aGlzLnByb3BzLmxvY2F0aW9uOwogICAgY29uc3QgeyBzdWJzY3JpcHRpb25zU3RvcmUgfSA9IHRoaXMucHJvcHM7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocGxhbik7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ29mZmVycyBvcG5lJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
