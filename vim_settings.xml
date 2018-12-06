@@ -541,6 +541,9 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-streaming/docker-compose-streaming/docker-compose.yml" timestamp="1544088846207">
+        <mark key="'" line="49" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/containers/apps/AppsContainer.tsx" timestamp="1543314220927">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="21" />
@@ -781,8 +784,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="10" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/playlists/containers/PlaylistsContainer.tsx" />
-      <jump line="54" column="9" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/RootStore.ts" />
       <jump line="157" column="11" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/Event.ts" />
       <jump line="158" column="0" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" />
       <jump line="195" column="0" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" />
@@ -881,6 +882,8 @@
       <jump line="285" column="16" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/containers/OnboardingContainer.tsx" />
       <jump line="162" column="10" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/containers/OnboardingContainer.tsx" />
       <jump line="162" column="35" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingVideosStep/OnboardingVideosStep.tsx" />
+      <jump line="11" column="22" filename="$USER_HOME$/Documents/restream-streaming/docker-compose-streaming/docker-compose.yml" />
+      <jump line="49" column="9" filename="$USER_HOME$/Documents/restream-streaming/docker-compose-streaming/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -890,7 +893,7 @@
         <text>emt</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2aWRlb0l0ZW1UZXh0Q29udGFpbmVyXD4=</text>
+        <text>rtmp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgZHVyYXRpb24gPSB0aGlzLmdldER1cmF0aW9uSW5TZWNvbmRzKHRoaXMuc2VsZWN0ZWRWaWRlby5kdXJhdGlvbiEpOwo=</text>
@@ -927,9 +930,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2aWRlb0l0ZW1UZXh0Q29udGFpbmVyXD4=</last-search>
+      <last-search>rtmp</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2aWRlb0l0ZW1UZXh0Q29udGFpbmVyXD4=</last-pattern>
+      <last-pattern>rtmp</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxtZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -937,7 +940,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtUHJpY2VcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVTdWJzY3JpYmVTdWNjZXNzXD4=</entry>
         <entry encoding="base64">XDx1cGdyYWRlQnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxpbnN0YW5jZVw+</entry>
@@ -957,6 +959,7 @@
         <entry encoding="base64">XDxjcmVhdGVFdmVudFw+</entry>
         <entry encoding="base64">XDx0b05leHRTdGVwXD4=</entry>
         <entry encoding="base64">XDx2aWRlb0l0ZW1UZXh0Q29udGFpbmVyXD4=</entry>
+        <entry>rtmp</entry>
       </history-search>
       <history-cmd>
         <entry>action Vcs.UpdateProject</entry>
