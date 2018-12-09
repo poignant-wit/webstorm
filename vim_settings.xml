@@ -298,11 +298,11 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/request/Request.ts" timestamp="1544370493673">
-        <mark key="[" line="6" column="56" />
-        <mark key="]" line="6" column="56" />
-        <mark key="." line="6" column="56" />
-        <mark key="^" line="6" column="60" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/request/Request.ts" timestamp="1544371841480">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="6" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/layout/Layout/Layout.sass" timestamp="1543343060774">
         <mark key="[" line="15" column="19" />
@@ -392,6 +392,10 @@
         <mark key="]" line="46" column="29" />
         <mark key="." line="46" column="29" />
         <mark key="^" line="46" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/request/index.ts" timestamp="1544371461693">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/apps/appItem/AppItem.tsx" timestamp="1543317242772">
         <mark key="[" line="7" column="27" />
@@ -887,44 +891,44 @@
       <jump line="49" column="9" filename="$USER_HOME$/Documents/restream-streaming/docker-compose-streaming/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGFwcGx5Q29udmVydGVycyBmcm9tICdheGlvcy1jYXNlLWNvbnZlcnRlcic7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>rtmp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGV2ZW50cyA9IGF3YWl0IHRoaXMucm9vdFN0b3JlLmFwaS5ldmVudHMuZ2V0RXZlbnRzKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFwcGx5Q29udmVydGVycyBmcm9tICdheGlvcy1jYXNlLWNvbnZlcnRlcic7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBheGlvcy5jcmVhdGUoKTsK</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5oZWFkZXJzLkF1dGhvcml6YXRpb24gPSB0aGlzLmF1dGhUb2tlblNlcnZpY2UuZ2V0VG9rZW4oKTsKICAgIHJldHVybiBjb25maWc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKGFyZ3MpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEF4aW9zIGZyb20gJ2F4aW9zJwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29va2llc1NlcnZpY2UgfSBmcm9tICcuLi8uLi9zZXJ2aWNlcy9Db29raWVzU2VydmljZSc7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmF4aW9zOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGV4aXN0aW5nVmlkZW9zID0gdmlkZW9zLmZpbHRlcih2ID0+ICF2LmRlbGV0ZWRBdCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcml2YXRlIGF1dGhUb2tlblNlcnZpY2U6IEF1dGhUb2tlblNlcnZpY2UpIHsKICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwdWJsaWMgZ2V0QXBpQ2xpZW50KCkgewogICAgcmV0dXJuIHRoaXMuYXhpb3M7CiAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRoaXMuYXhpb3MuaW50ZXJjZXB0b3JzLnJlcXVlc3QudXNlKHRoaXMucmVxdWVzdEludGVyY2VwdG9yKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IGF4aW9zOiBBeGlvc0luc3RhbmNlOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHRoaXMuYXhpb3MgPSBheGlvcy5jcmVhdGUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYXN5bmMgY29tcG9uZW50RGlkTW91bnQoKSB7CiAgICBhd2FpdCB0aGlzLnByb3BzLnZpZGVvc1N0b3JlIS5sb2FkVmlkZW9zKCk7CiAgfQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBheGlvcy5jcmVhdGUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
