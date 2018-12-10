@@ -20,6 +20,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/analytics.ts" timestamp="1544446999851">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="1" column="34" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/playlists/components/PlaylistsList.tsx" timestamp="1542987573810">
         <mark key="[" line="12" column="9" />
         <mark key="]" line="12" column="9" />
@@ -231,7 +237,7 @@
         <mark key="^" line="42" column="51" />
         <mark key="." line="42" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/Events.ts" timestamp="1544444262101">
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/Events.ts" timestamp="1544446947864">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="7" column="3" />
         <mark key="." line="3" column="0" />
@@ -720,11 +726,11 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="77" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544441080150">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1544447139148">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingVideosStep.tsx" timestamp="1543492631265">
         <mark key="[" line="82" column="26" />
@@ -784,12 +790,6 @@
         <mark key="]" line="32" column="25" />
         <mark key="." line="32" column="25" />
         <mark key="^" line="32" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/index.ts" timestamp="1544446006094">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="13" />
-        <mark key="^" line="35" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/payment/PaymentPage.tsx" timestamp="1542899911197">
         <mark key="[" line="28" column="0" />
@@ -941,8 +941,8 @@
       <jump line="69" column="10" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmVhdDogYWRkIHN1cnZleVJlcXVlc3QgZmVhdHVyZQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -954,16 +954,16 @@
         <text encoding="base64">ICBjb25zdHJ1Y3RvcihhcGlDbGllbnQ6IEF4aW9zSW5zdGFuY2UpIHsKICAgIHN1cGVyKGFwaUNsaWVudCk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmVhdDogYWRkIHN1cnZleVJlcXVlc3QgZmVhdHVyZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGF1dGggPSBuZXcgQXV0aCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcmVxdWVzdCB9IGZyb20gJy4vcmVxdWVzdCc7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGFuYWx5dGljcyA9IG5ldyBBbmFseXRpY3MoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgcmVxdWVzdCB9IGZyb20gJy4vcmVxdWVzdCc7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -972,10 +972,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGF1dGggPSBuZXcgQXV0aCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGluZ2VzdHMgPSBuZXcgSW5nZXN0cygpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgcmVxdWVzdCB9IGZyb20gJy4vcmVxdWVzdCc7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
