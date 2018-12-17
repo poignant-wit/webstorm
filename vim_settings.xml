@@ -184,12 +184,6 @@
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventItem.tsx" timestamp="1544608887043">
         <mark key="'" line="167" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/reporters/analytics/AnalyticsReporter.tsx" timestamp="1545041483955">
-        <mark key="[" line="66" column="30" />
-        <mark key="]" line="66" column="30" />
-        <mark key="^" line="66" column="30" />
-        <mark key="." line="66" column="30" />
-      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/.gitignore" timestamp="1543403200832">
         <mark key="[" line="10" column="13" />
         <mark key="]" line="11" column="3" />
@@ -384,11 +378,11 @@
         <mark key="." line="8" column="38" />
         <mark key="^" line="8" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/videos/containers/VideoUploaderContainer.tsx" timestamp="1544777790773">
-        <mark key="[" line="36" column="43" />
-        <mark key="]" line="36" column="52" />
-        <mark key="." line="36" column="52" />
-        <mark key="^" line="36" column="52" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/videos/containers/VideoUploaderContainer.tsx" timestamp="1545051337296">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="55" column="97" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/client/socket/index.ts" timestamp="1544786810456">
         <mark key="[" line="36" column="40" />
@@ -640,12 +634,12 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/SubscriptionsStore.ts" timestamp="1544455220743">
-        <mark key="'" line="66" column="13" />
-        <mark key="[" line="142" column="35" />
-        <mark key="]" line="142" column="35" />
-        <mark key="^" line="51" column="27" />
-        <mark key="." line="142" column="35" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/SubscriptionsStore.ts" timestamp="1545051250356">
+        <mark key="'" line="68" column="13" />
+        <mark key="[" line="31" column="20" />
+        <mark key="]" line="31" column="20" />
+        <mark key="^" line="31" column="20" />
+        <mark key="." line="31" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/containers/apps/AppsContainer.tsx" timestamp="1543314220927">
         <mark key="[" line="1" column="11" />
@@ -722,10 +716,10 @@
         <mark key="." line="0" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/middlewares/initialStateBuilderMiddleware.ts" timestamp="1545042703359">
-        <mark key="[" line="38" column="38" />
-        <mark key="]" line="38" column="38" />
-        <mark key="^" line="38" column="38" />
-        <mark key="." line="38" column="38" />
+        <mark key="[" line="37" column="38" />
+        <mark key="]" line="37" column="38" />
+        <mark key="^" line="37" column="38" />
+        <mark key="." line="37" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/.storybook/config.ts" timestamp="1544702468311" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingDateStep/OnboardingDateStep.tsx" timestamp="1544794418052">
@@ -1038,11 +1032,11 @@
       <jump line="591" column="19" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventModal.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://api-scheduler1.thepastor.io</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKAogICAgICB0aGlzLnByb3BzLnN1YnNjcmlwdGlvbnNTdG9yZSEuY3VycmVudFN1YnNjcmlwdGlvbi5saW1pdGF0aW9ucy5maWxlU2l6ZSwKICAgICk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>https://api-scheduler1.thepastor.io</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXBTZWxlY3RlZENoYW5uZWxzXD4=</text>
@@ -1051,31 +1045,31 @@
         <text encoding="base64">UkFaWkxFX0FQSV9IT1NUPWh0dHBzOi8vYXBpLXNjaGVkdWxlcjEudGhlcGFzdG9yLmlvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHR5cG9ncmFwaHk6ewogICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKAogICAgICB0aGlzLnByb3BzLnN1YnNjcmlwdGlvbnNTdG9yZSEuY3VycmVudFN1YnNjcmlwdGlvbi5saW1pdGF0aW9ucy5maWxlU2l6ZSwKICAgICk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRoaXMucHJvcHMuY2hhbm5lbHNTdG9yZS5sb2FkQ2hhbm5lbHMoKTsK</text>
+        <text encoding="base64">ICAgIHR5cG9ncmFwaHk6ewogICAgICAKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRoaXMucHJvcHMuY2hhbm5lbHNTdG9yZS5sb2FkQ2hhbm5lbHMoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuY2hhbm5lbHNTdG9yZS5hbGxDaGFubmVscy5sZW5ndGgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuY2hhbm5lbHNTdG9yZS5hbGxDaGFubmVscy5sZW5ndGgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgdGhpcy5wcm9wcy5jaGFubmVsc1N0b3JlLmxvYWRDaGFubmVscygpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgdGhpcy5wcm9wcy5jaGFubmVsc1N0b3JlLmxvYWRDaGFubmVscygpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgdGhpcy5wcm9wcy5jaGFubmVsc1N0b3JlLmxvYWRDaGFubmVscygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0NIRUQtMTU0IE1ha2UgdmVydGljYWwgYWxpZ25tZW50IGZvciBPbmJvYXJkaW5nCg==</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgdGhpcy5wcm9wcy5jaGFubmVsc1N0b3JlLmxvYWRDaGFubmVscygpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgW3RoZW1lLmJyZWFrcG9pbnRzLnVwKCdtZCcpXTogewogICAgICB9LAo=</text>
+        <text encoding="base64">U0NIRUQtMTU0IE1ha2UgdmVydGljYWwgYWxpZ25tZW50IGZvciBPbmJvYXJkaW5nCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
