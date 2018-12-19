@@ -415,7 +415,12 @@
         <mark key="." line="8" column="38" />
         <mark key="^" line="8" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/videos/containers/VideoUploaderContainer.tsx" timestamp="1545060546123" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/videos/containers/VideoUploaderContainer.tsx" timestamp="1545218012474">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="19" />
+        <mark key="." line="46" column="19" />
+        <mark key="^" line="46" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/client/socket/index.ts" timestamp="1544786810456">
         <mark key="[" line="36" column="40" />
         <mark key="]" line="36" column="40" />
@@ -1065,17 +1070,17 @@
       <jump line="7" column="4" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/common/modals/ModalRoot.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>fileSize</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>fileSize</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXBlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvblRvZ2dsZUludGVydmFsPXsoKSA9PiB0aGlzLnRvZ2dsZUludGVydmFsKCl9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZpbGVTaXplTGltaXQgPSB0aGlzLnByb3BzLnN1YnNjcmlwdGlvbnNTdG9yZSEuY3VycmVudFN1YnNjcmlwdGlvbgogICAgICAubGltaXRhdGlvbnMuZmlsZVNpemU7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
