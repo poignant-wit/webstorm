@@ -223,12 +223,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingOffers/OnboardingOffersContentSize.tsx" timestamp="1545212211155">
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingOffers/OnboardingOffersContentSize.tsx" timestamp="1545376622569">
         <mark key="'" line="236" column="51" />
-        <mark key="[" line="322" column="0" />
-        <mark key="]" line="322" column="0" />
+        <mark key="[" line="226" column="53" />
+        <mark key="]" line="226" column="54" />
         <mark key="^" line="60" column="21" />
-        <mark key="." line="322" column="0" />
+        <mark key="." line="226" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingOffers/OnboardingOffersContentCount.tsx" timestamp="1545300217968">
         <mark key="[" line="21" column="29" />
@@ -440,9 +440,9 @@
         <mark key="." line="28" column="55" />
         <mark key="^" line="28" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/components/OffersRegular.tsx" timestamp="1545324991043">
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/components/OffersRegular.tsx" timestamp="1545376626314">
         <mark key="'" line="269" column="41" />
-        <mark key="[" line="272" column="0" />
+        <mark key="[" line="316" column="25" />
         <mark key="]" line="272" column="50" />
         <mark key="." line="272" column="46" />
         <mark key="^" line="272" column="50" />
@@ -569,11 +569,12 @@
         <mark key="." line="151" column="33" />
         <mark key="^" line="151" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545326663406">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1545376678877">
+        <mark key="'" line="0" column="22" />
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/upgrade/UpgradePage.tsx" timestamp="1545229818158">
         <mark key="[" line="12" column="27" />
@@ -719,11 +720,11 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingOffers/OnboardingOffersRegular.tsx" timestamp="1545225519101">
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingOffers/OnboardingOffersRegular.tsx" timestamp="1545376609873">
         <mark key="'" line="363" column="45" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="181" column="6" />
-        <mark key="." line="355" column="28" />
+        <mark key="[" line="334" column="25" />
+        <mark key="]" line="334" column="26" />
+        <mark key="." line="334" column="26" />
         <mark key="^" line="121" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/RoutingStore.ts" timestamp="1543928397607">
@@ -750,8 +751,8 @@
         <mark key="." line="9" column="56" />
         <mark key="^" line="9" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/components/OffersContentSize.tsx" timestamp="1545325038987">
-        <mark key="[" line="260" column="24" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/components/OffersContentSize.tsx" timestamp="1545376630880">
+        <mark key="[" line="221" column="53" />
         <mark key="]" line="265" column="27" />
         <mark key="." line="265" column="27" />
         <mark key="^" line="265" column="27" />
@@ -1158,7 +1159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="16" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/playlists/components/PlaylistModal.tsx" />
       <jump line="42" column="26" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingDateStep/OnboardingDateStep.tsx" />
       <jump line="102" column="62" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/videos/components/VideoItem.tsx" />
       <jump line="114" column="62" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/videos/components/VideoItem.tsx" />
@@ -1258,13 +1258,14 @@
       <jump line="26" column="50" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/support/BootstrapStore.ts" />
       <jump line="299" column="38" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/header/containers/HeaderContainer.tsx" />
       <jump line="300" column="39" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/header/containers/HeaderContainer.tsx" />
+      <jump line="0" column="22" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>feat</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>feat</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbWFpbFw+</text>
