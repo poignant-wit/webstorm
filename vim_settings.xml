@@ -40,8 +40,11 @@
         <mark key="^" line="8" column="49" />
         <mark key="." line="8" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" timestamp="1545394627551">
-        <mark key="'" line="216" column="30" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" timestamp="1545397015519">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="12" column="88" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/billing/containers/BillingPaymentContainer.tsx" timestamp="1543243255092">
         <mark key="[" line="104" column="34" />
@@ -538,12 +541,12 @@
         <mark key="." line="151" column="33" />
         <mark key="^" line="151" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545388105230">
+      <file name="/Dummy.txt" timestamp="1545397042913">
         <mark key="'" line="0" column="22" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="31" />
-        <mark key="^" line="0" column="31" />
-        <mark key="." line="0" column="31" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/upgrade/UpgradePage.tsx" timestamp="1545229818158">
         <mark key="[" line="12" column="27" />
@@ -1211,8 +1214,8 @@
       <jump line="216" column="30" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Zml4OiBEb2NrZXJmaWxlIHBsYWNlbWVudAo=</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -1221,34 +1224,34 @@
         <text encoding="base64">XDx2ZXJpZnlUb2tlblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UkFaWkxFX0FQSV9WSURFT19IT1NUPWh0dHBzOi8vdmlkZW8tYXBpLXNjaGVkdWxlcjIudGhlcGFzdG9yLmlvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNvY2tldCkgewogICAgICAgICAgICAgICAgaW8uaW4odXNlcklkLnRvU3RyaW5nKCkpLmVtaXQoJ3ZpZGVvIHByb2Nlc3NlZCcsIHsKICAgICAgICAgICAgICAgICAgICBpZDogdmlkZW8uaWQsIHByb2Nlc3NlZDogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICB2YWxpZDogZmFsc2UsCiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndXBsb2FkIGZpbGUgZmluaXNoJykK</text>
+        <text encoding="base64">Zml4OiBEb2NrZXJmaWxlIHBsYWNlbWVudAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgZnMgZnJvbSAnZnMnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtwcmVtdXhWaWRlb30gZnJvbSAnLi4vdXRpbHMvZmZtcGVnJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtnZXRDb2RlY3NBbmREdXJhdGlvbn0gZnJvbSAnLi4vdXRpbHMvZmZtcGVnJzsK</text>
+        <text encoding="base64">ICAgIH1jYXRjaCAoZSkgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtnZXRCaXRyYXRlQW5kS2ZJbnRlcnZhbH0gZnJvbSAnLi4vdXRpbHMvZmZtcGVnJzsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndXBsb2FkIGZpbGUgZmluaXNoJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKTsK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgZnMgZnJvbSAnZnMnOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHtwcmVtdXhWaWRlb30gZnJvbSAnLi4vdXRpbHMvZmZtcGVnJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtnZXRDb2RlY3NBbmREdXJhdGlvbn0gZnJvbSAnLi4vdXRpbHMvZmZtcGVnJzsKaW1wb3J0IHtnZXRCaXRyYXRlQW5kS2ZJbnRlcnZhbH0gZnJvbSAnLi4vdXRpbHMvZmZtcGVnJzsK</text>
+        <text encoding="base64">aW1wb3J0IHtnZXRDb2RlY3NBbmREdXJhdGlvbn0gZnJvbSAnLi4vdXRpbHMvZmZtcGVnJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZ1JpZ2h0OiAxNiwK</text>
+        <text encoding="base64">aW1wb3J0IHtnZXRCaXRyYXRlQW5kS2ZJbnRlcnZhbH0gZnJvbSAnLi4vdXRpbHMvZmZtcGVnJzsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
