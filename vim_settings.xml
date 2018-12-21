@@ -40,12 +40,8 @@
         <mark key="^" line="8" column="49" />
         <mark key="." line="8" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" timestamp="1545392709409">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="27" column="41" />
-        <mark key="]" line="27" column="41" />
-        <mark key="." line="27" column="41" />
-        <mark key="^" line="27" column="41" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" timestamp="1545394627551">
+        <mark key="'" line="216" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/billing/containers/BillingPaymentContainer.tsx" timestamp="1543243255092">
         <mark key="[" line="104" column="34" />
@@ -1113,11 +1109,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="4" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingVideosStep/OnboardingVideoItem.tsx" />
-      <jump line="132" column="33" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingVideosStep/OnboardingVideoItem.tsx" />
       <jump line="22" column="6" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
-      <jump line="29" column="0" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
       <jump line="268" column="12" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
       <jump line="333" column="8" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
       <jump line="100" column="16" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
@@ -1213,6 +1206,9 @@
       <jump line="18" column="6" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
       <jump line="20" column="0" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
       <jump line="25" column="0" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
+      <jump line="29" column="26" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
+      <jump line="186" column="13" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
+      <jump line="216" column="30" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1222,7 +1218,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGxvYWRlclw+</text>
+        <text encoding="base64">XDx2ZXJpZnlUb2tlblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UkFaWkxFX0FQSV9WSURFT19IT1NUPWh0dHBzOi8vdmlkZW8tYXBpLXNjaGVkdWxlcjIudGhlcGFzdG9yLmlvCg==</text>
@@ -1259,9 +1255,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGxvYWRlclw+</last-search>
+      <last-search encoding="base64">XDx2ZXJpZnlUb2tlblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGxvYWRlclw+</last-pattern>
+      <last-pattern encoding="base64">XDx2ZXJpZnlUb2tlblw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxtZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1269,7 +1265,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXBlclw+</entry>
         <entry encoding="base64">XDxzaG93TW9kYWxcPg==</entry>
         <entry>zIndex</entry>
         <entry>redirect</entry>
@@ -1289,6 +1284,7 @@
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxnZXRTdWJzY3JpcHRpb25cPg==</entry>
         <entry encoding="base64">XDx1cGxvYWRlclw+</entry>
+        <entry encoding="base64">XDx2ZXJpZnlUb2tlblw+</entry>
       </history-search>
       <history-cmd>
         <entry>action Vcs.UpdateProject</entry>
