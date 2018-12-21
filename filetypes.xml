@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="environment" type="PLAIN_TEXT" />
       <mapping pattern="browserslist" type="PLAIN_TEXT" />
+      <mapping ext="development" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
