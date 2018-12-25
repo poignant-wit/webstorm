@@ -1226,6 +1226,12 @@
         <mark key="." line="12" column="56" />
         <mark key="^" line="9" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/components/OffersEventDuration.tsx" timestamp="1545740033238">
+        <mark key="[" line="322" column="0" />
+        <mark key="]" line="322" column="0" />
+        <mark key="^" line="154" column="26" />
+        <mark key="." line="322" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/utils/authRestremUrl.ts" timestamp="1542718216796">
         <mark key="[" line="12" column="132" />
         <mark key="]" line="12" column="132" />
@@ -1337,10 +1343,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ29mZmVycycsIHNob3dNb2RhbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5hbHl0aWNzUmVwb3J0ZXIubG9nRXZlbnQoJ29mZmVyX2NvbnRlbnRkdXJhdGlvbl9hY3Rpb24nLCB7CiAgICAgICAgICAgICAgY29udHJvbDogJ29rJywKICAgICAgICAgICAgICBwbGFuTmFtZTogYCR7b2ZmZXIudHlwZX1fJHtpc01vbnRobHkgPyAnbW9udGhseScgOiAneWVhcmx5J31gLAogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>ConfirmationModal</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFdmVudHNDb250YWluZXJcPg==</text>
@@ -1349,31 +1355,31 @@
         <text encoding="base64">ICAgIGZ1bGxTY3JlZW4/OiBib29sZWFuLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ29mZmVycycsIHNob3dNb2RhbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5hbHl0aWNzUmVwb3J0ZXIubG9nRXZlbnQoJ29mZmVyX2NvbnRlbnRkdXJhdGlvbl9hY3Rpb24nLCB7CiAgICAgICAgICAgICAgY29udHJvbDogJ29rJywKICAgICAgICAgICAgICBwbGFuTmFtZTogYCR7b2ZmZXIudHlwZX1fJHtpc01vbnRobHkgPyAnbW9udGhseScgOiAneWVhcmx5J31gLAogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMub25DbG9zZSgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgYW5hbHl0aWNzUmVwb3J0ZXIgfSBmcm9tICcuLi8uLi8uLi8uLi9yZXBvcnRlcnMvYW5hbHl0aWNzL0FuYWx5dGljc1JlcG9ydGVyJzsKaW1wb3J0IHsgSVN1YnNjcmlwdGlvblBsYW4gfSBmcm9tICcuLi8uLi8uLi8uLi9zdG9yZS9TdWJzY3JpcHRpb25zU3RvcmUnOwppbXBvcnQgeyBPbmJvYXJkaW5nUHJpbWFyeVRleHQgfSBmcm9tICcuLi9jb21tb24vT25ib2FyZGluZ1ByaW1hcnlUZXh0JzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdoaScK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjb21wb25lbnREaWRNb3VudCgpOiB2b2lkIHsKICAgICAgYW5hbHl0aWNzUmVwb3J0ZXIubG9nRXZlbnQoJ29mZmVyX3RkdXJhdGlvbl9zaG93bicsIHsKICAgICAgICBrZXk6ICdERUZBVUxUJywKICAgICAgfSk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzaG93TW9kQ29uZmlybWF0aW9uTW9kYWxsJywgY29tcG9uZW50KQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ29mZmVycycsIHNob3dNb2RhbCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4K</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMub25DbG9zZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzaG93TW9kYWw6Cg==</text>
+        <text encoding="base64">ICAgICdoaScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzaG93TW9kQ29uZmlybWF0aW9uTW9kYWxsJywgY29tcG9uZW50KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiA8VmlkZW9VcGxvYWRQcm9ncmVzcyBzaG93TW9kYWw9e3Nob3dNb2RhbH0gLz47Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxFdmVudHNDb250YWluZXIgLz4K</text>
+        <text encoding="base64">ICBzaG93TW9kYWw6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
