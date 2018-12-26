@@ -201,8 +201,8 @@
         <mark key="." line="28" column="7" />
         <mark key="^" line="28" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/Event.ts" timestamp="1545656455281">
-        <mark key="'" line="171" column="19" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/Event.ts" timestamp="1545810900289">
+        <mark key="'" line="162" column="9" />
         <mark key="[" line="16" column="13" />
         <mark key="]" line="16" column="18" />
         <mark key="." line="16" column="18" />
@@ -1246,7 +1246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="329" column="12" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/components/OffersContentSize.tsx" />
       <jump line="353" column="25" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/components/OffersContentCount.tsx" />
       <jump line="170" column="2" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/components/OffersContentCount.tsx" />
       <jump line="327" column="12" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/components/OffersContentCount.tsx" />
@@ -1346,6 +1345,7 @@
       <jump line="184" column="9" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/components/OffersEventDuration.tsx" />
       <jump line="325" column="10" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/components/OffersEventDuration.tsx" />
       <jump line="2" column="9" filename="/SubscriptionsStore.ts" />
+      <jump line="162" column="9" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/Event.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1355,7 +1355,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBTkFMWVRJQ1NfRVZFTlRcPg==</text>
+        <text encoding="base64">XDxlcnJvclR5cGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFuYWx5dGljc1JlcG9ydGVyLmxvZ0V2ZW50KGAke3RoaXMuYW5hbHl0aWNzRXZlbnQoKX1fc2hvd25gLCB7fSk7Cg==</text>
@@ -1396,9 +1396,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBTkFMWVRJQ1NfRVZFTlRcPg==</last-search>
+      <last-search encoding="base64">XDxlcnJvclR5cGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBTkFMWVRJQ1NfRVZFTlRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxlcnJvclR5cGVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxtZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1406,7 +1406,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYXBTZWxlY3RlZENoYW5uZWxzXD4=</entry>
         <entry encoding="base64">XDxvblN1Ym1pdFw+</entry>
         <entry>mani</entry>
         <entry encoding="base64">XDxhc3NldHNcPg==</entry>
@@ -1426,6 +1425,7 @@
         <entry encoding="base64">XDxjb250YWluZXJcPg==</entry>
         <entry encoding="base64">XDxPZmZlcnNDb250ZW50XD4=</entry>
         <entry encoding="base64">XDxBTkFMWVRJQ1NfRVZFTlRcPg==</entry>
+        <entry encoding="base64">XDxlcnJvclR5cGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action Vcs.UpdateProject</entry>
