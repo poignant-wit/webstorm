@@ -763,12 +763,12 @@
         <mark key="." line="43" column="33" />
         <mark key="^" line="43" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" timestamp="1545917169021">
-        <mark key="'" line="348" column="25" />
-        <mark key="[" line="282" column="2" />
-        <mark key="]" line="282" column="8" />
-        <mark key="." line="282" column="8" />
-        <mark key="^" line="282" column="8" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" timestamp="1545919769226">
+        <mark key="'" line="354" column="25" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="65" column="49" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/layout/Header/Header.tsx" timestamp="1543350229464">
         <mark key="[" line="20" column="0" />
@@ -916,12 +916,9 @@
         <mark key="." line="11" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/containers/OffersContainer.tsx" timestamp="1545917816135" />
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" timestamp="1545918652667">
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" timestamp="1545919381823">
         <mark key="'" line="6" column="47" />
-        <mark key="[" line="327" column="0" />
-        <mark key="]" line="327" column="0" />
-        <mark key="." line="327" column="0" />
-        <mark key="^" line="346" column="59" />
+        <mark key="^" line="327" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/OnboardingStore.ts" timestamp="1544691592267">
         <mark key="[" line="16" column="49" />
@@ -1232,43 +1229,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCF0aGlzLnByb3BzLnN1YnNjcmlwdGlvbnNTdG9yZSEuaXNOb3RGcmVlUGxhbikgewogICAgICAgIHJldHVybiBzaG93TW9kYWwoCiAgICAgICAgICBPZmZlcnNNb2RhbCwKICAgICAgICAgIHsKICAgICAgICAgICAgdHlwZTogJ3JlZ3VsYXInLAogICAgICAgICAgfSwKICAgICAgICAgIHRydWUsCiAgICAgICAgKTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICBbRVZFTlRfRVJST1IuQUxSRUFEWV9BQ1RJVkVfRVZFTlRdOiB7CiAgICBtZXNzYWdlOiAndGhlcmVfaXNfYW5fYWN0aXZlX2V2ZW50X2FscmVhZHknLAogICAgY2xpZW50TWVzc2FnZTogJ1RoZXJlIGlzIGFuIGFjdGl2ZSBldmVudCBhbHJlYWR5JywKICB9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Event count limit exceeded</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbHVja1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBmZWF0dXJlc1N0b3JlPzogRmVhdHVyZXNTdG9yZTsK</text>
+        <text encoding="base64">ICBbRVZFTlRfRVJST1IuQUxSRUFEWV9BQ1RJVkVfRVZFTlRdOiB7CiAgICBtZXNzYWdlOiAndGhlcmVfaXNfYW5fYWN0aXZlX2V2ZW50X2FscmVhZHknLAogICAgY2xpZW50TWVzc2FnZTogJ1RoZXJlIGlzIGFuIGFjdGl2ZSBldmVudCBhbHJlYWR5JywKICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCF0aGlzLnByb3BzLnN1YnNjcmlwdGlvbnNTdG9yZSEuaXNOb3RGcmVlUGxhbikgewogICAgICAgIHJldHVybiBzaG93TW9kYWwoCiAgICAgICAgICBPZmZlcnNNb2RhbCwKICAgICAgICAgIHsKICAgICAgICAgICAgdHlwZTogJ3JlZ3VsYXInLAogICAgICAgICAgfSwKICAgICAgICAgIHRydWUsCiAgICAgICAgKTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICBbRVZFTlRfRVJST1IuQUxSRUFEWV9BQ1RJVkVfRVZFTlRdOiB7CiAgICBtZXNzYWdlOiAndGhlcmVfaXNfYW5fYWN0aXZlX2V2ZW50X2FscmVhZHknLAogICAgY2xpZW50TWVzc2FnZTogJ1RoZXJlIGlzIGFuIGFjdGl2ZSBldmVudCBhbHJlYWR5JywKICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0YXNrSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgdmlkZW9zU3RvcmUsCiAgICAgIHBsYXlsaXN0c1N0b3JlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc3Vic2NyaXB0aW9uc1N0b3JlLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRhc2tJZCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGF3YWl0IGV2ZW50c1N0b3JlIS5zYXZlRXZlbnQoCiAgICAvLyAgIHsKICAgIC8vICAgICBpZCwKICAgIC8vICAgICB0aXRsZSwKICAgIC8vICAgICBzdGFydEV2ZW50QXQsCiAgICAvLyAgICAgdmlkZW9JZHMsCiAgICAvLyAgICAgcmVwZWF0LAogICAgLy8gICAgIHJlcGVhdEludGVydmFsLAogICAgLy8gICAgIGNoYW5uZWxzLAogICAgLy8gICAgIHBsYXlsaXN0SWQsCiAgICAvLyAgIH0sCiAgICAvLyAgIGNsb25lLAogICAgLy8gKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCF0aGlzLnByb3BzLnN1YnNjcmlwdGlvbnNTdG9yZSEuaXNOb3RGcmVlUGxhbikgewogICAgICAgIHJldHVybiBzaG93TW9kYWwoCiAgICAgICAgICBPZmZlcnNNb2RhbCwKICAgICAgICAgIHsKICAgICAgICAgICAgdHlwZTogJ3JlZ3VsYXInLAogICAgICAgICAgfSwKICAgICAgICAgIHRydWUsCiAgICAgICAgKTsKICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0YXNrSWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza0lkOiB0aGlzLnByb3BzLnRhc2tJZCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRhc2tJZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW0K</text>
+        <text encoding="base64">ICAgICAgcwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
