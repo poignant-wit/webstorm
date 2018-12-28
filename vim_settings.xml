@@ -144,7 +144,7 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/reporters/analytics/AnalyticsReporter.tsx" timestamp="1545914502759">
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/reporters/analytics/AnalyticsReporter.tsx" timestamp="1546000138815">
         <mark key="[" line="65" column="30" />
         <mark key="]" line="65" column="30" />
         <mark key="^" line="65" column="30" />
@@ -482,6 +482,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="10" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/public/landing.html" timestamp="1546001682220">
+        <mark key="[" line="200" column="46" />
+        <mark key="]" line="205" column="12" />
+        <mark key="." line="205" column="12" />
+        <mark key="^" line="205" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/common/modals/OffersModal.tsx" timestamp="1545222392886">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -536,6 +542,12 @@
         <mark key="]" line="2" column="17" />
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/middlewares/publicFolderRedirectMiddleware.ts" timestamp="1546001538604">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/common/modals/OffersModal/OffersModal.scss" timestamp="1545238100250">
         <mark key="[" line="0" column="13" />
@@ -807,11 +819,6 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/base/Store.ts" timestamp="1545927014898">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/components/layout/OffersContent/OffersContent.scss" timestamp="1545234286296">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -909,11 +916,16 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/routes.ts" timestamp="1545999565078">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="26" />
-        <mark key="." line="18" column="26" />
-        <mark key="^" line="18" column="26" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/middlewares/guardTemplatesMiddleware.ts" timestamp="1546001548181">
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/routes.ts" timestamp="1546001021145">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="20" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/PermissionsStore.ts" timestamp="1545902088958">
         <mark key="[" line="25" column="14" />
@@ -963,9 +975,11 @@
         <mark key="." line="16" column="102" />
         <mark key="^" line="16" column="102" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/index.ts" timestamp="1545999433104">
-        <mark key="'" line="4" column="7" />
-        <mark key="[" line="25" column="27" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/index.ts" timestamp="1546001572868">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="33" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/Playlists.ts" timestamp="1545648108728">
         <mark key="[" line="5" column="0" />
@@ -1278,49 +1292,47 @@
       <jump line="4" column="7" filename="$USER_HOME$/Documents/_own/with-typescript/src/server/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>index</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YW5vbnltb3VzUm91dGVyLmdldCgnL3NpZ25pbicsIHNpZ251cChmYWxzZSkpOwo=</text>
+        <text encoding="base64">ICBpZiAoY3R4LnJlcXVlc3QudXJsID09PSAnL2xhbmRpbmcuaHRtbCcpIHsKICAgIGN0eC5yZWRpcmVjdCgnLycpOwogIH0KICBhd2FpdCBuZXh0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YW5vbnltb3VzUm91dGVyLmdldCgnL3NpZ25pbicsIHNpZ251cChmYWxzZSkpOwo=</text>
-      </register>
-      <register name="2" type="4">
-        <text>{
-
-  }</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIG1hcDogewogICAgICBodG1sOiAndW5kZXJzY29yZScsCiAgICB9LA==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBuZXh0OiAoKSA9PiB2b2lkLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHZpZXdzIGZyb20gJ2tvYS12aWV3cyc7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">YXBwLgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">YXBwLnVzZShhc3luYyAoY3R4OiBDb250ZXh0LCBuZXh0KSA9PiB7CiAgaWYgKGN0eC5yZXF1ZXN0LnVybCA9PT0gJy9sYW5kaW5nLmh0bWwnKSB7CiAgICBjdHgucmVkaXJlY3QoJy8nKTsKICB9CiAgYXdhaXQgbmV4dCgpOwp9KTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvLyBjdHgucmVkaXJlY3QoJy90ZXN0Jyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBpZigpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBwLnVzZSh2aWV3cyhwdWJsaWNEaXJQYXRoICsgJy92aWV3cycpKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVkaXJlY3QnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gYW5vbnltb3VzUm91dGVyLmdldCgnLycsIGFzeW5jIChjdHg6IENvbnRleHQpID0+IHsKLy8gICBhd2FpdCBjdHgucmVuZGVyKCdpbmRleCcpOwovLyB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHVibGljRGlyUGF0aCk7Cg==</text>
+        <text encoding="base64">YXBwLnVzZSgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -1368,11 +1380,11 @@
         <entry>action EditorDuplicate</entry>
         <entry>action ImplementMethods</entry>
         <entry>action Replace</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>action $SelectAll</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
