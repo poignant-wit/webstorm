@@ -438,11 +438,11 @@
         <mark key="^" line="49" column="25" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/public/index.html" timestamp="1545998489024">
+      <file name="$USER_HOME$/Documents/_own/with-typescript/public/index.html" timestamp="1545999352684">
         <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="17" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/playlists/components/PlaylistsBetaWarning.tsx" timestamp="1544607848072">
         <mark key="[" line="10" column="0" />
@@ -909,11 +909,11 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/routes.ts" timestamp="1545993980072">
-        <mark key="[" line="18" column="38" />
-        <mark key="]" line="18" column="42" />
-        <mark key="." line="18" column="42" />
-        <mark key="^" line="18" column="42" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/routes.ts" timestamp="1545999565078">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="26" />
+        <mark key="." line="18" column="26" />
+        <mark key="^" line="18" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/PermissionsStore.ts" timestamp="1545902088958">
         <mark key="[" line="25" column="14" />
@@ -963,12 +963,9 @@
         <mark key="." line="16" column="102" />
         <mark key="^" line="16" column="102" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/index.ts" timestamp="1545993435544">
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/index.ts" timestamp="1545999433104">
         <mark key="'" line="4" column="7" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="22" column="42" />
+        <mark key="[" line="25" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/Playlists.ts" timestamp="1545648108728">
         <mark key="[" line="5" column="0" />
@@ -1282,43 +1279,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>index</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YW5vbnltb3VzUm91dGVyLmdldCgnL3NpZ251cCcsIHNpZ251cCh0cnVlKSk7Cg==</text>
+        <text encoding="base64">YW5vbnltb3VzUm91dGVyLmdldCgnL3NpZ25pbicsIHNpZ251cChmYWxzZSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBuZXh0OiAoKSA9PiB2b2lkLAo=</text>
+        <text encoding="base64">YW5vbnltb3VzUm91dGVyLmdldCgnL3NpZ25pbicsIHNpZ251cChmYWxzZSkpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHZpZXdzIGZyb20gJ2tvYS12aWV3cyc7Cg==</text>
+      <register name="2" type="4">
+        <text>{
+
+  }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIG1hcDogewogICAgICBodG1sOiAndW5kZXJzY29yZScsCiAgICB9LA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXBwLnVzZSh2aWV3cyhwdWJsaWNEaXJQYXRoICsgJy92aWV3cycpKTsK</text>
+        <text encoding="base64">ICBuZXh0OiAoKSA9PiB2b2lkLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gYW5vbnltb3VzUm91dGVyLmdldCgnLycsIGFzeW5jIChjdHg6IENvbnRleHQpID0+IHsKLy8gICBhd2FpdCBjdHgucmVuZGVyKCdpbmRleCcpOwovLyB9KTsK</text>
+        <text encoding="base64">aW1wb3J0IHZpZXdzIGZyb20gJ2tvYS12aWV3cyc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHVibGljRGlyUGF0aCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coX19kaXJuYW1lLnJlcGxhY2UoJy9idWlsZCcsICcvcHVibGljJykpOwo=</text>
+        <text encoding="base64">YXBwLnVzZSh2aWV3cyhwdWJsaWNEaXJQYXRoICsgJy92aWV3cycpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA6ICcuLi9wdWJsaWMnOwo=</text>
+        <text encoding="base64">Ly8gYW5vbnltb3VzUm91dGVyLmdldCgnLycsIGFzeW5jIChjdHg6IENvbnRleHQpID0+IHsKLy8gICBhd2FpdCBjdHgucmVuZGVyKCdpbmRleCcpOwovLyB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocHVibGljRGlyUGF0aCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
