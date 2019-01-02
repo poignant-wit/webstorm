@@ -15,6 +15,12 @@
         <mark key="^" line="85" column="44" />
         <mark key="." line="85" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1546429589624">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/playlists/containers/PlaylistsContainer.tsx" timestamp="1546427675606">
         <mark key="'" line="17" column="27" />
         <mark key="[" line="85" column="0" />
@@ -22,16 +28,14 @@
         <mark key="^" line="80" column="18" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" timestamp="1546428335558">
-        <mark key="'" line="318" column="76" />
-        <mark key="[" line="394" column="4" />
-        <mark key="]" line="394" column="4" />
-        <mark key="." line="394" column="4" />
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" timestamp="1546429558141">
+        <mark key="'" line="421" column="25" />
+        <mark key="[" line="436" column="22" />
+        <mark key="]" line="436" column="22" />
+        <mark key="." line="436" column="22" />
+        <mark key="^" line="436" column="22" />
       </file>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/AppAuth.tsx" timestamp="1546425808914">
-        <mark key="[" line="86" column="7" />
-        <mark key="]" line="86" column="20" />
-        <mark key="." line="86" column="20" />
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/AppAuth.tsx" timestamp="1546429440149">
         <mark key="^" line="86" column="20" />
       </file>
       <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/onboarding/containers/OnboardingContainer.tsx" timestamp="1546423393374" />
@@ -51,11 +55,11 @@
         <mark key="]" line="10" column="26" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/common/modals/ModalRoot.tsx" timestamp="1546428257761">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="58" />
-        <mark key="^" line="58" column="29" />
-        <mark key="." line="58" column="29" />
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/common/modals/ModalRoot.tsx" timestamp="1546429503909">
+        <mark key="[" line="50" column="36" />
+        <mark key="]" line="50" column="36" />
+        <mark key="^" line="50" column="36" />
+        <mark key="." line="50" column="36" />
       </file>
       <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/store/ui/UIModalStore.ts" timestamp="1546428213644">
         <mark key="'" line="8" column="16" />
@@ -74,55 +78,71 @@
       <jump line="58" column="2" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
       <jump line="163" column="12" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
       <jump line="318" column="76" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
+      <jump line="217" column="47" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
+      <jump line="375" column="10" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
+      <jump line="214" column="22" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
+      <jump line="225" column="47" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
+      <jump line="264" column="47" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
+      <jump line="380" column="10" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
+      <jump line="218" column="22" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
+      <jump line="261" column="22" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
+      <jump line="277" column="12" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
+      <jump line="359" column="14" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
+      <jump line="368" column="25" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
+      <jump line="379" column="25" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
+      <jump line="400" column="25" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
+      <jump line="416" column="25" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
+      <jump line="426" column="25" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICBjbGFzc2VzPXt2YWx1ZS5mdWxsU2NyZWVuID8gY2xhc3NlcyA6IHt9fQo=</text>
+        <text encoding="base64">Zml4OiBtYXJrdXAgZml4ZXMK</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>showMo</text>
+        <text>showModal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICBjbGFzc2VzPXt2YWx1ZS5mdWxsU2NyZWVuID8gY2xhc3NlcyA6IHt9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogJ0FyZSB5b3Ugc3VyZSB0byBjYW5jZWwgdGhpcyBldmVudD8nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgRXZlbnRNb2RhbCwgewo=</text>
+        <text encoding="base64">Zml4OiBtYXJrdXAgZml4ZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZXZlbnQsCiAgICAgIG9uU2F2ZTogdGhpcy5oYW5kbGVPbkNsaWNrU2F2ZUV2ZW50LAo=</text>
+        <text encoding="base64">ICBzaG93TW9kYWw6ICgKICAgIGNvbXBvbmVudDogUmVhY3QuQ29tcG9uZW50VHlwZTxJTW9kYWxDb250ZW50UHJvcHMgJiBhbnk+LAogICAgcHJvcHM6IG9iamVjdCwKICAgIGZ1bGxTY3JlZW4/OiBib29sZWFuLAogICkgPT4gdm9pZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hvd01vZGFsPXtzaG93TW9kYWx9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="4" type="4">
+        <text>{
+      }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZTogIllvdSBoYXZlbid0IHVwbG9hZGVkIGFueSB2aWRlbyB0byBsaXZlIHN0cmVhbSIsCiAgICAgICAgb25TdWJtaXQ6ICgpID0+IHBpY2tGaWxlKCksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNob3dNb2RhbChFdmVudE1vZGFsLCB7CiAgICAgIGV2ZW50OiBjbG9uZUV2ZW50LAogICAgICBvblNhdmU6IHRoaXMuaGFuZGxlT25DbGlja1NhdmVFdmVudCwKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRydWUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIE9mZmVyc01vZGFsLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHNob3dNb2RhbChFdmVudE1vZGFsLCB7CiAgICAvLyAgIGV2ZW50LAogICAgLy8gICBvblNhdmU6IHRoaXMuaGFuZGxlT25DbGlja1NhdmVFdmVudCwKICAgIC8vIH0pOwoKICAgIGNvbnNvbGUubG9nKCdORVcgV0VWRU5UJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogJ2V2ZW50RHVyYXRpb24nLAogICAgICAgICAgICBmaWx0ZXJPZmZlcnM6IChvZmZlcjogSVN1YnNjcmlwdGlvblBsYW4pID0+CiAgICAgICAgICAgICAgb2ZmZXIudmlkZW9zRHVyYXRpb24gPiBkdXJhdGlvbiwKICAgICAgICAgICAgdGFza0lkLAo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>showMo</last-search>
+      <last-search>showModal</last-search>
       <last-offset />
-      <last-pattern>showMo</last-pattern>
+      <last-pattern>showModal</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -132,6 +152,11 @@
         <entry encoding="base64">XDxpc1NlcnZlclw+</entry>
         <entry encoding="base64">XDxzaG93TW9kYWxcPg==</entry>
         <entry>showMo</entry>
+        <entry encoding="base64">XDxoYW5kbGVPbkNsaWNrUmVtb3ZlRXZlbnRcPg==</entry>
+        <entry encoding="base64">XDxvbkNsaWNrUmVtb3ZlRXZlbnRcPg==</entry>
+        <entry encoding="base64">XDxoYW5kbGVPbkNsaWNrQ2FuY2VsRXZlbnRcPg==</entry>
+        <entry encoding="base64">XDxvbkNsaWNrQ2FuY2VsRXZlbnRcPg==</entry>
+        <entry>showModal</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoFile</entry>
