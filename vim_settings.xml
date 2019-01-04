@@ -96,11 +96,11 @@
         <mark key="." line="8" column="8" />
         <mark key="^" line="8" column="8" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/router/src/Main.tsx" timestamp="1546634342401">
-        <mark key="[" line="49" column="46" />
-        <mark key="]" line="49" column="50" />
-        <mark key="." line="49" column="50" />
-        <mark key="^" line="49" column="50" />
+      <file name="$USER_HOME$/WebstormProjects/router/src/Main.tsx" timestamp="1546635304823">
+        <mark key="[" line="24" column="38" />
+        <mark key="]" line="24" column="40" />
+        <mark key="." line="24" column="40" />
+        <mark key="^" line="24" column="40" />
       </file>
       <file name="/Dummy.txt" timestamp="1546611239135">
         <mark key="[" line="0" column="0" />
@@ -108,11 +108,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/router/src/RoutingStore.ts" timestamp="1546634609874">
-        <mark key="[" line="42" column="47" />
-        <mark key="]" line="42" column="52" />
-        <mark key="." line="42" column="52" />
-        <mark key="^" line="42" column="52" />
+      <file name="$USER_HOME$/WebstormProjects/router/src/RoutingStore.ts" timestamp="1546635842402">
+        <mark key="[" line="61" column="23" />
+        <mark key="]" line="61" column="23" />
+        <mark key="." line="61" column="23" />
+        <mark key="^" line="61" column="23" />
       </file>
       <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/store/validators/FileValidator.ts" timestamp="1546610742579">
         <mark key="[" line="16" column="0" />
@@ -132,6 +132,12 @@
         <mark key="^" line="9" column="8" />
         <mark key="." line="9" column="8" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/router/src/RootViewModel.ts" timestamp="1546635524328">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+      </file>
       <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/videos/containers/VideoUploaderContainer.tsx" timestamp="1546608326462">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="64" column="31" />
@@ -145,11 +151,11 @@
         <mark key="^" line="75" column="51" />
         <mark key="." line="75" column="51" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/router/src/ViewStore.ts" timestamp="1546634317071">
-        <mark key="[" line="25" column="11" />
-        <mark key="]" line="25" column="23" />
-        <mark key="." line="25" column="23" />
-        <mark key="^" line="25" column="23" />
+      <file name="$USER_HOME$/WebstormProjects/router/src/ViewStore.ts" timestamp="1546635934548">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+        <mark key="^" line="20" column="24" />
       </file>
       <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/common/modals/ModalRoot.tsx" timestamp="1546429503909">
         <mark key="[" line="50" column="36" />
@@ -215,7 +221,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>replace</text>
+        <text>{
+      fireImmediately: true,
+    }</text>
       </register>
       <register name="-" type="4">
         <text>replace</text>
@@ -226,32 +234,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZih0aGlzLnRlbXAubmFtZSA9PT0gY3VycmVudC5uYW1lKXsKICAgICAgICAgIHRoaXMuY29udGVudC5wYXJhbXMgPSB0aGlzLnRlbXAucGFyYW1zOwogICAgICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>{
+      fireImmediately: true,
+    }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">cGFyYW06IGFyYW0nIH0pfQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgRXJyb3IgbW9kYWwKICAgICAgICAgICAgPC9oNT4KICAgICAgICAgICAgPGg1CiAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gdGhpcy5wcm9wcy5zdG9yZSEubmF2aWdhdGUoJ3NlY29uZCcsIHtwYXJhbTogJ3BhcmFtJywgZnVuYzogKCkgPT4gY29uc29sZS5sb2coJ2Z1bmMnKX0pfQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgU2Vjb25kCiAgICAgICAgICAgIDwvaDU+CiAgICAgICAgICAgIDxoNQogICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHRoaXMucHJvcHMuc3RvcmUhLm5hdmlnYXRlKCdmaXJzdCcsIHt0YXNrSWQ6ICdpZCd9KX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIEZpcnN0CiAgICAgICAgICAgIDwvaDU+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApCiAgICAgIGRlZmF1bHQ6CiAgICAgICAgcmV0dXJuIG51bGw=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBPbmJvYXJkaW5nCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">cGFyYW06IGFyYW0nIH0pfQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgRXJyb3IgbW9kYWwKICAgICAgICAgICAgPC9oNT4KICAgICAgICAgICAgPGg1CiAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gdGhpcy5wcm9wcy5zdG9yZSEubmF2aWdhdGUoJ3NlY29uZCcsIHtwYXJhbTogJ3BhcmFtJywgZnVuYzogKCkgPT4gY29uc29sZS5sb2coJ2Z1bmMnKX0pfQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgU2Vjb25kCiAgICAgICAgICAgIDwvaDU+CiAgICAgICAgICAgIDxoNQogICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHRoaXMucHJvcHMuc3RvcmUhLm5hdmlnYXRlKCdmaXJzdCcsIHt0YXNrSWQ6ICdpZCd9KX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIEZpcnN0CiAgICAgICAgICAgIDwvaDU+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApCiAgICAgIGRlZmF1bHQ6CiAgICAgICAgcmV0dXJuIG51bGw=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBPbmJvYXJkaW5nCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY29udGVudC51cmwpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
