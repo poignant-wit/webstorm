@@ -3,29 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/store/ui/UIStore.ts" timestamp="1546424818215">
-        <mark key="[" line="7" column="55" />
-        <mark key="]" line="7" column="55" />
-        <mark key="^" line="7" column="55" />
-        <mark key="." line="7" column="55" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1546429589624">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/router/src/RoutingStore.ts" timestamp="1546522625154">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/playlists/containers/PlaylistsContainer.tsx" timestamp="1546427675606">
-        <mark key="'" line="17" column="27" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="80" column="18" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/store/ui/UIStore.ts" timestamp="1546605510685">
+        <mark key="[" line="9" column="75" />
+        <mark key="]" line="9" column="76" />
+        <mark key="^" line="9" column="75" />
+        <mark key="." line="9" column="76" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/router/src/Route.ts" timestamp="1546520931561">
         <mark key="[" line="1" column="17" />
@@ -33,14 +15,11 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/AppAuth.tsx" timestamp="1546429440149">
-        <mark key="^" line="86" column="20" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/router/src/NotFound.tsx" timestamp="1546521756821">
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="8" />
-        <mark key="^" line="9" column="8" />
-        <mark key="." line="9" column="8" />
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/videos/containers/VideosListContainer.tsx" timestamp="1546606470246">
+        <mark key="[" line="61" column="27" />
+        <mark key="]" line="62" column="34" />
+        <mark key="." line="62" column="34" />
+        <mark key="^" line="62" column="34" />
       </file>
       <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/playlists/PlaylistsPage.tsx" timestamp="1546426832601">
         <mark key="[" line="1" column="0" />
@@ -79,23 +58,63 @@
         <mark key="." line="436" column="22" />
         <mark key="^" line="436" column="22" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/router/src/App.tsx" timestamp="1546526491474">
-        <mark key="'" line="73" column="5" />
-        <mark key="[" line="35" column="20" />
-        <mark key="]" line="35" column="28" />
-        <mark key="^" line="35" column="28" />
-        <mark key="." line="35" column="28" />
-      </file>
-      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/common/modals/ModalContext.tsx" timestamp="1546427133604">
-        <mark key="'" line="3" column="41" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="19" column="1" />
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/store/ui/UIFileSelectorStore.ts" timestamp="1546606342845">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+        <mark key="^" line="18" column="18" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/router/src/OnboardingPage.tsx" timestamp="1546523712825">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="10" column="17" />
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/router/src/Main.tsx" timestamp="1546523872302">
+        <mark key="[" line="53" column="58" />
+        <mark key="]" line="53" column="59" />
+        <mark key="." line="53" column="59" />
+        <mark key="^" line="53" column="59" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1546429589624">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/router/src/RoutingStore.ts" timestamp="1546522625154">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/playlists/containers/PlaylistsContainer.tsx" timestamp="1546427675606">
+        <mark key="'" line="17" column="27" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="80" column="18" />
+        <mark key="." line="85" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/AppAuth.tsx" timestamp="1546429440149">
+        <mark key="^" line="86" column="20" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/router/src/NotFound.tsx" timestamp="1546521756821">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="8" />
+        <mark key="^" line="9" column="8" />
+        <mark key="." line="9" column="8" />
+      </file>
+      <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/videos/containers/VideoUploaderContainer.tsx" timestamp="1546606147498">
+        <mark key="[" line="45" column="18" />
+        <mark key="]" line="45" column="31" />
+        <mark key="." line="45" column="17" />
+        <mark key="^" line="45" column="17" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/router/src/App.tsx" timestamp="1546526491474">
+        <mark key="'" line="73" column="5" />
+        <mark key="[" line="35" column="20" />
+        <mark key="]" line="35" column="28" />
+        <mark key="^" line="35" column="28" />
+        <mark key="." line="35" column="28" />
       </file>
       <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/playlists/containers/PlaylistsModalContainer.tsx" timestamp="1546427228684">
         <mark key="[" line="10" column="26" />
@@ -127,12 +146,6 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/router/src/Main.tsx" timestamp="1546523872302">
-        <mark key="[" line="53" column="58" />
-        <mark key="]" line="53" column="59" />
-        <mark key="." line="53" column="59" />
-        <mark key="^" line="53" column="59" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="297" column="18" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
@@ -161,44 +174,44 @@
       <jump line="61" column="5" filename="$USER_HOME$/WebstormProjects/router/src/App.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>to</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdlcnJvcicpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>to</text>
+        <text>finish</text>
       </register>
       <register name="/" type="4">
         <text>showModal</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhbkFjdGl2YXRlOiAoKSA9PiAoZGF0YTogYW55LCB0bzogYW55LCBkb25lOiBhbnkpID0+IHsKICAgICAgZG9uZSh7CiAgICAgICAgcmVkaXJlY3Q6IHsKICAgICAgICAgIG5hbWU6ICdzZWNvbmQnCiAgICAgICAgfQogICAgICB9KQogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>.mkv,.mov,.mp4</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdlcnJvcicpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NhbkFjdGl2YXRlJyk7CiAgICAgIGRvbmUoewogICAgICAgIHJlZGlyZWN0OiB7CiAgICAgICAgICBuYW1lOiAnc2Vjb25kJwogICAgICAgIH0KICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGZpbGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNoaWxkcmVuOlsKICAgIF0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAge25hbWU6ICd3ZWxjb21lJywgcGF0aDogJy93ZWxjb21lJ30sCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnZmluaXNoJyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBhd2FpdCB0aGlzLnByb3BzLnVpU3RvcmUhLmZpbGVTZWxlY3RvclN0b3JlLnNlbGVjdEZpbGUoKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB7bmFtZTogJ29uYm9hcmRpbmcud2VsY29tZScsIHBhdGg6ICcvd2VsY29tZSd9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB7bmFtZTogJ29uYm9hcmRpbmcud2VsY29tZScsIHBhdGg6ICcvb25ib2FyZGluZy93ZWxjb21lJ30sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCd1cGxvYWRGaWxlJywgZmlsZUlucHV0LmZpbGVzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB7bmFtZTogJ29uYm9hcmRpbmcud2VsY29tZScsIHBhdGg6ICcvb25ib2FyZGluZy93ZWxjb21lJ30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNoaWxkcmVuOiBbCiAgICAgIHsKICAgICAgICBuYW1lOiAnd2VsY29tZScsIHBhdGg6ICcvb25ib2FyZGluZy86c3RlcCcKICAgICAgfQogICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc29sdmUoZmlsZUlucHV0LmZpbGVzWzBdKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
