@@ -747,11 +747,11 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" timestamp="1546943018380">
-        <mark key="[" line="27" column="10" />
-        <mark key="]" line="27" column="23" />
-        <mark key="." line="27" column="23" />
-        <mark key="^" line="27" column="23" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" timestamp="1546943799688">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="40" column="24" />
+        <mark key="^" line="40" column="24" />
+        <mark key="." line="40" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/RoutingStore.ts" timestamp="1543928397607">
         <mark key="[" line="22" column="30" />
@@ -1286,45 +1286,44 @@
       <jump line="39" column="62" filename="$USER_HOME$/Documents/_own/with-typescript/public/landing.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>OneSignal</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAhIXRoaXMucm9vdFN0b3JlLmF1dGhTdG9yZS51c2VySWQgJiYKICAgICAgICAhdGhpcy5yb290U3RvcmUudWlTdG9yZS5zcGxhc2hTdG9yZS5zaG93U3BsYXNoICYmCiAgICAgICAgIXRoaXMucm9vdFN0b3JlLm9uYm9hcmRpbmdTdG9yZS5zaG93T25ib2FyZGluZywK</text>
       </register>
       <register name="-" type="4">
-        <text>OneSignal</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>fav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIG9uUG9wb3ZlckNhbmNlbENsaWNrID0gKCkgPT4gewogICAgdGhpcy5vbmVTaWduYWwub24oJ3BvcG92ZXJDYW5jZWxDbGljaycsICgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ3BvcG92ZXJDYW5jZWxDbGljaycpOwogICAgfSk7CiAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMub25lU2lnbmFsLmluaXQoewogICAgICAgICAgICBhcHBJZDogY29uZmlnKCkuT05FX1NJR05BTF9BUFBfSUQsCiAgICAgICAgICAgIGF1dG9SZWdpc3RlcjogZmFsc2UsCiAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaW5pdCBvbmUgc2lnbmFsJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAhIXRoaXMucm9vdFN0b3JlLmF1dGhTdG9yZS51c2VySWQgJiYKICAgICAgICAhdGhpcy5yb290U3RvcmUudWlTdG9yZS5zcGxhc2hTdG9yZS5zaG93U3BsYXNoICYmCiAgICAgICAgIXRoaXMucm9vdFN0b3JlLm9uYm9hcmRpbmdTdG9yZS5zaG93T25ib2FyZGluZywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICdnZXQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMub25lU2lnbmFsLmluaXQoewogICAgICAgICAgICBhcHBJZDogY29uZmlnKCkuT05FX1NJR05BTF9BUFBfSUQsCiAgICAgICAgICAgIGF1dG9SZWdpc3RlcjogZmFsc2UsCiAgICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHB1YmxpY0RpclBhdGggPSAnL3B1YmxpYyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHB1Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>{
-        }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMub25lU2lnbmFsLm9uKCdub3RpZmljYXRpb25QZXJtaXNzaW9uQ2hhbmdlJywgKGNoYW5nZTogYW55KSA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdjaGFuZ2UgcGVybWlzc2lvbicsIGNoYW5nZSk7CiAgICAgICAgICB9KTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdub3RpZmlhY2F0aW9uUGVybWlzc2lvbkNoYW5nZScpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdpbml0IG9uZSBzaWduYWwnLCBjb25maWcoKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMub25lU2lnbmFsLmluaXQpOwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBPbmVTaWduYWwgPSB3aW5kb3cuT25lU2lnbmFsIHx8IFtdOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaW5pdCBvbmUgc2lnbmFsJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
