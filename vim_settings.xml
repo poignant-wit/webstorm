@@ -748,10 +748,12 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" timestamp="1546949635798">
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" timestamp="1546959399070">
+        <mark key="'" line="149" column="40" />
+        <mark key="[" line="150" column="35" />
+        <mark key="]" line="150" column="35" />
+        <mark key="." line="150" column="35" />
+        <mark key="^" line="150" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/RoutingStore.ts" timestamp="1543928397607">
         <mark key="[" line="22" column="30" />
@@ -1184,7 +1186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="28" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/containers/OffersContainer.tsx" />
       <jump line="186" column="27" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/containers/OffersContainer.tsx" />
       <jump line="210" column="49" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/containers/OffersContainer.tsx" />
       <jump line="183" column="50" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/components/OffersEventDuration.tsx" />
@@ -1284,56 +1285,57 @@
       <jump line="38" column="61" filename="$USER_HOME$/Documents/_own/with-typescript/public/landing.html" />
       <jump line="39" column="62" filename="$USER_HOME$/Documents/_own/with-typescript/public/landing.html" />
       <jump line="87" column="53" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" />
+      <jump line="149" column="40" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>fav</text>
+        <text encoding="base64">XDxnZXRVc2VySWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmFuYWx5dGljc1JlcG9ydGVyLmxvZ0V2ZW50KCdub3RpZmljYXRpb25fcmVxdWVzdCcsIHsKICAgICAgICAgIHN0YXR1czogJ3N1Y2Nlc3MnLAogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbiBjaGFuZ2UnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdvbiBjaGFuZ2UnCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbiBjaGFuZ2UnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdvbiBjaGFuZ2UnCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLm9uZVNpZ25hbC5wdXNoKCgpID0+IHsKICAgICAgICAvLyAgIHRoaXMub25lU2lnbmFsLm9uKAogICAgICAgIC8vICAgICAnc3Vic2NyaXB0aW9uQ2hhbmdlJywKICAgICAgICAvLyAgICAgYXN5bmMgKGlzU3Vic2NyaWJlZDogYm9vbGVhbikgPT4gewogICAgICAgIC8vICAgICAgIGlmIChpc1N1YnNjcmliZWQpIHsKICAgICAgICAvLyAgICAgICAgIGNvbnN0IHVzZXJJZCA9IGF3YWl0IHRoaXMub25lU2lnbmFsLmdldFVzZXJJZCgpOwogICAgICAgIC8vICAgICAgICAgaWYgKCF1c2VySWQpIHsKICAgICAgICAvLyAgICAgICAgICAgdGhpcy5vbmVTaWduYWwucmVnaXN0ZXJGb3JQdXNoTm90aWZpY2F0aW9ucygpOwogICAgICAgIC8vICAgICAgICAgfSBlbHNlIHsKICAgICAgICAvLyAgICAgICAgICAgYXdhaXQgdGhpcy5zYXZlUGxheWVySWQodXNlcklkKTsKICAgICAgICAvLyAgICAgICAgIH0KICAgICAgICAvLyAgICAgICB9CiAgICAgICAgLy8gICAgIH0sCiAgICAgICAgLy8gICApOwogICAgICAgIC8vIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLm9uZVNpZ25hbC5wdXNoKCgpID0+IHsKICAgICAgICAvLyAgIHRoaXMub25lU2lnbmFsLm9uKAogICAgICAgIC8vICAgICAnc3Vic2NyaXB0aW9uQ2hhbmdlJywKICAgICAgICAvLyAgICAgYXN5bmMgKGlzU3Vic2NyaWJlZDogYm9vbGVhbikgPT4gewogICAgICAgIC8vICAgICAgIGlmIChpc1N1YnNjcmliZWQpIHsKICAgICAgICAvLyAgICAgICAgIGNvbnN0IHVzZXJJZCA9IGF3YWl0IHRoaXMub25lU2lnbmFsLmdldFVzZXJJZCgpOwogICAgICAgIC8vICAgICAgICAgaWYgKCF1c2VySWQpIHsKICAgICAgICAvLyAgICAgICAgICAgdGhpcy5vbmVTaWduYWwucmVnaXN0ZXJGb3JQdXNoTm90aWZpY2F0aW9ucygpOwogICAgICAgIC8vICAgICAgICAgfSBlbHNlIHsKICAgICAgICAvLyAgICAgICAgICAgYXdhaXQgdGhpcy5zYXZlUGxheWVySWQodXNlcklkKTsKICAgICAgICAvLyAgICAgICAgIH0KICAgICAgICAvLyAgICAgICB9CiAgICAgICAgLy8gICAgIH0sCiAgICAgICAgLy8gICApOwogICAgICAgIC8vIH0pOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAvLyB0aGlzLm9uZVNpZ25hbC5wdXNoKCgpID0+IHsKICAgICAgICAvLyAgIGNvbnN0IHBsYW5UeXBlID0gdGhpcy5yb290U3RvcmUuc3Vic2NyaXB0aW9uc1N0b3JlLmN1cnJlbnRTdWJzY3JpcHRpb24KICAgICAgICAvLyAgICAgLnBsYW5UeXBlOwogICAgICAgIC8vICAgdGhpcy5vbmVTaWduYWwuc2VuZFRhZ3MoewogICAgICAgIC8vICAgICB1c2VySWQ6IHRoaXMucm9vdFN0b3JlLnN1cHBvcnRTdG9yZS5yb290U3RvcmUuYXV0aFN0b3JlLnVzZXJJZCwKICAgICAgICAvLyAgICAgcGxhbiwKICAgICAgICAvLyAgIH0pOwogICAgICAgIC8vIH0pOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{
       }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFuYWx5dGljc1JlcG9ydGVyLmxvZ0V2ZW50KCdub3RpZmljYXRpb25fcmVxdWVzdCcsIHsKICAgICAgICAgIHN0YXR1czogJ2Vycm9yJywKICAgICAgICB9KTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFuYWx5dGljc1JlcG9ydGVyLmxvZ0V2ZW50KCdub3RpZmljYXRpb25fcmVxdWVzdCcsIHsKICAgICAgICAgIHN0YXR1czogJ2Vycm9yJywKICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>fav</last-search>
+      <last-search encoding="base64">XDxnZXRVc2VySWRcPg==</last-search>
       <last-offset />
-      <last-pattern>fav</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRVc2VySWRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxtZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1341,7 +1343,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxlY3RlZENoYW5uZWxzTW9kZVw+</entry>
         <entry>channe</entry>
         <entry>this.state</entry>
         <entry>id</entry>
@@ -1361,6 +1362,7 @@
         <entry encoding="base64">XDxsYWJlbFw+</entry>
         <entry>label</entry>
         <entry>fav</entry>
+        <entry encoding="base64">XDxnZXRVc2VySWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action Vcs.UpdateProject</entry>
