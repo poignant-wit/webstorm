@@ -58,10 +58,10 @@
         <mark key="^" line="24" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/package.json" timestamp="1546015419782">
-        <mark key="[" line="11" column="47" />
-        <mark key="]" line="11" column="48" />
-        <mark key="^" line="11" column="48" />
-        <mark key="." line="11" column="48" />
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="48" />
+        <mark key="^" line="10" column="48" />
+        <mark key="." line="10" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/header/containers/HeaderContainer.tsx" timestamp="1545326126430">
         <mark key="[" line="83" column="0" />
@@ -747,11 +747,11 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" timestamp="1545728860516">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="40" column="47" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" timestamp="1546943018380">
+        <mark key="[" line="27" column="10" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="23" />
+        <mark key="^" line="27" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/RoutingStore.ts" timestamp="1543928397607">
         <mark key="[" line="22" column="30" />
@@ -968,11 +968,11 @@
         <mark key="." line="16" column="102" />
         <mark key="^" line="16" column="102" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/index.ts" timestamp="1546006032030">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="10" />
-        <mark key="." line="1" column="10" />
-        <mark key="^" line="33" column="32" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/index.ts" timestamp="1546942462217">
+        <mark key="[" line="21" column="65" />
+        <mark key="]" line="21" column="73" />
+        <mark key="." line="21" column="73" />
+        <mark key="^" line="21" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/Playlists.ts" timestamp="1545648108728">
         <mark key="[" line="5" column="0" />
@@ -1287,43 +1287,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>build-storybook</text>
+        <text>OneSignal</text>
       </register>
       <register name="-" type="4">
-        <text>build-storybook</text>
+        <text>OneSignal</text>
       </register>
       <register name="/" type="4">
         <text>fav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJidWlsZC1zdG9yeWJvb2siOiAiYnVpbGQtc3Rvcnlib29rIgo=</text>
+        <text encoding="base64">ICBwcml2YXRlIG9uUG9wb3ZlckNhbmNlbENsaWNrID0gKCkgPT4gewogICAgdGhpcy5vbmVTaWduYWwub24oJ3BvcG92ZXJDYW5jZWxDbGljaycsICgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ3BvcG92ZXJDYW5jZWxDbGljaycpOwogICAgfSk7CiAgfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxHcmlkCiAgICAgICAgICAgICAgICAgIGl0ZW09e3RydWV9CiAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17Y2xhc3Nlcy5idXR0b25Db250YWluZXJ9CiAgICAgICAgICAgICAgICAgIHhzPXsxMn0KICAgICAgICAgICAgICAgICAgbWQ9ezR9CiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIDxTQ0J1dHRvbgogICAgICAgICAgICAgICAgICAgIHZhcmlhbnQ9InNlY29uZGFyeSIKICAgICAgICAgICAgICAgICAgICB0aXRsZT0iU2tpcCIKICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXt0aGlzLnByb3BzLm9uQ2xpY2tTZWNvbmRhcnl9CiAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICA8L0dyaWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaW5pdCBvbmUgc2lnbmFsJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMub25TdWJtaXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICdnZXQnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHB1YmxpY0RpclBhdGggPSAnL3B1YmxpYyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBpY2tGaWxlKTsK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHB1Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMub25DbG9zZSgpOwo=</text>
+      <register name="5" type="4">
+        <text>{
+        }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gPEV2ZW50c0NvbnRhaW5lciBzaG93TW9kYWw9e3Nob3dNb2RhbH0gLz47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMub25lU2lnbmFsLm9uKCdub3RpZmljYXRpb25QZXJtaXNzaW9uQ2hhbmdlJywgKGNoYW5nZTogYW55KSA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdjaGFuZ2UgcGVybWlzc2lvbicsIGNoYW5nZSk7CiAgICAgICAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L1ZpZGVvVXBsb2FkZXJDb250YWluZXI+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdub3RpZmlhY2F0aW9uUGVybWlzc2lvbkNoYW5nZScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxWaWRlb1VwbG9hZGVyQ29udGFpbmVyIHNob3dNb2RhbD17fS8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWWVzCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBPbmVTaWduYWwgPSB3aW5kb3cuT25lU2lnbmFsIHx8IFtdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
