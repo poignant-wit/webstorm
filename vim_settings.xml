@@ -1377,7 +1377,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1416,7 +1416,6 @@
         <entry>action Vcs.UpdateProject</entry>
         <entry>action $Paste</entry>
         <entry>action Find</entry>
-        <entry>action ReformatCode</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action FileChooser.NewFolder</entry>
         <entry>actionList</entry>
@@ -1430,6 +1429,7 @@
         <entry>action $SelectAll</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
