@@ -496,17 +496,18 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="10" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/ViewStore.ts" timestamp="1547027329032">
+        <mark key="[" line="30" column="31" />
+        <mark key="]" line="30" column="37" />
+        <mark key="." line="30" column="37" />
+        <mark key="^" line="30" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/public/landing.html" timestamp="1546009700561">
         <mark key="'" line="40" column="62" />
         <mark key="[" line="324" column="9" />
         <mark key="]" line="341" column="58" />
         <mark key="." line="341" column="58" />
         <mark key="^" line="341" column="58" />
-      </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/App.tsx" timestamp="1547022114184">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/common/modals/OffersModal.tsx" timestamp="1545222392886">
         <mark key="[" line="8" column="0" />
@@ -599,12 +600,11 @@
         <mark key="^" line="101" column="46" />
         <mark key="." line="101" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547020223315">
-        <mark key="'" line="0" column="22" />
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="6" />
+      <file name="/Dummy.txt" timestamp="1547027419246">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/upgrade/UpgradePage.tsx" timestamp="1545229818158">
         <mark key="[" line="12" column="27" />
@@ -1324,43 +1324,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudm0uY29udGVudFZpZXcpOwo=</text>
+        <text encoding="base64">ZmVhdDogdXNlIE9uZVNpZ25hbCBwbGF5ZXIgaWQgYXBpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>add</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRVc2VySWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYXN5bmMgcmVtb3ZlVmlkZW8oaWQ6IG51bWJlciB8IHN0cmluZykgewogICAgYXdhaXQgdGhpcy5hcGlDbGllbnQuZGVsZXRlKGAvdmlkZW8vJHtpZH1gKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHsgbmFtZTogdGhpcy5yb3V0ZXJTdG9yZS5jdXJyZW50U3RhdGUubmFtZSwgcGFyYW1zOiB7fSB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudm0uY29udGVudFZpZXcpOwo=</text>
+        <text encoding="base64">ZmVhdDogdXNlIE9uZVNpZ25hbCBwbGF5ZXIgaWQgYXBpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hpZGUgc3BsYXNoJyk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZmVhdDogY292ZXIgd2l0aCBhbmFseXRpY3MgT25lU2lnbmFsU3RvcmUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgdGhpcy5yb290U3RvcmUuYXBpLm9uZVNpZ25hbC5yZW1vdmUodGhpcy5vbmVTaWduYWxQbGF5ZXJJZCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB7IG5hbWU6IHRoaXMubW9kYWxzU3RvcmUubW9kYWxOYW1lLCBwYXJhbXM6IHt9IH07Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLm1vZGFsc1N0b3JlLm1vZGFsTmFtZTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMucm91dGVyU3RvcmUuY3VycmVudFN0YXRlLm5hbWU7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm9vdFN0b3JlLmFwaS5vbmVTaWduYWwucmVtb3ZlKHRoaSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiAnNDA0JzsKICAgIHJldHVybiB0aGlzLnJvdXRlclN0b3JlLnByZXZTdGF0ZS5uYW1lOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMucm91dGVyU3RvcmUucHJldlN0YXRlLm5hbWU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYXN5bmMgc2lnbk91dCgpIHsKICAgIHRoaXMucm9vdFN0b3JlLnN1cHBvcnRTdG9yZS5vbmVTaWduYWxTdG9yZS4K</text>
+        <text encoding="base64">ICAgICAgcmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvbmVzaWduYWxQbGF5ZXJJZDogcGxheWVySWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
