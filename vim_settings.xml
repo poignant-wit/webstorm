@@ -605,11 +605,11 @@
         <mark key="^" line="101" column="46" />
         <mark key="." line="101" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547027419246">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="32" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1547033457750">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/upgrade/UpgradePage.tsx" timestamp="1545229818158">
         <mark key="[" line="12" column="27" />
@@ -1329,11 +1329,11 @@
       <jump line="77" column="0" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/videos/components/VideoItem.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>fix list of videos when rescheduling video</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>fix list of videos when rescheduling video</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRVc2VySWRcPg==</text>
