@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1547122824385">
+      <file name="/Dummy.txt" timestamp="1547139101138">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="13" />
+        <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/downloadFile.ts" timestamp="1547136791168" />
@@ -49,7 +49,7 @@
         <mark key="[" line="23" column="28" />
         <mark key="]" line="23" column="29" />
         <mark key="." line="23" column="29" />
-        <mark key="^" line="32" column="35" />
+        <mark key="^" line="31" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/index.ts" timestamp="1547122806978">
         <mark key="[" line="11" column="20" />
@@ -57,11 +57,11 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/downloadFile.ts" timestamp="1547137157477">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="26" />
-        <mark key="." line="12" column="26" />
-        <mark key="^" line="12" column="26" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/downloadFile.ts" timestamp="1547139082828">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="11" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1547124331200">
         <mark key="'" line="18" column="16" />
@@ -83,8 +83,8 @@
       <jump line="10" column="8" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmVhdDogYWRkIGZyYW1lSW8gaG9vayByb3V0ZQo=</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -96,31 +96,31 @@
         <text encoding="base64">Y29uc3QgZGlyZWN0b3J5ID0gU0VUVElOR1MuVklERU9fRklMRVNfUEFUSDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFydFNpemU6IDUgKiAxMDI0ICogMTAyNCwK</text>
+        <text encoding="base64">ZmVhdDogYWRkIGZyYW1lSW8gaG9vayByb3V0ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTMy5vbignaHR0cFVwbG9hZFByb2dyZXNzJyxmdW5jdGlvbihwcm9ncmVzcykgewogICAgICAgICAgICBjb25zb2xlLmxvZyhNYXRoLnJvdW5kKHByb2dyZXNzLmxvYWRlZCAvIHByb2dyZXNzLnRvdGFsICogMTAwKSArICclIGRvbmUnKTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2xvc2UnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbGUub24oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFydFNpemU6IDUgKiAxMDI0ICogMTAyNCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtTRVRUSU5HU30gZnJvbSAiLi9zZXR0aW5ncyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTMy5vbignaHR0cFVwbG9hZFByb2dyZXNzJyxmdW5jdGlvbihwcm9ncmVzcykgewogICAgICAgICAgICBjb25zb2xlLmxvZyhNYXRoLnJvdW5kKHByb2dyZXNzLmxvYWRlZCAvIHByb2dyZXNzLnRvdGFsICogMTAwKSArICclIGRvbmUnKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgcGF0aCBmcm9tICJwYXRoIjsK</text>
+        <text encoding="base64">ICAgIGZpbGUub24oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZGlyZWN0b3J5ID0gU0VUVElOR1MuVklERU9fRklMRVNfUEFUSDsK</text>
+        <text encoding="base64">aW1wb3J0IHtTRVRUSU5HU30gZnJvbSAiLi9zZXR0aW5ncyI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgcGF0aCBmcm9tICJwYXRoIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZGlyZWN0b3J5ID0gU0VUVElOR1MuVklERU9fRklMRVNfUEFUSDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZpbGVQYXRoID0gcGF0aC5qb2luKGRpcmVjdG9yeSxmaWxlUGF0aCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
