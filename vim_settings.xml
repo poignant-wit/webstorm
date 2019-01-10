@@ -201,12 +201,6 @@
         <mark key="^" line="54" column="36" />
         <mark key="." line="54" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/Events.ts" timestamp="1547111544201">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="46" column="57" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingOffers/OnboardingOffersContentCount.tsx" timestamp="1545300217968">
         <mark key="[" line="21" column="29" />
         <mark key="]" line="22" column="33" />
@@ -619,10 +613,10 @@
         <mark key="." line="75" column="42" />
         <mark key="^" line="75" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547111567744">
+      <file name="/Dummy.txt" timestamp="1547113297396">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/upgrade/UpgradePage.tsx" timestamp="1545229818158">
@@ -791,6 +785,12 @@
         <mark key="]" line="11" column="3" />
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" timestamp="1547113235199">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="^" line="97" column="25" />
+        <mark key="." line="173" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/RoutingStore.ts" timestamp="1543928397607">
         <mark key="[" line="22" column="30" />
@@ -1223,19 +1223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="10" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventModal.tsx" />
-      <jump line="78" column="10" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" />
-      <jump line="205" column="36" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" />
-      <jump line="227" column="51" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" />
-      <jump line="144" column="6" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventModal.tsx" />
-      <jump line="74" column="2" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventModal.tsx" />
-      <jump line="82" column="19" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventModal.tsx" />
-      <jump line="589" column="27" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventModal.tsx" />
-      <jump line="93" column="10" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventModal.tsx" />
-      <jump line="308" column="36" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventModal.tsx" />
-      <jump line="424" column="47" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" />
-      <jump line="189" column="9" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
-      <jump line="221" column="13" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
       <jump line="326" column="9" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
       <jump line="62" column="20" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
       <jump line="63" column="18" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
@@ -1323,55 +1310,68 @@
       <jump line="63" column="26" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventsStore.ts" />
       <jump line="214" column="22" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" />
       <jump line="10" column="9" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/common/Braintree.tsx" />
+      <jump line="148" column="10" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" />
+      <jump line="60" column="13" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" />
+      <jump line="73" column="9" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" />
+      <jump line="74" column="9" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" />
+      <jump line="75" column="9" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" />
+      <jump line="76" column="9" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" />
+      <jump line="77" column="9" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" />
+      <jump line="78" column="9" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" />
+      <jump line="83" column="13" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" />
+      <jump line="96" column="15" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" />
+      <jump line="104" column="9" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" />
+      <jump line="111" column="9" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" />
+      <jump line="59" column="25" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/support/OneSignalStore.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIGlvLXRzCg==</text>
+        <text encoding="base64">ZmVhdDogcGxhdGZvcm1zIHJ1bnRpbWUgdmFsaWRhdGlvbgo=</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
-        <text>api</text>
+        <text encoding="base64">XDxvbmVTaWduYWxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAuLi5ldmVudCwKICAgICAgICBpZDogZXZlbnQuaWQudG9TdHJpbmcoKSwKICAgICAgICB2aWRlb0lkczogZXZlbnQudmlkZW9zID8gZXZlbnQudmlkZW9zLm1hcCh2ID0+IHYudG9TdHJpbmcoKSkgOiBbXSwKICAgICAgICBjaGFubmVsSWRzOiBldmVudC5jaGFubmVscy5tYXAoY2ggPT4gY2guY2hhbm5lbElkLnRvU3RyaW5nKCkpLAogICAgICAgIGZpbmlzaGVkOiBCb29sZWFuKGV2ZW50LmZpbmlzaGVkKSwKICAgICAgICBjYW5jZWxlZDogQm9vbGVhbihldmVudC5jYW5jZWxlZCksCiAgICAgICAgcGxheWxpc3RJZDogZXZlbnQucGxheWxpc3RJZCA/IGV2ZW50LnBsYXlsaXN0SWQudG9TdHJpbmcoKSA6IG51bGwsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIGlvLXRzCg==</text>
+        <text encoding="base64">ZmVhdDogcGxhdGZvcm1zIHJ1bnRpbWUgdmFsaWRhdGlvbgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYXN5bmMgZ2V0RXZlbnRzKCkgewogICAgY29uc3QgeyBkYXRhIH0gPSBhd2FpdCB0aGlzLmFwaUNsaWVudC5nZXQoJy9ldmVudHMnKTsKICAgIGNvbnN0IGV2ZW50cyA9IGRhdGEuZGF0YS5tYXAoCiAgICAgIChldmVudDogeyB2aWRlb3M6IEFycmF5PHsgaWQ6IG51bWJlciB9PiB9KSA9PiAoewogICAgICAgIC4uLmV2ZW50LAogICAgICAgIHZpZGVvSWRzOiBldmVudC52aWRlb3MsCiAgICAgIH0pLAogICAgKTsKCiAgICByZXR1cm4gdGhpcy5nZXRPclRocm93KHQuYXJyYXkoRXZlbnRUeXBlKSwgZXZlbnRzKSBhcyBJRXZlbnRbXTsKICB9Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHNob3dQcm9tcHQgPSAoKSA9PiB7CiAgICB0aGlzLm9uZVNpZ25hbC5zaG93SHR0cFByb210KCk7CiAgfTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjaGFuZ2UnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYXN5bmMgY3JlYXRlRXZlbnQoYm9keTogUGFydGlhbDxJRXZlbnQ+KSB7CiAgICBjb25zdCB7IGRhdGEgfSA9IGF3YWl0IHRoaXMuYXBpQ2xpZW50LnBvc3QoJy9ldmVudHMnLCBib2R5KTsKICAgIHJldHVybiBkYXRhLmRhdGEgYXMgSUV2ZW50OwogIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvbmVTaWduYWwpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5vbmVTaWduYWwuc2hvd0h0dHBQcm9tcHQpIHsKICAgICAgICAgIHRoaXMub25lU2lnbmFsLnNob3dIdHRwUHJvbXB0KCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYXN5bmMgdXBkYXRlRXZlbnQoZXZlbnQ6IFBhcnRpYWw8SUV2ZW50PikgewogICAgY29uc3QgeyBkYXRhIH0gPSBhd2FpdCB0aGlzLmFwaUNsaWVudC5wYXRjaChgL2V2ZW50cy8ke2V2ZW50LmlkfWAsIGV2ZW50KTsKICAgIHJldHVybiBkYXRhLmRhdGEgYXMgSUV2ZW50OwogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYXN5bmMgZGVsZXRlRXZlbnQoaWQ6IG51bWJlcikgewogICAgY29uc3QgeyBkYXRhIH0gPSBhd2FpdCB0aGlzLmFwaUNsaWVudC5kZWxldGUoYC9ldmVudHMvJHtpZH1gKTsKICAgIHJldHVybiBkYXRhLmRhdGEgYXMgSUV2ZW50W107CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9uZVNpZ25hbC5zaG93SHR0cFByb21wdCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>api</last-search>
+      <last-search encoding="base64">XDxvbmVTaWduYWxcPg==</last-search>
       <last-offset />
-      <last-pattern>api</last-pattern>
+      <last-pattern encoding="base64">XDxvbmVTaWduYWxcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxtZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1379,8 +1379,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toString</entry>
-        <entry>selectedCh</entry>
         <entry encoding="base64">XDxwbGF5bGlzdElkXD4=</entry>
         <entry>loading</entry>
         <entry encoding="base64">XDxpbnRlcnZhbFw+</entry>
@@ -1399,6 +1397,8 @@
         <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
         <entry encoding="base64">XDxhcGlcPg==</entry>
         <entry>api</entry>
+        <entry encoding="base64">XDxvblN1YnNjcmlwdGlvbk9yUGVybWlzc2lvbnNDaGFuZ2VcPg==</entry>
+        <entry encoding="base64">XDxvbmVTaWduYWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action Vcs.UpdateProject</entry>
