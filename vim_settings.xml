@@ -9,12 +9,13 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/downloadFile.ts" timestamp="1547136791168" />
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/ffmpeg.ts" timestamp="1547128316491" />
       <file name="/Dummy.jql" timestamp="1547121846553">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" timestamp="1547130644886">
-        <mark key="'" line="3" column="26" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" timestamp="1547137319010">
+        <mark key="'" line="10" column="8" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="43" />
         <mark key="." line="207" column="0" />
@@ -25,12 +26,12 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1547134051138">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="29" column="41" />
-        <mark key="]" line="29" column="46" />
-        <mark key="." line="29" column="46" />
-        <mark key="^" line="29" column="46" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1547137472508">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="37" column="17" />
+        <mark key="." line="37" column="17" />
+        <mark key="^" line="37" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/package.json" timestamp="1547120502073">
         <mark key="[" line="36" column="23" />
@@ -44,17 +45,23 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/aws-s3.ts" timestamp="1547126233766" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/aws-s3.ts" timestamp="1547138458732">
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="29" />
+        <mark key="." line="23" column="29" />
+        <mark key="^" line="32" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/index.ts" timestamp="1547122806978">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="11" column="20" />
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/downloadFile.ts" timestamp="1547134096341">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/downloadFile.ts" timestamp="1547137157477">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="26" />
+        <mark key="." line="12" column="26" />
+        <mark key="^" line="12" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1547124331200">
         <mark key="'" line="18" column="16" />
@@ -73,55 +80,56 @@
       <jump line="18" column="16" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
       <jump line="203" column="21" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
       <jump line="3" column="26" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
+      <jump line="10" column="8" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
+        <text encoding="base64">XDx1cGxvYWRUb1MzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpbGUub24oJ2Vycm9yJywgZnVuY3Rpb24oKSB7CiAgICAgICAgY29uc29sZS5sb2coJ2Vycm9yJyk7CiAgICB9KTsK</text>
+        <text encoding="base64">Y29uc3QgZGlyZWN0b3J5ID0gU0VUVElOR1MuVklERU9fRklMRVNfUEFUSDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFydFNpemU6IDUgKiAxMDI0ICogMTAyNCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTMy5vbignaHR0cFVwbG9hZFByb2dyZXNzJyxmdW5jdGlvbihwcm9ncmVzcykgewogICAgICAgICAgICBjb25zb2xlLmxvZyhNYXRoLnJvdW5kKHByb2dyZXNzLmxvYWRlZCAvIHByb2dyZXNzLnRvdGFsICogMTAwKSArICclIGRvbmUnKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGZpbGUub24oJ29wZW4nLCBmdW5jdGlvbihmZCkgewogICAgLy8gICAgIGNvbnNvbGUubG9nKCdvcGVuIGZpbGUnLGZkKTsKICAgIC8vICAgICBjb25zb2xlLmxvZyhmcy5leGlzdHNTeW5jKCdhbnlwYXRoJykpOwogICAgLy8gICAgIGNvbnNvbGUubG9nKGZzLmV4aXN0c1N5bmMoJ2FueXBhdGgnKSk7CiAgICAvLyAgICAgY29uc29sZS5sb2coZnMuZXhpc3RzU3luYygnYW55cGF0aCcpKTsKICAgIC8vIH0pOwo=</text>
+        <text encoding="base64">ICAgIGZpbGUub24oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmluaXNoJyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtTRVRUSU5HU30gZnJvbSAiLi9zZXR0aW5ncyI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbGUub25jZSgnb3BlbicsICgpID0+IHsKICAgICAgICBmaWxlLndyaXRlKCJNeSBmaXJzdCByb3dcbiIpOwogICAgICAgIGZpbGUud3JpdGUoIk15IHNlY29uZCByb3dcbiIpOwogICAgICAgIGZpbGUuZW5kKCk7CiAgICB9KTsK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgcGF0aCBmcm9tICJwYXRoIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVybCk7CiAgICBjb25zb2xlLmxvZyhkaXJlY3RvcnkpOwo=</text>
+        <text encoding="base64">Y29uc3QgZGlyZWN0b3J5ID0gU0VUVElOR1MuVklERU9fRklMRVNfUEFUSDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGVQYXRoLCBmaWxlTmFtZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHBhdGggZnJvbSAicGF0aCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZpbGVQYXRoID0gcGF0aC5qb2luKGRpcmVjdG9yeSxmaWxlUGF0aCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXF1ZXN0XD4=</last-search>
+      <last-search encoding="base64">XDx1cGxvYWRUb1MzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXF1ZXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1cGxvYWRUb1MzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -130,6 +138,7 @@
         <entry>getSu</entry>
         <entry>id</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDx1cGxvYWRUb1MzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoFile</entry>
