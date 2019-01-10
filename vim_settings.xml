@@ -16,6 +16,7 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/ffmpeg.ts" timestamp="1547128316491" />
       <file name="/Dummy.jql" timestamp="1547121846553">
         <mark key="[" line="0" column="0" />
       </file>
@@ -31,12 +32,12 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1547122754602">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="29" />
-        <mark key="." line="3" column="29" />
-        <mark key="^" line="3" column="29" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1547128265166">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="28" column="14" />
+        <mark key="." line="28" column="14" />
+        <mark key="^" line="28" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1547124331200">
         <mark key="'" line="18" column="16" />
@@ -62,43 +63,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Zml4OiBjb25mbGljdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>The thing worked! Nice.</text>
+        <text>Bad request</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAiaWQiOiAiZjk4OGU0NTItOGQ1MC00MzQxLWE3YWQtMGM3NWRhOTg5MDgwIiwK</text>
+        <text encoding="base64">ICAgICAgICByZXMuanNvbih7CiAgICAgICAgICAgIHRpdGxlOiAiRXJyb3IhIiwKICAgICAgICAgICAgZGVzY3JpcHRpb246ICJCYWQgcmVxdWVzdCIsCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiBjb25mbGljdHMK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJlcy5qc29uKHsKICAgICAgICB0aXRsZTogIlN1Y2Nlc3MhIiwKICAgICAgICBkZXNjcmlwdGlvbjogYFN1Y2Nlc3MgZ2V0ICR7cmVzb3VyY2UuaWR9IGluIGhvb2sgJHtwYXJhbXMuaG9va0lkfWAsCiAgICB9KTsK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc291cmNlLmlkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVzY3JpcHRpb246ICJCYWQgcmVxdWVzdCIsCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgcmVxdWVzdCBmcm9tICJyZXF1ZXN0IjsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc291cmNlID0gYXdhaXQgcmVxdWVzdChvcHRpb25zKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtZXRob2Q6ICdHRVQnLAogICAgICAgIHVybDogYGh0dHBzOi8vYXBpLmZyYW1lLmlvL3YyL2Fzc2V0cy8ke2JvZHkufWAsCg==</text>
+        <text encoding="base64">Zml4OiBjb25mbGljdHMK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHJlc291cmNlSWQgPSBib2R5LnJlc291cmNlLmlkOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc291cmNlLmlkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
