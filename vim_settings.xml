@@ -2,9 +2,35 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/routes/hooksRouter.ts" timestamp="1547118043280">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1547118128287">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="29" />
+        <mark key="." line="5" column="0" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aG9va3NSb3V0ZXIucm91dGUoJy9jYW5jZWwnKS5kZWxldGUoVmlkZW9zQ29udHJvbGxlci5jYW5jZWwpOwpob29rc1JvdXRlci5yb3V0ZSgnL2ZpbGVzLzpmaWxlX25hbWUnKS5wYXRjaChWaWRlb3NDb250cm9sbGVyLmhhbmRsZVVwbG9hZCk7Cmhvb2tzUm91dGVyLnJvdXRlKCcvZmlsZXMvOmZpbGVfbmFtZScpLmhlYWQoVmlkZW9zQ29udHJvbGxlci5oYW5kbGVVcGxvYWQpOwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>s</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
