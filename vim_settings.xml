@@ -10,7 +10,13 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="/downloadFile.ts" timestamp="1547136791168" />
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/ffmpeg.ts" timestamp="1547202962504" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/ffmpeg.ts" timestamp="1547210594821">
+        <mark key="'" line="90" column="86" />
+        <mark key="[" line="139" column="25" />
+        <mark key="]" line="139" column="27" />
+        <mark key="." line="139" column="27" />
+        <mark key="^" line="139" column="27" />
+      </file>
       <file name="/Dummy.jql" timestamp="1547121846553">
         <mark key="[" line="0" column="0" />
       </file>
@@ -26,11 +32,11 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1547208716620">
-        <mark key="[" line="88" column="25" />
-        <mark key="]" line="88" column="38" />
-        <mark key="^" line="88" column="38" />
-        <mark key="." line="88" column="38" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1547210284809">
+        <mark key="[" line="102" column="29" />
+        <mark key="]" line="102" column="39" />
+        <mark key="^" line="102" column="39" />
+        <mark key="." line="102" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/package.json" timestamp="1547120502073">
         <mark key="[" line="36" column="23" />
@@ -111,55 +117,61 @@
       <jump line="94" column="28" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" />
       <jump line="201" column="6" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
       <jump line="272" column="43" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
+      <jump line="144" column="32" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/ffmpeg.ts" />
+      <jump line="146" column="37" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/ffmpeg.ts" />
+      <jump line="3" column="6" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/ffmpeg.ts" />
+      <jump line="13" column="152" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/ffmpeg.ts" />
+      <jump line="45" column="36" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/ffmpeg.ts" />
+      <jump line="90" column="86" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/ffmpeg.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>created</text>
+        <text>start</text>
       </register>
       <register name="-" type="4">
-        <text>created</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
-        <text>camel</text>
+        <text encoding="base64">XDxmaWxlUGF0aFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc29ja2V0Lm9uKCdjb250ZW50X2NyZWF0ZScsIHBheWxvYWQgPT4gewogICAgICAgIGNvbnNvbGUubG9nKCd2aWRlbyBjcmVhdGVkJywgcGF5bG9hZCk7CiAgICAgICAgc3RvcmVzLnZpZGVvc1N0b3JlLmJ1aWxkKHBheWxvYWQpOwogICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3RhcnQgcG5nJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdnZXQgZmlsZSBjb2RlY3MnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdmaW5pc2ggZ2V0IGZpbGUgY29kZWNzJywgdmlkZW9QYXJhbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyb3IsIHN0ZE91dCwgc3RkRXJyb3IpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IG5ld1ZpZGVvLnVwbG9hZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGAkeyhuZXcgRGF0ZSgpKX0gRVJST1I6IGdldEJpdHJhdGVBbmRLZkludGVydmFsIFske3VzZXJJZH1dIFske2ZpbGVOYW1lfV0gRXJyb3I6ICR7ZXJyb3J9YCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCd2aWRlbyBwcm9jZXNzZWQnLCBwYXlsb2FkKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBnZW5lcmF0ZUdpZiA9IGBmZm1wZWcgLXNzIDIgLXQgMTAgLWkgJHtmaWxlUGF0aH0vJHtmaWxlTmFtZX0gLXZmIHNjYWxlPTMyMDotMSAtciAxMCAtZiBpbWFnZTJwaXBlIC12Y29kZWMgcHBtIC0gfCBjb252ZXJ0IC1kZWxheSA1IC1sb29wIDAgLSAke2ZpbGVQYXRofS8ke2ZpbGVOYW1lfS5naWZgOwogICAgICAgIGNvbnN0IGdlbmVyYXRlUG5nID0gYGZmbXBlZyAtc3MgMSAtaSAke2ZpbGVQYXRofS8ke2ZpbGVOYW1lfSAtdmZyYW1lcyAxIC12ZiBzY2FsZT0zMjA6LTEgJHtmaWxlUGF0aH0vJHtmaWxlTmFtZX0ucG5nYDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjb21tYW5kID0gYGZmbXBlZyAgMSAtaSAke2ZpbGVQYXRofS8ke2ZpbGVOYW1lfSAtdmZyYW1lcyAxIC12ZiBzY2FsZT0zMjA6LTEgJHtmaWxlUGF0aH0vJHtmaWxlTmFtZX0ucG5nYDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkb3dubG9hZGVkRmlsZW5hbWUgPSBgJHtyZXNvdXJjZS5pZH0ubXA0YDsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBnZW5lcmF0ZUdpZiA9IGBmZm1wZWcgLXNzIDIgLXQgMTAgLWkgJHtmaWxlUGF0aH0vJHtmaWxlTmFtZX0gLXZmIHNjYWxlPTMyMDotMSAtciAxMCAtZiBpbWFnZTJwaXBlIC12Y29kZWMgcHBtIC0gfCBjb252ZXJ0IC1kZWxheSA1IC1sb29wIDAgLSAke2ZpbGVQYXRofS8ke2ZpbGVOYW1lfS5naWZgOwogICAgICAgIGNvbnN0IGdlbmVyYXRlUG5nID0gYGZmbXBlZyAtc3MgMSAtaSAke2ZpbGVQYXRofS8ke2ZpbGVOYW1lfSAtdmZyYW1lcyAxIC12ZiBzY2FsZT0zMjA6LTEgJHtmaWxlUGF0aH0vJHtmaWxlTmFtZX0ucG5nYDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWQ6IG51bGwsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZV9uYW1lOiBkb3dubG9hZGVkRmlsZW5hbWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXMuanNvbih7CiAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICJFcnJvciEiLAogICAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiAiQ2FuJ3QgZ2V0IHJlc291cmNlIGZyb20gRnJhbWUuaW8gQVBJIiwKICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>camel</last-search>
+      <last-search encoding="base64">XDxmaWxlUGF0aFw+</last-search>
       <last-offset />
-      <last-pattern>camel</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxlUGF0aFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -173,6 +185,7 @@
         <entry encoding="base64">XDxnZXRTdWJzY3JpcHRpb25cPg==</entry>
         <entry>camel\</entry>
         <entry>camel</entry>
+        <entry encoding="base64">XDxmaWxlUGF0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoFile</entry>
