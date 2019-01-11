@@ -14,10 +14,10 @@
       <file name="/Dummy.jql" timestamp="1547121846553">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" timestamp="1547137319010">
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" timestamp="1547194450931">
         <mark key="'" line="10" column="8" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="43" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="67" column="5" />
         <mark key="." line="207" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/routes/hooksRouter.ts" timestamp="1547122796691">
@@ -26,12 +26,12 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1547137472508">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="37" column="12" />
-        <mark key="]" line="37" column="17" />
-        <mark key="." line="37" column="17" />
-        <mark key="^" line="37" column="17" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1547194773786">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="63" column="24" />
+        <mark key="]" line="63" column="37" />
+        <mark key="^" line="63" column="37" />
+        <mark key="." line="63" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/package.json" timestamp="1547120502073">
         <mark key="[" line="36" column="23" />
@@ -57,17 +57,24 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/client/socket/index.ts" timestamp="1547194711993">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="40" />
+        <mark key="^" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/downloadFile.ts" timestamp="1547139082828">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="11" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1547124331200">
-        <mark key="'" line="18" column="16" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1547193570790">
+        <mark key="'" line="291" column="12" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="47" />
         <mark key="." line="13" column="201" />
+        <mark key="n" line="87" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/.env" timestamp="1547123394235" />
     </filemarks>
@@ -81,55 +88,66 @@
       <jump line="203" column="21" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
       <jump line="3" column="26" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
       <jump line="10" column="8" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
+      <jump line="37" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+      <jump line="69" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+      <jump line="76" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+      <jump line="87" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+      <jump line="98" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+      <jump line="109" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+      <jump line="116" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+      <jump line="141" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+      <jump line="155" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+      <jump line="183" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+      <jump line="291" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIGZyYW1lSW8gaG9vayByb3V0ZQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGxvYWRUb1MzXD4=</text>
+        <text>size</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZGlyZWN0b3J5ID0gU0VUVElOR1MuVklERU9fRklMRVNfUEFUSDsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNvY2tldCA9IGlvOwogICAgaWYgKHNvY2tldCkgewogICAgICAgIGlvLmluKHVzZXJJZC50b1N0cmluZygpKS5lbWl0KCd2aWRlbyB1cGxvYWRlZCcsIHtpZDogdmlkZW8uaWQsIGxvY2FsSWQ6IG1ldGFEYXRhLmxvY2FsSWR9KTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIGZyYW1lSW8gaG9vayByb3V0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2ZpbGUgZG93bmxvYWRlZCcsIGZpbGVQYXRoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2xvc2UnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWQ6IG51bGwsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFydFNpemU6IDUgKiAxMDI0ICogMTAyNCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTMy5vbignaHR0cFVwbG9hZFByb2dyZXNzJyxmdW5jdGlvbihwcm9ncmVzcykgewogICAgICAgICAgICBjb25zb2xlLmxvZyhNYXRoLnJvdW5kKHByb2dyZXNzLmxvYWRlZCAvIHByb2dyZXNzLnRvdGFsICogMTAwKSArICclIGRvbmUnKTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJvZHkucmVzb3VyY2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbGUub24oKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZpZGVvOiBhbnkgPSBhd2FpdCBWaWRlb01vZGVsLmNyZWF0ZSh7CiAgICAgICAgaWQ6IG51bGwsCiAgICAgICAgdXNlcl9pZDogMTUsCiAgICAgICAgcmVhbF9uYW1lOiBuYW1lLAogICAgICAgIGZpbGVfc2l6ZTogZmlsZVNpemUsCiAgICAgICAgZmlsZV9uYW1lOiBgJHtpZH0ubXA0YCwKICAgICAgICB0aHVtYm5haWw6IG51bGwsCiAgICAgICAgdGh1bWJuYWlsX2dpZjogbnVsbCwKICAgICAgICBkdXJhdGlvbjogJzAwOjAwOjAwJywKICAgICAgICBkdXJhdGlvblNlYzogMCwKICAgICAgICBiaXRyYXRlOiAwLAogICAgICAgIGF2Z19rZXlmcmFtZTogMCwKICAgICAgICBhdmdfa2V5ZnJhbWVfZGlmZjogMCwKICAgICAgICBmcHM6IG51bGwsCiAgICAgICAgcmVzb2x1dGlvbjogbnVsbCwKICAgICAgICBwcm9jZXNzZWQ6IGZhbHNlLAogICAgICAgIHZhbGlkOiBmYWxzZSwKICAgICAgICBkZWxldGVkX2F0OiBudWxsLAogICAgICAgIGNyZWF0ZWRfYXQ6IG5ldyBEYXRlKCksCiAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtTRVRUSU5HU30gZnJvbSAiLi9zZXR0aW5ncyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgcGF0aCBmcm9tICJwYXRoIjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZGlyZWN0b3J5ID0gU0VUVElOR1MuVklERU9fRklMRVNfUEFUSDsK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmVhdDogYWRkIGZyYW1lSW8gaG9vayByb3V0ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGxvYWRUb1MzXD4=</last-search>
+      <last-search>size</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGxvYWRUb1MzXD4=</last-pattern>
+      <last-pattern>size</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -139,6 +157,7 @@
         <entry>id</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDx1cGxvYWRUb1MzXD4=</entry>
+        <entry>size</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoFile</entry>
