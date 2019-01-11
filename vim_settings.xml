@@ -32,11 +32,11 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1547214441593">
-        <mark key="[" line="124" column="47" />
-        <mark key="]" line="105" column="0" />
-        <mark key="^" line="106" column="69" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1547216068418">
+        <mark key="[" line="55" column="48" />
+        <mark key="]" line="56" column="29" />
+        <mark key="." line="56" column="29" />
+        <mark key="^" line="56" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/package.json" timestamp="1547120502073">
         <mark key="[" line="36" column="23" />
@@ -127,10 +127,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGR1cmF0aW9uU2VjID0gdmlkZW9QYXJhbXMuZHVyYXRpb25TZWM7CiAgICAgICAgICAgICAgICBjb25zdCBkdXJhdGlvblNlYyA9IHZpZGVvUGFyYW1zLmR1cmF0aW9uU2VjOwogICAgICAgICAgICAgICAgY29uc3QgdmlkZW9Db2RlYyA9IHZpZGVvUGFyYW1zLnZpZGVvQ29kZWM7CiAgICAgICAgICAgICAgICBjb25zdCBhdWRpb0NvZGVjID0gdmlkZW9QYXJhbXMuYXVkaW9Db2RlYzsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNvdXJjZVtmb3JtYXRdKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>payload</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlUGF0aFw+</text>
@@ -139,31 +139,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGR1cmF0aW9uU2VjID0gdmlkZW9QYXJhbXMuZHVyYXRpb25TZWM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGR1cmF0aW9uU2VjID0gdmlkZW9QYXJhbXMuZHVyYXRpb25TZWM7CiAgICAgICAgICAgICAgICBjb25zdCBkdXJhdGlvblNlYyA9IHZpZGVvUGFyYW1zLmR1cmF0aW9uU2VjOwogICAgICAgICAgICAgICAgY29uc3QgdmlkZW9Db2RlYyA9IHZpZGVvUGFyYW1zLnZpZGVvQ29kZWM7CiAgICAgICAgICAgICAgICBjb25zdCBhdWRpb0NvZGVjID0gdmlkZW9QYXJhbXMuYXVkaW9Db2RlYzsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNvdXJjZVtmb3JtYXRdKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbGlkOiBCCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjb21tYW5kID0gYGZmbXBlZyAtc3MgMSAtaSAke3ZpZGVvRmlsZVBhdGh9IC12ZnJhbWVzIDEgLXZmIHNjYWxlPTMyMDotMSAke2Rlc3RpbmF0aW9ufWA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGR1cmF0aW9uU2VjID0gdmlkZW9QYXJhbXMuZHVyYXRpb25TZWM7CiAgICAgICAgICAgICAgICBjb25zdCBkdXJhdGlvblNlYyA9IHZpZGVvUGFyYW1zLmR1cmF0aW9uU2VjOwogICAgICAgICAgICAgICAgY29uc3QgdmlkZW9Db2RlYyA9IHZpZGVvUGFyYW1zLnZpZGVvQ29kZWM7CiAgICAgICAgICAgICAgICBjb25zdCBhdWRpb0NvZGVjID0gdmlkZW9QYXJhbXMuYXVkaW9Db2RlYzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbGlkOiBCCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2VuZCBwbmcnKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjb21tYW5kID0gYGZmbXBlZyAtc3MgMSAtaSAke3ZpZGVvRmlsZVBhdGh9IC12ZnJhbWVzIDEgLXZmIHNjYWxlPTMyMDotMSAke2Rlc3RpbmF0aW9ufWA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3RhcnQgcG5nJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdwYXJhbXMnLCB2aWRlb1BhcmFtcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2VuZCBwbmcnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzdWNjZXNzIHBuZycpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3RhcnQgcG5nJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdwYXJhbXMnLCB2aWRlb1BhcmFtcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
