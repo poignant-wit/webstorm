@@ -10,14 +10,14 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="/downloadFile.ts" timestamp="1547136791168" />
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/ffmpeg.ts" timestamp="1547128316491" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/ffmpeg.ts" timestamp="1547202962504" />
       <file name="/Dummy.jql" timestamp="1547121846553">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" timestamp="1547194450931">
-        <mark key="'" line="10" column="8" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="67" column="5" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" timestamp="1547204183363">
+        <mark key="'" line="272" column="43" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="90" column="15" />
         <mark key="." line="207" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/routes/hooksRouter.ts" timestamp="1547122796691">
@@ -26,12 +26,12 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1547200134670">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="68" column="21" />
-        <mark key="]" line="68" column="26" />
-        <mark key="^" line="68" column="26" />
-        <mark key="." line="68" column="26" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1547205104274">
+        <mark key="'" line="112" column="28" />
+        <mark key="[" line="118" column="24" />
+        <mark key="]" line="118" column="24" />
+        <mark key="." line="118" column="24" />
+        <mark key="^" line="118" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/package.json" timestamp="1547120502073">
         <mark key="[" line="36" column="23" />
@@ -45,11 +45,11 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/aws-s3.ts" timestamp="1547138458732">
-        <mark key="[" line="23" column="28" />
-        <mark key="]" line="23" column="29" />
-        <mark key="." line="23" column="29" />
-        <mark key="^" line="31" column="35" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/aws-s3.ts" timestamp="1547204691789">
+        <mark key="[" line="32" column="39" />
+        <mark key="]" line="32" column="48" />
+        <mark key="." line="32" column="48" />
+        <mark key="^" line="32" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/index.ts" timestamp="1547122806978">
         <mark key="[" line="11" column="20" />
@@ -63,6 +63,7 @@
         <mark key="^" line="15" column="40" />
         <mark key="." line="15" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/models/video.ts" timestamp="1547202089628" />
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/downloadFile.ts" timestamp="1547139082828">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -99,55 +100,58 @@
       <jump line="155" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
       <jump line="183" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
       <jump line="291" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+      <jump line="94" column="28" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" />
+      <jump line="201" column="6" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
+      <jump line="272" column="43" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>size</text>
+        <text encoding="base64">XDxnZXRTdWJzY3JpcHRpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzLmpzb24oewogICAgICAgICAgICB0aXRsZTogIkVycm9yISIsCiAgICAgICAgICAgIGRlc2NyaXB0aW9uOiAiQ2FuJ3QgZ2V0IHJlc291cmNlIGZyb20gRnJhbWUuaW8gQVBJIiwKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzdGFydCB1cGxvYWRpbmcgcG5nJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW8pIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IHZpZGVvLnVwZGF0ZSh7CiAgICAgICAgICAgICAgICAgICAgdGh1bWJuYWlsOiAndGVzdFRodW1iJywKICAgICAgICAgICAgICAgICAgICB0aHVtYm5haWxfZ2lmOiAndGVzdEdpZicsCiAgICAgICAgICAgICAgICAgICAgZHVyYXRpb25TZWMsCiAgICAgICAgICAgICAgICAgICAgdmFsaWQ6IHRydWUsCiAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlX25hbWU6IGAke3ZpZGVvSWR9Lm1wNGAsCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkdXJhdGlvbiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IHZpZGVvLnVwZGF0ZSh7CiAgICAgICAgICAgICAgICAgICAgZmlsZV9uYW1lOiBudWxsLAogICAgICAgICAgICAgICAgICAgIHByb2Nlc3NlZDogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICB2YWxpZDogZmFsc2UsCiAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>size</last-search>
+      <last-search encoding="base64">XDxnZXRTdWJzY3JpcHRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>size</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRTdWJzY3JpcHRpb25cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -158,6 +162,7 @@
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDx1cGxvYWRUb1MzXD4=</entry>
         <entry>size</entry>
+        <entry encoding="base64">XDxnZXRTdWJzY3JpcHRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoFile</entry>
