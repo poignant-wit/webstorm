@@ -20,10 +20,10 @@
       <file name="/Dummy.jql" timestamp="1547121846553">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" timestamp="1547221665845">
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" timestamp="1547462260871">
         <mark key="'" line="272" column="43" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="90" column="15" />
+        <mark key="[" line="293" column="0" />
+        <mark key="]" line="297" column="9" />
         <mark key="." line="207" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/routes/hooksRouter.ts" timestamp="1547122796691">
@@ -32,11 +32,11 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1547223349233">
-        <mark key="[" line="130" column="39" />
-        <mark key="]" line="130" column="67" />
-        <mark key="." line="130" column="67" />
-        <mark key="^" line="130" column="67" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1547462525345">
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="^" line="41" column="3" />
+        <mark key="." line="172" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/package.json" timestamp="1547120502073">
         <mark key="[" line="36" column="23" />
@@ -68,6 +68,7 @@
         <mark key="." line="75" column="44" />
         <mark key="^" line="75" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/components/OffersContentCount.tsx" timestamp="1547462405208" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/client/socket/index.ts" timestamp="1547214203284">
         <mark key="[" line="30" column="20" />
         <mark key="]" line="30" column="29" />
@@ -139,31 +140,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">U0NIRUQtMjI0IEN1c3RvbSBBY3Rpb24gZm9yIEZyYW1lLmlvCg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>aftef</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlUGF0aFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJFU09VUkNFX0NSRUFURUQ6ICdyZXNvdXJjZV9jcmVhdGVkJywK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzLmpzb24oewogICAgICAgICAgICB0aXRsZTogIkVycm9yISIsCiAgICAgICAgICAgIGRlc2NyaXB0aW9uOiAiSW52YWxpZCB3ZWJob29rIiwKICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0NIRUQtMjI0IEN1c3RvbSBBY3Rpb24gZm9yIEZyYW1lLmlvCg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IGRlbGV0ZUZpbGVzKFt2aWRlb0ZpbGVuYW1lLCBwbmdGaWxlbmFtZSwgZ2lmRmlsZW5hbWVdKTsKICAgICAgICAgICAgICAgIHJldHVybiB1c2VyU29ja2V0LmVtaXQoJ2NvbnRlbnRfZWRpdCcsIHZpZGVvKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEVWRU5UCn0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmtkawogICAgICAgICAgICBJbnZhbGlkIHdlYmhvb2sK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgJHsobmV3IERhdGUoKSl9IElORk86IFBPU1QgLyBbJHt1c2VySWR9XSBmaWxlX3Bhc3NlZF90b190dXNgKTsKICAgICAgICB1cGxvYWRlci5oYW5kbGUocmVxLCByZXMpOwogICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -172,10 +173,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhvb2spOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJTb2NrZXQuZQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGNhdGNoIGVycm9yCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
