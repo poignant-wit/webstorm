@@ -15,12 +15,6 @@
         <mark key="." line="44" column="9" />
         <mark key="^" line="44" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" timestamp="1547462260871">
-        <mark key="'" line="272" column="43" />
-        <mark key="[" line="293" column="0" />
-        <mark key="]" line="297" column="9" />
-        <mark key="." line="207" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/routes/hooksRouter.ts" timestamp="1547122796691">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="1" column="26" />
@@ -77,7 +71,7 @@
         <mark key="^" line="3" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/dts/tus-node-server.d.ts" timestamp="1547220896890" />
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/.exports.docker" timestamp="1547468422524">
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/.exports.docker" timestamp="1547472828563">
         <mark key="[" line="15" column="36" />
         <mark key="]" line="16" column="31" />
         <mark key="^" line="16" column="31" />
@@ -116,11 +110,11 @@
         <mark key="." line="20" column="58" />
         <mark key="^" line="20" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1547468354201">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="75" column="32" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1547472746617">
+        <mark key="[" line="50" column="32" />
+        <mark key="]" line="50" column="60" />
+        <mark key="^" line="50" column="60" />
+        <mark key="." line="50" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/webhooks/WebhookModel.ts" timestamp="1547466254556">
         <mark key="[" line="20" column="71" />
@@ -139,6 +133,12 @@
         <mark key="]" line="36" column="23" />
         <mark key="." line="36" column="23" />
         <mark key="^" line="36" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/settings.ts" timestamp="1547472663364">
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="34" column="25" />
+        <mark key="^" line="34" column="25" />
+        <mark key="." line="34" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/aws-s3.ts" timestamp="1547204691789">
         <mark key="[" line="32" column="39" />
@@ -215,11 +215,11 @@
       <jump line="63" column="0" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjE1LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjUwMDEvYXBpL3YyL2F1dGgiLCJpYXQiOjE1NDY5NTY5MTgsImV4cCI6MTU0ODE2NjUxOCwibmJmIjoxNTQ2OTU2OTE4LCJqdGkiOiJjeGQ2YU9TM3VyTkU1a2FlIn0.-Er1i6luFkB-TmRUZYQxmaP9JL7G01S1L-UghzImfk4</text>
       </register>
       <register name="-" type="4">
-        <text>IIntegrationsPageProps</text>
+        <text>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjE1LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjUwMDEvYXBpL3YyL2F1dGgiLCJpYXQiOjE1NDY5NTY5MTgsImV4cCI6MTU0ODE2NjUxOCwibmJmIjoxNTQ2OTU2OTE4LCJqdGkiOiJjeGQ2YU9TM3VyTkU1a2FlIn0.-Er1i6luFkB-TmRUZYQxmaP9JL7G01S1L-UghzImfk4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlUGF0aFw+</text>
