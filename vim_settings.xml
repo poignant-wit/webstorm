@@ -88,7 +88,7 @@
         <mark key="." line="66" column="57" />
         <mark key="^" line="66" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547541016280">
+      <file name="/Dummy.txt" timestamp="1547542831338">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -113,11 +113,11 @@
         <mark key="." line="20" column="58" />
         <mark key="^" line="20" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1547540732060">
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="198" column="31" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1547542794525">
+        <mark key="[" line="208" column="16" />
+        <mark key="]" line="208" column="16" />
         <mark key="^" line="172" column="95" />
-        <mark key="." line="194" column="0" />
+        <mark key="." line="208" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/webhooks/WebhookModel.ts" timestamp="1547466254556">
         <mark key="[" line="20" column="71" />
@@ -219,34 +219,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogaGFyZGNvZGUK</text>
+        <text encoding="base64">Zml4OiBnZXQgdmVyc2lvbiBzdGFjayBsYXN0IGZpbGUgZnJvbSBGcmFtZS5pbwo=</text>
       </register>
       <register name="-" type="4">
-        <text>`${fileName}.mp4`</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlUGF0aFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYml0cmF0ZSwKICAgICAgICAgICAgYXZnX2tleWZyYW1lLAogICAgICAgICAgICBhdmdfa2V5ZnJhbWVfZGlmZiwKICAgICAgICAgICAgZnBzLAogICAgICAgICAgICByZXNvbHV0aW9uLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB1c2VyU29ja2V0LmVtaXQoc29ja2V0RXZlbnRzLlJFU09VUkNFX1VQREFURUQsIHZpZGVvKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogaGFyZGNvZGUK</text>
+        <text encoding="base64">Zml4OiBnZXQgdmVyc2lvbiBzdGFjayBsYXN0IGZpbGUgZnJvbSBGcmFtZS5pbwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmVhdDogaGFyZGNvZGUK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNvdXJjZS5fdHlwZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNvdXJjZS5fdHlwZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -258,7 +258,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -282,8 +282,8 @@
       </history-search>
       <history-cmd>
         <entry>action FileChooser.NewFolder</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
