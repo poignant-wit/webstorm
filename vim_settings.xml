@@ -15,10 +15,10 @@
         <mark key="." line="44" column="9" />
         <mark key="^" line="44" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" timestamp="1547476994444">
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" timestamp="1547540727789">
         <mark key="'" line="272" column="43" />
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="114" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="154" column="23" />
         <mark key="." line="207" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/routes/hooksRouter.ts" timestamp="1547122796691">
@@ -88,7 +88,7 @@
         <mark key="." line="66" column="57" />
         <mark key="^" line="66" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547482356178">
+      <file name="/Dummy.txt" timestamp="1547541016280">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -113,11 +113,11 @@
         <mark key="." line="20" column="58" />
         <mark key="^" line="20" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1547484586100">
-        <mark key="[" line="76" column="125" />
-        <mark key="]" line="76" column="142" />
-        <mark key="^" line="76" column="142" />
-        <mark key="." line="76" column="142" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1547540732060">
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="198" column="31" />
+        <mark key="^" line="172" column="95" />
+        <mark key="." line="194" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/webhooks/WebhookModel.ts" timestamp="1547466254556">
         <mark key="[" line="20" column="71" />
@@ -218,32 +218,32 @@
       <jump line="63" column="0" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmVhdDogaGFyZGNvZGUK</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>`${fileName}.mp4`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlUGF0aFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgJHsobmV3IERhdGUoKSl9IEVSUk9SOiBVUExPQURfQ09NUExFVEUgWyR7dXNlcklkfV0gWyR7ZmlsZU5hbWV9XSBFcnJvciBjYXRjaGVkIGVycm9yOiAke2V9YCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYml0cmF0ZSwKICAgICAgICAgICAgYXZnX2tleWZyYW1lLAogICAgICAgICAgICBhdmdfa2V5ZnJhbWVfZGlmZiwKICAgICAgICAgICAgZnBzLAogICAgICAgICAgICByZXNvbHV0aW9uLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiBlcnJvciBtZXNzYWdlcwo=</text>
+        <text encoding="base64">ZmVhdDogaGFyZGNvZGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmVhdDogaW50ZWdyYXRpb25zIHBhZ2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdlcnJvcicsIGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNvdXJjZS5fdHlwZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZmVhdDogY3JlYXRlIHZpZGVvIGZyYW1laW8gaG9vawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -252,13 +252,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IGZyYW1lSW9Ub2tlbiA9ICdmaW8tdS1tanFxMVVNM2JsTDdvd2JGV0kxR1hFcE9EVjFrUnVabmZpdGpBczZHQ21iSkpYRS11Zy1MUFdLQl9OU1N5TzZIJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZmVhdDogaGFuZGxlIGNyZWF0ZSByZXNvdXJjZSBldmVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -283,6 +283,7 @@
       <history-cmd>
         <entry>action FileChooser.NewFolder</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
