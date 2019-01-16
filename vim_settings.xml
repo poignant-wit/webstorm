@@ -165,6 +165,12 @@
         <mark key="." line="3" column="48" />
         <mark key="^" line="3" column="48" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.ts" timestamp="1547643082265">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/.exports.docker" timestamp="1547564748614">
         <mark key="[" line="15" column="36" />
         <mark key="]" line="16" column="31" />
@@ -313,11 +319,11 @@
       <jump line="83" column="21" filename="$USER_HOME$/Documents/restream-scheduler/docker-compose-scheduler/scheduler-website-frontend-v2/src/api/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
+      <register name="&quot;" type="4">
+        <text>state</text>
       </register>
       <register name="-" type="4">
-        <text>authenticate</text>
+        <text>state</text>
       </register>
       <register name="/" type="4">
         <text>one</text>
@@ -326,31 +332,31 @@
         <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlamVjdChlcnIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbnRlcmNlcHRvcicsIGFwaUhvc3RVcmwpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdyZWRpcmVjdCAzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zml4OiBzZWxlY3QgLT4gdXBsb2Fk0L7QsNCy0LDQsmtqCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbnRlcmNlcHRvcicsIGFwaUhvc3RVcmwpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmdldE9yVGhyb3coRXZlbnRUeXBlLCBkYXRhLmRhdGEpIGFzIElFdmVudDsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdyZWRpcmVjdCAzJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmdldE9yVGhyb3coRXZlbnRUeXBlLCBkYXRhLmRhdGEpIGFzIElFdmVudDsK</text>
+        <text encoding="base64">Zml4OiBzZWxlY3QgLT4gdXBsb2Fk0L7QsNCy0LDQsmtqCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIHJldHVybiB0aGlzLmdldE9yVGhyb3coRXZlbnRUeXBlLCBkYXRhLmRhdGEpIGFzIElFdmVudDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkYXRhLmRhdGEgYXMgSUV2ZW50W107Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmdldE9yVGhyb3coRXZlbnRUeXBlLCBkYXRhLmRhdGEpIGFzIElFdmVudDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIC4uLmRhdGEuZGF0YSwKICAgICAgY2hhbm5lbElkczogZGF0YS5kYXRhLmNoYW5uZWxzLm1hcCgoY2g6IHsgY2hhbm5lbElkOiBudW1iZXIgfSkgPT4KICAgICAgICBjaC5jaGFubmVsSWQudG9TdHJpbmcoKSwKICAgICAgKSwKICAgIH0gYXMgSUV2ZW50Owo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmdldE9yVGhyb3coRXZlbnRUeXBlLCBkYXRhLmRhdGEpIGFzIElFdmVudDsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
