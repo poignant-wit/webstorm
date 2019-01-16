@@ -73,6 +73,11 @@
         <mark key="^" line="34" column="25" />
         <mark key="." line="34" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/mobx-intro/public/index.html" timestamp="1547654248710">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="45" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/integrations/frameIo/components/IntegrationFrameIo.scss" timestamp="1547563309033">
         <mark key="[" line="2" column="1" />
         <mark key="]" line="3" column="0" />
@@ -162,11 +167,11 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/mobx-intro/src/index.js" timestamp="1547652478506">
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="21" column="31" />
-        <mark key="." line="21" column="31" />
-        <mark key="^" line="21" column="31" />
+      <file name="$USER_HOME$/Documents/_own/mobx-intro/src/index.js" timestamp="1547657391313">
+        <mark key="[" line="52" column="21" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/.exports.docker" timestamp="1547564748614">
         <mark key="[" line="15" column="36" />
@@ -187,11 +192,11 @@
         <mark key="." line="66" column="57" />
         <mark key="^" line="66" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547638693373">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1547657396552">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/docker-compose-scheduler/scheduler-website-frontend-v2/src/server/middlewares/initialStateBuilderMiddleware.ts" timestamp="1547634959034">
         <mark key="[" line="22" column="52" />
@@ -317,45 +322,57 @@
       <jump line="34" column="44" filename="$USER_HOME$/Documents/_own/mobx-intro/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bW9ieAo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>test.value</text>
       </register>
       <register name="/" type="4">
         <text>one</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">d2luZG93LnRvZG9zID0gWwogICAgewogICAgICAgIHRpdGxlOiAnRmlyc3QnLAogICAgICAgIGNvbXBsZXRlZDogdHJ1ZSwKICAgIH0sCiAgICB7CiAgICAgICAgdGl0bGU6ICdTZWNvbmQnLAogICAgICAgIGNvbXBsZXRlZDogdHJ1ZSwKICAgIH0sCiAgICB7CiAgICAgICAgdGl0bGU6ICdUaGlyZCcsCiAgICAgICAgY29tcGxldGVkOiBmYWxzZSwKICAgIH0KXTsK</text>
+      <register name="0" type="4">
+        <text>[
+    {
+        title: 'First todo',
+        completed: true,
+    },
+    {
+        title: 'Second todo',
+        completed: true,
+    },
+    {
+        title: 'Third',
+        completed: false,
+    }
+]</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-}</text>
+      <register name="1" type="2">
+        <text encoding="base64">bW9ieAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cnhqcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5zaG93Q29tcGxldGVkT25seSA9ICF3aW5kb3cuc2hvd0NvbXBsZXRlZE9ubHkKICAgIHJlbmRlcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtCZWhhdmlvclN1YmplY3QsIGNvbWJpbmVMYXRlc3R9IGZyb20gInJ4anMiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IHRlc3QgPSBvYnNlcnZhYmxlLmJveCh0cnVlKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gc2V0VGltZW91dCgoKSA9PiB7Ci8vICAgICBjb25zb2xlLmxvZygnbmV3IHJlbmRlcicpOwovLyAgICAgcmVuZGVyKCk7Ci8vCi8vIH0sIDMwMDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0b2RvLmNvbXBsZXRlZCA9PT0gd2luZG93LnNob3dDb21wbGV0ZWRPbmx5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -399,6 +416,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
