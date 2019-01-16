@@ -87,6 +87,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/docker-compose-scheduler/scheduler-website-frontend-v2/src/server/controllers/authController.ts" timestamp="1547636858269">
+        <mark key="[" line="70" column="27" />
+        <mark key="]" line="70" column="29" />
+        <mark key="^" line="70" column="29" />
+        <mark key="." line="70" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/platforms/PlatformModel.ts" timestamp="1547463520750">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="20" column="3" />
@@ -116,17 +122,17 @@
         <mark key="." line="20" column="69" />
         <mark key="^" line="20" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/integrations/frameIo/containers/IntegrationsFrameIoContainer.tsx" timestamp="1547563843287">
-        <mark key="'" line="33" column="14" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/routes/hooksRouter.ts" timestamp="1547122796691">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="1" column="26" />
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/docker-compose-scheduler/scheduler-website-frontend-v2/src/api/index.ts" timestamp="1547637460632">
+        <mark key="'" line="83" column="21" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/Events.ts" timestamp="1547630169315">
         <mark key="[" line="34" column="0" />
@@ -303,46 +309,47 @@
       <jump line="33" column="14" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/integrations/frameIo/containers/IntegrationsFrameIoContainer.tsx" />
       <jump line="261" column="23" filename="$USER_HOME$/Documents/_own/with-typescript/public/landing.html" />
       <jump line="137" column="101" filename="$USER_HOME$/Documents/_own/with-typescript/public/landing.html" />
+      <jump line="83" column="21" filename="$USER_HOME$/Documents/restream-scheduler/docker-compose-scheduler/scheduler-website-frontend-v2/src/api/index.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>authenticate</text>
       </register>
       <register name="/" type="4">
         <text>one</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlamVjdChlcnIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdyZWRpcmVjdCAzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zml4OiBzZWxlY3QgLT4gdXBsb2Fk0L7QsNCy0LDQsmtqCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbnRlcmNlcHRvcicsIGFwaUhvc3RVcmwpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmdldE9yVGhyb3coRXZlbnRUeXBlLCBkYXRhLmRhdGEpIGFzIElFdmVudDsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdyZWRpcmVjdCAzJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmdldE9yVGhyb3coRXZlbnRUeXBlLCBkYXRhLmRhdGEpIGFzIElFdmVudDsK</text>
+        <text encoding="base64">Zml4OiBzZWxlY3QgLT4gdXBsb2Fk0L7QsNCy0LDQsmtqCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHJldHVybiB0aGlzLmdldE9yVGhyb3coRXZlbnRUeXBlLCBkYXRhLmRhdGEpIGFzIElFdmVudDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkYXRhLmRhdGEgYXMgSUV2ZW50W107Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmdldE9yVGhyb3coRXZlbnRUeXBlLCBkYXRhLmRhdGEpIGFzIElFdmVudDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIC4uLmRhdGEuZGF0YSwKICAgICAgY2hhbm5lbElkczogZGF0YS5kYXRhLmNoYW5uZWxzLm1hcCgoY2g6IHsgY2hhbm5lbElkOiBudW1iZXIgfSkgPT4KICAgICAgICBjaC5jaGFubmVsSWQudG9TdHJpbmcoKSwKICAgICAgKSwKICAgIH0gYXMgSUV2ZW50Owo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmdldE9yVGhyb3coRXZlbnRUeXBlLCBkYXRhLmRhdGEpIGFzIElFdmVudDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChlIGluc3RhbmNlb2YgVW5leHBlY3RlZFJlc3BvbnNlRXJyb3IpIHsKICAgICAgICAgICAgY29uc29sZS5sb2coJ3VuZXhwZWN0ZWQnLCBlKTsKICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiBkYXRhLmRhdGEgYXMgSUV2ZW50W107Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChlIGluc3RhbmNlb2YgVW5hdXRob3JpemVkUmVxdWVzdEVycm9yKSB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCd1bmF1dGgnLCBlLm1lc3NhZ2UpOwogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIC4uLmRhdGEuZGF0YSwKICAgICAgY2hhbm5lbElkczogZGF0YS5kYXRhLmNoYW5uZWxzLm1hcCgoY2g6IHsgY2hhbm5lbElkOiBudW1iZXIgfSkgPT4KICAgICAgICBjaC5jaGFubmVsSWQudG9TdHJpbmcoKSwKICAgICAgKSwKICAgIH0gYXMgSUV2ZW50Owo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
