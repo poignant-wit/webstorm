@@ -288,10 +288,10 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547827867955">
+      <file name="/Dummy.txt" timestamp="1547830730500">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/docker-compose-scheduler/scheduler-website-frontend-v2/src/server/middlewares/initialStateBuilderMiddleware.ts" timestamp="1547634959034">
@@ -453,8 +453,8 @@
       <jump line="3" column="18" filename="$USER_HOME$/Documents/_own/mobx-intro/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmVhdDogdGltZXBpY2tlciBlcnJvciBvdXRsaW5l0LDQstCw0LIK</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -466,31 +466,31 @@
         <text encoding="base64">ICBwcml2YXRlIGhhbmRsZU9uQ2xpY2tSZWZyZXNoID0gYXN5bmMgKCkgPT4gewogICAgYXdhaXQgdGhpcy52bS5sb2FkQ2hhbm5lbHMoKTsKICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogY2hhbm5lbHMgdGFiCg==</text>
+        <text encoding="base64">ZmVhdDogdGltZXBpY2tlciBlcnJvciBvdXRsaW5l0LDQstCw0LIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBCdXR0b24sCg==</text>
+        <text encoding="base64">ZmVhdDogY2hhbm5lbHMgdGFiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBNZW51SXRlbSwK</text>
+        <text encoding="base64">ICBCdXR0b24sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXZlbnRNb2RlbCB9IGZyb20gJy4uLy4uLy4uLy4uL3N0b3JlL2RvbWFpbi9ldmVudHMvRXZlbnRNb2RlbCc7CmltcG9ydCB7IElWaWRlbyB9IGZyb20gJy4uLy4uLy4uLy4uL3N0b3JlL2RvbWFpbi9WaWRlbyc7CmltcG9ydCB7IEV2ZW50c0NyZWF0ZUVkaXRWaWV3TW9kZWwgfSBmcm9tICcuL0V2ZW50c0NyZWF0ZUVkaXRWaWV3TW9kZWwnOwppbXBvcnQgeyBnZXRJbnRlbnQgfSBmcm9tICcuL2dldEludGVudCc7Cg==</text>
+        <text encoding="base64">ICBNZW51SXRlbSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvdXRsaW5lOiBub25lOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRXZlbnRNb2RlbCB9IGZyb20gJy4uLy4uLy4uLy4uL3N0b3JlL2RvbWFpbi9ldmVudHMvRXZlbnRNb2RlbCc7CmltcG9ydCB7IElWaWRlbyB9IGZyb20gJy4uLy4uLy4uLy4uL3N0b3JlL2RvbWFpbi9WaWRlbyc7CmltcG9ydCB7IEV2ZW50c0NyZWF0ZUVkaXRWaWV3TW9kZWwgfSBmcm9tICcuL0V2ZW50c0NyZWF0ZUVkaXRWaWV3TW9kZWwnOwppbXBvcnQgeyBnZXRJbnRlbnQgfSBmcm9tICcuL2dldEludGVudCc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZmVhdDogZXZlbnQgZGF0ZSBhbmQgdGl0bGUK</text>
+        <text encoding="base64">ICBvdXRsaW5lOiBub25lOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ludGVydmFsJyk7Cg==</text>
+        <text encoding="base64">ZmVhdDogZXZlbnQgZGF0ZSBhbmQgdGl0bGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudm0uaXNMb2FkaW5nQ2hhbm5lbHMpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ludGVydmFsJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXJ0VmFsaWRUaW1lKCkge30K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudm0uaXNMb2FkaW5nQ2hhbm5lbHMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
