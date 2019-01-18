@@ -104,11 +104,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" timestamp="1547816304815">
-        <mark key="[" line="39" column="45" />
-        <mark key="]" line="39" column="45" />
-        <mark key="^" line="39" column="45" />
-        <mark key="." line="39" column="45" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" timestamp="1547819683641">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/integrations/frameIo/components/IntegrationsFrameIo.tsx" timestamp="1547713355627">
         <mark key="[" line="112" column="0" />
@@ -355,10 +355,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditDistribution/EventsCreateEditDistribution.tsx" timestamp="1547817579149">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditDistribution/EventsCreateEditDistribution.tsx" timestamp="1547819972325">
+        <mark key="[" line="37" column="14" />
+        <mark key="]" line="37" column="22" />
+        <mark key="^" line="37" column="22" />
+        <mark key="." line="37" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/downloadFile.ts" timestamp="1547219559381">
         <mark key="[" line="11" column="6" />
@@ -421,11 +422,11 @@
       <jump line="3" column="18" filename="$USER_HOME$/Documents/_own/mobx-intro/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+      <register name="&quot;" type="4">
+        <text>value</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>one</text>
@@ -434,31 +435,31 @@
         <text encoding="base64">ICAgICAgICA8RGlhbG9nQ29udGVudCBzdHlsZT17eyBtaW5XaWR0aDogODAwIH19Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IHN0eWxlPXt7IG1pbldpZHRoOiA3MDAgfX0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IHN0eWxlPXt7IG1pbldpZHRoOiA3MDAgfX0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgc3R5bGU9e3sgbWluV2lkdGg6IDcwMCB9fT4K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgc3R5bGU9e3sgbWluV2lkdGg6IDcwMCB9fT4K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRpdgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9Gb3JtR3JvdXA+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRpdgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgPC9Gb3JtR3JvdXA+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
