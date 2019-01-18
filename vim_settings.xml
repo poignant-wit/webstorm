@@ -92,7 +92,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" timestamp="1547805866775" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" timestamp="1547808507565">
+        <mark key="[" line="74" column="22" />
+        <mark key="]" line="74" column="57" />
+        <mark key="^" line="74" column="57" />
+        <mark key="." line="74" column="57" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/integrations/frameIo/components/IntegrationsFrameIo.tsx" timestamp="1547713355627">
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="0" />
@@ -135,11 +140,11 @@
         <mark key="^" line="94" column="32" />
         <mark key="." line="94" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain.tsx" timestamp="1547804643988">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="60" column="71" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain.tsx" timestamp="1547808376192">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/Webhooks.ts" timestamp="1547467363533">
         <mark key="[" line="20" column="58" />
@@ -290,11 +295,11 @@
         <mark key="^" line="3" column="122" />
         <mark key="." line="3" column="122" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal.tsx" timestamp="1547733545798">
-        <mark key="[" line="27" column="25" />
-        <mark key="]" line="27" column="43" />
-        <mark key="." line="27" column="43" />
-        <mark key="^" line="27" column="43" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal.tsx" timestamp="1547808666700">
+        <mark key="[" line="61" column="21" />
+        <mark key="]" line="61" column="31" />
+        <mark key="^" line="61" column="31" />
+        <mark key="." line="61" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditLooping.tsx" timestamp="1547734291930">
         <mark key="[" line="15" column="0" />
@@ -403,43 +408,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEdyaWQgaXRlbT17dHJ1ZX0+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>day</text>
+        <text>Close</text>
       </register>
       <register name="/" type="4">
         <text>one</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0UHJvcHM9e3sKICAgICAgICAgICAgICAgICAgaW50ZW50OiBnZXRJbnRlbnQodGhpcy52bS5pc0V2ZW50RGF0ZUVycm9yKSwKICAgICAgICAgICAgICAgIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEdyaWQgaXRlbT17dHJ1ZX0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEJ1dHRvbj5DYW5jZWw8L0J1dHRvbj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKAogICAgLy8gICBkYXRlLAogICAgLy8gICBkYXRlVGltZS51bml4KCksCiAgICAvLyAgIHRoaXMudmFsaWRTdGFydEV2ZW50QXQsCiAgICAvLyAgIGRhdGVUaW1lLnVuaXgoKSA8PSB0aGlzLnZhbGlkU3RhcnRFdmVudEF0LAogICAgLy8gKTsKCiAgICBjb25zb2xlLmxvZyhkYXRlVGltZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8R3JpZCBjb250YWluZXI9e3RydWV9PgogICAgICAgICAgPEJ1dHRvbj5DbG9zZTwvQnV0dG9uPgogICAgICAgIDwvR3JpZD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGUuZ2V0RGF0ZSgpKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGUuZ2V0RGF0ZSgpKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGUuZ2V0VGltZSgpKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGUuZ2V0VGltZSgpKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKAogICAgLy8gICBkYXRlLAogICAgLy8gICBkYXRlVGltZS51bml4KCksCiAgICAvLyAgIHRoaXMudmFsaWRTdGFydEV2ZW50QXQsCiAgICAvLyAgIGRhdGVUaW1lLnVuaXgoKSA8PSB0aGlzLnZhbGlkU3RhcnRFdmVudEF0LAogICAgLy8gKTsKCiAgICBjb25zb2xlLmxvZyhkYXRlVGltZSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGUuZ2V0RGF0ZSgpKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGUuZ2V0RnVsbFllYXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGUuZ2V0RGF0ZSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGUuZ2V0VGltZSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -470,6 +475,7 @@
         <entry>action FileChooser.NewFolder</entry>
         <entry>w</entry>
         <entry>action TsLintFileFixAction</entry>
+        <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
