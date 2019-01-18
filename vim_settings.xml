@@ -140,11 +140,11 @@
         <mark key="^" line="94" column="32" />
         <mark key="." line="94" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain.tsx" timestamp="1547739255379">
-        <mark key="[" line="25" column="34" />
-        <mark key="]" line="25" column="34" />
-        <mark key="." line="25" column="34" />
-        <mark key="^" line="25" column="34" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain.tsx" timestamp="1547801000216">
+        <mark key="[" line="55" column="61" />
+        <mark key="]" line="56" column="37" />
+        <mark key="." line="56" column="37" />
+        <mark key="^" line="56" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/Webhooks.ts" timestamp="1547467363533">
         <mark key="[" line="20" column="58" />
@@ -407,11 +407,11 @@
       <jump line="3" column="18" filename="$USER_HOME$/Documents/_own/mobx-intro/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyBub3RlIHRoYXQgbG9jYWxlIGFyZ3VtZW50IGNvbWVzIGZyb20gbG9jYWxlIHByb3AgYW5kIG1heSBiZSB1bmRlZmluZWQK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>locale</text>
       </register>
       <register name="/" type="4">
         <text>one</text>
@@ -420,31 +420,31 @@
         <text encoding="base64">ZGVjb3JhdGUoVG9kb3NTdG9yZSwgewogICAgdG9kb3M6IG9ic2VydmFibGUsCiAgICBjb3VudDogY29tcHV0ZWQsCiAgICBzaG93Q29tcGxldGVkT25seTogb2JzZXJ2YWJsZSwKICAgIHRvZ2dsZUZpbHRlcjogYWN0aW9uLAogICAgYWRkVG9kbzogYWN0aW9uLAogICAgZmlsdGVyZWRUb2RvczogY29tcHV0ZWQsCn0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBhY3Rpb24K</text>
+        <text encoding="base64">ICAvLyBub3RlIHRoYXQgbG9jYWxlIGFyZ3VtZW50IGNvbWVzIGZyb20gbG9jYWxlIHByb3AgYW5kIG1heSBiZSB1bmRlZmluZWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0ZS5nZXRVVENNb250aCgpKTsKICAgICAgcmV0dXJuIGRhdGU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2luZGV4LmNzcyc7CmltcG9ydCAnLi9yeGpzJzsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWxsIGV4YW1wbGVzCg==</text>
+        <text encoding="base64">ICAgIEBhY3Rpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoNT57dGhpcy5zdG9yZS5jb3VudH08L2g1Pgo=</text>
+        <text encoding="base64">cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICcuL2luZGV4LmNzcyc7CmltcG9ydCAnLi9yeGpzJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt0aGlzLnN0b3JlLnNob3dDb21wbGV0ZWRPbmx5ID8gJ0NvbXBsZXRlZCBvbmx5JzogJ0FsbCd9Cg==</text>
+        <text encoding="base64">YWxsIGV4YW1wbGVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbHRlcmVkVG9kb3M6IGNvbXB1dGVkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoNT57dGhpcy5zdG9yZS5jb3VudH08L2g1Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRvZ2dsZUZpbHRlcjogYWN0aW9uLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
