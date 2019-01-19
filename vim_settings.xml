@@ -136,10 +136,10 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/www/_DRAFTS/moleculer-ts/mol-ts/Dockerfile" timestamp="1547934124803">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="16" />
-        <mark key="." line="8" column="16" />
+      <file name="$USER_HOME$/www/_DRAFTS/moleculer-ts/mol-ts/Dockerfile" timestamp="1547935354390">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/router/src/Route.ts" timestamp="1546520931561">
@@ -183,6 +183,12 @@
         <mark key="]" line="9" column="30" />
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
+      </file>
+      <file name="$USER_HOME$/www/_DRAFTS/moleculer-ts/mol-ts/docker-compose.yml" timestamp="1547936398799">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="38" />
+        <mark key="^" line="10" column="38" />
+        <mark key="." line="10" column="38" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/router/node_modules/router5-plugin-browser/modules/index.ts" timestamp="1546627144915">
         <mark key="'" line="102" column="17" />
@@ -328,10 +334,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiYgbnBtIHJ1biBidWlsZCAmJiBucG0gcHJ1bmUgLS1wcm9kdWN0aW9u</text>
+        <text>api</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYgbnBtIHJ1biBidWlsZCAmJiBucG0gcHJ1bmUgLS1wcm9kdWN0aW9u</text>
+        <text>api</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb290U3RvcmVcPg==</text>
@@ -340,31 +346,31 @@
         <text encoding="base64">UlVOIG5wbSBpbnN0YWxsICYmIG5wbSBydW4gYnVpbGQgJiYgbnBtIHBydW5lIC0tcHJvZHVjdGlvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWxvZ0Zvcm1hdHRlcjogImRlZmF1bHQiLAo=</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWxvZ0xldmVsOiAiaW5mbyIsCg==</text>
+        <text encoding="base64">ICAgICAgU0VSVklDRVM6IGdyZWV0ZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIHZpZXdTdG9yZQo=</text>
+        <text encoding="base64">ICAgICAgU0VSVklDRVM6IGFwaQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudm0pOwo=</text>
+        <text encoding="base64">CWxvZ0Zvcm1hdHRlcjogImRlZmF1bHQiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgcm91dGVzOiBSb3V0ZVtdID0gW107Cg==</text>
+        <text encoding="base64">CWxvZ0xldmVsOiAiaW5mbyIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm91dGVzID0gcm91dGVzOwo=</text>
+        <text encoding="base64">ZmVhdDogYWRkIHZpZXdTdG9yZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJUm91dGVzIHsKICAKfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudm0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdHlwZXMgfSBmcm9tICcuLi9pb2MnOwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgcm91dGVzOiBSb3V0ZVtdID0gW107Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdHlwZXMgfSBmcm9tICcuL2lvYyc7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucm91dGVzID0gcm91dGVzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
