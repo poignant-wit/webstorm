@@ -193,6 +193,12 @@
         <mark key="." line="16" column="36" />
         <mark key="^" line="16" column="36" />
       </file>
+      <file name="$USER_HOME$/www/_DRAFTS/moleculer-ts/mol-ts/docker-compose.env" timestamp="1547932286522">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/router/src/App.tsx" timestamp="1546851115192">
         <mark key="'" line="89" column="5" />
         <mark key="[" line="65" column="5" />
@@ -316,11 +322,11 @@
       <jump line="51" column="32" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/store/domain/VideosStore.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIHZpZXdTdG9yZQo=</text>
+      <register name="&quot;" type="4">
+        <text>rabbit</text>
       </register>
       <register name="-" type="4">
-        <text>pes</text>
+        <text>rabbit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb290U3RvcmVcPg==</text>
@@ -400,6 +406,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
