@@ -394,7 +394,7 @@
         <text encoding="base64">CWFjdGlvbnM6ICwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -425,8 +425,8 @@
       </history-search>
       <history-cmd>
         <entry>action Find</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
