@@ -101,7 +101,8 @@
         <mark key="." line="27" column="44" />
         <mark key="^" line="27" column="44" />
       </file>
-      <file name="$USER_HOME$/www/_DRAFTS/moleculer-ts/mol-ts/moleculer.config.ts" timestamp="1547932736037">
+      <file name="$USER_HOME$/www/_DRAFTS/moleculer-ts/mol-ts/moleculer.config.ts" timestamp="1547977107319">
+        <mark key="'" line="144" column="31" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="26" />
         <mark key="." line="25" column="0" />
@@ -136,11 +137,11 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/www/_DRAFTS/moleculer-ts/mol-ts/Dockerfile" timestamp="1547935354390">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="23" />
-        <mark key="." line="11" column="23" />
-        <mark key="^" line="11" column="23" />
+      <file name="$USER_HOME$/www/_DRAFTS/moleculer-ts/mol-ts/Dockerfile" timestamp="1547976846120">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/router/src/Route.ts" timestamp="1546520931561">
         <mark key="[" line="1" column="17" />
@@ -184,11 +185,10 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/www/_DRAFTS/moleculer-ts/mol-ts/docker-compose.yml" timestamp="1547936398799">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="38" />
-        <mark key="^" line="10" column="38" />
-        <mark key="." line="10" column="38" />
+      <file name="$USER_HOME$/www/_DRAFTS/moleculer-ts/mol-ts/docker-compose.yml" timestamp="1547976815201">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/router/node_modules/router5-plugin-browser/modules/index.ts" timestamp="1546627144915">
         <mark key="'" line="102" column="17" />
@@ -331,55 +331,56 @@
       <jump line="43" column="14" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/store/domain/VideosStore.ts" />
       <jump line="44" column="21" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/store/domain/VideosStore.ts" />
       <jump line="51" column="32" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/store/domain/VideosStore.ts" />
+      <jump line="144" column="31" filename="$USER_HOME$/www/_DRAFTS/moleculer-ts/mol-ts/moleculer.config.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>api</text>
+        <text>production</text>
       </register>
       <register name="-" type="4">
-        <text>api</text>
+        <text>production</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb290U3RvcmVcPg==</text>
+        <text>5672</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UlVOIG5wbSBpbnN0YWxsICYmIG5wbSBydW4gYnVpbGQgJiYgbnBtIHBydW5lIC0tcHJvZHVjdGlvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
+        <text encoding="base64">ICAgICAgU0VSVklDRVM6IHNlcnZpY2VzL2FwaS5zZXJ2aWNlLnRzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgU0VSVklDRVM6IGdyZWV0ZXIK</text>
+        <text encoding="base64">ICAgIGxhYmVsczoKICAgICAgLSAidHJhZWZpay5lbmFibGU9ZmFsc2UiCiAgICAgIC0gInRyYWVmaWsuYmFja2VuZD1hcGkiCiAgICAgIC0gInRyYWVmaWsucG9ydD0zMDAwIgogICAgICAtICJ0cmFlZmlrLmZyb250ZW5kLmVudHJ5UG9pbnRzPWh0dHAiCiAgICAgIC0gInRyYWVmaWsuZnJvbnRlbmQucnVsZT1QYXRoUHJlZml4Oi8iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgU0VSVklDRVM6IGFwaQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWxvZ0Zvcm1hdHRlcjogImRlZmF1bHQiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWxvZ0xldmVsOiAiaW5mbyIsCg==</text>
+        <text encoding="base64">ICBncmVldGVyOgogICAgYnVpbGQ6CiAgICAgIGNvbnRleHQ6IC4KICAgIGltYWdlOiBtb2wtdHMKICAgIGVudl9maWxlOiBkb2NrZXItY29tcG9zZS5lbnYKICAgIGVudmlyb25tZW50OgogICAgICBTRVJWSUNFUzogZ3JlZXRlcgogICAgbGlua3M6CiAgICAgIC0gYW1xcAogICAgZGVwZW5kc19vbjoKICAgICAgLSBhbXFwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIHZpZXdTdG9yZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudm0pOwo=</text>
+        <text encoding="base64">ICB0cmFlZmlrOgogICAgaW1hZ2U6IHRyYWVmaWsKICAgIGNvbW1hbmQ6IC0td2ViIC0tZG9ja2VyIC0tZG9ja2VyLmRvbWFpbj1kb2NrZXIubG9jYWxob3N0IC0tbG9nTGV2ZWw9SU5GTyAtLWRvY2tlci5leHBvc2VkYnlkZWZhdWx0PWZhbHNlCiAgICBwb3J0czoKICAgICAgLSAiMzAwMDo4MCIKICAgICAgLSAiMzAwMTo4MDgwIgogICAgdm9sdW1lczoKICAgICAgLSAvdmFyL3J1bi9kb2NrZXIuc29jazovdmFyL3J1bi9kb2NrZXIuc29jawogICAgICAtIC9kZXYvbnVsbDovdHJhZWZpay50b21sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgcm91dGVzOiBSb3V0ZVtdID0gW107Cg==</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm91dGVzID0gcm91dGVzOwo=</text>
+        <text encoding="base64">ICAgICAgU0VSVklDRVM6IGdyZWV0ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb290U3RvcmVcPg==</last-search>
+      <last-search>5672</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb290U3RvcmVcPg==</last-pattern>
+      <last-pattern>5672</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -397,6 +398,8 @@
         <entry>history</entry>
         <entry encoding="base64">XDx1cGRhdGVCcm93c2VyU3RhdGVcPg==</entry>
         <entry encoding="base64">XDxyb290U3RvcmVcPg==</entry>
+        <entry>transp</entry>
+        <entry>5672</entry>
       </history-search>
       <history-cmd>
         <entry>action Find</entry>
@@ -420,6 +423,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
