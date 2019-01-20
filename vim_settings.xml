@@ -185,10 +185,11 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/www/_DRAFTS/moleculer-ts/mol-ts/docker-compose.yml" timestamp="1547976815201">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/www/_DRAFTS/moleculer-ts/mol-ts/docker-compose.yml" timestamp="1547985599661">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="17" />
+        <mark key="^" line="16" column="17" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/router/node_modules/router5-plugin-browser/modules/index.ts" timestamp="1546627144915">
         <mark key="'" line="102" column="17" />
@@ -241,11 +242,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="36" />
       </file>
-      <file name="$USER_HOME$/www/_DRAFTS/moleculer-ts/mol-ts/docker-compose.env" timestamp="1547932286522">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="22" />
-        <mark key="." line="5" column="22" />
-        <mark key="^" line="5" column="22" />
+      <file name="$USER_HOME$/www/_DRAFTS/moleculer-ts/mol-ts/docker-compose.env" timestamp="1547985461194">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="4" column="22" />
       </file>
       <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/AppViewModel.ts" timestamp="1546869823129">
         <mark key="[" line="2" column="0" />
@@ -295,6 +296,10 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="17" />
       </file>
+      <file name="$USER_HOME$/www/_DRAFTS/moleculer-ts/mol-ts-test/docker-compose.yml" timestamp="1547985557753">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="44" column="19" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="297" column="18" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
@@ -335,46 +340,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>production</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>production</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>5672</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsICYmIG5wbSBydW4gYnVpbGQgJiYgbnBtIHBydW5lIC0tcHJvZHVjdGlvbgo=</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtICIzMDAwOjgwIgogICAgICAtICIzMDAxOjgwODAiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU0VSVklDRVM6IHNlcnZpY2VzL2FwaS5zZXJ2aWNlLnRzCg==</text>
+        <text encoding="base64">U0VSVklDRURJUj1zZXJ2aWNlcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxhYmVsczoKICAgICAgLSAidHJhZWZpay5lbmFibGU9ZmFsc2UiCiAgICAgIC0gInRyYWVmaWsuYmFja2VuZD1hcGkiCiAgICAgIC0gInRyYWVmaWsucG9ydD0zMDAwIgogICAgICAtICJ0cmFlZmlrLmZyb250ZW5kLmVudHJ5UG9pbnRzPWh0dHAiCiAgICAgIC0gInRyYWVmaWsuZnJvbnRlbmQucnVsZT1QYXRoUHJlZml4Oi8iCg==</text>
+        <text encoding="base64">ICAgICAgU0VSVklDRVM6IHNlcnZpY2VzL2FwaS5zZXJ2aWNlLnRzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxhYmVsczoKICAgICAgLSAidHJhZWZpay5lbmFibGU9ZmFsc2UiCiAgICAgIC0gInRyYWVmaWsuYmFja2VuZD1hcGkiCiAgICAgIC0gInRyYWVmaWsucG9ydD0zMDAwIgogICAgICAtICJ0cmFlZmlrLmZyb250ZW5kLmVudHJ5UG9pbnRzPWh0dHAiCiAgICAgIC0gInRyYWVmaWsuZnJvbnRlbmQucnVsZT1QYXRoUHJlZml4Oi8iCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBncmVldGVyOgogICAgYnVpbGQ6CiAgICAgIGNvbnRleHQ6IC4KICAgIGltYWdlOiBtb2wtdHMKICAgIGVudl9maWxlOiBkb2NrZXItY29tcG9zZS5lbnYKICAgIGVudmlyb25tZW50OgogICAgICBTRVJWSUNFUzogZ3JlZXRlcgogICAgbGlua3M6CiAgICAgIC0gYW1xcAogICAgZGVwZW5kc19vbjoKICAgICAgLSBhbXFwCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBncmVldGVyOgogICAgYnVpbGQ6CiAgICAgIGNvbnRleHQ6IC4KICAgIGltYWdlOiBtb2wtdHMKICAgIGVudl9maWxlOiBkb2NrZXItY29tcG9zZS5lbnYKICAgIGVudmlyb25tZW50OgogICAgICBTRVJWSUNFUzogZ3JlZXRlcgogICAgbGlua3M6CiAgICAgIC0gYW1xcAogICAgZGVwZW5kc19vbjoKICAgICAgLSBhbXFwCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0cmFlZmlrOgogICAgaW1hZ2U6IHRyYWVmaWsKICAgIGNvbW1hbmQ6IC0td2ViIC0tZG9ja2VyIC0tZG9ja2VyLmRvbWFpbj1kb2NrZXIubG9jYWxob3N0IC0tbG9nTGV2ZWw9SU5GTyAtLWRvY2tlci5leHBvc2VkYnlkZWZhdWx0PWZhbHNlCiAgICBwb3J0czoKICAgICAgLSAiMzAwMDo4MCIKICAgICAgLSAiMzAwMTo4MDgwIgogICAgdm9sdW1lczoKICAgICAgLSAvdmFyL3J1bi9kb2NrZXIuc29jazovdmFyL3J1bi9kb2NrZXIuc29jawogICAgICAtIC9kZXYvbnVsbDovdHJhZWZpay50b21sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
+        <text encoding="base64">ICB0cmFlZmlrOgogICAgaW1hZ2U6IHRyYWVmaWsKICAgIGNvbW1hbmQ6IC0td2ViIC0tZG9ja2VyIC0tZG9ja2VyLmRvbWFpbj1kb2NrZXIubG9jYWxob3N0IC0tbG9nTGV2ZWw9SU5GTyAtLWRvY2tlci5leHBvc2VkYnlkZWZhdWx0PWZhbHNlCiAgICBwb3J0czoKICAgICAgLSAiMzAwMDo4MCIKICAgICAgLSAiMzAwMTo4MDgwIgogICAgdm9sdW1lczoKICAgICAgLSAvdmFyL3J1bi9kb2NrZXIuc29jazovdmFyL3J1bi9kb2NrZXIuc29jawogICAgICAtIC9kZXYvbnVsbDovdHJhZWZpay50b21sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgU0VSVklDRVM6IGdyZWV0ZXIK</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -404,6 +409,7 @@
       <history-cmd>
         <entry>action Find</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
