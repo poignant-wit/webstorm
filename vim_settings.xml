@@ -114,6 +114,12 @@
         <mark key="." line="29" column="36" />
         <mark key="^" line="29" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/reporters/analytics/AnalyticsReporter.tsx" timestamp="1548160487724">
+        <mark key="[" line="69" column="30" />
+        <mark key="]" line="69" column="30" />
+        <mark key="^" line="69" column="30" />
+        <mark key="." line="69" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingOffers/OnboardingOffersRegular.tsx" timestamp="1548156000549">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="308" column="0" />
@@ -164,11 +170,6 @@
         <mark key="." line="196" column="16" />
         <mark key="^" line="196" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventCreateEditModal.tsx" timestamp="1548144915840">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="8" column="10" />
-        <mark key="." line="8" column="10" />
-      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditTab.tsx" timestamp="1547828875169">
         <mark key="[" line="19" column="22" />
         <mark key="]" line="19" column="33" />
@@ -186,11 +187,6 @@
         <mark key="]" line="22" column="27" />
         <mark key="^" line="22" column="27" />
         <mark key="." line="22" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain/contentItemRenderer.tsx" timestamp="1548079753301">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/utils/time.ts" timestamp="1547803966422" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal.tsx" timestamp="1548144395985">
@@ -216,12 +212,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="^" line="17" column="10" />
         <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/videos/containers/VideoUploaderContainer.tsx" timestamp="1548062753164">
-        <mark key="[" line="45" column="32" />
-        <mark key="]" line="45" column="36" />
-        <mark key="." line="45" column="36" />
-        <mark key="^" line="45" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/downloadFile.ts" timestamp="1547219559381">
         <mark key="[" line="11" column="6" />
@@ -394,6 +384,7 @@
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/Video.ts" timestamp="1548160708245" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/RootStore.ts" timestamp="1547464462970">
         <mark key="[" line="66" column="44" />
         <mark key="]" line="66" column="57" />
@@ -442,11 +433,11 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/billing/containers/BillingPlanContainer.tsx" timestamp="1548159339033">
-        <mark key="[" line="193" column="17" />
-        <mark key="]" line="193" column="23" />
-        <mark key="." line="193" column="23" />
-        <mark key="^" line="193" column="23" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/billing/containers/BillingPlanContainer.tsx" timestamp="1548160452162">
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="187" column="0" />
+        <mark key="." line="187" column="0" />
+        <mark key="^" line="186" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditDistribution/EventsCreateEditDistribution.tsx" timestamp="1548154225319">
         <mark key="[" line="51" column="35" />
@@ -534,43 +525,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>success</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>success</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>isMonth</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmFseXRpY3NSZXBvcnRlci5sb2dFdmVudChldmVudE5hbWUsIHsKICAgICAgICAgIHN0YXR1czogJ3N1Y2Nlc3MnLAogICAgICAgICAgLi4uZXZlbnRQYXJhbXMsCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgYW5hbHl0aWNzUmVwb3J0ZXIubG9nRXZlbnQoJ2NhbmNlbCcsIHsKICAgICAgICBzdGF0dXM6ICdzdWNjZXNzJywKICAgICAgICAuLi5ldmVudFBhcmFtcywKICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnZpZGVvc1N0b3JlLnJvb3RTdG9yZS5hbmFseXRpY3NSZXBvcnRlci5sb2dFdmVudCgKICAgICAgICAgIEFOQUxZVElDU19FVkVOVC5WSURFT1MsCiAgICAgICAgICB7IGV2ZW50OiAndXBsb2FkJywgc3RhdHVzOiAnYXR0ZW1wdCcgfSwKICAgICAgICApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRoaXMucHJvcHMuc3Vic2NyaXB0aW9uc1N0b3JlIS5jYW5jZWxTdWJzY3JpcHRpb24oKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIHNob3dSZW5ld0J1dHRvbiA9ICgpID0+IHsKICAgIHJldHVybiAhdGhpcy5zaG93Q2FuY2VsU3Vic2NyaXB0aW9uQnV0dG9uKCk7CiAgfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETyBjYXRjaCBlcnJvcgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsYW5JbnRlcnZhbDogdGhpcy5pc01vbnRobHkKICAgICAgICAgICAgPyBQTEFOX0lOVEVSVkFMLk1PTlRITFkKICAgICAgICAgICAgOiBQTEFOX0lOVEVSVkFMLllFQVJMWSwKICAgICAgICAgIHBsYW5OYW1lOiBvZmZlci50eXBlLAogICAgICAgICAgdmFsdWU6IG9mZmVyLnByaWNlLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsYW5JbnRlcnZhbDogdGhpcy5pc01vbnRobHkKICAgICAgICAgICAgPyBQTEFOX0lOVEVSVkFMLk1PTlRITFkKICAgICAgICAgICAgOiBQTEFOX0lOVEVSVkFMLllFQVJMWSwKICAgICAgICAgIHBsYW5OYW1lOiBvZmZlci50eXBlLAogICAgICAgICAgdmFsdWU6IG9mZmVyLnByaWNlLAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGF3YWl0IHRoaXMucHJvcHMuc3Vic2NyaXB0aW9uc1N0b3JlIS5jYW5jZWxTdWJzY3JpcHRpb24oKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLy8gVE9ETyBjYXRjaCBlcnJvcgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsYW5OYW1lOiBwbGFuTmFtZSh7CiAgICAgICAgICAgIGludGVydmFsOiB0aGlzLmlzTW9udGhseQogICAgICAgICAgICAgID8gUExBTl9JTlRFUlZBTC5NT05USExZCiAgICAgICAgICAgICAgOiBQTEFOX0lOVEVSVkFMLllFQVJMWSwKICAgICAgICAgICAgcGxhblR5cGU6IG9mZmVyLnR5cGUsCiAgICAgICAgICB9IGFzIGFueSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBsYW5JbnRlcnZhbDogdGhpcy5pc01vbnRobHkKICAgICAgICAgICAgPyBQTEFOX0lOVEVSVkFMLk1PTlRITFkKICAgICAgICAgICAgOiBQTEFOX0lOVEVSVkFMLllFQVJMWSwKICAgICAgICAgIHBsYW5OYW1lOiBvZmZlci50eXBlLAogICAgICAgICAgdmFsdWU6IG9mZmVyLnByaWNlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmFseXRpY3NSZXBvcnRlci5sb2dFdmVudCgndXBncmFkZScsIHsKICAgICAgICAgIHN0YXR1czogJ2F0dGVtcHInLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBsYW5JbnRlcnZhbDogdGhpcy5pc01vbnRobHkKICAgICAgICAgICAgPyBQTEFOX0lOVEVSVkFMLk1PTlRITFkKICAgICAgICAgICAgOiBQTEFOX0lOVEVSVkFMLllFQVJMWSwKICAgICAgICAgIHBsYW5OYW1lOiBvZmZlci50eXBlLAogICAgICAgICAgdmFsdWU6IG9mZmVyLnByaWNlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmFseXRpY3NSZXBvcnRlci5sb2dFdmVudCgndXBncmFkZScsIHsKICAgICAgICAgIHN0YXR1czogJ29rJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
