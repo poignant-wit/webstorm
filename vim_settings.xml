@@ -137,11 +137,11 @@
         <mark key="^" line="20" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/node_modules/@blueprintjs/core/src/components/popover/popoverSharedProps.ts" timestamp="1547732945510" />
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain/EventsCreateEditMain.tsx" timestamp="1548177109051">
-        <mark key="[" line="114" column="46" />
-        <mark key="]" line="115" column="48" />
-        <mark key="." line="115" column="48" />
-        <mark key="^" line="115" column="48" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain/EventsCreateEditMain.tsx" timestamp="1548233252707">
+        <mark key="[" line="74" column="26" />
+        <mark key="]" line="74" column="38" />
+        <mark key="." line="74" column="38" />
+        <mark key="^" line="74" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/upgrade/containers/UpgradeContainer.tsx" timestamp="1548158582247">
         <mark key="[" line="18" column="43" />
@@ -259,6 +259,7 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="51" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain/EventsCreateEditContentItem/EventsCreateEditContentItem.tsx" timestamp="1548233195863" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/channels/ChannelModel.ts" timestamp="1547821491288">
         <mark key="[" line="18" column="34" />
         <mark key="]" line="18" column="43" />
@@ -399,11 +400,11 @@
         <mark key="." line="66" column="57" />
         <mark key="^" line="66" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548177581093">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="25" />
+      <file name="/Dummy.txt" timestamp="1548233518283">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/webhooks/WebhooksStore.ts" timestamp="1547464814015">
         <mark key="[" line="13" column="26" />
@@ -565,11 +566,11 @@
       <jump line="184" column="15" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBBRFNGQVNERiBBU0RHRkFERkdBIEFTREZBRFNGIERGQVNERkFEIEEgU0RGQVNERiBBRFNGIFNERlNERiBTIFMKICAgICAgICAgICAgICBzZGYgc2Rmcwo=</text>
+      <register name="&quot;" type="4">
+        <text>height</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>height</text>
       </register>
       <register name="/" type="4">
         <text>channels</text>
@@ -578,31 +579,31 @@
         <text encoding="base64">ICAgIG1heC13aWR0aDogMzUwcHg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBBRFNGQVNERiBBU0RHRkFERkdBIEFTREZBRFNGIERGQVNERkFEIEEgU0RGQVNERiBBRFNGIFNERlNERiBTIFMKICAgICAgICAgICAgICBzZGYgc2Rmcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qe2l0ZW0udGl0bGV9Ki99Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgaXNNb2JpbGUgfSBmcm9tICdyZWFjdC1kZXZpY2UtZGV0ZWN0JzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge2l0ZW0udHlwZSA9PT0gRVZFTlRfQ09OVEVOVF9UWVBFLlBMQVlMSVNUICYmICgKICAgICAgICAgICAgICA8VGFnIHN0eWxlPXt7IG1hcmdpbkxlZnQ6IDYgfX0gbWluaW1hbD17dHJ1ZX0+CiAgICAgICAgICAgICAgICBwbGF5bGlzdAogICAgICAgICAgICAgIDwvVGFnPgogICAgICAgICAgICApfQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSVZpZGVvIH0gZnJvbSAnLi4vLi4vLi4vLi4vLi4vc3RvcmUvZG9tYWluL1ZpZGVvJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0RnVsbFBhdGggfSBmcm9tICcuLi8uLi8uLi8uLi8uLi91dGlscy9nZXRGdWxsUGF0aCc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge2l0ZW0udHlwZSA9PT0gRVZFTlRfQ09OVEVOVF9UWVBFLlBMQVlMSVNUICYmICgKICAgICAgICAgICAgICA8VGFnIHN0eWxlPXt7IG1hcmdpbkxlZnQ6IDYgfX0gbWluaW1hbD17dHJ1ZX0+CiAgICAgICAgICAgICAgICBwbGF5bGlzdAogICAgICAgICAgICAgIDwvVGFnPgogICAgICAgICAgICApfQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgdW5kZWZpbmVkIH0gZnJvbSAnaW8tdHMnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBBRFNGQVNERiBBU0RHRkFERkdBIEFTREZBRFNGIERGQVNERkFEIEEgU0RGQVNERiBBRFNGIFNERlNERiBTIFMKICAgICAgICAgICAgICBzZGYgc2Rmcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qe2l0ZW0udGl0bGV9Ki99Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRzZmFzZGYgYXNkZ2ZhZGZnYSBhc2RmYWRzZiBkZmFzZGZhZCAgYSBzZGZhc2RmIGFkc2YgIHNkZnNkZiBzIHMgc2RmICBzZGZzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge2l0ZW0udHlwZSA9PT0gRVZFTlRfQ09OVEVOVF9UWVBFLlBMQVlMSVNUICYmICgKICAgICAgICAgICAgICA8VGFnIHN0eWxlPXt7IG1hcmdpbkxlZnQ6IDYgfX0gbWluaW1hbD17dHJ1ZX0+CiAgICAgICAgICAgICAgICBwbGF5bGlzdAogICAgICAgICAgICAgIDwvVGFnPgogICAgICAgICAgICApfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4OwogIG1pbi1oZWlnaHQ6IDQycHg7CiAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICB3aWR0aDogMTAwJTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
