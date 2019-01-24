@@ -460,11 +460,11 @@
         <mark key="^" line="32" column="10" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/header/components/Header.scss" timestamp="1548257174658">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-        <mark key="." line="1" column="20" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/header/components/Header.scss" timestamp="1548316665743">
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+        <mark key="." line="13" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/index.ts" timestamp="1548144694946">
         <mark key="[" line="0" column="38" />
@@ -508,11 +508,11 @@
         <mark key="." line="59" column="55" />
         <mark key="^" line="59" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/header/components/Header.tsx" timestamp="1548260918011">
-        <mark key="[" line="87" column="53" />
-        <mark key="]" line="87" column="61" />
-        <mark key="." line="87" column="61" />
-        <mark key="^" line="87" column="61" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/header/components/Header.tsx" timestamp="1548317366863">
+        <mark key="[" line="92" column="21" />
+        <mark key="]" line="92" column="32" />
+        <mark key="." line="92" column="32" />
+        <mark key="^" line="92" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/socketEvents.ts" timestamp="1547468059971">
         <mark key="[" line="3" column="1" />
@@ -626,44 +626,44 @@
       <jump line="209" column="36" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/header/containers/HeaderContainer.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Zml4OiBmaWx0ZXIgbm9uLXByb2Nlc3NlZCB2aWRlb3MK</text>
+      <register name="&quot;" type="4">
+        <text>hideOnSmall</text>
       </register>
       <register name="-" type="4">
-        <text>pathname</text>
+        <text>hideOnSmall</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmFseXRpY3NSZXBvcnRlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5sb2NhdGlvblBhdGhuYW1lID0gdGhpcy5oaXN0b3J5LmxvY2F0aW9uLnBhdGhuYW1lOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGhpZGVPblNtYWxsID0gdGhpcy5tYXhXaWR0aChYUyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiBmaWx0ZXIgbm9uLXByb2Nlc3NlZCB2aWRlb3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7aGlkZU9uU21hbGwgPyAoCiAgICAgICAgICAgICAgICAgICAgICA8PlVwZ3JhZGU8L3N0cm9uZz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3Ryb25nPlVwZ3JhZGU8L3N0cm9uZz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC5taW5XaWR0aChYUykgJiYgdGhpcy5tYXhXaWR0aChNKSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMubG9jYXRpb25QYXRobmFtZSA9IHRoaXMuaGlzdG9yeS5sb2NhdGlvbi5wYXRobmFtZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgID8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZmVhdDogSGVhZGVyVmlld01vZGVsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmlnaHRJY29uPSJzaGFyZSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7Lyo8SGVhZGVyQ29udGFpbmVyIC8+Ki99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Lyo8ZGl2IGNsYXNzTmFtZT0ic2MtaGVhZGVyX191cGdyYWRlLWJ1dHRvbiI+VXBncmFkZTwvZGl2PiovfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQU5BTFlUSUNTX0VWRU5UIH0gZnJvbSAnLi4vLi4vLi4vcmVwb3J0ZXJzL2FuYWx5dGljcy9hbmFseXRpY3NFdmVudHMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic2MtaGVhZGVyX191cGdyYWRlLWJ1dHRvbiI+VXBncmFkZTwvZGl2PgogICAgICAgICAgICAgICAgICA8L1JlYWN0LkZyYWdtZW50Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbmFtZTogZXZlbnRQYXJhbXNOYW1lLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAvLyB0aGlzLnByb3BzLnJvdXRpbmdTdG9yZSEucHVzaChyb3V0ZVBhdGguZXZlbnRzKCkpOwogICAgICAgICAgICAgICAgICAgIH19Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
