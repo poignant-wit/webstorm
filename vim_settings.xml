@@ -449,10 +449,10 @@
         <mark key="." line="91" column="84" />
         <mark key="^" line="91" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548346907481">
+      <file name="/Dummy.txt" timestamp="1548348475926">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="30" />
+        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/webhooks/WebhooksStore.ts" timestamp="1547464814015">
@@ -467,10 +467,10 @@
         <mark key="^" line="32" column="10" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/dialogs/DialogView.tsx" timestamp="1548339770955">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/dialogs/DialogView.tsx" timestamp="1548348451699">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
         <mark key="^" line="20" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/header/components/Header.scss" timestamp="1548343404237">
@@ -514,12 +514,6 @@
         <mark key="]" line="160" column="34" />
         <mark key="." line="160" column="34" />
         <mark key="^" line="160" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/header/components/Header.tsx" timestamp="1548346865825">
-        <mark key="[" line="31" column="12" />
-        <mark key="]" line="31" column="13" />
-        <mark key="." line="31" column="13" />
-        <mark key="^" line="31" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/socketEvents.ts" timestamp="1547468059971">
         <mark key="[" line="3" column="1" />
@@ -634,7 +628,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Zml4OiB1cGRhdGUgY2hhbm5lbHMgYWZ0ZXIgcmVmcmVzaAo=</text>
+        <text encoding="base64">Zml4OiB4cyAtPiA0MTQK</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
@@ -646,31 +640,31 @@
         <text encoding="base64">ICAgICAgY29uc3QgY2hhbm5lbElkcyA9IHRoaXMuY2hhbm5lbHNTdG9yZS5hbGxDaGFubmVscy5yZWR1Y2UoCiAgICAgICAgLy8gQHRzLWlnbm9yZQogICAgICAgIChhY2MsIGNoYW5uZWwpID0+IHsKICAgICAgICAgIGlmIChjaGFubmVsLmVuYWJsZWQpIHsKICAgICAgICAgICAgcmV0dXJuIFsuLi5hY2MsIGNoYW5uZWwuaWRdOwogICAgICAgICAgfQogICAgICAgICAgcmV0dXJuIGFjYzsKICAgICAgICAgIC8vIHRzbGludDpkaXNhYmxlLW5leHQtbGluZQogICAgICB9LCBbXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiB1cGRhdGUgY2hhbm5lbHMgYWZ0ZXIgcmVmcmVzaAo=</text>
+        <text encoding="base64">Zml4OiB4cyAtPiA0MTQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zml4OiBjaGFubmVscyBpY29u0LDQstCw0LJrago=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZGlhbG9nVmlld1N0b3JlLm5hbWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjaGFubmVscyk7Cg==</text>
+        <text encoding="base64">Zml4OiB1cGRhdGUgY2hhbm5lbHMgYWZ0ZXIgcmVmcmVzaAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNoYW5uZWxzUmVhY3Rpb24gPSByZWFjdGlvbigKICAgICAgKCkgPT4gdGhpcy5jaGFubmVscywKICAgICAgY2hhbm5lbHMgPT4gewogICAgICAgIGNvbnNvbGUubG9nKGNoYW5uZWxzKTsKICAgICAgfSwKICAgICk7Cg==</text>
+        <text encoding="base64">Zml4OiBjaGFubmVscyBpY29u0LDQstCw0LJrago=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZmVhdDogbmF2YmFyIGJ1dHRvbnMgLT4gdGFicwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjaGFubmVscyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7aXNNZWRpdW0gJiYgKAogICAgICAgICAgICAgICAgICAgICAgPEljb24KICAgICAgICAgICAgICAgICAgICAgICAgaWNvbj0ic2hhcmUiCiAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0ic2MtaGVhZGVyLW1lbnUtaXRlbS0taWNvbl9fcmlnaHQiCiAgICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICAgICl9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNoYW5uZWxzUmVhY3Rpb24gPSByZWFjdGlvbigKICAgICAgKCkgPT4gdGhpcy5jaGFubmVscywKICAgICAgY2hhbm5lbHMgPT4gewogICAgICAgIGNvbnNvbGUubG9nKGNoYW5uZWxzKTsKICAgICAgfSwKICAgICk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZmVhdDogbW9kYWwgZXZlbnQgcHJlc2VudGVyCg==</text>
+        <text encoding="base64">ZmVhdDogbmF2YmFyIGJ1dHRvbnMgLT4gdGFicwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qPFRhYnMqL30KICAgICAgICAgICAgey8qYW5pbWF0ZT17dHJ1ZX0qL30KICAgICAgICAgICAgey8qaWQ9Im5hdmJhciIqL30KICAgICAgICAgICAgey8qbGFyZ2U9e3RydWV9Ki99CiAgICAgICAgICAgIHsvKnNlbGVjdGVkVGFiSWQ9eydIb21lJ30qL30KICAgICAgICAgICAgey8qPiovfQogICAgICAgICAgICB7Lyo8VGFiIGlkPSJIb21lIiB0aXRsZT0iSG9tZSIgLz4qL30KICAgICAgICAgICAgey8qPFRhYiBpZD0iRmlsZXMiIHRpdGxlPSJGaWxlcyIgLz4qL30KICAgICAgICAgICAgey8qPFRhYiBpZD0iQnVpbGRzIiB0aXRsZT0iQnVpbGRzIiAvPiovfQogICAgICAgICAgICB7Lyo8L1RhYnM+Ki99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7aXNNZWRpdW0gJiYgKAogICAgICAgICAgICAgICAgICAgICAgPEljb24KICAgICAgICAgICAgICAgICAgICAgICAgaWNvbj0ic2hhcmUiCiAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0ic2MtaGVhZGVyLW1lbnUtaXRlbS0taWNvbl9fcmlnaHQiCiAgICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICAgICl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBCdXR0b25Hcm91cCwK</text>
+        <text encoding="base64">ZmVhdDogbW9kYWwgZXZlbnQgcHJlc2VudGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
