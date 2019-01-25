@@ -219,6 +219,11 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
       </file>
+      <file name="$USER_HOME$/www/__work__/scheduler-video-service-ts/src/controllers/videos.controller.ts" timestamp="1548405237297">
+        <mark key="[" line="367" column="0" />
+        <mark key="]" line="367" column="0" />
+        <mark key="." line="367" column="0" />
+      </file>
       <file name="$USER_HOME$/www/_DRAFTS/moleculer-ts/mol-ts/docker-compose.yml" timestamp="1547987114019">
         <mark key="[" line="18" column="10" />
         <mark key="]" line="18" column="16" />
@@ -393,8 +398,8 @@
       <jump line="173" column="25" filename="$USER_HOME$/www/scheduler-website-frontend-v2/src/views/events/containers/EventsContainer.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>inversify</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>inversify</text>
@@ -406,31 +411,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdTY2hlZHVsZSBMaXZlIEV2ZW50JzoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICcnCg==</text>
+        <text encoding="base64">ICAgICd1cGxvYWQgZnJvbSBmaWxlJy5sb2NhbGVDb21wYXJlKGcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgU2NoZWR1bGUgTGl2ZSBFdmVudAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBAbWVkaWEgc2NyZWVuIGFuZCAobWluLXdpZHRoOiAkYnJlYWstbGFyZ2UpIHsKICAgIGZsb2F0OiByaWdodDsKICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDBweDsKICAgIGZsb2F0OiBub25lOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBoZWxwZXJUZXh0PSJTaG91bGQgYmUgc2V0IGFzIGNsb3NlIGFzIHBvc3NpYmxlIHRvIHRoZSBkZXN0aW5hdGlvbiBvZiB5b3VyIHN0cmVhbWluZyBwbGF0Zm9ybXMuCiAgICAgICAgLy8gSWYgeW91IGFyZSBub3Qgc3VyZSwgc2V0IGl0IHRvIHRoZSBjbG9zZXN0IGxvY2F0aW9uIHlvdSBhcmUgbG9jYXRlZCIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICcnCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgU2NoZWR1bGUgTGl2ZSBFdmVudAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBAbWVkaWEgc2NyZWVuIGFuZCAobWluLXdpZHRoOiAkYnJlYWstbGFyZ2UpIHsKICAgIGZsb2F0OiByaWdodDsKICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHdpZHRoOiAxMDBweDsKICAgIGZsb2F0OiBub25lOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudm0uZXZlbnQuaW5nZXN0SWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBoZWxwZXJUZXh0PSJTaG91bGQgYmUgc2V0IGFzIGNsb3NlIGFzIHBvc3NpYmxlIHRvIHRoZSBkZXN0aW5hdGlvbiBvZiB5b3VyIHN0cmVhbWluZyBwbGF0Zm9ybXMuCiAgICAgICAgLy8gSWYgeW91IGFyZSBub3Qgc3VyZSwgc2V0IGl0IHRvIHRoZSBjbG9zZXN0IGxvY2F0aW9uIHlvdSBhcmUgbG9jYXRlZCIK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
