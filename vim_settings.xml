@@ -27,10 +27,10 @@
         <mark key="^" line="63" column="36" />
         <mark key="." line="63" column="36" />
       </file>
-      <file name="$USER_HOME$/www/__work__/scheduler-video-service-ts/src/routes/videosRouter.ts" timestamp="1548411212551">
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="9" column="50" />
-        <mark key="." line="9" column="50" />
+      <file name="$USER_HOME$/www/__work__/scheduler-video-service-ts/src/routes/videosRouter.ts" timestamp="1548610703961">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="50" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/router/src/routes.ts" timestamp="1546626140938">
@@ -170,6 +170,12 @@
         <mark key="^" line="84" column="41" />
         <mark key="." line="106" column="42" />
       </file>
+      <file name="$USER_HOME$/www/__work__/scheduler-video-service-ts/src/types.ts" timestamp="1548615112500">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+      </file>
       <file name="$USER_HOME$/www/_DRAFTS/moleculer-ts/mol-ts/Dockerfile" timestamp="1547986668789">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -213,6 +219,12 @@
         <mark key="^" line="499" column="13" />
         <mark key="." line="493" column="0" />
       </file>
+      <file name="$USER_HOME$/www/__work__/scheduler-video-service-ts/src/utils/localFilePath.ts" timestamp="1548613430099">
+        <mark key="[" line="3" column="49" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/store/ui/UIFileSelectorStore.ts" timestamp="1546607484630">
         <mark key="[" line="7" column="31" />
         <mark key="]" line="7" column="34" />
@@ -225,12 +237,12 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/www/__work__/scheduler-video-service-ts/src/controllers/videos.controller.ts" timestamp="1548411958965">
-        <mark key="'" line="374" column="4" />
-        <mark key="[" line="387" column="0" />
-        <mark key="]" line="387" column="0" />
-        <mark key="^" line="376" column="22" />
-        <mark key="." line="387" column="0" />
+      <file name="$USER_HOME$/www/__work__/scheduler-video-service-ts/src/controllers/videos.controller.ts" timestamp="1548618106235">
+        <mark key="'" line="523" column="5" />
+        <mark key="[" line="453" column="0" />
+        <mark key="]" line="453" column="0" />
+        <mark key="^" line="465" column="105" />
+        <mark key="." line="453" column="0" />
       </file>
       <file name="$USER_HOME$/www/_DRAFTS/moleculer-ts/mol-ts/docker-compose.yml" timestamp="1547987114019">
         <mark key="[" line="18" column="10" />
@@ -248,6 +260,19 @@
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/__work__/scheduler-video-service-ts/src/middlewares/authMiddleware.ts" timestamp="1548615129408">
+        <mark key="'" line="40" column="17" />
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="35" column="22" />
+        <mark key="." line="35" column="22" />
+        <mark key="^" line="35" column="21" />
+      </file>
+      <file name="$USER_HOME$/www/__work__/scheduler-website-frontend-v2/src/views/videos/containers/VideosListContainer.tsx" timestamp="1548618412029">
+        <mark key="[" line="45" column="27" />
+        <mark key="]" line="45" column="33" />
+        <mark key="." line="45" column="33" />
+        <mark key="^" line="45" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1548412031905">
         <mark key="[" line="0" column="0" />
@@ -315,6 +340,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="36" column="1" />
       </file>
+      <file name="$USER_HOME$/www/__work__/scheduler-video-service-ts/src/utils/ffmpeg.ts" timestamp="1548617013384">
+        <mark key="'" line="8" column="36" />
+        <mark key="[" line="148" column="22" />
+        <mark key="]" line="148" column="24" />
+        <mark key="^" line="148" column="24" />
+        <mark key="." line="148" column="24" />
+      </file>
       <file name="$USER_HOME$/www/scheduler-website-frontend-v2/src/client/index.tsx" timestamp="1546869886538">
         <mark key="[" line="31" column="18" />
         <mark key="]" line="31" column="18" />
@@ -358,13 +390,15 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/www/_DRAFTS/moleculer-ts/mol-ts-test/docker-compose.yml" timestamp="1547985557753">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="44" column="19" />
+      <file name="$USER_HOME$/www/__work__/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1548618013271">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="62" />
       </file>
-      <file name="$USER_HOME$/www/__work__/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1548410813239">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="44" column="5" />
+      <file name="$USER_HOME$/www/__work__/scheduler-website-frontend-v2/src/client/socket/index.ts" timestamp="1548617877708">
+        <mark key="[" line="28" column="30" />
+        <mark key="]" line="28" column="36" />
+        <mark key="^" line="28" column="36" />
+        <mark key="." line="28" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -413,19 +447,24 @@
       <jump line="245" column="30" filename="$USER_HOME$/www/__work__/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
       <jump line="324" column="30" filename="$USER_HOME$/www/__work__/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
       <jump line="369" column="4" filename="$USER_HOME$/www/__work__/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
+      <jump line="217" column="8" filename="$USER_HOME$/www/__work__/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
+      <jump line="39" column="17" filename="$USER_HOME$/www/__work__/scheduler-video-service-ts/src/middlewares/authMiddleware.ts" />
+      <jump line="411" column="5" filename="$USER_HOME$/www/__work__/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
+      <jump line="40" column="40" filename="$USER_HOME$/www/__work__/scheduler-video-service-ts/src/utils/ffmpeg.ts" />
+      <jump line="8" column="36" filename="$USER_HOME$/www/__work__/scheduler-video-service-ts/src/utils/ffmpeg.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2ZXJpZnlUb2tlblw+</text>
+        <text encoding="base64">XDx2aWRlb0lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB0b2tlbjogc3RyaW5nID0gcmVxLmhlYWRlcnMuYXV0aG9yaXphdGlvbiAmJiByZXEuaGVhZGVycy5hdXRob3JpemF0aW9uLnN1YnN0cig3KTsK</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgdmlkZW8udXBkYXRlKHsKICAgICAgICBmaWxlX25hbWU6IG51bGwsCiAgICAgICAgcHJvY2Vzc2VkOiB0cnVlLAogICAgICAgIHZhbGlkOiBmYWxzZSwKICAgICAgfSk7CiAgICAgIHVzZXJTb2NrZXQuZW1pdChzb2NrZXRFdmVudHMuUkVTT1VSQ0VfVVBEQVRFRCwgdmlkZW8pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -434,34 +473,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPENsb3VkVXBsb2FkIHN0eWxlPXt7IG1hcmdpblJpZ2h0OiA4IH19IC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sb3I9InNlY29uZGFyeSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwYXlsb2FkJywgcGF5bG9hZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyaWFudD0iY29udGFpbmVkIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUK</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS51c2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24+VGVzdDwvQnV0dG9uPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2VuLCAndG9rZW4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKjxCdXR0b24qL30KICAgICAgICAgICAgey8qdmFyaWFudD0iY29udGFpbmVkIiovfQogICAgICAgICAgICB7Lypjb2xvcj0ic2Vjb25kYXJ5IiovfQogICAgICAgICAgICB7LypvbkNsaWNrPXsoKSA9PiB7Ki99CiAgICAgICAgICAgICAgey8qcGVybWlzc2lvbnNTdG9yZSEucm9vdFN0b3JlLmFuYWx5dGljc1JlcG9ydGVyLmxvZ0V2ZW50KCovfQogICAgICAgICAgICAgICAgey8qQU5BTFlUSUNTX0VWRU5ULkVWRU5UUywqL30KICAgICAgICAgICAgICAgIHsvKnsgZXZlbnQ6ICdjbGljaycsIG5hbWU6ICd1cGxvYWRfdmlkZW8nLCBwb3NpdGlvbjogJ3RvcCcgfSwqL30KICAgICAgICAgICAgICB7LyopOyovfQogICAgICAgICAgICAgIHsvKnBpY2tGaWxlKCk7Ki99CiAgICAgICAgICAgIHsvKn19Ki99CiAgICAgICAgICB7Lyo+Ki99CiAgICAgICAgICAgIHsvKjxDbG91ZFVwbG9hZCBzdHlsZT17eyBtYXJnaW5SaWdodDogOCB9fSAvPiovfQogICAgICAgICAgICB7LypVcGxvYWQgdmlkZW8qL30KICAgICAgICAgIHsvKjwvQnV0dG9uPiovfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtaWRkbGV3YXJlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJyEhISFzdWNjZXNzISEhIScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2ZXJpZnlUb2tlblw+</last-search>
+      <last-search encoding="base64">XDx2aWRlb0lkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2ZXJpZnlUb2tlblw+</last-pattern>
+      <last-pattern encoding="base64">XDx2aWRlb0lkXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -484,6 +523,8 @@
         <entry>hot</entry>
         <entry encoding="base64">XDxldmVudHNcPg==</entry>
         <entry encoding="base64">XDx2ZXJpZnlUb2tlblw+</entry>
+        <entry encoding="base64">XDxqd3RcPg==</entry>
+        <entry encoding="base64">XDx2aWRlb0lkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action Find</entry>
@@ -512,6 +553,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
