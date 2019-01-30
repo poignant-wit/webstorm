@@ -442,10 +442,6 @@
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" timestamp="1548845951654">
         <mark key="'" line="15" column="9" />
-        <mark key="[" line="262" column="29" />
-        <mark key="]" line="262" column="57" />
-        <mark key="^" line="262" column="57" />
-        <mark key="." line="262" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain/EventsCreateEditContentItem/index.ts" timestamp="1548065638304">
         <mark key="[" line="0" column="18" />
@@ -491,11 +487,11 @@
         <mark key="^" line="23" column="20" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/videos/VideoFromLinkDialog.tsx" timestamp="1548855572160">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="22" column="97" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/videos/VideoFromLinkDialog.tsx" timestamp="1548858887024">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="40" column="51" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/integrations/frameIo/components/IntegrationsFrameIo.tsx" timestamp="1548062681124">
         <mark key="[" line="106" column="102" />
@@ -627,10 +623,10 @@
         <mark key="." line="91" column="84" />
         <mark key="^" line="91" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548855578780">
+      <file name="/Dummy.txt" timestamp="1548858827574">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="30" />
+        <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/webhooks/WebhooksStore.ts" timestamp="1547464814015">
@@ -703,7 +699,8 @@
         <mark key="." line="8" column="25" />
         <mark key="^" line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/videos.controller.ts" timestamp="1548851390600">
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/videos.controller.ts" timestamp="1548858945656">
+        <mark key="'" line="502" column="8" />
         <mark key="[" line="47" column="54" />
         <mark key="]" line="48" column="3" />
         <mark key="." line="48" column="3" />
@@ -735,11 +732,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="38" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
-      <jump line="206" column="49" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
-      <jump line="108" column="14" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" />
-      <jump line="425" column="87" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" />
-      <jump line="138" column="32" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" />
       <jump line="216" column="0" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
       <jump line="266" column="18" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
       <jump line="178" column="16" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
@@ -835,55 +827,60 @@
       <jump line="102" column="72" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/videos/VideoFromLinkDialog.tsx" />
       <jump line="141" column="37" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" />
       <jump line="15" column="9" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" />
+      <jump line="128" column="12" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/videos.controller.ts" />
+      <jump line="158" column="8" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/videos.controller.ts" />
+      <jump line="270" column="8" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/videos.controller.ts" />
+      <jump line="298" column="8" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/videos.controller.ts" />
+      <jump line="502" column="8" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/videos.controller.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogcmVtb3ZlIDEwIG1pbiBldmVudCBsYXRlbmN5Cg==</text>
+        <text encoding="base64">Zml4OiBlbmFibGUgcGFzdGUgYnV0dG9uIGJ5IGRlZmF1bHQK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>disable</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWxpZFRpbWVUb0NyZWF0ZUV2ZW50XD4=</text>
+        <text encoding="base64">XDxkZWxldGVGaWxlc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcih7CiAgICAgICAgICAgICAgICAgICAgbWVzc2FnZTogYEVycm9yIGluIGFkZEF1ZGlvU3RyZWFtIEVycm9yOiAke2Vycm9yfWAsCiAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogcmVtb3ZlIDEwIG1pbiBldmVudCBsYXRlbmN5Cg==</text>
+        <text encoding="base64">Zml4OiBlbmFibGUgcGFzdGUgYnV0dG9uIGJ5IGRlZmF1bHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICBpbnRlbnQ9e0ludGVudC5QUklNQVJZfQogICAgICAgICAgICAgICAgb25DbGljaz17dGhpcy5oYW5kbGVPbkNsaWNrUGFzdGV9CiAgICAgICAgICAgICAgICBkaXNhYmxlZD17CiAgICAgICAgICAgICAgICAgIHRoaXMudm0uaXNEaXNhYmxlZFBhc3RlQnV0dG9uIHx8CiAgICAgICAgICAgICAgICAgIHRoaXMuZGlzYWJsZVBhc3RlQnV0dG9uRHVlVG9QZXJtaXNzaW9ucwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIFBhc3RlCiAgICAgICAgICAgICAgPC9CdXR0b24+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8qIHdyaXRlIHRvIHRoZSBjbGlwYm9hcmQgbm93ICovCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwdWJsaWMgY29tcG9uZW50RGlkTW91bnQoKTogdm9pZCB7CiAgICAvLyBAdHMtaWdub3JlCiAgICBpZiAobmF2aWdhdG9yICYmIG5hdmlnYXRvci5wZXJtaXNzaW9ucykgewogICAgICAvLyBAdHMtaWdub3JlCiAgICAgIG5hdmlnYXRvci5wZXJtaXNzaW9ucy5xdWVyeSh7IG5hbWU6ICdjbGlwYm9hcmQtd3JpdGUnIH0pLnRoZW4ocmVzdWx0ID0+IHsKICAgICAgICBpZiAoIShyZXN1bHQuc3RhdGUgPT09ICdncmFudGVkJyB8fCByZXN1bHQuc3RhdGUgPT09ICdwcm9tcHQnKSkgewogICAgICAgICAgdGhpcy5kaXNhYmxlUGFzdGVCdXR0b25EdWVUb1Blcm1pc3Npb25zID0gdHJ1ZTsKICAgICAgICB9CiAgICAgIH0pOwogICAgfQogIH0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5hdmlnYXRvci5wZXJtaXNzaW9ucy5xdWVyeSh7bmFtZTogImNsaXBib2FyZC13cml0ZSJ9KS50aGVuKHJlc3VsdCA9PiB7CiAgICAgIGlmIChyZXN1bHQuc3RhdGUgPT0gImdyYW50ZWQiIHx8IHJlc3VsdC5zdGF0ZSA9PSAicHJvbXB0IikgewogICAgICAgIC8qIHdyaXRlIHRvIHRoZSBjbGlwYm9hcmQgbm93ICovCiAgICAgIH0KICAgIH0pOwo=</text>
+        <text encoding="base64">ZmVhdDogcmVtb3ZlIDEwIG1pbiBldmVudCBsYXRlbmN5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zml4OiBjb3JzIG9wdGlvbnMK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IoYFske2ZpbGVuYW1lfV0gRmlsZSBtYWtlIHRodW1ibmFpbCBlcnJvcmApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8qIHdyaXRlIHRvIHRoZSBjbGlwYm9hcmQgbm93ICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHVwbG9hZFRvUzModmlkZW9GaWxlbmFtZSwgdmlkZW9GaWxlbmFtZSwgdXNlcklkKTsKICAgIGF3YWl0IHVwbG9hZFRvUzMocG5nRmlsZW5hbWUsIHBuZ0ZpbGVuYW1lLCB1c2VySWQpOwogICAgYXdhaXQgdXBsb2FkVG9TMyhnaWZGaWxlbmFtZSwgZ2lmRmlsZW5hbWUsIHVzZXJJZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICB0aHJvdyBuZXcgRXJyb3IoYE1ha2UgdGh1bWJuYWlsIGVycm9yJyk7Cg==</text>
+        <text encoding="base64">ICAgIG5hdmlnYXRvci5wZXJtaXNzaW9ucy5xdWVyeSh7bmFtZTogImNsaXBib2FyZC13cml0ZSJ9KS50aGVuKHJlc3VsdCA9PiB7CiAgICAgIGlmIChyZXN1bHQuc3RhdGUgPT0gImdyYW50ZWQiIHx8IHJlc3VsdC5zdGF0ZSA9PSAicHJvbXB0IikgewogICAgICAgIC8qIHdyaXRlIHRvIHRoZSBjbGlwYm9hcmQgbm93ICovCiAgICAgIH0KICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWxpZFRpbWVUb0NyZWF0ZUV2ZW50XD4=</last-search>
+      <last-search encoding="base64">XDxkZWxldGVGaWxlc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWxpZFRpbWVUb0NyZWF0ZUV2ZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkZWxldGVGaWxlc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcm9jZXNzRHJvcGJveFVybFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -891,7 +888,6 @@
     </search>
     <history>
       <history-search>
-        <entry>videosStore</entry>
         <entry encoding="base64">XDx2YWxpZFN0YXJ0RXZlbnRBdFw+</entry>
         <entry>content</entry>
         <entry>channels</entry>
@@ -911,6 +907,7 @@
         <entry encoding="base64">XDxjb250ZW50U2l6ZVw+</entry>
         <entry encoding="base64">XDxwcm9jZXNzR29vZ2xlRHJpdmVVcmxcPg==</entry>
         <entry encoding="base64">XDx2YWxpZFRpbWVUb0NyZWF0ZUV2ZW50XD4=</entry>
+        <entry encoding="base64">XDxkZWxldGVGaWxlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>action FileChooser.NewFolder</entry>
