@@ -204,11 +204,11 @@
         <mark key="^" line="37" column="44" />
         <mark key="." line="37" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/components/EventCreateEditModal/EventCreateEditModal.tsx" timestamp="1548845325330">
-        <mark key="[" line="43" column="8" />
-        <mark key="]" line="43" column="8" />
-        <mark key="." line="43" column="8" />
-        <mark key="^" line="43" column="8" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/components/EventCreateEditModal/EventCreateEditModal.tsx" timestamp="1548849233179">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="39" column="8" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain/EventsCreateEditContentItem/EventsCreateEditContentItem.scss" timestamp="1548328201296">
         <mark key="[" line="4" column="0" />
@@ -399,10 +399,10 @@
         <mark key="." line="20" column="12" />
         <mark key="^" line="20" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/index.ts" timestamp="1548842263398">
-        <mark key="[" line="40" column="69" />
-        <mark key="]" line="40" column="74" />
-        <mark key="." line="40" column="74" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/index.ts" timestamp="1548848801404">
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="26" />
         <mark key="^" line="40" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/_own/mobx-intro/.gitignore" timestamp="1547650592944">
@@ -623,10 +623,10 @@
         <mark key="." line="91" column="84" />
         <mark key="^" line="91" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548847960999">
+      <file name="/Dummy.txt" timestamp="1548849332924">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="22" />
+        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/webhooks/WebhooksStore.ts" timestamp="1547464814015">
@@ -832,11 +832,11 @@
       <jump line="15" column="9" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmVhdDogYWRkIGFuYWx5dGljcwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZFRpbWVUb0NyZWF0ZUV2ZW50XD4=</text>
@@ -845,33 +845,31 @@
         <text encoding="base64">ICAgICAgcmV0dXJuICdFZGl0IExpdmUgRXZlbnQnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgID8gJ1NjaGVkdWxlIExpdmUgRXZlbnQnCg==</text>
+        <text encoding="base64">ZmVhdDogYWRkIGFuYWx5dGljcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5pc0V2ZW50RGF0ZUVycm9yIHx8Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgaXNNb2JpbGUgfSBmcm9tICdyZWFjdC1kZXZpY2UtZGV0ZWN0JzsK</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-            this.vm.isEventDateError ? 'sc-form-helper-text--error' : ''
-          }</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IEdyaWQgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvR3JpZCc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpbnRlbnQ9e2dldEludGVudCh0aGlzLnZtLmlzRXZlbnREYXRlRXJyb3IpfQo=</text>
+        <text encoding="base64">aW1wb3J0IERpYWxvZ0NvbnRlbnQgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvRGlhbG9nQ29udGVudCc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnZtLmlzRXZlbnREYXRlRXJyb3IpIHsKICAgICAgcmV0dXJuICdUaGUgdGltZSBtdXN0IGJlIG5vdCBlYXJsaWVyIHRoYW4gMTAgbWludXRlcyBmcm9tIG5vdyc7CiAgICB9Cg==</text>
+        <text encoding="base64">Zml4OiBjb3JzT3ByaW9ucwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17CiAgICAgICAgICAgICAgICAgIHRoaXMudm0uaXNFdmVudERhdGVFcnJvciA/ICdzYy1ldmVudC10aW1lcGlja2VyLWVycm9yJyA6ICcnCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Zml4OiBnbG9iYWwgZXJyb3IgaGFuZGxlciBtZXNzYWdlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaW50ZW50OiBnZXRJbnRlbnQodGhpcy52bS5pc0V2ZW50RGF0ZUVycm9yKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgID8gJ1NjaGVkdWxlIExpdmUgRXZlbnQnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLmFkZCgxMCwgJ21pbnV0ZXMnKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
