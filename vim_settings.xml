@@ -177,12 +177,7 @@
         <mark key="." line="65" column="48" />
         <mark key="^" line="65" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/files/processVideoFile.ts" timestamp="1548936542869">
-        <mark key="[" line="69" column="15" />
-        <mark key="]" line="69" column="15" />
-        <mark key="." line="69" column="15" />
-        <mark key="^" line="69" column="15" />
-      </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/files/processVideoFile.ts" timestamp="1548937411932" />
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/.env" timestamp="1548935398569">
         <mark key="[" line="17" column="50" />
         <mark key="]" line="17" column="0" />
@@ -397,10 +392,10 @@
         <mark key="." line="109" column="35" />
         <mark key="^" line="109" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548934899659">
+      <file name="/Dummy.txt" timestamp="1548937433605">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/dialogs/DialogView.tsx" timestamp="1548348451699">
@@ -567,44 +562,44 @@
       <jump line="78" column="42" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingDateStep/OnboardingDateStep.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Zml4OiBhZGQgYXVkaW8gc3RyZWFtCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>attempt</text>
       </register>
       <register name="/" type="4">
         <text>redi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyh7CiAgICAgICAgICAgIG1lc3NhZ2U6IGBQUk9DRVNTX0RPV05MT0FERURfRklMRSBbJHt1c2VySWR9XSBbJHtmaWxlbmFtZX1dIAogICAgICAgICAgICAgICAgYmFkX2ZpbGUgdmlkZW9Db2RlYzogJHt2aWRlb0NvZGVjfSwgYXVkaW9Db2RlYzogJHthdWRpb0NvZGVjfWAsCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyh7CiAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2U6IGBQUk9DRVNTX0RPV05MT0FERURfRklMRSBbJHt1c2VySWR9XSBbJHtmaWxlbmFtZX1dIAogICAgICAgICAgICAgICAgIGF0dGVtcHQgYWRkIGF1ZGlvIHN0cmVhbWAsCiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zml4OiBhZGQgYXVkaW8gc3RyZWFtCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHByZW11eFZpZGVvRmlsZSh2aWRlb0ZpbGVQYXRoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByZW11eFZpZGVvLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzb2x2ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zml4OiBvbmJvYXJkaW5nIGNvbXBsZXRpb24K</text>
+        <text encoding="base64">ICAgIGF3YWl0IHByZW11eFZpZGVvRmlsZSh2aWRlb0ZpbGVQYXRoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN0eC5xdWVyeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0NIRUQtMjgxIENyZWF0ZSAgT25ib2FyZGluZyhCKSBieSBpbmhlcml0aW5nIE9uYm9hcmRpbmcgKEEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzb2x2ZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmVhdDogc2NoZWQtMjgxIGNyZWF0ZSAgb25ib2FyZGluZyhiKSBieSBpbmhlcml0aW5nIG9uYm9hcmRpbmcgKGEpCg==</text>
+        <text encoding="base64">Zml4OiBvbmJvYXJkaW5nIGNvbXBsZXRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMub25ib2FyZGluZ1N0b3JlIS5zaG93T25ib2FyZGluZy4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN0eC5xdWVyeSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
