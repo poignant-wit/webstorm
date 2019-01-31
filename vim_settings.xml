@@ -278,6 +278,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-web/api/.env" timestamp="1548944716366">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-web/api/server/utils/settings.js" timestamp="1548943736597">
         <mark key="'" line="58" column="53" />
       </file>
@@ -581,11 +587,11 @@
       <jump line="58" column="53" filename="$USER_HOME$/Documents/restream-web/api/server/utils/settings.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIGZvcm0gcXVlcnkgcGFyYW0K</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>intercomSettings</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcnlwdG9cPg==</text>
