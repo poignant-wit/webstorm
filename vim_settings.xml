@@ -278,6 +278,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-web/api/server/utils/settings.js" timestamp="1548943736597">
+        <mark key="'" line="58" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/index.ts" timestamp="1548848801404">
         <mark key="[" line="24" column="26" />
         <mark key="]" line="24" column="26" />
@@ -363,6 +366,9 @@
         <mark key="]" line="56" column="52" />
         <mark key="^" line="56" column="52" />
         <mark key="." line="56" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/node_modules/@types/ramda/index.d.ts" timestamp="1548676583437">
+        <mark key="'" line="2488" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingDateStep/OnboardingDateStep.tsx" timestamp="1548931612025">
         <mark key="'" line="78" column="42" />
@@ -473,8 +479,6 @@
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/utils/authRestremUrl.ts" timestamp="1548942750777" />
     </filemarks>
     <jumps>
-      <jump line="288" column="34" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" />
-      <jump line="74" column="43" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" />
       <jump line="156" column="51" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" />
       <jump line="236" column="25" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" />
       <jump line="237" column="8" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" />
@@ -573,6 +577,8 @@
       <jump line="11" column="9" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/billing/containers/BillingPlanContainer.tsx" />
       <jump line="18" column="50" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingDateStep/OnboardingDateStep.tsx" />
       <jump line="78" column="42" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingDateStep/OnboardingDateStep.tsx" />
+      <jump line="2" column="24" filename="$USER_HOME$/Documents/restream-web/api/server/utils/settings.js" />
+      <jump line="58" column="53" filename="$USER_HOME$/Documents/restream-web/api/server/utils/settings.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -582,7 +588,7 @@
         <text>intercomSettings</text>
       </register>
       <register name="/" type="4">
-        <text>redi</text>
+        <text encoding="base64">XDxjcnlwdG9cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIC8vIEB0cy1pZ25vcmUK</text>
@@ -619,9 +625,9 @@
       </register>
     </registers>
     <search>
-      <last-search>redi</last-search>
+      <last-search encoding="base64">XDxjcnlwdG9cPg==</last-search>
       <last-offset />
-      <last-pattern>redi</last-pattern>
+      <last-pattern encoding="base64">XDxjcnlwdG9cPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcm9jZXNzRHJvcGJveFVybFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -629,7 +635,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc01lZGl1bVw+</entry>
         <entry encoding="base64">XDxoYW5kbGVPbkNoYW5nZVJlcGVhdEludGVydmFsXD4=</entry>
         <entry encoding="base64">XDxnZXRTdWJzY3JpcHRpb25cPg==</entry>
         <entry>request</entry>
@@ -649,6 +654,7 @@
         <entry>10</entry>
         <entry>redire</entry>
         <entry>redi</entry>
+        <entry encoding="base64">XDxjcnlwdG9cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action FileChooser.NewFolder</entry>
