@@ -241,12 +241,6 @@
         <mark key="^" line="28" column="15" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/VideosStore.ts" timestamp="1548261171814">
-        <mark key="[" line="41" column="83" />
-        <mark key="]" line="41" column="83" />
-        <mark key="." line="41" column="83" />
-        <mark key="^" line="41" column="88" />
-      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" timestamp="1548865752585">
         <mark key="'" line="308" column="29" />
         <mark key="[" line="46" column="2" />
@@ -585,11 +579,11 @@
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/.env" timestamp="1548861554779" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/Video.ts" timestamp="1548169162555" />
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/RootStore.ts" timestamp="1548865928647">
-        <mark key="[" line="149" column="17" />
-        <mark key="]" line="150" column="58" />
-        <mark key="." line="150" column="58" />
-        <mark key="^" line="150" column="58" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/RootStore.ts" timestamp="1548921516861">
+        <mark key="[" line="136" column="12" />
+        <mark key="]" line="137" column="9" />
+        <mark key="." line="137" column="9" />
+        <mark key="^" line="137" column="9" />
       </file>
       <file name="/Dummy.txt" timestamp="1548865112811">
         <mark key="[" line="1" column="0" />
@@ -805,10 +799,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFzdEV2ZW50ICYmIGxhc3RFdmVudC5oYXMoJ2NyZWF0ZWRBdCcpCiAgICAgICAgICAgICAgPyBsYXN0RXZlbnQuZ2V0KCdjcmVhdGVkQXQnKQogICAgICAgICAgICAgIDogbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIEB0cy1pZ25vcmUKICAgICAgICAgIHdpbmRvdy5pbnRlcmNvbVNldHRpbmdzID0gYXNzb2NQYXRoKAogICAgICAgICAgICBbJ3NjaGVkdWxlcl9ldmVudF9hdCddLAogICAgICAgICAgICBsYXN0RXZlbnQgJiYgbGFzdEV2ZW50LmhhcygnY3JlYXRlZEF0JykKICAgICAgICAgICAgICA/IGxhc3RFdmVudC5nZXQoJ2NyZWF0ZWRBdCcpCiAgICAgICAgICAgICAgOiBudWxsLAogICAgICAgICAgKSgKICAgICAgICAgICAgLy8gQHRzLWlnbm9yZQogICAgICAgICAgICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncyB8fCB7fSwKICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>// @ts-ignore</text>
+        <text>lastScheduledEvent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZFN0YXJ0RXZlbnRBdFw+</text>
