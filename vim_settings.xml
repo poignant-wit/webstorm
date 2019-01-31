@@ -578,12 +578,17 @@
         <mark key="^" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/.env" timestamp="1548861554779" />
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/Video.ts" timestamp="1548169162555" />
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/RootStore.ts" timestamp="1548921516861">
-        <mark key="[" line="136" column="12" />
-        <mark key="]" line="137" column="9" />
-        <mark key="." line="137" column="9" />
-        <mark key="^" line="137" column="9" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/Video.ts" timestamp="1548922623714">
+        <mark key="[" line="109" column="27" />
+        <mark key="]" line="109" column="35" />
+        <mark key="." line="109" column="35" />
+        <mark key="^" line="109" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/RootStore.ts" timestamp="1548922752283">
+        <mark key="[" line="141" column="34" />
+        <mark key="]" line="141" column="42" />
+        <mark key="." line="141" column="42" />
+        <mark key="^" line="141" column="42" />
       </file>
       <file name="/Dummy.txt" timestamp="1548865112811">
         <mark key="[" line="1" column="0" />
@@ -798,17 +803,17 @@
       <jump line="313" column="9" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIEB0cy1pZ25vcmUKICAgICAgICAgIHdpbmRvdy5pbnRlcmNvbVNldHRpbmdzID0gYXNzb2NQYXRoKAogICAgICAgICAgICBbJ3NjaGVkdWxlcl9ldmVudF9hdCddLAogICAgICAgICAgICBsYXN0RXZlbnQgJiYgbGFzdEV2ZW50LmhhcygnY3JlYXRlZEF0JykKICAgICAgICAgICAgICA/IGxhc3RFdmVudC5nZXQoJ2NyZWF0ZWRBdCcpCiAgICAgICAgICAgICAgOiBudWxsLAogICAgICAgICAgKSgKICAgICAgICAgICAgLy8gQHRzLWlnbm9yZQogICAgICAgICAgICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncyB8fCB7fSwKICAgICAgICAgICk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>('createdAt')</text>
       </register>
       <register name="-" type="4">
-        <text>lastScheduledEvent</text>
+        <text>('createdAt')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZFN0YXJ0RXZlbnRBdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIEB0cy1pZ25vcmUKICAgICAgICAgIHdpbmRvdy5pbnRlcmNvbVNldHRpbmdzID0gYXNzb2NQYXRoKAogICAgICAgICAgICBbJ3NjaGVkdWxlcl9ldmVudF9hdCddLAogICAgICAgICAgICBsYXN0RXZlbnQgJiYgbGFzdEV2ZW50LmhhcygnY3JlYXRlZEF0JykKICAgICAgICAgICAgICA/IGxhc3RFdmVudC5nZXQoJ2NyZWF0ZWRBdCcpCiAgICAgICAgICAgICAgOiBudWxsLAogICAgICAgICAgKSgKICAgICAgICAgICAgLy8gQHRzLWlnbm9yZQogICAgICAgICAgICB3aW5kb3cuaW50ZXJjb21TZXR0aW5ncyB8fCB7fSwKICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZHVyYXRpb25TZWMgPSB2aWRlby5kdXJhdGlvblNlYzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGFzdEV2ZW50ICYmIGxhc3RFdmVudC5oYXMoJ2NyZWF0ZWRBdCcpCiAgICAgICAgICAgICAgPyBsYXN0RXZlbnQuZ2V0KCdjcmVhdGVkQXQnKQogICAgICAgICAgICAgIDogbnVsbCwK</text>
