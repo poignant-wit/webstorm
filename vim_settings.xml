@@ -302,10 +302,10 @@
       <file name="$USER_HOME$/Documents/restream-web/api/server/routes/portal.js" timestamp="1549029105424">
         <mark key="'" line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-web/api/server/views/v2/authForm.ejs" timestamp="1549035675380">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
+      <file name="$USER_HOME$/Documents/restream-web/api/server/views/v2/authForm.ejs" timestamp="1549037908092">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="21" />
+        <mark key="." line="46" column="21" />
         <mark key="^" line="45" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/register.js" timestamp="1549029433002">
@@ -467,11 +467,11 @@
         <mark key="." line="109" column="35" />
         <mark key="^" line="109" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549036070356">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="23" />
+      <file name="/Dummy.txt" timestamp="1549037917612">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="23" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-web/api/server/controllers/authentication.js" timestamp="1549028103093">
         <mark key="'" line="254" column="22" />
@@ -652,8 +652,8 @@
       <jump line="344" column="16" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/css/index.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Dictionary</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Zml4OiByZW1vdmUgdW5uZWNlc3NhcnkgZmlsZXMK</text>
       </register>
       <register name="-" type="4">
         <text>Dictionary</text>
@@ -665,16 +665,16 @@
         <text encoding="base64">LmFwaS1mb3JtLXRhYnNfX2J1dHRvbi0tYWN0aXZlIHsKICAgIGNvbG9yOiAjZmI1MDI4Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogdXBkYXRlIHVpIGF1dGggZm9ybQo=</text>
+        <text encoding="base64">Zml4OiByZW1vdmUgdW5uZWNlc3NhcnkgZmlsZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmVhdDogdXBkYXRlIHVpIGF1dGggZm9ybQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LmFwaS1mb3JtLXRhYnNfX3VuZGVybGluZSB7CiAgICBoZWlnaHQ6IDNweDsKICAgIHdpZHRoOiAxMDAlOwogICAgYmFja2dyb3VuZC1jb2xvcjogI2ZiNTAyODsKICAgIG1hcmdpbi10b3A6IDVweDsKICAgIHRyYW5zaXRpb246IDAuMXM7CiAgICBvcGFjaXR5OiAwOwp9CgouYXBpLWZvcm0tdGFic19fdW5kZXJsaW5lLS1hY3RpdmUgewp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmFwaS1mb3JtLXRhYnNfX3VuZGVybGluZSB7CiAgICBoZWlnaHQ6IDNweDsKICAgIHdpZHRoOiAxMDAlOwogICAgYmFja2dyb3VuZC1jb2xvcjogI2ZiNTAyODsKICAgIG1hcmdpbi10b3A6IDVweDsKICAgIHRyYW5zaXRpb246IDAuMXM7CiAgICBvcGFjaXR5OiAwOwp9CgouYXBpLWZvcm0tdGFic19fdW5kZXJsaW5lLS1hY3RpdmUgewp9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -686,10 +686,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBsb2dpblRhYlVuZGVybGluZSA9ICQoJyNsb2dpblRhYlVuZGVybGluZScpOwogICAgdmFyIHNpZ251cFRhYlVuZGVybGluZSA9ICQoJyNzaWdudXBUYWJVbmRlcmxpbmUnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBsb2dpblRhYlVuZGVybGluZSA9ICQoJyNsb2dpblRhYlVuZGVybGluZScpOwogICAgdmFyIHNpZ251cFRhYlVuZGVybGluZSA9ICQoJyNzaWdudXBUYWJVbmRlcmxpbmUnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
