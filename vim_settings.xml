@@ -398,6 +398,13 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="17" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-web/api/server/public/v2/css/index.css" timestamp="1549014453796">
+        <mark key="'" line="52" column="1" />
+        <mark key="[" line="306" column="14" />
+        <mark key="]" line="307" column="14" />
+        <mark key="." line="307" column="14" />
+        <mark key="^" line="307" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/videos/components/VideoItem.tsx" timestamp="1548924981709">
         <mark key="'" line="163" column="33" />
         <mark key="[" line="58" column="44" />
@@ -484,11 +491,14 @@
         <mark key="." line="5" column="10" />
         <mark key="^" line="5" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-web/api/server/views/v2/login.ejs" timestamp="1549014668611">
+        <mark key="[" line="116" column="35" />
+        <mark key="]" line="116" column="36" />
+        <mark key="." line="116" column="36" />
+        <mark key="^" line="116" column="36" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="28" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" />
-      <jump line="241" column="42" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" />
-      <jump line="244" column="8" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" />
       <jump line="246" column="20" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" />
       <jump line="248" column="42" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" />
       <jump line="279" column="32" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" />
@@ -586,55 +596,58 @@
       <jump line="221" column="20" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/components/OffersRegular.tsx" />
       <jump line="237" column="31" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/components/OffersRegular.tsx" />
       <jump line="217" column="58" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/components/OffersRegular.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/css/index.css" />
+      <jump line="308" column="0" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/css/index.css" />
+      <jump line="52" column="1" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/css/index.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogc2NoZWQtMjk2IHVwZGF0ZSBvZmZlci9yZWd1bGFyCg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvZmZlckl0ZW1Db250YWluZXJcPg==</text>
+        <text>api-label</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaGVpZ2h0OiA0NzYsCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJhcGktZm9ybV9fcm93IiBpZD0iZW1haWwiPgogICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImFwaS1sYWJlbCIgZm9yPSJsb2dpbkZvcm1FbWFpbElucHV0Ij5FbWFpbDwvbGFiZWw+CiAgICAgICAgICAgIDxpbnB1dCBpZD0ibG9naW5Gb3JtRW1haWxJbnB1dCIgY2xhc3M9ImFwaS1pbnB1dCIgbmFtZT0ibG9naW5FbWFpbCIgdHlwZT0iZW1haWwiLz4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogc2NoZWQtMjk2IHVwZGF0ZSBvZmZlci9yZWd1bGFyCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJhcGktc2lnbnVwLXRleHQiPgogICAgICAgICAgICBEb24ndCBoYXZlIGFuIGFjY291bnQ/CiAgICAgICAgICAgIDxhIGlkPSJzaG93UmVnaXN0cmF0aW9uRm9ybUxpbmsiIGhyZWY9Ii9yZWdpc3RlciIgY2xhc3M9ImFwaS1zaWdudXAtbGluayI+CiAgICAgICAgICAgICAgICBTaWduIHVwCiAgICAgICAgICAgIDwvYT4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaGVpZ2h0OiA0NTIsCg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOiBncmF5Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGZsZXg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2hvd09uYm9hcmRpbmcgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgIAogICAgPGhsPjwvaGw+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCB2aWRlb0R1cmF0aW9uTGltaXQgPSBvZmZlci52aWRlb3NEdXJhdGlvbiAvIDM2MDA7Cg==</text>
+        <text encoding="base64">ICAgIGN1cnNvcjogcG9pbnRlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VHlwb2dyYXBoeSBjbGFzc05hbWU9e2NsYXNzZXMuZGVzY3JpcHRpb259PgogICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjbGFzc2VzLmRlc2NyaXB0aW9uQm9sZH0+CiAgICAgICAgICAgICAgICAgICAgICAgIFVubGltaXRlZHsnICd9CiAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICBsaXZlIHN0cmVhbWluZwogICAgICAgICAgICAgICAgICAgIDwvVHlwb2dyYXBoeT4KICAgICAgICAgICAgICAgICAgICB7b2ZmZXIudHlwZSAhPT0gJ3NtYWxsJyAmJiAoCiAgICAgICAgICAgICAgICAgICAgICA8VHlwb2dyYXBoeSBjbGFzc05hbWU9e2NsYXNzZXMuZGVzY3JpcHRpb259PgogICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMuZGVzY3JpcHRpb25Cb2xkfT5ObyA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIHdhdGVybWFya3MKICAgICAgICAgICAgICAgICAgICAgIDwvVHlwb2dyYXBoeT4KICAgICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgICAgIDxUeXBvZ3JhcGh5IGNsYXNzTmFtZT17Y2xhc3Nlcy5kZXNjcmlwdGlvbn0+CiAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMuZGVzY3JpcHRpb25Cb2xkfT4KICAgICAgICAgICAgICAgICAgICAgICAge29mZmVyLmV2ZW50c0xpbWl0fXsnICd9CiAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICBxdWV1ZWQgc3RyZWFtcwogICAgICAgICAgICAgICAgICAgIDwvVHlwb2dyYXBoeT4KICAgICAgICAgICAgICAgICAgICA8VHlwb2dyYXBoeSBjbGFzc05hbWU9e2NsYXNzZXMuZGVzY3JpcHRpb259PgogICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjbGFzc2VzLmRlc2NyaXB0aW9uQm9sZH0+MzMrIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgIHN0cmVhbWluZyBwbGF0Zm9ybXMKICAgICAgICAgICAgICAgICAgICA8L1R5cG9ncmFwaHk+CiAgICAgICAgICAgICAgICAgICAgPFR5cG9ncmFwaHkgY2xhc3NOYW1lPXtjbGFzc2VzLmRlc2NyaXB0aW9ufT4KICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5kZXNjcmlwdGlvbkJvbGR9PgogICAgICAgICAgICAgICAgICAgICAgICB7YCR7dmlkZW9EdXJhdGlvbkxpbWl0fQogICAgICAgICAgICAgICAgICAgICAgICAke3BsdXJhbGl6ZSgnaG91cicsIHZpZGVvRHVyYXRpb25MaW1pdCl9CiAgICAgICAgICAgICAgICAgICAgICAgIGB9CiAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICBsaW1pdCBwZXIgc3RyZWFtCiAgICAgICAgICAgICAgICAgICAgPC9UeXBvZ3JhcGh5PgogICAgICAgICAgICAgICAgICAgIDxUeXBvZ3JhcGh5IGNsYXNzTmFtZT17Y2xhc3Nlcy5kZXNjcmlwdGlvbn0+CiAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMuZGVzY3JpcHRpb25Cb2xkfT4KICAgICAgICAgICAgICAgICAgICAgICAge29mZmVyLnZpZGVvc0xpbWl0fQogICAgICAgICAgICAgICAgICAgICAgICAtZmlsZXsnICd9CiAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICB2aWRlbyBzdG9yYWdlCiAgICAgICAgICAgICAgICAgICAgPC9UeXBvZ3JhcGh5PgogICAgICAgICAgICAgICAgICAgIDxUeXBvZ3JhcGh5IGNsYXNzTmFtZT17Y2xhc3Nlcy5kZXNjcmlwdGlvbn0+CiAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMuZGVzY3JpcHRpb25Cb2xkfT4KICAgICAgICAgICAgICAgICAgICAgICAge2J5dGVzVG9HYihvZmZlci5maWxlU2l6ZSl9CiAgICAgICAgICAgICAgICAgICAgICAgIEdCeycgJ30KICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgIGxpbWl0IHBlciBmaWxlCiAgICAgICAgICAgICAgICAgICAgPC9UeXBvZ3JhcGh5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7b2ZmZXIudHlwZSAhPT0gJ3NtYWxsJyAmJiAoCiAgICAgICAgICAgICAgICAgICAgICA8VHlwb2dyYXBoeSBjbGFzc05hbWU9e2NsYXNzZXMuZGVzY3JpcHRpb259PgogICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMuZGVzY3JpcHRpb25Cb2xkfT5ObyA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIHdhdGVybWFya3MKICAgICAgICAgICAgICAgICAgICAgIDwvVHlwb2dyYXBoeT4KICAgICAgICAgICAgICAgICAgICApfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VHlwb2dyYXBoeSBjbGFzc05hbWU9e2NsYXNzZXMuZGVzY3JpcHRpb259PgogICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjbGFzc2VzLmRlc2NyaXB0aW9uQm9sZH0+CiAgICAgICAgICAgICAgICAgICAgICAgIERyb3Bib3gsIEdvb2dsZSBEcml2ZQogICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgPGJyLz4KICAgICAgICAgICAgICAgICAgICAgIGltcG9ydAogICAgICAgICAgICAgICAgICAgIDwvVHlwb2dyYXBoeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHF1ZXVlZCBzdHJlYW1zCg==</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIGNsYXNzPSJ3My1iYXItaXRlbSB3My1idXR0b24iIG9uY2xpY2s9Im9wZW5DaXR5KCdUb2t5bycpIj5Ub2t5bzwvYnV0dG9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvZmZlckl0ZW1Db250YWluZXJcPg==</last-search>
+      <last-search>api-label</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvZmZlckl0ZW1Db250YWluZXJcPg==</last-pattern>
+      <last-pattern>api-label</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcm9jZXNzRHJvcGJveFVybFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -642,7 +655,6 @@
     </search>
     <history>
       <history-search>
-        <entry>then</entry>
         <entry encoding="base64">XDx0aGVuXD4=</entry>
         <entry encoding="base64">XDxmaWxlbmFtZVw+</entry>
         <entry encoding="base64">XDxwcm9jZXNzRHJvcGJveFVybFw+</entry>
@@ -662,6 +674,7 @@
         <entry encoding="base64">XDx2aWRlb0R1cmF0aW9uTGltaXRcPg==</entry>
         <entry encoding="base64">XDxjb250YWluZXJDbGFzc2VzXD4=</entry>
         <entry encoding="base64">XDxvZmZlckl0ZW1Db250YWluZXJcPg==</entry>
+        <entry>api-label</entry>
       </history-search>
       <history-cmd>
         <entry>action FileChooser.NewFolder</entry>
