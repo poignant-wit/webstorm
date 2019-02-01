@@ -9,6 +9,7 @@
         <mark key="." line="84" column="51" />
         <mark key="^" line="99" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-web/api/server/routes/oauth.js" timestamp="1549027880350" />
       <file name="$USER_HOME$/Documents/_own/mobx-intro/src/reactiveV2.js" timestamp="1547741921467">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="66" column="16" />
@@ -42,8 +43,8 @@
         <mark key="^" line="116" column="11" />
         <mark key="." line="116" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" timestamp="1549026453472">
-        <mark key="'" line="99" column="20" />
+      <file name="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" timestamp="1549029491774">
+        <mark key="'" line="195" column="18" />
         <mark key="[" line="327" column="0" />
         <mark key="]" line="327" column="0" />
         <mark key="." line="327" column="0" />
@@ -191,8 +192,8 @@
         <mark key="." line="6" column="5" />
         <mark key="^" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/login.js" timestamp="1549019916127">
-        <mark key="'" line="109" column="38" />
+      <file name="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/login.js" timestamp="1549029421276">
+        <mark key="'" line="107" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain/EventsCreateEditMain.tsx" timestamp="1548864786600">
         <mark key="[" line="65" column="48" />
@@ -290,13 +291,17 @@
         <mark key="^" line="91" column="36" />
         <mark key="." line="132" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-web/api/server/views/v2/authForm.ejs" timestamp="1549026783117">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Documents/restream-web/api/server/routes/portal.js" timestamp="1549029105424">
+        <mark key="'" line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/register.js" timestamp="1549021295338">
-        <mark key="'" line="159" column="37" />
+      <file name="$USER_HOME$/Documents/restream-web/api/server/views/v2/authForm.ejs" timestamp="1549027613855">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="39" />
+        <mark key="." line="11" column="39" />
+        <mark key="^" line="11" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/register.js" timestamp="1549029433002">
+        <mark key="'" line="45" column="18" />
         <mark key="[" line="160" column="0" />
         <mark key="]" line="160" column="50" />
         <mark key="." line="166" column="0" />
@@ -394,6 +399,9 @@
         <mark key="^" line="40" column="51" />
         <mark key="." line="88" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-web/api/server/controllers/oauth.js" timestamp="1549028849177">
+        <mark key="'" line="306" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/integrations/frameIo/components/IntegrationsFrameIo.tsx" timestamp="1548062681124">
         <mark key="[" line="106" column="102" />
         <mark key="]" line="106" column="116" />
@@ -457,11 +465,19 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-web/api/server/controllers/authentication.js" timestamp="1549024704333">
+      <file name="$USER_HOME$/Documents/restream-web/api/server/controllers/authentication.js" timestamp="1549028103093">
+        <mark key="'" line="254" column="22" />
         <mark key="[" line="419" column="43" />
         <mark key="]" line="419" column="43" />
         <mark key="." line="419" column="43" />
         <mark key="^" line="419" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authorize.js" timestamp="1549028600010">
+        <mark key="'" line="26" column="13" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="100" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/dialogs/DialogView.tsx" timestamp="1548348451699">
         <mark key="[" line="32" column="0" />
@@ -528,27 +544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="36" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/header/containers/HeaderContainer.tsx" />
-      <jump line="196" column="36" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/header/containers/HeaderContainer.tsx" />
-      <jump line="209" column="36" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/header/containers/HeaderContainer.tsx" />
-      <jump line="42" column="10" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/header/components/Header.tsx" />
-      <jump line="117" column="10" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventModal.tsx" />
-      <jump line="208" column="6" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
-      <jump line="20" column="14" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
-      <jump line="94" column="1" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/url.controller.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/node_modules/@types/ramda/index.d.ts" />
-      <jump line="2501" column="70" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/node_modules/@types/ramda/index.d.ts" />
-      <jump line="2666" column="60" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/node_modules/@types/ramda/index.d.ts" />
-      <jump line="928" column="54" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/node_modules/@types/ramda/index.d.ts" />
-      <jump line="1507" column="55" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/node_modules/@types/ramda/index.d.ts" />
-      <jump line="1517" column="55" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/node_modules/@types/ramda/index.d.ts" />
-      <jump line="2182" column="11" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/node_modules/@types/ramda/index.d.ts" />
-      <jump line="2207" column="11" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/node_modules/@types/ramda/index.d.ts" />
-      <jump line="2488" column="45" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/node_modules/@types/ramda/index.d.ts" />
-      <jump line="3" column="23" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/url.controller.ts" />
-      <jump line="13" column="19" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/url.controller.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/url.controller.ts" />
-      <jump line="90" column="0" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/url.controller.ts" />
       <jump line="382" column="23" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
       <jump line="25" column="9" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/videos/VideoFromLinkDialogViewModel.ts" />
       <jump line="90" column="34" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/videos/VideoFromLinkDialogViewModel.ts" />
@@ -614,10 +609,8 @@
       <jump line="46" column="32" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/login.js" />
       <jump line="51" column="20" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/login.js" />
       <jump line="109" column="38" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/login.js" />
-      <jump line="160" column="23" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/register.js" />
       <jump line="296" column="8" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
       <jump line="168" column="12" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
-      <jump line="45" column="18" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/register.js" />
       <jump line="50" column="20" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/register.js" />
       <jump line="93" column="38" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/register.js" />
       <jump line="159" column="37" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/register.js" />
@@ -628,55 +621,78 @@
       <jump line="312" column="11" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
       <jump line="72" column="20" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
       <jump line="145" column="0" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/css/index.css" />
+      <jump line="254" column="22" filename="$USER_HOME$/Documents/restream-web/api/server/controllers/authentication.js" />
+      <jump line="24" column="13" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authorize.js" />
+      <jump line="56" column="30" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authorize.js" />
+      <jump line="64" column="52" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authorize.js" />
+      <jump line="67" column="48" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authorize.js" />
+      <jump line="73" column="62" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authorize.js" />
+      <jump line="81" column="39" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authorize.js" />
+      <jump line="42" column="12" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authorize.js" />
+      <jump line="27" column="8" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authorize.js" />
+      <jump line="41" column="23" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authorize.js" />
+      <jump line="26" column="13" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authorize.js" />
+      <jump line="123" column="19" filename="$USER_HOME$/Documents/restream-web/api/server/controllers/oauth.js" />
+      <jump line="219" column="19" filename="$USER_HOME$/Documents/restream-web/api/server/controllers/oauth.js" />
+      <jump line="281" column="19" filename="$USER_HOME$/Documents/restream-web/api/server/controllers/oauth.js" />
+      <jump line="283" column="31" filename="$USER_HOME$/Documents/restream-web/api/server/controllers/oauth.js" />
+      <jump line="306" column="14" filename="$USER_HOME$/Documents/restream-web/api/server/controllers/oauth.js" />
+      <jump line="7" column="4" filename="$USER_HOME$/Documents/restream-web/api/server/routes/portal.js" />
+      <jump line="155" column="8" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/login.js" />
+      <jump line="107" column="28" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/login.js" />
+      <jump line="160" column="8" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/register.js" />
+      <jump line="45" column="18" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/register.js" />
+      <jump line="8" column="8" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
+      <jump line="195" column="18" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>label</text>
+        <text encoding="base64">XDxrZXlJbnB1dFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LmFwaS1mb3JtLXRhYnNfX2J1dHRvbi0tYWN0aXZlIHsKICAgIGNvbG9yOiAjZmI1MDI4Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IDE2cHg7Cg==</text>
+        <text encoding="base64">ICAgICAgIGF1dGhvcml6ZUZvcm1TdWJtaXRIYW5kbGVyKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1yaWdodDogMTZweDsK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcmVkaXJlY3RVcmkgPSB1cmxQYXJhbXMuZ2V0KCdyZWRpcmVjdF91cmknKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9zcGFuPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2lnbiBVcAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IDE2cHg7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbi1yaWdodDogMTZweDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9zcGFuPgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qbWFyZ2luOiAxMHB4IDEwcHg7Ki8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action TypeHierarchy</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>label</last-search>
+      <last-search encoding="base64">XDxrZXlJbnB1dFw+</last-search>
       <last-offset />
-      <last-pattern>label</last-pattern>
+      <last-pattern encoding="base64">XDxrZXlJbnB1dFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcm9jZXNzRHJvcGJveFVybFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -684,13 +700,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0V2ZW50VGl0bGVFcnJvclw+</entry>
-        <entry encoding="base64">XDx2YWxpZFN0YXJ0RXZlbnRBdFw+</entry>
-        <entry encoding="base64">XDxjYXJkTWVudUljb25CZ1w+</entry>
-        <entry encoding="base64">XDxhbmFseXRpY3NSZXBvcnRlclw+</entry>
-        <entry>10</entry>
-        <entry>redire</entry>
-        <entry>redi</entry>
         <entry encoding="base64">XDxjcnlwdG9cPg==</entry>
         <entry encoding="base64">XDx2aWRlb0R1cmF0aW9uTGltaXRcPg==</entry>
         <entry encoding="base64">XDxjb250YWluZXJDbGFzc2VzXD4=</entry>
@@ -698,12 +707,19 @@
         <entry>api-label</entry>
         <entry encoding="base64">XDxyZWdpc3RyYXRpb25Gb3JtS2V5SW5wdXRcPg==</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
-        <entry encoding="base64">XDxrZXlJbnB1dFw+</entry>
         <entry encoding="base64">XDxvdHBPclJlY292ZXJ5Q29kZUlucHV0XD4=</entry>
         <entry encoding="base64">XDxsb2dpbk90cE9yUmVjb3ZlcnlDb2RlXD4=</entry>
         <entry encoding="base64">XDxqc0NhcHRjaGFMb2dpblw+</entry>
         <entry encoding="base64">XDxyZUNhcHRjaGFGb3JtXD4=</entry>
         <entry>label</entry>
+        <entry encoding="base64">XDxuZXh0XD4=</entry>
+        <entry encoding="base64">XDxyZWRpcmVjdFVyaVw+</entry>
+        <entry encoding="base64">XDxldmVudFw+</entry>
+        <entry encoding="base64">XDxhdXRob3JpemVGb3JtU3VibWl0SGFuZGxlclw+</entry>
+        <entry encoding="base64">XDxvYXV0aFw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVDbGllbnRBcHBcPg==</entry>
+        <entry encoding="base64">XDxvdHBPclJlY292ZXJ5Q29kZUZvcm1cPg==</entry>
+        <entry encoding="base64">XDxrZXlJbnB1dFw+</entry>
       </history-search>
       <history-cmd>
         <entry>action FileChooser.NewFolder</entry>
@@ -715,9 +731,9 @@
         <entry>action MethodHierarchy.OverrideMethodAction</entry>
         <entry>action Find</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry>action TypeHierarchy</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
