@@ -266,12 +266,12 @@
         <mark key="^" line="69" column="60" />
         <mark key="." line="69" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-web/api/server/public/v2/css/index.css" timestamp="1549026975690">
-        <mark key="'" line="145" column="0" />
-        <mark key="[" line="309" column="19" />
-        <mark key="]" line="309" column="19" />
-        <mark key="." line="309" column="19" />
-        <mark key="^" line="309" column="19" />
+      <file name="$USER_HOME$/Documents/restream-web/api/server/public/v2/css/index.css" timestamp="1549031037513">
+        <mark key="'" line="344" column="16" />
+        <mark key="[" line="120" column="40" />
+        <mark key="]" line="121" column="20" />
+        <mark key="." line="121" column="20" />
+        <mark key="^" line="121" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/utils/time.ts" timestamp="1548865042756">
         <mark key="[" line="7" column="13" />
@@ -544,10 +544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="382" column="23" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/videos.controller.ts" />
-      <jump line="25" column="9" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/videos/VideoFromLinkDialogViewModel.ts" />
-      <jump line="90" column="34" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/videos/VideoFromLinkDialogViewModel.ts" />
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/api/subscriptions.ts" />
       <jump line="35" column="17" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/files/processVideoFile.ts" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/files/processVideoFile.ts" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/files/processVideoFile.ts" />
@@ -644,6 +640,10 @@
       <jump line="45" column="18" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/register.js" />
       <jump line="8" column="8" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
       <jump line="195" column="18" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
+      <jump line="323" column="0" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/css/index.css" />
+      <jump line="324" column="16" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/css/index.css" />
+      <jump line="340" column="16" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/css/index.css" />
+      <jump line="344" column="16" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/css/index.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -653,7 +653,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxrZXlJbnB1dFw+</text>
+        <text>butt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LmFwaS1mb3JtLXRhYnNfX2J1dHRvbi0tYWN0aXZlIHsKICAgIGNvbG9yOiAjZmI1MDI4Cn0K</text>
@@ -690,9 +690,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxrZXlJbnB1dFw+</last-search>
+      <last-search>butt</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxrZXlJbnB1dFw+</last-pattern>
+      <last-pattern>butt</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcm9jZXNzRHJvcGJveFVybFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -700,7 +700,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcnlwdG9cPg==</entry>
         <entry encoding="base64">XDx2aWRlb0R1cmF0aW9uTGltaXRcPg==</entry>
         <entry encoding="base64">XDxjb250YWluZXJDbGFzc2VzXD4=</entry>
         <entry encoding="base64">XDxvZmZlckl0ZW1Db250YWluZXJcPg==</entry>
@@ -720,6 +719,7 @@
         <entry encoding="base64">XDxjcmVhdGVDbGllbnRBcHBcPg==</entry>
         <entry encoding="base64">XDxvdHBPclJlY292ZXJ5Q29kZUZvcm1cPg==</entry>
         <entry encoding="base64">XDxrZXlJbnB1dFw+</entry>
+        <entry>butt</entry>
       </history-search>
       <history-cmd>
         <entry>action FileChooser.NewFolder</entry>
