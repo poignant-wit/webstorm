@@ -3,62 +3,67 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/_DRAFTS/state-tree/src/store/TodoStore.js" timestamp="1549200737474">
-        <mark key="[" line="62" column="22" />
-        <mark key="]" line="62" column="22" />
-        <mark key="." line="62" column="22" />
-        <mark key="^" line="62" column="22" />
+      <file name="$USER_HOME$/www/_DRAFTS/state-tree/src/store/TodoStore.js" timestamp="1549203773154">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+        <mark key="^" line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/www/_DRAFTS/state-tree/src/index.js" timestamp="1549198197587">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="11" column="66" />
+      <file name="$USER_HOME$/www/_DRAFTS/state-tree/src/index.js" timestamp="1549203733953">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+        <mark key="^" line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/www/_DRAFTS/state-tree/src/App.js" timestamp="1549200779843">
-        <mark key="[" line="30" column="54" />
-        <mark key="]" line="30" column="72" />
-        <mark key="." line="30" column="72" />
-        <mark key="^" line="30" column="72" />
+      <file name="$USER_HOME$/www/_DRAFTS/state-tree/src/App.js" timestamp="1549202861123">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="34" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="24" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gT2JqZWN0LmFzc2lnbih7fSwgc25hcHNob3QsIHsgaWQ6ICdnZW5lcmF0ZWRJZCcsIGlzTG9jYWw6IHRydWUgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYub25TYXZlKCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNuYXBzaG90KTsK</text>
+      <register name="1" type="4">
+        <text>{
+        onSuccess(){
+            console.log('on success');
+        }
+    }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYWZ0ZXJDcmVhdGUnKTsK</text>
+      <register name="2" type="4">
+        <text>({
+    })</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZDogdHlwZXMuaWRlbnRpZmllciwK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXI6IHsKICAgICAgICAgICAgbG9nKCl7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnbG9nIGV2ZW50Jyk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgQmFzZU1vZGVsID0gdHlwZXMubW9kZWwoewogICAgX2lkOiB0eXBlcy5pZGVudGlmaWVyLAogICAgaWQ6IHR5cGVzLm1heWJlTnVsbCh0eXBlcy5zdHJpbmcpLAogICAgaXNMb2NhbDogdHlwZXMuYm9vbGVhbiwKfSkKICAgIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgICAgICBzZXRJZChpZCl7CiAgICAgICAgICAgIHNlbGYuaWQgPSBpZDsKICAgICAgICAgICAgc2VsZi5pc0xvY2FsID0gZmFsc2U7CiAgICAgICAgfQogICAgfSkpCiAgICAudmlld3Moc2VsZiA9PiAoewogICAgICAgIGdldCBpZGVudGlmaWVyKCl7CiAgICAgICAgICAgcmV0dXJuIHNlbGYuaXNMb2NhbCA/IHNlbGYuX2lkOiBzZWxmLmlkIDsKICAgICAgICB9CiAgICB9KSkKICAgIC5wcmVQcm9jZXNzU25hcHNob3QoYXNzaWduVVVJRCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvblN1Y2Nlc3M6IChkYXRhKSA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzdWNjZXNzJyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAndmlkZW8gZmlsZScK</text>
+        <text encoding="base64">ICAgICAgICBvblN1Y2Nlc3MoKXsKICAgICAgICAgICAgY29uc29sZS5sb2coJ29uU3VjY2VzcycpOwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQuZCA9ICduZXdJZCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYub25TYXZlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgc2VsZi5pZCA9ICdpZCBGcm9tIHNlcnZlcic7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzbmFwc2hvdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5pc0xvY2FsID0gZmFsc2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlzTG9jYWw6IHR5cGVzLmJvb2xlYW4sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkLnNldElkKCdzdXBlck5FVyBJRCcpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
