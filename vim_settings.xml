@@ -162,10 +162,6 @@
         <mark key="^" line="55" column="45" />
         <mark key="." line="55" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-web/api/server/views/v2/register.ejs" timestamp="1549024775204">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="26" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingOffers/OnboardingOffersRegular.tsx" timestamp="1549013218154">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="30" column="0" />
@@ -495,6 +491,9 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/api/server/controllers/oauth.js" timestamp="1549278348109">
+        <mark key="'" line="90" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/dialogs/DialogView.tsx" timestamp="1548348451699">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -560,8 +559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="20" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/components/OffersRegular.tsx" />
-      <jump line="237" column="31" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/components/OffersRegular.tsx" />
       <jump line="217" column="58" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/components/OffersRegular.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/css/index.css" />
       <jump line="308" column="0" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/css/index.css" />
@@ -660,6 +657,8 @@
       <jump line="95" column="20" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
       <jump line="145" column="28" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
       <jump line="157" column="28" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
+      <jump line="61" column="10" filename="$USER_HOME$/Documents/api/server/controllers/oauth.js" />
+      <jump line="90" column="9" filename="$USER_HOME$/Documents/api/server/controllers/oauth.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -669,7 +668,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZUNhcHRjaGFGb3JtXD4=</text>
+        <text encoding="base64">XDxvcHRzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhciBzaWdudXBGb3JtRW1haWxJbnB1dCA9ICQoJyNzaWdudXBGb3JtRW1haWxJbnB1dCcpOwo=</text>
@@ -706,9 +705,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZUNhcHRjaGFGb3JtXD4=</last-search>
+      <last-search encoding="base64">XDxvcHRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZUNhcHRjaGFGb3JtXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvcHRzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcm9jZXNzRHJvcGJveFVybFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -716,7 +715,6 @@
     </search>
     <history>
       <history-search>
-        <entry>label</entry>
         <entry encoding="base64">XDxuZXh0XD4=</entry>
         <entry encoding="base64">XDxyZWRpcmVjdFVyaVw+</entry>
         <entry encoding="base64">XDxldmVudFw+</entry>
@@ -736,6 +734,7 @@
         <entry encoding="base64">XDxqc0NhcHRjaGFMb2dpblw+</entry>
         <entry encoding="base64">XDxqc1JlZ2lzdHJhdGlvbkJ1dHRvblw+</entry>
         <entry encoding="base64">XDxyZUNhcHRjaGFGb3JtXD4=</entry>
+        <entry encoding="base64">XDxvcHRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action FileChooser.NewFolder</entry>
