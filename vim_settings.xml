@@ -42,7 +42,8 @@
         <mark key="^" line="116" column="11" />
         <mark key="." line="116" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" timestamp="1549283932219">
+      <file name="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" timestamp="1549361679489">
+        <mark key="'" line="313" column="13" />
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
@@ -323,6 +324,12 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="97" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/register.js" timestamp="1549029433002">
+        <mark key="'" line="45" column="18" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="50" />
+        <mark key="." line="166" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/api/index.ts" timestamp="1548774738357">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="22" />
@@ -418,6 +425,12 @@
         <mark key="]" line="88" column="0" />
         <mark key="^" line="40" column="51" />
         <mark key="." line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-web/api/server/controllers/oauth.js" timestamp="1549279297785">
+        <mark key="'" line="447" column="4" />
+        <mark key="[" line="403" column="0" />
+        <mark key="]" line="403" column="0" />
+        <mark key="." line="403" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsAciveListPlaceholder/index.ts" timestamp="1549289975057">
         <mark key="[" line="0" column="45" />
@@ -583,7 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="19" filename="$USER_HOME$/Documents/restream-web/api/server/controllers/oauth.js" />
       <jump line="281" column="19" filename="$USER_HOME$/Documents/restream-web/api/server/controllers/oauth.js" />
       <jump line="283" column="31" filename="$USER_HOME$/Documents/restream-web/api/server/controllers/oauth.js" />
       <jump line="306" column="14" filename="$USER_HOME$/Documents/restream-web/api/server/controllers/oauth.js" />
@@ -683,6 +695,7 @@
       <jump line="192" column="10" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" />
       <jump line="315" column="24" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" />
       <jump line="358" column="10" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" />
+      <jump line="313" column="13" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -692,7 +705,7 @@
         <text>props</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVPbkNsaWNrTmV3RXZlbnRcPg==</text>
+        <text encoding="base64">XDxzd2l0Y2hUYWJIYW5kbGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7dGhpcy5wcm9wcy5ldmVudHMubWFwKGV2ZW50ID0+IHsgLy8gdHNsaW50OmRpc2FibGUtbGluZQogICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgPEV2ZW50SXRlbQogICAgICAgICAgICAgIGtleT17ZXZlbnQuaWR9CiAgICAgICAgICAgICAgZXZlbnQ9e2V2ZW50fQogICAgICAgICAgICAgIGlzQXJjaGl2ZWQ9e2lzQXJjaGl2ZWR9CiAgICAgICAgICAgICAgb25DbGlja1JlbW92ZUV2ZW50PXtvbkNsaWNrUmVtb3ZlRXZlbnR9CiAgICAgICAgICAgICAgb25DbGlja0NhbmNlbEV2ZW50PXtvbkNsaWNrQ2FuY2VsRXZlbnR9CiAgICAgICAgICAgICAgb25DbGlja0VkaXRFdmVudD17b25DbGlja0VkaXRFdmVudH0KICAgICAgICAgICAgLz4KICAgICAgICAgICk7CiAgICAgICAgfSl9Cg==</text>
@@ -729,9 +742,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVPbkNsaWNrTmV3RXZlbnRcPg==</last-search>
+      <last-search encoding="base64">XDxzd2l0Y2hUYWJIYW5kbGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVPbkNsaWNrTmV3RXZlbnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzd2l0Y2hUYWJIYW5kbGVyXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcm9jZXNzRHJvcGJveFVybFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -739,7 +752,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcHRzXD4=</entry>
         <entry encoding="base64">XDxyZW5kZXJBdXRob3JpemVcPg==</entry>
         <entry encoding="base64">XDxsb2dpbkZvcm1QYXNzd29yZElucHV0XD4=</entry>
         <entry encoding="base64">XDxqc1JlZ2lzdHJhdGlvbkJ1dHRvblw+</entry>
@@ -759,6 +771,7 @@
         <entry encoding="base64">XDxoYW5kbGVPbkNsaWNrQ2FuY2VsRXZlbnRcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVPbkNsaWNrU2F2ZUV2ZW50XD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVPbkNsaWNrTmV3RXZlbnRcPg==</entry>
+        <entry encoding="base64">XDxzd2l0Y2hUYWJIYW5kbGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action FileChooser.NewFolder</entry>
