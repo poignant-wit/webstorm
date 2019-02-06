@@ -320,11 +320,11 @@
         <mark key="." line="5" column="10" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItem/EventsListItem.tsx" timestamp="1549378467963">
-        <mark key="[" line="90" column="39" />
-        <mark key="]" line="90" column="50" />
-        <mark key="." line="90" column="50" />
-        <mark key="^" line="90" column="50" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItem/EventsListItem.tsx" timestamp="1549440019602">
+        <mark key="[" line="37" column="14" />
+        <mark key="]" line="38" column="48" />
+        <mark key="^" line="38" column="48" />
+        <mark key="." line="38" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/index.ts" timestamp="1548848801404">
         <mark key="[" line="24" column="26" />
@@ -358,11 +358,10 @@
         <mark key="." line="281" column="23" />
         <mark key="^" line="281" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItem/EventsListItem.scss" timestamp="1549377397353">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
-        <mark key="^" line="63" column="27" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItem/EventsListItem.scss" timestamp="1549440650112">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" timestamp="1549361296708">
         <mark key="'" line="368" column="10" />
@@ -660,11 +659,11 @@
       <jump line="313" column="13" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>O</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzd2l0Y2hUYWJIYW5kbGVyXD4=</text>
@@ -673,34 +672,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICA8SDU+MDA6MDA6MDA8L0g1Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogRXZlbnRzTGlzdFZpZXdNb2RlbAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYmFja2dyb3VuZDogIzAwNjI2ZTsK</text>
+        <text encoding="base64">ICBAbWVkaWEgc2NyZWVuIGFuZCAobWluLXdpZHRoOiA2MDBweCkgewogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8SDU+VElNRTwvSDU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8aDU+VElNRTwvaDU+Cg==</text>
+        <text encoding="base64">ICAgIGhlaWdodDogMTQycHg7CiAgICBmbGV4LWRpcmVjdGlvbjogcm93Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy9iYWNrZ3JvdW5kOiAjMGY5OTYwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdj4K</text>
+        <text encoding="base64">Ly8gU21hbGwgZGV2aWNlcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Ly8gTWVkaXVtIGRldmljZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luLXRvcDogNXB4OwogICAgICBmbGV4OiA0IDE7Cg==</text>
+        <text encoding="base64">Ly8gTGFyZ2UgZGV2aWNlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICYgPiBoNCB7CiAgICAgIG1hcmdpbi10b3A6IDVweDsKICAgICAgZmxleDogNCAxOwogICAgfQo=</text>
+        <text encoding="base64">Ly8gRXh0cmEgbGFyZ2UgZGV2aWNlcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action $SelectAll</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -745,9 +744,9 @@
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry>action TypeHierarchy</entry>
-        <entry>action GotoFile</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>action $SelectAll</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
