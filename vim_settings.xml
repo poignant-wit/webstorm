@@ -39,11 +39,11 @@
         <mark key="^" line="57" column="43" />
         <mark key="." line="57" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItem/EventsListItem.tsx" timestamp="1549539524106">
-        <mark key="[" line="151" column="15" />
-        <mark key="]" line="151" column="15" />
-        <mark key="." line="151" column="15" />
-        <mark key="^" line="151" column="15" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItem/EventsListItem.tsx" timestamp="1549542905387">
+        <mark key="[" line="302" column="54" />
+        <mark key="]" line="302" column="57" />
+        <mark key="^" line="302" column="57" />
+        <mark key="." line="302" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/routes.ts" timestamp="1549526444422">
         <mark key="[" line="33" column="32" />
@@ -340,11 +340,12 @@
         <mark key="." line="65" column="48" />
         <mark key="^" line="65" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" timestamp="1549539332513">
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" timestamp="1549542776330">
         <mark key="'" line="115" column="2" />
-        <mark key="[" line="291" column="0" />
-        <mark key="]" line="291" column="0" />
-        <mark key="." line="291" column="0" />
+        <mark key="[" line="283" column="2" />
+        <mark key="]" line="283" column="8" />
+        <mark key="." line="283" column="8" />
+        <mark key="^" line="283" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/routes/urlRouter.ts" timestamp="1548762605375">
         <mark key="[" line="6" column="0" />
@@ -454,11 +455,11 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/utils/time.ts" timestamp="1549539432723">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="6" />
-        <mark key="." line="15" column="6" />
-        <mark key="^" line="15" column="6" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/utils/time.ts" timestamp="1549542500433">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+        <mark key="." line="11" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1548665016912">
         <mark key="[" line="69" column="0" />
@@ -619,43 +620,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>duration</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZXZlbnQgfSA9IHRoaXMucHJvcHM7Cg==</text>
+        <text encoding="base64">ICBAY29tcHV0ZWQKICBwcml2YXRlIGdldCBmaXJzdFNjaGVkdWxlZEZyYW1lKCl7CiAgICByZXR1cm4gdGhpcy5mcmFtZXMuZmluZChmcmFtZSA9PiBmcmFtZS5pc1NjaGVkdWxlZCk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA8SDU+MDA6MDA6MDA8L0g1PjsK</text>
+        <text encoding="base64">ICAvLyBpZiAoaG91cnMgPCAxMCkgewogIC8vICAgaG91cnMgPSAnMCcgKyBob3VyczsKICAvLyB9CiAgLy8gaWYgKG1pbnV0ZXMgPCAxMCkgewogIC8vICAgbWludXRlcyA9ICcwJyArIG1pbnV0ZXM7CiAgLy8gfQogIC8vIGlmIChzZWNvbmRzIDwgMTApIHsKICAvLyAgIHNlY29uZHMgPSAnMCcgKyBzZWNvbmRzOwogIC8vIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBjb25zdCBzZWNOdW0gPSBwYXJzZUludCh0aW1lLCAxMCk7IC8vIGRvbid0IGZvcmdldCB0aGUgc2Vjb25kIHBhcmFtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHMsIHMubGVuZ3RoLCBudW0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiB0aGlzLmhhcygnZmluaXNoZWQnKSA/IEJvb2xlYW4odGhpcy5nZXQoJ2ZpbmlzaGVkJykpIDogZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgcyA9ICIwMDAwMDAwMDAiICsgbnVtOwogIHJldHVybiBzLnN1YnN0cihzLmxlbmd0aC1zaXplKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBAY29tcHV0ZWQKICAvLyBwdWJsaWMgZ2V0IGlzTGl2ZSgpIHsKICAvLyAgIHJldHVybiAoCiAgLy8gICAgIG1vbWVudCgpLnVuaXgoKSA+IHRoaXMuc3RhcnRFdmVudEF0ICYmICF0aGlzLmZpbmlzaGVkICYmICF0aGlzLmNhbmNlbGVkCiAgLy8gICApOwogIC8vIH0K</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGlzQmV0d2VlbiA9IChzdGFydEF0OiBudW1iZXIsIGVuZEF0OiBudW1iZXIpID0+IHsKICBjb25zdCBub3cgPSBtb21lbnQoKS51bml4KCk7CiAgcmV0dXJuIHN0YXJ0QXQgPCBub3cgJiYgZW5kQXQgPiBub3c7Cn07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY2FuY2VsZWQpOwo=</text>
+        <text encoding="base64">IHVuZXNjYXBlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRpZmYgPSB0aGlzLnRpbWVTdG9yZS5ub3cgLSB0aGlzLnN0YXJ0QXQ7Cg==</text>
+        <text encoding="base64">ICBtb21lbnQudW5peCh0aW1lKS5mb3JtYXQoJ0hIOm1tOnNzJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnJlbmRlckFjdGlvbnNNZW51KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -732,6 +733,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
