@@ -197,9 +197,6 @@
         <mark key="." line="6" column="5" />
         <mark key="^" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/login.js" timestamp="1549029421276">
-        <mark key="'" line="107" column="28" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-web/api/server/views/v2/authorize.ejs" timestamp="1549279861890">
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="7" />
@@ -219,8 +216,12 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" timestamp="1549449078683">
-        <mark key="'" line="315" column="29" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" timestamp="1549520072074">
+        <mark key="'" line="204" column="46" />
+        <mark key="[" line="277" column="32" />
+        <mark key="]" line="277" column="32" />
+        <mark key="^" line="277" column="32" />
+        <mark key="." line="277" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain/contentListRenderer.tsx" timestamp="1548177439967">
         <mark key="[" line="13" column="71" />
@@ -295,9 +296,6 @@
         <mark key="^" line="91" column="36" />
         <mark key="." line="132" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-web/api/server/routes/portal.js" timestamp="1549029105424">
-        <mark key="'" line="7" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-web/api/server/views/v2/authForm.ejs" timestamp="1549283683444">
         <mark key="'" line="68" column="27" />
         <mark key="[" line="66" column="0" />
@@ -327,9 +325,6 @@
         <mark key="]" line="5" column="10" />
         <mark key="." line="5" column="10" />
         <mark key="^" line="5" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-web/api/server/utils/settings.js" timestamp="1548943736597">
-        <mark key="'" line="58" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItem/EventsListItem.tsx" timestamp="1549471855549">
         <mark key="'" line="145" column="21" />
@@ -460,9 +455,6 @@
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/vm/EvensListViewModel.ts" timestamp="1549348202002">
         <mark key="[" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/node_modules/@types/ramda/index.d.ts" timestamp="1548676583437">
-        <mark key="'" line="2488" column="45" />
-      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/OnboardingDateStep/OnboardingDateStep.tsx" timestamp="1548931612025">
         <mark key="'" line="78" column="42" />
         <mark key="[" line="50" column="0" />
@@ -512,9 +504,6 @@
         <mark key="]" line="419" column="43" />
         <mark key="." line="419" column="43" />
         <mark key="^" line="419" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/api/server/controllers/oauth.js" timestamp="1549278348109">
-        <mark key="'" line="90" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/EventsListItem.tsx" timestamp="1549361930255">
         <mark key="[" line="13" column="0" />
@@ -586,8 +575,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="32" filename="$USER_HOME$/Documents/api/server/public/v2/js/login.js" />
-      <jump line="155" column="8" filename="$USER_HOME$/Documents/api/server/public/v2/js/login.js" />
       <jump line="317" column="12" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
       <jump line="319" column="24" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
       <jump line="27" column="8" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
@@ -686,16 +673,18 @@
       <jump line="132" column="41" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItem/EventsListItem.tsx" />
       <jump line="135" column="21" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItem/EventsListItem.tsx" />
       <jump line="136" column="21" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItem/EventsListItem.tsx" />
+      <jump line="203" column="13" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
+      <jump line="204" column="46" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Zml4OiBwb3BvdmVyIGlzc3VlIHdpdGggb3ZlcmZsb3cgYXV0bwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFubmVsXD4=</text>
+        <text encoding="base64">XDxkZWxldGVkQXRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjRjVGOEZBOwo=</text>
@@ -728,13 +717,13 @@
         <text encoding="base64">ICAgICAgLy9kaXNwbGF5OiBmbGV4OwogICAgICAvL2ZsZXg6IDEgMTsKICAgICAgLy9mbGV4LWRpcmVjdGlvbjogcm93OwogICAgICAvL2p1c3RpZnktY29udGVudDogZmxleC1lbmQ7CiAgICAgIC8vcGFkZGluZzogNXB4Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFubmVsXD4=</last-search>
+      <last-search encoding="base64">XDxkZWxldGVkQXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFubmVsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkZWxldGVkQXRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcm9jZXNzRHJvcGJveFVybFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -742,7 +731,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvdHBPclJlY292ZXJ5Q29kZUlucHV0XD4=</entry>
         <entry encoding="base64">XDxvdHBPclJlY292ZXJ5Q29kZUZvcm1cPg==</entry>
         <entry encoding="base64">XDxsb2dpbkZvcm1PdHBPclJlY292ZXJ5Q29kZUlucHV0XD4=</entry>
         <entry encoding="base64">XDxrZXlJbnB1dFw+</entry>
@@ -762,6 +750,7 @@
         <entry>column</entry>
         <entry>4</entry>
         <entry encoding="base64">XDxjaGFubmVsXD4=</entry>
+        <entry encoding="base64">XDxkZWxldGVkQXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action FileChooser.NewFolder</entry>
@@ -774,8 +763,8 @@
         <entry>action TypeHierarchy</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>action $SelectAll</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
