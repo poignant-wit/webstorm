@@ -33,11 +33,17 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItem/EventsListItem.tsx" timestamp="1549529165939">
-        <mark key="[" line="67" column="33" />
-        <mark key="]" line="67" column="33" />
-        <mark key="^" line="67" column="33" />
-        <mark key="." line="67" column="33" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/frames/FrameModel.ts" timestamp="1549535793063">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="47" column="11" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItem/EventsListItem.tsx" timestamp="1549535842732">
+        <mark key="[" line="295" column="67" />
+        <mark key="]" line="295" column="67" />
+        <mark key="^" line="295" column="67" />
+        <mark key="." line="295" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/routes.ts" timestamp="1549526444422">
         <mark key="[" line="33" column="32" />
@@ -135,12 +141,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItem/EventsListItem.scss" timestamp="1549526940112">
-        <mark key="'" line="108" column="9" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="46" column="3" />
-        <mark key="." line="36" column="20" />
-        <mark key="^" line="36" column="20" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItem/EventsListItem.scss" timestamp="1549534989915">
+        <mark key="'" line="114" column="9" />
+        <mark key="[" line="40" column="25" />
+        <mark key="]" line="40" column="25" />
+        <mark key="." line="40" column="25" />
+        <mark key="^" line="41" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" timestamp="1549528583843">
         <mark key="[" line="158" column="67" />
@@ -334,19 +340,12 @@
         <mark key="." line="65" column="48" />
         <mark key="^" line="65" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsList.tsx" timestamp="1549361114520">
-        <mark key="'" line="8" column="2" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="38" column="11" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" timestamp="1549530714912">
-        <mark key="'" line="204" column="46" />
-        <mark key="[" line="345" column="67" />
-        <mark key="]" line="345" column="68" />
-        <mark key="." line="340" column="27" />
-        <mark key="^" line="341" column="17" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" timestamp="1549536178632">
+        <mark key="'" line="350" column="13" />
+        <mark key="[" line="33" column="36" />
+        <mark key="]" line="33" column="48" />
+        <mark key="." line="33" column="48" />
+        <mark key="^" line="33" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/routes/urlRouter.ts" timestamp="1548762605375">
         <mark key="[" line="6" column="0" />
@@ -414,11 +413,11 @@
         <mark key="." line="109" column="35" />
         <mark key="^" line="109" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/support/TimeStore.ts" timestamp="1549529069461">
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="12" column="31" />
-        <mark key="^" line="12" column="31" />
-        <mark key="." line="12" column="31" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/support/TimeStore.ts" timestamp="1549534163354">
+        <mark key="[" line="8" column="48" />
+        <mark key="]" line="8" column="48" />
+        <mark key="^" line="8" column="49" />
+        <mark key="." line="8" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/_own/mobx-intro/src/Todo.js" timestamp="1547742840269">
         <mark key="[" line="16" column="4" />
@@ -480,13 +479,6 @@
         <mark key="^" line="91" column="36" />
         <mark key="." line="132" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-web/api/server/views/v2/authForm.ejs" timestamp="1549283683444">
-        <mark key="'" line="68" column="27" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="97" column="41" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/api/index.ts" timestamp="1548774738357">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="22" />
@@ -525,16 +517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="8" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
-      <jump line="133" column="40" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
-      <jump line="134" column="28" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
-      <jump line="107" column="28" filename="$USER_HOME$/Documents/api/server/public/v2/js/login.js" />
-      <jump line="72" column="32" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
-      <jump line="77" column="20" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
-      <jump line="136" column="38" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
-      <jump line="244" column="15" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/css/index.css" />
-      <jump line="19" column="13" filename="$USER_HOME$/Documents/api/server/public/v2/js/register.js" />
-      <jump line="89" column="28" filename="$USER_HOME$/Documents/api/server/public/v2/js/register.js" />
       <jump line="100" column="28" filename="$USER_HOME$/Documents/api/server/public/v2/js/register.js" />
       <jump line="101" column="28" filename="$USER_HOME$/Documents/api/server/public/v2/js/register.js" />
       <jump line="108" column="28" filename="$USER_HOME$/Documents/api/server/public/v2/js/register.js" />
@@ -625,55 +607,65 @@
       <jump line="204" column="46" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
       <jump line="51" column="12" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" />
       <jump line="89" column="13" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" />
+      <jump line="313" column="0" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
+      <jump line="342" column="11" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
+      <jump line="351" column="14" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
+      <jump line="14" column="31" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
+      <jump line="33" column="2" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
+      <jump line="60" column="2" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
+      <jump line="275" column="9" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
+      <jump line="346" column="13" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
+      <jump line="149" column="5" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
+      <jump line="350" column="13" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>optional</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>optional</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZXJtaXNzaW9uc1N0b3JlXD4=</text>
+        <text>liveFrame</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgaXNPbmxpbmUgPSAoc3RhcnRBdDogbnVtYmVyLCBlbmRBdDogbnVtYmVyKSA9PiB7CiAgY29uc3Qgbm93ID0gbW9tZW50KCkudW5peCgpOwogIHJldHVybiBzdGFydEF0IDwgbm93ICYmIGVuZEF0ID4gbm93Owp9Owo=</text>
+        <text encoding="base64">ICBAY29tcHV0ZWQKICBwdWJsaWMgZ2V0IGlzUGxheWVkKCkgewogICAgcmV0dXJuIHRoaXMuZW5kQXQgPCB0aGlzLnRpbWVTdG9yZS5ub3c7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRqaGlzCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY2FuY2VsZWQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZXZlbnRzU3RvcmUucm9vdFN0b3JlLnN1cHBvcnRTdG9yZS50aW1lU3RvcmUubm93KTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRpZmYgPSB0aGlzLnRpbWVTdG9yZS5ub3cgLSB0aGlzLnN0YXJ0QXQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmVhdDogZXZlbnQgc2xvdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZmVhdDogZXZlbnRzIHJvdXRpbmcK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJlYWN0aW9uKAogICAgICAoKSA9PiB0aGlzLmlzTGl2ZSwKICAgICAgaXNMaXZlID0+IHsKICAgICAgICBpZiAoaXNMaXZlKSB7CiAgICAgICAgfQogICAgICB9LAogICAgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAb2JzZXJ2YWJsZQogIHB1YmxpYyBwcm9ncmVzczogbnVtYmVyID0gMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgU0xPVAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXJ0UHJvZ3Jlc3MoKXsKICAgIGNvbnN0IGR1cmF0aW9uID0gdGhpcy5zdGFydEF0IC0gdGhpcy5lbmRBdDsKICAgIGNvbnN0IGN1cnJlbnQgPSAKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFNMT1QK</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5vdyA9IHRoaXMuZXZlbnRzU3RvcmUucm9vdFN0b3JlLnN1cHBvcnRTdG9yZS50aW1lU3RvcmUubm93Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZXJtaXNzaW9uc1N0b3JlXD4=</last-search>
+      <last-search>liveFrame</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZXJtaXNzaW9uc1N0b3JlXD4=</last-pattern>
+      <last-pattern>liveFrame</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcm9jZXNzRHJvcGJveFVybFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -681,11 +673,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dpbkZvcm1PdHBPclJlY292ZXJ5Q29kZUlucHV0XD4=</entry>
-        <entry encoding="base64">XDxrZXlJbnB1dFw+</entry>
-        <entry>key</entry>
-        <entry encoding="base64">XDxvbkNsaWNrQ3JlYXRlRXZlbnRcPg==</entry>
-        <entry encoding="base64">XDxFdmVudE1vZGFsXD4=</entry>
         <entry encoding="base64">XDxzaG93TW9kYWxcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVPbkNsaWNrUmVzY2hlZHVsZUV2ZW50XD4=</entry>
         <entry encoding="base64">XDxwaWNrRmlsZVw+</entry>
@@ -701,6 +688,11 @@
         <entry encoding="base64">XDxjaGFubmVsXD4=</entry>
         <entry encoding="base64">XDxkZWxldGVkQXRcPg==</entry>
         <entry encoding="base64">XDxwZXJtaXNzaW9uc1N0b3JlXD4=</entry>
+        <entry>frames</entry>
+        <entry encoding="base64">XDxpc0xpdmVcPg==</entry>
+        <entry>live</entry>
+        <entry>isLive</entry>
+        <entry>liveFrame</entry>
       </history-search>
       <history-cmd>
         <entry>action FileChooser.NewFolder</entry>
