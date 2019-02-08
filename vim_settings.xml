@@ -75,10 +75,11 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" timestamp="1549551901281">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" timestamp="1549611272267">
+        <mark key="[" line="340" column="18" />
+        <mark key="]" line="340" column="31" />
+        <mark key="." line="340" column="31" />
+        <mark key="^" line="340" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/_own/mobx-intro/src/reactive.js" timestamp="1547741826746">
         <mark key="[" line="65" column="0" />
@@ -345,13 +346,6 @@
         <mark key="^" line="65" column="48" />
       </file>
       <file name="/EventsContainer.tsx" timestamp="1549551375809" />
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsList.tsx" timestamp="1549361114520">
-        <mark key="'" line="8" column="2" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="38" column="11" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" timestamp="1549544164282">
         <mark key="'" line="115" column="2" />
         <mark key="[" line="403" column="15" />
@@ -491,11 +485,11 @@
         <mark key="^" line="91" column="36" />
         <mark key="." line="132" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-web/api/server/views/v2/authForm.ejs" timestamp="1549551838853">
-        <mark key="'" line="68" column="27" />
-        <mark key="[" line="70" column="45" />
-        <mark key="]" line="70" column="53" />
-        <mark key="." line="70" column="53" />
+      <file name="$USER_HOME$/Documents/restream-web/api/server/views/v2/authForm.ejs" timestamp="1549611501143">
+        <mark key="'" line="93" column="21" />
+        <mark key="[" line="68" column="23" />
+        <mark key="]" line="68" column="23" />
+        <mark key="." line="68" column="23" />
         <mark key="^" line="70" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/api/index.ts" timestamp="1548774738357">
@@ -542,9 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="38" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
-      <jump line="19" column="53" filename="$USER_HOME$/Documents/restream-web/api/server/views/v2/authForm.ejs" />
-      <jump line="98" column="21" filename="$USER_HOME$/Documents/restream-web/api/server/views/v2/authForm.ejs" />
       <jump line="16" column="60" filename="$USER_HOME$/Documents/restream-web/api/server/views/v2/authForm.ejs" />
       <jump line="73" column="27" filename="$USER_HOME$/Documents/restream-web/api/server/views/v2/authForm.ejs" />
       <jump line="120" column="28" filename="$USER_HOME$/Documents/api/server/public/v2/js/login.js" />
@@ -642,16 +633,19 @@
       <jump line="90" column="26" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
       <jump line="115" column="2" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
       <jump line="28" column="7" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItem/EventsListItem.tsx" />
+      <jump line="68" column="27" filename="$USER_HOME$/Documents/restream-web/api/server/views/v2/authForm.ejs" />
+      <jump line="19" column="53" filename="$USER_HOME$/Documents/restream-web/api/server/views/v2/authForm.ejs" />
+      <jump line="93" column="21" filename="$USER_HOME$/Documents/restream-web/api/server/views/v2/authForm.ejs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZ2luRm9ybVN1Ym1pdC5hdHRyKCdkaXNhYmxlZCcsIHRydWUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZW51SWNvblw+</text>
+        <text encoding="base64">XDxqc0NhcHRjaGFMb2dpblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAY29tcHV0ZWQKICBwdWJsaWMgZ2V0IGZpcnN0U2NoZWR1bGVkRnJhbWVJbmRleCgpIHsKICAgIHJldHVybiB0aGlzLmZyYW1lcy5maW5kSW5kZXgoZnJhbWUgPT4gZnJhbWUuaXNTY2hlZHVsZWQpOwogIH0K</text>
@@ -688,9 +682,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZW51SWNvblw+</last-search>
+      <last-search encoding="base64">XDxqc0NhcHRjaGFMb2dpblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZW51SWNvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxqc0NhcHRjaGFMb2dpblw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcm9jZXNzRHJvcGJveFVybFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -698,8 +692,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY3RpdmVMYWJlbENvdW50ZXJcPg==</entry>
-        <entry encoding="base64">XDxoYW5kbGVPbkNsaWNrQ2FuY2VsRXZlbnRcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVPbkNsaWNrU2F2ZUV2ZW50XD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVPbkNsaWNrTmV3RXZlbnRcPg==</entry>
         <entry encoding="base64">XDxzd2l0Y2hUYWJIYW5kbGVyXD4=</entry>
@@ -718,6 +710,8 @@
         <entry encoding="base64">XDxwcm9ncmVzc1BlcmNlbnRzXD4=</entry>
         <entry>duration</entry>
         <entry encoding="base64">XDxtZW51SWNvblw+</entry>
+        <entry encoding="base64">XDxqc1JlZ2lzdHJhdGlvbkJ1dHRvblw+</entry>
+        <entry encoding="base64">XDxqc0NhcHRjaGFMb2dpblw+</entry>
       </history-search>
       <history-cmd>
         <entry>action FileChooser.NewFolder</entry>
