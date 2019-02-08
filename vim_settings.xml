@@ -123,11 +123,11 @@
         <mark key="^" line="20" column="24" />
         <mark key="." line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" timestamp="1549616823209">
-        <mark key="[" line="302" column="0" />
-        <mark key="]" line="302" column="0" />
-        <mark key="." line="302" column="0" />
-        <mark key="^" line="298" column="7" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditViewModel.ts" timestamp="1549620421991">
+        <mark key="[" line="304" column="0" />
+        <mark key="]" line="304" column="0" />
+        <mark key="." line="304" column="0" />
+        <mark key="^" line="308" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/header/components/HeaderButton/HeaderButton.tsx" timestamp="1548252579895">
         <mark key="[" line="9" column="13" />
@@ -230,12 +230,6 @@
         <mark key="]" line="65" column="48" />
         <mark key="." line="65" column="48" />
         <mark key="^" line="65" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" timestamp="1549617145653">
-        <mark key="[" line="167" column="31" />
-        <mark key="]" line="167" column="71" />
-        <mark key="." line="167" column="71" />
-        <mark key="^" line="167" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain/contentListRenderer.tsx" timestamp="1548177439967">
         <mark key="[" line="13" column="71" />
@@ -341,6 +335,12 @@
         <mark key="^" line="0" column="44" />
       </file>
       <file name="/EventModel.ts" timestamp="1549617138124" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItem/EventsListItem.tsx" timestamp="1549619832836">
+        <mark key="[" line="217" column="69" />
+        <mark key="]" line="217" column="62" />
+        <mark key="." line="217" column="62" />
+        <mark key="^" line="217" column="62" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/routes.ts" timestamp="1549526444422">
         <mark key="[" line="33" column="32" />
         <mark key="]" line="33" column="32" />
@@ -403,11 +403,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="44" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" timestamp="1549551250782">
-        <mark key="[" line="447" column="33" />
-        <mark key="]" line="447" column="33" />
-        <mark key="." line="447" column="33" />
-        <mark key="^" line="447" column="33" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" timestamp="1549620549826">
+        <mark key="[" line="151" column="24" />
+        <mark key="]" line="151" column="24" />
+        <mark key="." line="151" column="24" />
+        <mark key="^" line="145" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/Videos.ts" timestamp="1548840885851">
         <mark key="[" line="67" column="21" />
@@ -471,11 +471,11 @@
         <mark key="." line="6" column="60" />
         <mark key="^" line="6" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/base/Model.ts" timestamp="1548089312198">
-        <mark key="[" line="191" column="24" />
-        <mark key="]" line="191" column="18" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/base/Model.ts" timestamp="1549618714677">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="27" />
         <mark key="^" line="191" column="18" />
-        <mark key="." line="191" column="18" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventCreateEditFormLabel.tsx" timestamp="1548176248748">
         <mark key="[" line="0" column="12" />
@@ -677,47 +677,47 @@
       <jump line="216" column="12" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/vm/EventsListViewModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmFsbEZyYW1lc0ZpbmlzaGVkOwo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>ERROR</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxldmVudENvdW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHRoaXMub25DYW5jZWwpIHsKICAgICAgICB0aGlzLm9uQ2FuY2VsKCk7CiAgICAgIH0K</text>
+        <text encoding="base64">ICBwcml2YXRlIGlzRGlhbG9nRXJyb3IoZTogRXJyb3IpIHsKICAgIHJldHVybiAhKAogICAgICBlIGluc3RhbmNlb2YgRXZlbnRzQ291bnRMaW1pdEVycm9yIHx8CiAgICAgIGUgaW5zdGFuY2VvZiBFdmVudHNEdXJhdGlvbkVycm9yIHx8CiAgICAgIGUgaW5zdGFuY2VvZiBFdmVudHNDb3VudEFuZER1cmF0aW9uTGltaXRFcnJvcgogICAgKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmFsbEZyYW1lc0ZpbmlzaGVkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGlzRGlhbG9nRXJyb3IoZTogRXJyb3IpIHsKICAgIHJldHVybiAhKAogICAgICBlIGluc3RhbmNlb2YgRXZlbnRzQ291bnRMaW1pdEVycm9yIHx8CiAgICAgIGUgaW5zdGFuY2VvZiBFdmVudHNEdXJhdGlvbkVycm9yIHx8CiAgICAgIGUgaW5zdGFuY2VvZiBFdmVudHNDb3VudEFuZER1cmF0aW9uTGltaXRFcnJvcgogICAgKTsKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGUgaW5zdGFuY2VvZiBFdmVudHNTY2hlZHVsZVRpbWVFcnJvcikgewogICAgICAgIGNvbnNvbGUubG9nKCdUaW1lIGVycm9yJyk7CiAgICAgIH0K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgcHJpdmF0ZSBpc0RpYWxvZ0Vycm9yKGU6IEVycm9yKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlIGluc3RhbmNlb2YgRXZlbnRzQ291bnRMaW1pdEVycm9yIHx8CiAgICAgICAgZSBpbnN0YW5jZW9mIEV2ZW50c0R1cmF0aW9uRXJyb3IgfHwKICAgICAgICBlIGluc3RhbmNlb2YgRXZlbnRzQ291bnRBbmREdXJhdGlvbkxpbWl0RXJyb3IK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKAogICAgICAgIGVycm9ycy5pbmNsdWRlcyhlcnJvclR5cGVzW0VWRU5UX0VSUk9SLkVWRU5UX0RVUkFUSU9OX0xJTUlUXS5tZXNzYWdlKQogICAgICApIHsKICAgICAgICBjb25zdCBlcnJvciA9IG5ldyBFdmVudHNEdXJhdGlvbkVycm9yKCdFdmVudHNEdXJhdGlvbkVycm9yJyk7CiAgICAgICAgdGhpcy5zdGF0ZS5zZXRFcnJvclN0YXRlKGVycm9yKTsKICAgICAgICB0aHJvdyBlcnJvcjsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcnMuaW5jbHVkZXMoZXJyb3JUeXBlc1tFVkVOVF9FUlJPUi5FVkVOVF9EVVJBVElPTl9MSU1JVF0ubWVzc2FnZSkK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgcmV0dXJuIHJldHVybiB0aGlzLmhhcygnZmluaXNoZWQnKSA/IEJvb2xlYW4odGhpcy5nZXQoJ2ZpbmlzaGVkJykpIDogZmFsc2U7IAogICBwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnTGltaXQgZXJyb3InKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBFcnJvcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -764,8 +764,8 @@
         <entry>action TsLintFileFixAction</entry>
         <entry>action $SelectAll</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
