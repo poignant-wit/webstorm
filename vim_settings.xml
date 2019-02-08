@@ -73,11 +73,11 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="46" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/errors/ErrorFactory.ts" timestamp="1549635197409">
-        <mark key="[" line="57" column="46" />
-        <mark key="]" line="57" column="48" />
-        <mark key="." line="57" column="48" />
-        <mark key="^" line="57" column="48" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/errors/ErrorFactory.ts" timestamp="1549637998289">
+        <mark key="[" line="35" column="9" />
+        <mark key="]" line="35" column="12" />
+        <mark key="." line="35" column="12" />
+        <mark key="^" line="35" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItem/index.ts" timestamp="1549361973465">
         <mark key="[" line="0" column="32" />
@@ -229,11 +229,11 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItemError/EventsListItemError.scss" timestamp="1549625277838">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="5" column="34" />
-        <mark key="." line="5" column="34" />
+      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItemError/EventsListItemError.scss" timestamp="1549637471629">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="6" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListHistoryLink/index.ts" timestamp="1549525861175">
         <mark key="[" line="0" column="39" />
@@ -748,11 +748,11 @@
       <jump line="491" column="10" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>The</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>The</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRFcnJvclN0YXRlQW5kVGhyb3dcPg==</text>
@@ -788,7 +788,7 @@
         <text encoding="base64">ICBAb2JzZXJ2YWJsZQogIHB1YmxpYyBsb2FkaW5nOiBib29sZWFuID0gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action $SelectAll</text>
       </register>
     </registers>
     <search>
@@ -833,10 +833,10 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action $SelectAll</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
+        <entry>action $SelectAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
