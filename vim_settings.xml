@@ -174,7 +174,6 @@
         <mark key="^" line="68" column="53" />
         <mark key="." line="68" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateDialog/img/facebook-square-brands.svg" timestamp="1549970121552" />
       <file name="$USER_HOME$/Documents/restream-web/api/docker/api/config/.env" timestamp="1549035396687">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="20" column="24" />
@@ -271,6 +270,8 @@
         <mark key="^" line="39" column="8" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/RootStore.ts" timestamp="1550047887926" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/AuthStore.ts" timestamp="1550048737097" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain/EventsCreateEditContentItem/EventsCreateEditContentItem.scss" timestamp="1548328201296">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="6" column="5" />
@@ -588,7 +589,6 @@
         <mark key="^" line="67" column="21" />
         <mark key="." line="67" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/index.ts" timestamp="1549958959608" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/AppAuth.tsx" timestamp="1549883079428">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="65" column="42" />
@@ -643,7 +643,6 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateDialog/img/twitter-brands.svg" timestamp="1549970132324" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItemError/index.ts" timestamp="1549623892785">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="0" column="37" />
@@ -944,7 +943,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogc2hhcmUgdG8gYWN0aXZhdGUgbWFya3VwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>SUCCESS</text>
@@ -956,34 +955,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgbGFyZ2U9e3RydWV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogc2hhcmUgdG8gYWN0aXZhdGUgbWFya3VwCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIEljCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZmVhdDogZGlhbG9nIHNoYXJlIHRvIGFjdGl2YXRlIGxvZ2ljCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZsZXg6IDEgMTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC1tcy1mbGV4LWRpcmVjdGlvbjogY29sdW1uOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC1tcy1mbGV4OiAxIDE7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC1tcy1mbGV4LXBhY2s6IGp1c3RpZnk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC1tcy1mbGV4LWFsaWduOiBjZW50ZXI7Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSB3aW5kb3cubG9jYXRpb24ub3JpZ2luOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZmVhdDogc2hhcmUgdG8gYWN0aXZhdGUgbWFya3VwCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIEljCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZmVhdDogZGlhbG9nIHNoYXJlIHRvIGFjdGl2YXRlIGxvZ2ljCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZsZXg6IDEgMTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC1tcy1mbGV4LWRpcmVjdGlvbjogY29sdW1uOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC1tcy1mbGV4OiAxIDE7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC1tcy1mbGV4LXBhY2s6IGp1c3RpZnk7Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -1030,8 +1029,8 @@
         <entry>action TsLintFileFixAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>action $SelectAll</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
