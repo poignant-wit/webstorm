@@ -172,10 +172,11 @@
         <mark key="." line="94" column="14" />
         <mark key="^" line="94" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/AuthStore.ts" timestamp="1550143798303">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/AuthStore.ts" timestamp="1550507061550">
+        <mark key="[" line="164" column="10" />
+        <mark key="]" line="164" column="23" />
+        <mark key="." line="164" column="23" />
+        <mark key="^" line="164" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain/EventsCreateEditContentItem/EventsCreateEditContentItem.scss" timestamp="1548328201296">
         <mark key="[" line="4" column="0" />
@@ -478,10 +479,11 @@
         <mark key="^" line="71" column="28" />
         <mark key="." line="71" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/support/BootstrapStore.ts" timestamp="1550503362922">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/support/BootstrapStore.ts" timestamp="1550507008157">
+        <mark key="[" line="75" column="35" />
+        <mark key="]" line="75" column="56" />
+        <mark key="." line="75" column="56" />
+        <mark key="^" line="75" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/routes/urlRouter.ts" timestamp="1548762605375">
         <mark key="[" line="6" column="0" />
@@ -1084,7 +1086,10 @@
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/server/middlewares/initialStateBuilderMiddleware.ts" timestamp="1550501628007" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/server/middlewares/initialStateBuilderMiddleware.ts" timestamp="1550506894273">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="41" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/.gitignore" timestamp="1550077798395">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -1328,44 +1333,44 @@
       <jump line="21" column="2" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/client/index.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Zml4OiBhbmFseXRpY3MgaW5pdAo=</text>
+      <register name="&quot;" type="4">
+        <text>getMeta</text>
       </register>
       <register name="-" type="4">
-        <text>props</text>
+        <text>getMeta</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmFseXRpY3NSZXBvcnRlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHByb21vID0gZ2V0UXVlcnlQYXJhbWV0ZXJWYWx1ZSgKICAgICAgUVVFUllfUEFSQU0uUFJPTU8sCiAgICAgIHRoaXMucHJvcHMucm91dGluZ1N0b3JlIS5oaXN0b3J5LmxvY2F0aW9uLnNlYXJjaCwKICAgICk7CgogICAgaWYgKHByb21vKSB7CiAgICAgIGF3YWl0IHRoaXMucHJvcHMuc3Vic2NyaXB0aW9uc1N0b3JlIS5sb2FkQ291cG9uKHByb21vKTsKICAgICAgY29uc29sZS5sb2codGhpcy5wcm9wcy5zdWJzY3JpcHRpb25zU3RvcmUhLmNvdXBvblZhbHVlKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRoaXMucm9vdFN0b3JlLm1ldGFTdG9yZS5nZXRNZXRhKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiBhbmFseXRpY3MgaW5pdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGluaXRpYWxTdGF0ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5yb290U3RvcmUuc3Vic2NyaXB0aW9uc1N0b3JlIS5jb3Vwb25WYWx1ZSk7Cg==</text>
+        <text encoding="base64">Zml4OiBhbmFseXRpY3MgaW5pdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb21vKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvdXBvbiA9CiAgICAgIGNvbnNvbGUubG9nKHRoaXMucGxhbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5yb290U3RvcmUuc3Vic2NyaXB0aW9uc1N0b3JlIS5jb3Vwb25WYWx1ZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5wbGFucyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb21vKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZmVhdDogY2hhbmdlIGJvb3RzdHJhcCB2aWV3Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvdXBvbiA9CiAgICAgIGNvbnNvbGUubG9nKHRoaXMucGxhbnMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVW5hdXRob3JpemVkUmVxdWVzdEVycm9yIH0gZnJvbSAnLi4vLi4vZXJyb3JzL2h0dHAvVW5hdXRob3JpemVkUmVxdWVzdEVycm9yJzsKaW1wb3J0IHsgVW5leHBlY3RlZFJlc3BvbnNlRXJyb3IgfSBmcm9tICcuLi8uLi9lcnJvcnMvaHR0cC9VbmV4cGVjdGVkUmVzcG9uc2VFcnJvcic7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5wbGFucyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ09PS0lFUyB9IGZyb20gJy4uL2NvbnN0YW50cy9jb29raWVzJzsKaW1wb3J0IHsgQU5BTFlUSUNTX0VWRU5UIH0gZnJvbSAnLi4vcmVwb3J0ZXJzL2FuYWx5dGljcy9hbmFseXRpY3NFdmVudHMnOwppbXBvcnQgewogIEFOQUxZVElDU19SRVBPUlRFUlMsCiAgYW5hbHl0aWNzUmVwb3J0ZXIsCn0gZnJvbSAnLi4vcmVwb3J0ZXJzL2FuYWx5dGljcy9BbmFseXRpY3NSZXBvcnRlcic7CmltcG9ydCB7IGNvb2tpZXNTZXJ2aWNlIH0gZnJvbSAnLi4vc2VydmljZXMvQ29va2llc1NlcnZpY2UnOwo=</text>
+        <text encoding="base64">ZmVhdDogY2hhbmdlIGJvb3RzdHJhcCB2aWV3Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
