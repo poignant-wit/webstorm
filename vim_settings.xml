@@ -509,7 +509,7 @@
         <mark key="^" line="8" column="49" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550239936825">
+      <file name="/Dummy.txt" timestamp="1550491920346">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="21" />
@@ -733,6 +733,12 @@
         <mark key="]" line="48" column="39" />
         <mark key="^" line="48" column="39" />
         <mark key="." line="48" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/index.js" timestamp="1550491735192">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="28" />
+        <mark key="^" line="12" column="28" />
+        <mark key="." line="12" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/header/components/HeaderButton/HeaderButton.scss" timestamp="1548252704620">
         <mark key="[" line="19" column="11" />
@@ -1086,10 +1092,10 @@
         <mark key="^" line="15" column="40" />
         <mark key="." line="15" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/razzle.config.js" timestamp="1550486740464">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/razzle.config.js" timestamp="1550491875601">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateProcessingPanel/ShareToActivateProcessingPanel.scss" timestamp="1549983729995">
         <mark key="[" line="12" column="24" />
@@ -1275,8 +1281,8 @@
       <jump line="9" column="53" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/server/views/landing.ejs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>public</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Zml4OiAxMG1pbiBldmVudCBkZWxheQo=</text>
       </register>
       <register name="-" type="4">
         <text>public</text>
@@ -1288,31 +1294,31 @@
         <text encoding="base64">ICAgIDwlIGlmIChpc1Byb2QpIHsgJT4KICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9PCU9IGNzcyAlPj4KICAgIDwlIH0gJT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaXNQcm9kIH0gZnJvbSAnLi4vdXRpbHMvaXNQcm9kJzsKaW1wb3J0IHsgcmVhZEpzb25Gcm9tRmlsZSB9IGZyb20gJy4uL3V0aWxzL3JlYWRKc29uRnJvbUZpbGUnOwo=</text>
+        <text encoding="base64">Zml4OiAxMG1pbiBldmVudCBkZWxheQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgcGF0aCBmcm9tICdwYXRoJzsKaW1wb3J0IHsgY29uZmlnIH0gZnJvbSAnLi4vY29uZmlnJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gQHRzLWlnbm9yZQpjb25zdCBpbml0aWFsU3RhdGUgPSB3aW5kb3cgPyB3aW5kb3cuX19JTklUSUFMX1NUQVRFX18gOiB7fTsKLy8gQHRzLWlnbm9yZQovLyBkZWxldGUgd2luZG93Ll9fSU5JVElBTF9TVEFURV9fOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gbW9kaWZ5IGZpbGVuYW1pbmcgdG8gYWNjb3VudCBmb3IgbXVsdGlwbGUgZW50cnkgZmlsZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAoKSA9PiByZW1vdmVTZXJ2ZXJTaWRlSW5qZWN0ZWRDU1MoKSwK</text>
+        <text encoding="base64">aW1wb3J0IHsgaXNQcm9kIH0gZnJvbSAnLi4vdXRpbHMvaXNQcm9kJzsKaW1wb3J0IHsgcmVhZEpzb25Gcm9tRmlsZSB9IGZyb20gJy4uL3V0aWxzL3JlYWRKc29uRnJvbUZpbGUnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gcmVtb3ZlU2VydmVyU2lkZUluamVjdGVkQ1NTKCkgewogIGNvbnN0IGpzc1N0eWxlcyA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdqc3Mtc2VydmVyLXNpZGUnKTsKICBpZiAoanNzU3R5bGVzICYmIGpzc1N0eWxlcy5wYXJlbnROb2RlKSB7CiAgICBqc3NTdHlsZXMucGFyZW50Tm9kZS5yZW1vdmVDaGlsZChqc3NTdHlsZXMpOwogIH0KfQo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgcGF0aCBmcm9tICdwYXRoJzsKaW1wb3J0IHsgY29uZmlnIH0gZnJvbSAnLi4vY29uZmlnJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBjcmVhdGVHZW5lcmF0ZUNsYXNzTmFtZSwKICBNdWlUaGVtZVByb3ZpZGVyLAp9IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL3N0eWxlcyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUHJvdmlkZXIsIHVzZVN0YXRpY1JlbmRlcmluZyB9IGZyb20gJ21vYngtcmVhY3QnOwo=</text>
+        <text encoding="base64">Ly8gQHRzLWlnbm9yZQpjb25zdCBpbml0aWFsU3RhdGUgPSB3aW5kb3cgPyB3aW5kb3cuX19JTklUSUFMX1NUQVRFX18gOiB7fTsKLy8gQHRzLWlnbm9yZQovLyBkZWxldGUgd2luZG93Ll9fSU5JVElBTF9TVEFURV9fOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcmVuZGVyVG9TdHJpbmcgfSBmcm9tICdyZWFjdC1kb20vc2VydmVyJzsK</text>
+        <text encoding="base64">ICAoKSA9PiByZW1vdmVTZXJ2ZXJTaWRlSW5qZWN0ZWRDU1MoKSwK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
