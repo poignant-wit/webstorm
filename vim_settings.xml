@@ -135,13 +135,6 @@
         <mark key="." line="15" column="26" />
         <mark key="^" line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/server/views/landing.ejs" timestamp="1550496475875">
-        <mark key="'" line="9" column="53" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="9" column="68" />
-      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/reporters/analytics/AnalyticsReporter.tsx" timestamp="1548938983879">
         <mark key="[" line="55" column="38" />
         <mark key="]" line="55" column="45" />
@@ -421,6 +414,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="14" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/EventsListPlaceholderContainer.tsx" timestamp="1550559526841" />
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/server/index.ts" timestamp="1550490532768">
         <mark key="[" line="28" column="37" />
         <mark key="]" line="28" column="41" />
@@ -503,6 +497,12 @@
         <mark key="]" line="3" column="19" />
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsActiveListPlaceholder/EventsActiveListPlaceholder.tsx" timestamp="1550560077522">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="50" />
+        <mark key="^" line="15" column="50" />
+        <mark key="." line="15" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/Video.ts" timestamp="1549955154618">
         <mark key="[" line="3" column="0" />
@@ -687,6 +687,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsActiveListPlaceholder/EventsActiveListPlaceholder.scss" timestamp="1550560065590">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/base/createProxy.ts" timestamp="1548089407329">
         <mark key="[" line="60" column="26" />
         <mark key="]" line="60" column="42" />
@@ -735,6 +741,12 @@
         <mark key="^" line="31" column="36" />
         <mark key="." line="31" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsListPlaceholder/EventsListPlaceholder.tsx" timestamp="1550560635578">
+        <mark key="[" line="20" column="41" />
+        <mark key="]" line="20" column="44" />
+        <mark key="^" line="20" column="44" />
+        <mark key="." line="20" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/mobx-intro/src/TodosStore.js" timestamp="1547742667808">
         <mark key="[" line="29" column="24" />
         <mark key="]" line="29" column="36" />
@@ -770,11 +782,10 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsList/EventsList.tsx" timestamp="1550140971868">
-        <mark key="[" line="46" column="46" />
-        <mark key="]" line="47" column="50" />
-        <mark key="." line="47" column="50" />
-        <mark key="^" line="47" column="50" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsList/EventsList.tsx" timestamp="1550560492090">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListSlot/EventsListSlot.scss" timestamp="1549527141162">
         <mark key="[" line="10" column="24" />
@@ -959,13 +970,6 @@
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/support/OneSignalStore.ts" timestamp="1550500925129">
-        <mark key="'" line="72" column="8" />
-        <mark key="[" line="84" column="37" />
-        <mark key="]" line="84" column="48" />
-        <mark key="^" line="84" column="48" />
-        <mark key="." line="84" column="48" />
-      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/razzle.config.js" timestamp="1549956643610">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="16" />
@@ -977,6 +981,12 @@
         <mark key="]" line="196" column="18" />
         <mark key="." line="196" column="18" />
         <mark key="^" line="196" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsListPlaceholderIcon/index.ts" timestamp="1550560219615">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/routes.ts" timestamp="1549958000995">
         <mark key="[" line="29" column="0" />
@@ -1106,6 +1116,12 @@
         <mark key="]" line="143" column="22" />
         <mark key="." line="143" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/EventsListPlaceholderContainer.ts" timestamp="1550559460766">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/landing/landing.ts" timestamp="1550486713897">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1135,11 +1151,22 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsListPlaceholderIcon/EventsListPlaceholderIcon.tsx" timestamp="1550560649349">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="21" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="12" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/header/components/Header.scss" timestamp="1548343404237">
         <mark key="[" line="17" column="16" />
         <mark key="]" line="17" column="16" />
         <mark key="." line="17" column="16" />
         <mark key="^" line="17" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsListPlaceholder/EventsListPlaceholder.scss" timestamp="1550560148116">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/controllers/hooks.controller.ts" timestamp="1548665016912">
         <mark key="[" line="69" column="0" />
@@ -1316,10 +1343,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>props</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>props</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmFseXRpY3NSZXBvcnRlclw+</text>
@@ -1328,31 +1355,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc2FibGVkPXt3ZWJob29rLnN0YXRlLmlzTG9hZGluZyB8fCB3ZWJob29rLnVybC5sZW5ndGggPT09IDB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiBzZXJ2ZXIgYXBpIHJlcXVlc3RzIGtleXMK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zml4OiBkaXNhYmxlIGluaXRpYWxTdGF0ZU1pZGRsZXdhcmUK</text>
+        <text encoding="base64">aW1wb3J0IHsgRXZlbnRzTGlzdFBsYWNlaG9sZGVyQ29udGFpbmVyIH0gZnJvbSAnLi4vLi4vRXZlbnRzTGlzdFBsYWNlaG9sZGVyQ29udGFpbmVyJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZW5kJyk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgRXZlbnRzTGlzdFBsYWNlaG9sZGVySWNvbjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zml4OiBzc3IgYXBpIHJlcXVlc3RzCg==</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsKCkV2ZW50c0xpc3RQbGFjZWhvbGRlckljb24ucHJvcFR5cGVzID0gewogIAp9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBEQVRBLAogIGluaXRpYWxTdGF0ZUJ1aWxkZXJNaWRkbGV3YXJlLAp9IGZyb20gJy4vbWlkZGxld2FyZXMvaW5pdGlhbFN0YXRlQnVpbGRlck1pZGRsZXdhcmUnOwo=</text>
+        <text encoding="base64">ICAmLS1zZWNvbmRhcnktZGVzY3sKICAgIG1hcmdpbjogNnB4CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbml0aWFsU3RhdGVCdWlsZGVyTWlkZGxld2FyZShEQVRBLlBBWU1FTlRfUFJPTU8pLAo=</text>
+        <text encoding="base64">ICAgICAgICBQbGFjZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXV0aGVudGljYXRlZFJvdXRlci51c2UoaW5pdGlhbFN0YXRlQnVpbGRlck1pZGRsZXdhcmUoREFUQS5NQU5EQVRPUllfREFUQSkpOwo=</text>
+        <text encoding="base64">ICB2bSwKfTogSUV2ZW50c0FjdGl2ZUxpc3RQbGFjZWhvbGRlclByb3BzKSB7CiAgcmV0dXJuIDxkaXY+UGxhY2U8L2Rpdj47Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zml4OiBpbml0IGxvYWQgb3JkZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25DbGlja05ld0V2ZW50PXsoKSA9PiB0aGlzLnZtLm5ld0V2ZW50KCl9CiAgICAgICAgICAgIHNob3dIaXN0b3J5TGluaz17dGhpcy52bS5pc05vbkVtcHR5SGlzdG9yeX0KICAgICAgICAgICAgb25DbGlja0V2ZW50c0FyY2hpdmVMaW5rPXsoKSA9PiB0aGlzLnZtLmdvVG9IaXN0b3J5KCl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByb290CiAgOwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgcmVuZGVyKCkgewogICAgY29uc3Qge30gPSB0aGlzLnByb3BzOwogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
