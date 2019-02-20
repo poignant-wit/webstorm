@@ -579,10 +579,10 @@
         <mark key="^" line="8" column="49" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550678264833">
+      <file name="/Dummy.txt" timestamp="1550678586470">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="24" />
+        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateChoicePanel/ShareToActivateChoicePanel.tsx" timestamp="1549983682086">
@@ -1483,7 +1483,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZQo=</text>
+        <text encoding="base64">Zml4OiBoaXN0b3J5IGV2ZW50IGR1cmF0aW9uCg==</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
@@ -1495,31 +1495,31 @@
         <text encoding="base64">ICAgIGlmKHBsYW5WYWx1ZVthXSA+IHBsYW5WYWx1ZVtiXSl7CiAgICAgIHJldHVybiAtMQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZQo=</text>
+        <text encoding="base64">Zml4OiBoaXN0b3J5IGV2ZW50IGR1cmF0aW9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIAo=</text>
+        <text encoding="base64">ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdldmVudHMgY291bnQnLCB2bS5wbGFuQnlFdmVudHNDb3VudCk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdldmVudHMgZHVyYXRpb24nLCB2bS5wbGFuQnlFdmVudER1cmF0aW9uKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdldmVudHMgY291bnQnLCB2bS5wbGFuQnlFdmVudHNDb3VudCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY29udGVudENvdW50KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdldmVudHMgZHVyYXRpb24nLCB2bS5wbGFuQnlFdmVudER1cmF0aW9uKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBsYW5Qcm9wLCB2YWx1ZSwgdGhpcy5nZXRQbGFuKFBMQU5fVFlQRS5TTUFMTClbcGxhblByb3BdKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY29udGVudENvdW50KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdjb250ZW50IHNpemUnLCB2bS5wbGFuQnlDb250ZW50RmlsZVNpemUpOwogICAgY29uc29sZS5sb2coJ2NvbnRlbnQgY291bnQnLCB2bS5wbGFuQnlDb250ZW50Q291bnQsIHZtLm1heENvbnRlbnRDb3VudCk7CiAgICAvLyBjb25zb2xlLmxvZygnZXZlbnRzIGNvdW50Jywgdm0ucGxhbkJ5RXZlbnRzQ291bnQpOwogICAgLy8gY29uc29sZS5sb2coJ2V2ZW50cyBkdXJhdGlvbicsIHZtLnBsYW5CeUV2ZW50RHVyYXRpb24pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBsYW5Qcm9wLCB2YWx1ZSwgdGhpcy5nZXRQbGFuKFBMQU5fVFlQRS5TTUFMTClbcGxhblByb3BdKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBtYXg9e3ZtLm1heENvbnRlbnRDb3VudH0K</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdjb250ZW50IHNpemUnLCB2bS5wbGFuQnlDb250ZW50RmlsZVNpemUpOwogICAgY29uc29sZS5sb2coJ2NvbnRlbnQgY291bnQnLCB2bS5wbGFuQnlDb250ZW50Q291bnQsIHZtLm1heENvbnRlbnRDb3VudCk7CiAgICAvLyBjb25zb2xlLmxvZygnZXZlbnRzIGNvdW50Jywgdm0ucGxhbkJ5RXZlbnRzQ291bnQpOwogICAgLy8gY29uc29sZS5sb2coJ2V2ZW50cyBkdXJhdGlvbicsIHZtLnBsYW5CeUV2ZW50RHVyYXRpb24pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnN1YnNjcmlwdGlvbnNTdG9yZS5nZXRQbGFuQnlUeXBlRm9ySW50ZXJ2YWwoCiAgICAgIFBMQU5fVFlQRS5MQVJHRSwKICAgICAgUExBTl9JTlRFUlZBTC5NT05USExZLAogICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBtYXg9e3ZtLm1heENvbnRlbnRDb3VudH0K</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
