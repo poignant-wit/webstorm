@@ -63,11 +63,11 @@
         <mark key="." line="22" column="81" />
         <mark key="^" line="22" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" timestamp="1551105241417">
-        <mark key="'" line="25" column="23" />
-        <mark key="[" line="43" column="52" />
-        <mark key="]" line="44" column="3" />
-        <mark key="." line="44" column="3" />
+      <file name="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" timestamp="1551107821226">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="248" column="0" />
+        <mark key="]" line="248" column="0" />
+        <mark key="." line="248" column="0" />
         <mark key="^" line="44" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/_own/mobx-intro/src/reactive.js" timestamp="1547741826746">
@@ -579,7 +579,7 @@
         <mark key="^" line="8" column="49" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551105286589">
+      <file name="/Dummy.txt" timestamp="1551108432431">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="38" />
@@ -923,11 +923,10 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-web/api/server/views/v2/partials/amplitude.ejs" timestamp="1551106516666">
-        <mark key="[" line="27" column="42" />
-        <mark key="]" line="29" column="32" />
-        <mark key="." line="29" column="32" />
-        <mark key="^" line="29" column="32" />
+      <file name="$USER_HOME$/Documents/restream-web/api/server/views/v2/partials/amplitude.ejs" timestamp="1551107648345">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/onboarding/components/Onboarding.tsx" timestamp="1548931166876">
         <mark key="[" line="288" column="48" />
@@ -1332,7 +1331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="491" column="10" filename="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/EventModel.ts" />
       <jump line="96" column="8" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItem/EventsListItem.scss" />
       <jump line="195" column="8" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItem/EventsListItem.scss" />
       <jump line="88" column="8" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListItem/EventsListItem.scss" />
@@ -1432,55 +1430,56 @@
       <jump line="265" column="35" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
       <jump line="364" column="16" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
       <jump line="25" column="23" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QU1QTElUVURFX0FQSV9LRVk9ImFtcGxpdHVkZUtleSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdEQVRBJywgZGF0YSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>'testKey'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGllbnRJZFw+</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QU1QTElUVURFX0FQSV9LRVk9ImFtcGxpdHVkZUtleSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KICAgICAgICB2YXIgYW1wbGl0dWRlQXBpS2V5ID0gJzwlPSBhbXBsaXR1ZGVBcGlLZXkgJT4nOwogICAgPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdEQVRBJywgZGF0YSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KICAgICAgICB2YXIgYW1wbGl0dWRlQXBpS2V5ID0gJzwlPSBhbXBsaXR1ZGVBcGlLZXkgJT4nOwogICAgPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFtcGxpdHVkZUFwaUtleSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW1wbGl0dWRlQXBpS2V5OiAndGVzdEtleScsCg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KICAgICAgICB2YXIgYW1wbGl0dWRlQXBpS2V5ID0gJzwlPSBhbXBsaXR1ZGVBcGlLZXkgJT4nOwogICAgPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIGxhdGl0dWRlIGFuZCBsb25naXR1ZGUgdG8gaW5nZXN0cwo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KICAgICAgICB2YXIgYW1wbGl0dWRlQXBpS2V5ID0gJzwlPSBhbXBsaXR1ZGVBcGlLZXkgJT4nOwogICAgPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFtcGxpdHVkZUFwaUtleSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBzZWFyY2hQYXJhbXMgPSBuZXcgVVJMU2VhcmNoUGFyYW1zKHdpbmRvdy5sb2NhdGlvbi5zZWFyY2gpOwogICAgdmFyIGNsaWVudElkID0gc2VhcmNoUGFyYW1zLmdldCgnY2xpZW50X2lkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW1wbGl0dWRlQXBpS2V5OiAndGVzdEtleScsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnTE9HIEVWRU5UJywgZXZlbnQsIHBhcmFtcyk7Cg==</text>
+        <text encoding="base64">ZmVhdDogYWRkIGxhdGl0dWRlIGFuZCBsb25naXR1ZGUgdG8gaW5nZXN0cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnTE9HIEVWRU5UIEFVVEhPUklaRScsIGV2ZW50LCBwYXJhbXMpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGllbnRJZFw+</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGllbnRJZFw+</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcm9jZXNzRHJvcGJveFVybFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1494,7 +1493,6 @@
         <entry encoding="base64">XDxDb25maXJtYXRpb25BbGVydFw+</entry>
         <entry encoding="base64">XDxmaWxlX25hbWVcPg==</entry>
         <entry encoding="base64">XDxkaXNhYmxlRW5hYmxlTG9vcGluZ1w+</entry>
-        <entry>console</entry>
         <entry encoding="base64">XDxpbmdlc3RzU3RvcmVcPg==</entry>
         <entry encoding="base64">XDxiYXNpY0F1dGhcPg==</entry>
         <entry>disab</entry>
@@ -1508,6 +1506,7 @@
         <entry encoding="base64">XDxvcHRzXD4=</entry>
         <entry>clientId</entry>
         <entry encoding="base64">XDxjbGllbnRJZFw+</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>action FileChooser.NewFolder</entry>
