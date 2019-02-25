@@ -57,10 +57,11 @@
         <mark key="." line="22" column="81" />
         <mark key="^" line="22" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" timestamp="1551093493238">
-        <mark key="[" line="333" column="0" />
-        <mark key="]" line="333" column="0" />
-        <mark key="." line="333" column="0" />
+      <file name="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" timestamp="1551095661978">
+        <mark key="[" line="318" column="12" />
+        <mark key="]" line="318" column="12" />
+        <mark key="." line="318" column="12" />
+        <mark key="^" line="56" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/_own/mobx-intro/src/reactive.js" timestamp="1547741826746">
         <mark key="[" line="65" column="0" />
@@ -163,6 +164,9 @@
         <mark key="]" line="15" column="26" />
         <mark key="." line="15" column="26" />
         <mark key="^" line="15" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/server/views/landing.ejs" timestamp="1551095254272">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/reporters/analytics/AnalyticsReporter.tsx" timestamp="1548938983879">
         <mark key="[" line="55" column="38" />
@@ -995,6 +999,12 @@
         <mark key="^" line="132" column="94" />
         <mark key="." line="110" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-web/api/server/views/v2/authForm.ejs" timestamp="1551095461548">
+        <mark key="[" line="55" column="46" />
+        <mark key="]" line="56" column="7" />
+        <mark key="^" line="56" column="7" />
+        <mark key="." line="56" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/share/ShareToActivateDialogViewModel.ts" timestamp="1550063349864">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -1341,7 +1351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="0" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" />
       <jump line="219" column="0" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" />
       <jump line="226" column="0" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" />
       <jump line="243" column="0" filename="$USER_HOME$/Documents/_own/with-typescript/src/views/events/containers/EventsContainer.tsx" />
@@ -1441,16 +1450,17 @@
       <jump line="20" column="0" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
       <jump line="339" column="13" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
       <jump line="37" column="36" filename="$USER_HOME$/Documents/restream-web/api/server/public/v2/js/authForm.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/server/views/landing.ejs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>this.validVideos.length - 1</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>disabl</text>
+        <text>ampli</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIDxEaWFsb2cKICAgICAgICAgICAgaXNPcGVuPXt0cnVlfQogICAgICAgICAgICBjYW5Fc2NhcGVLZXlDbG9zZT17dHJ1ZX0KICAgICAgICAgICAgY2FuT3V0c2lkZUNsaWNrQ2xvc2U9e3RydWV9CiAgICAgICAgICA+Cg==</text>
@@ -1487,9 +1497,9 @@
       </register>
     </registers>
     <search>
-      <last-search>disabl</last-search>
+      <last-search>ampli</last-search>
       <last-offset />
-      <last-pattern>disabl</last-pattern>
+      <last-pattern>ampli</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcm9jZXNzRHJvcGJveFVybFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1497,7 +1507,6 @@
     </search>
     <history>
       <history-search>
-        <entry>favicon</entry>
         <entry>import</entry>
         <entry>this.one</entry>
         <entry encoding="base64">XDxhbmFseXRpY3NSZXBvcnRlclw+</entry>
@@ -1517,6 +1526,7 @@
         <entry>disab</entry>
         <entry encoding="base64">XDxvbkNoYW5nZUlucHV0VmFsdWVIYW5kbGVyXD4=</entry>
         <entry>disabl</entry>
+        <entry>ampli</entry>
       </history-search>
       <history-cmd>
         <entry>action FileChooser.NewFolder</entry>
