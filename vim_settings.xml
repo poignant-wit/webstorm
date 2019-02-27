@@ -580,11 +580,11 @@
         <mark key="^" line="8" column="49" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551251486049">
-        <mark key="[" line="0" column="58" />
-        <mark key="]" line="0" column="58" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="58" />
+      <file name="/Dummy.txt" timestamp="1551262990858">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateChoicePanel/ShareToActivateChoicePanel.tsx" timestamp="1549983682086">
         <mark key="[" line="31" column="36" />
@@ -1421,8 +1421,8 @@
       <jump line="3" column="3" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/resumable-node.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>`</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmVhdDogYWRkIGR1cmF0aW9uU2VjIHRvIHNvY2tldCBtc2cK</text>
       </register>
       <register name="-" type="4">
         <text>`</text>
@@ -1434,31 +1434,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICBwb3BvdmVyQ2xhc3NOYW1lOiAnc2Mtc2VsZWN0LWZpbGwnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA0MDBweDsK</text>
+        <text encoding="base64">ZmVhdDogYWRkIGR1cmF0aW9uU2VjIHRvIHNvY2tldCBtc2cK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG92ZXJmbG93LXg6IDsK</text>
+        <text encoding="base64">ICAgIHdpZHRoOiA0MDBweDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0Q2xhc3NOYW1lOiAnc2Mtc2VsZWN0LWZpbGwnLAo=</text>
+        <text encoding="base64">ICAgIG92ZXJmbG93LXg6IDsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0Q2xhc3NOYW1lOiAnc2Mtc2VsZWN0LWZpbGwnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0Q2xhc3NOYW1lOiAnc2Mtc2VsZWN0LWZpbGwnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC9SZWFjdC5GcmFnbWVudD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
