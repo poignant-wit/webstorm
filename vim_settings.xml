@@ -617,6 +617,12 @@
         <mark key="." line="31" column="36" />
         <mark key="^" line="31" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/payment/PaymentContainer.tsx" timestamp="1551345832164">
+        <mark key="[" line="107" column="5" />
+        <mark key="]" line="109" column="55" />
+        <mark key="." line="109" column="55" />
+        <mark key="^" line="109" column="55" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/dialogs/DialogView.tsx" timestamp="1549883761490">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -1294,11 +1300,11 @@
         <mark key="^" line="422" column="50" />
         <mark key="." line="397" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/SubscriptionsStore.ts" timestamp="1551344336605">
-        <mark key="[" line="65" column="24" />
-        <mark key="]" line="65" column="23" />
-        <mark key="." line="65" column="23" />
-        <mark key="^" line="65" column="23" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/SubscriptionsStore.ts" timestamp="1551345577059">
+        <mark key="[" line="108" column="19" />
+        <mark key="]" line="108" column="23" />
+        <mark key="." line="108" column="23" />
+        <mark key="^" line="108" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/header/components/Header.scss" timestamp="1548343404237">
         <mark key="[" line="17" column="16" />
@@ -1477,43 +1483,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBpZDogc3RyaW5nOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Ru</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNhbGVzVGV4dDogewogICAgICBtYXJnaW5Ub3A6IDE1LAogICAgICBjb2xvcjogJyM2MDdjOGYnLAogICAgfSwK</text>
+        <text encoding="base64">ICBAY29tcHV0ZWQKICBwdWJsaWMgZ2V0IGNvdXBvbk5hbWUoKSB7CiAgICByZXR1cm4gdGhpcy5jb3Vwb24gPyB0aGlzLmNvdXBvbi5pZCA6ICcnOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpZDogc3RyaW5nOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBuZXZlckV4cGlyZXM6IGJvb2xlYW4sCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdGFydCcpOwo=</text>
+        <text encoding="base64">ICBpZDogc3RyaW5nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJyb3dzZXIuZ2V0QnJvd3NlcigpKTsK</text>
+        <text encoding="base64">ICBuZXZlckV4cGlyZXM6IGJvb2xlYW4sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdib290c3RyYXAnKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdGFydCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvd3Nlci5wYXJzZSgpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJyb3dzZXIuZ2V0QnJvd3NlcigpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdib290c3RyYXAnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGhhbmRsZU9uQ2xpY2tQYXN0ZSA9IGFzeW5jICgpID0+IHsKICAgIC8vIEB0cy1pZ25vcmUKICAgIGlmIChuYXZpZ2F0b3IuY2xpcGJvYXJkKSB7CiAgICAgIC8vIEB0cy1pZ25vcmUKICAgICAgY29uc3QgdGV4dCA9IGF3YWl0IG5hdmlnYXRvci5jbGlwYm9hcmQucmVhZFRleHQoKTsKICAgICAgdGhpcy52bS5zZXRVcmwodGV4dCk7CiAgICB9CiAgfTsK</text>
+        <text encoding="base64">ICAgIGJvd3Nlci5wYXJzZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Zvcm0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
