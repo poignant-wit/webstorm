@@ -1050,6 +1050,12 @@
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/request/ApiClientBuilder.ts" timestamp="1551765607363">
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="15" />
+        <mark key="^" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/components/EventCreateEditDialog.tsx" timestamp="1551445208439">
         <mark key="[" line="24" column="18" />
         <mark key="]" line="24" column="18" />
@@ -1574,11 +1580,11 @@
       <jump line="270" column="2" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogc2NoZWQtMzY1IGFwcC9wdXJjaGFzZSBjb25maXJtYXRpb24gYWxlcnQK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>chrome</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>tz</text>
@@ -1587,31 +1593,31 @@
         <text encoding="base64">ICAgICAgICBjaHJvbWU6ICc+PTcwJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogc2NoZWQtMzY1IGFwcC9wdXJjaGFzZSBjb25maXJtYXRpb24gYWxlcnQK</text>
+        <text encoding="base64">ICBwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJyb3dzZXIuZ2V0QnJvd3NlcigpKTsK</text>
+        <text encoding="base64">ZmVhdDogc2NoZWQtMzY1IGFwcC9wdXJjaGFzZSBjb25maXJtYXRpb24gYWxlcnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjaHJvbWl1bTogCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJyb3dzZXIuZ2V0QnJvd3NlcigpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9uQ2xpY2s9eygpID0+IHZtLnN1YnNjcmliZSgpfQo=</text>
+        <text encoding="base64">ICAgICAgICBjaHJvbWl1bTogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvc3Ryb25nPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9uQ2xpY2s9eygpID0+IHZtLnN1YnNjcmliZSgpfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9zdHJvbmc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvc3Ryb25nPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9zdHJvbmc+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgID8gJ3VwZ3JhZGUnCiAgICAgICAgICA6ICdkb3duZ3JhZGUnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
