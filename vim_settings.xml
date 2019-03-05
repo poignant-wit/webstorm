@@ -181,8 +181,11 @@
         <mark key="^" line="0" column="46" />
         <mark key="." line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/components/EventsCreateEditMain/EventsCreateEditMain.tsx" timestamp="1551456254449">
-        <mark key="^" line="158" column="38" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/components/EventsCreateEditMain/EventsCreateEditMain.tsx" timestamp="1551769621563">
+        <mark key="[" line="167" column="45" />
+        <mark key="]" line="168" column="37" />
+        <mark key="^" line="168" column="37" />
+        <mark key="." line="168" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/ui/DialogViewStore.ts" timestamp="1549967556379">
         <mark key="[" line="15" column="26" />
@@ -220,10 +223,11 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/utils/time.ts" timestamp="1551451097101">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/utils/time.ts" timestamp="1551770944003">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/offers/constructor/OffersConstructorContainer.tsx" timestamp="1550657105897">
         <mark key="[" line="4" column="30" />
@@ -710,6 +714,7 @@
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/dialogs/DialogsContainer.tsx" timestamp="1551706254851">
         <mark key="^" line="7" column="27" />
       </file>
+      <file name="/EventsDialogViewModel.ts" timestamp="1551770697673" />
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/share/ShareToActivateDialogContainer.tsx" timestamp="1550053176210">
         <mark key="[" line="31" column="51" />
         <mark key="]" line="31" column="76" />
@@ -1424,11 +1429,11 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="87" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" timestamp="1551700553291">
-        <mark key="[" line="335" column="6" />
-        <mark key="]" line="335" column="6" />
-        <mark key="^" line="2" column="12" />
-        <mark key="." line="335" column="6" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" timestamp="1551770705492">
+        <mark key="[" line="326" column="28" />
+        <mark key="]" line="329" column="4" />
+        <mark key="." line="329" column="4" />
+        <mark key="^" line="329" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/videos.controller.ts" timestamp="1551354798775">
         <mark key="[" line="391" column="0" />
@@ -1576,44 +1581,44 @@
       <jump line="270" column="2" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC5hZGQoNSwgJ3NlY29uZHMnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>tz</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjaHJvbWU6ICc+PTcwJywK</text>
+        <text encoding="base64">ICAgIHRoaXMuZXZlbnQuc2V0KHsgc3RhcnRFdmVudEF0OiBkYXRlVGltZS51bml4KCkgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gdGhpcy5yb290U3RvcmUuYXV0aFN0b3JlLnNpZ25PdXQoKTsK</text>
+        <text encoding="base64">ICAgIC5hZGQoNSwgJ3NlY29uZHMnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgIC5zZWNvbmRzKDApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RydWUnKTsKICAgICAgY29uc29sZS5sb2codGhpcy5hcGlDbGllbnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRoaXMuZXZlbnQuc2V0KHsgc3RhcnRFdmVudEF0OiBkYXRlVGltZS51bml4KCkgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RydWUnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwCg==</text>
+        <text encoding="base64">ICAgICAgbW9tZW50KCkKICAgICAgICAuYWRkKDEwLCAnbWludXRlcycpCiAgICAgICAgLnVuaXgoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZmVhdDogc2NoZWQtMzY1IGFwcC9wdXJjaGFzZSBjb25maXJtYXRpb24gYWxlcnQK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGVUaW1lLnVuaXgoKSwgKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJyb3dzZXIuZ2V0QnJvd3NlcigpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaHJvbWl1bTogCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJvdW5kZWQgPSBkYXRlVGltZS5zZWNvbmRzKDApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
