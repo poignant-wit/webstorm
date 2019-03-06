@@ -21,13 +21,6 @@
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/header/components/HeaderViewModel.ts" timestamp="1551794313056">
-        <mark key="'" line="70" column="38" />
-        <mark key="[" line="77" column="8" />
-        <mark key="]" line="77" column="8" />
-        <mark key="." line="77" column="8" />
-        <mark key="^" line="77" column="18" />
-      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/common/modals/ModalRoot.tsx" timestamp="1548094558810">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -208,11 +201,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="39" column="8" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/RootStore.ts" timestamp="1551774033748">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/AuthStore.ts" timestamp="1551795284909">
         <mark key="[" line="141" column="0" />
@@ -732,18 +720,12 @@
         <mark key="." line="33" column="24" />
         <mark key="^" line="33" column="24" />
       </file>
+      <file name="/EventsDialogViewModel.ts" timestamp="1551770697673" />
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/share/ShareToActivateDialogContainer.tsx" timestamp="1550053176210">
         <mark key="[" line="31" column="51" />
         <mark key="]" line="31" column="76" />
         <mark key="^" line="31" column="76" />
         <mark key="." line="31" column="76" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/domain/VideosStore.ts" timestamp="1551773168508">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="28" />
-        <mark key="^" line="79" column="3" />
-        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/mobx-intro/src/reactiveV2.js" timestamp="1547741921467">
         <mark key="[" line="63" column="0" />
@@ -1333,11 +1315,11 @@
         <mark key="^" line="54" column="54" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/offers/containers/OffersContainer.tsx" timestamp="1551708210416">
-        <mark key="[" line="306" column="45" />
-        <mark key="]" line="306" column="45" />
-        <mark key="." line="306" column="45" />
-        <mark key="^" line="306" column="45" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/offers/containers/OffersContainer.tsx" timestamp="1551870963130">
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="37" column="30" />
+        <mark key="." line="37" column="30" />
+        <mark key="^" line="37" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsListItem/EventsListItem.tsx" timestamp="1550672582646">
         <mark key="[" line="171" column="49" />
@@ -1432,11 +1414,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="87" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" timestamp="1551867904012">
-        <mark key="[" line="271" column="0" />
-        <mark key="]" line="271" column="0" />
-        <mark key="." line="271" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" timestamp="1551867904012" />
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/EventsListViewModel.tsx" timestamp="1551457451110">
         <mark key="[" line="249" column="0" />
         <mark key="]" line="255" column="7" />
@@ -1593,17 +1571,17 @@
       <jump line="62" column="79" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/server/views/landing.ejs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogYXV0aCBkaWFsb2cK</text>
+      <register name="&quot;" type="4">
+        <text>OnboardingStore</text>
       </register>
       <register name="-" type="4">
-        <text>signIn</text>
+        <text>OnboardingStore</text>
       </register>
       <register name="/" type="4">
         <text>try</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHJlc3RyZWFtTG9nbyBmcm9tICcuL2ltZy9yZXN0cmVhbS5zdmcnOwo=</text>
+        <text encoding="base64">ICBvbmJvYXJkaW5nU3RvcmU/OiBPbmJvYXJkaW5nU3RvcmU7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZmVhdDogYXV0aCBkaWFsb2cK</text>
