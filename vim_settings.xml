@@ -626,8 +626,8 @@
         <mark key="^" line="8" column="49" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551968427328">
-        <mark key="[" line="2" column="0" />
+      <file name="/Dummy.txt" timestamp="1551971104727">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="0" />
@@ -816,6 +816,13 @@
         <mark key="]" line="3" column="75" />
         <mark key="." line="3" column="75" />
         <mark key="^" line="3" column="75" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/subscription.js" timestamp="1551970670004">
+        <mark key="'" line="17" column="35" />
+        <mark key="[" line="31" column="20" />
+        <mark key="]" line="31" column="23" />
+        <mark key="." line="31" column="23" />
+        <mark key="^" line="31" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/base/createProxy.ts" timestamp="1548089407329">
         <mark key="[" line="60" column="26" />
@@ -1517,10 +1524,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="5" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/settings/containers/SettingsContainer.tsx" />
-      <jump line="54" column="21" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/settings/containers/SettingsContainer.tsx" />
-      <jump line="3" column="64" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" />
-      <jump line="340" column="29" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" />
       <jump line="1" column="20" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" />
       <jump line="80" column="11" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" />
       <jump line="119" column="29" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" />
@@ -1617,16 +1620,20 @@
       <jump line="113" column="41" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/server/views/landing.ejs" />
       <jump line="63" column="20" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/server/views/landing.ejs" />
       <jump line="62" column="79" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/server/views/landing.ejs" />
+      <jump line="10" column="56" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/subscription.js" />
+      <jump line="12" column="12" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/subscription.js" />
+      <jump line="15" column="49" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/subscription.js" />
+      <jump line="17" column="35" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/subscription.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">VGhpcyByZXZlcnRzIGNvbW1pdCAwMDJkM2NlOAo=</text>
+      <register name="&quot;" type="4">
+        <text>PATCH</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>PATCH</text>
       </register>
       <register name="/" type="4">
-        <text>try</text>
+        <text encoding="base64">XDxwYXltZW50TWV0aG9kXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCB7IEFQUF9DTElFTlRfSUQsIEFQUF9SRURJUkVDVF9VUkkgfSA9IGdldENvbmZpZygpCg==</text>
@@ -1663,9 +1670,9 @@
       </register>
     </registers>
     <search>
-      <last-search>try</last-search>
+      <last-search encoding="base64">XDxwYXltZW50TWV0aG9kXD4=</last-search>
       <last-offset />
-      <last-pattern>try</last-pattern>
+      <last-pattern encoding="base64">XDxwYXltZW50TWV0aG9kXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcm9jZXNzRHJvcGJveFVybFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1673,7 +1680,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dFdmVudFw+</entry>
         <entry encoding="base64">XDxhdXRob3JpemVGb3JtU3VibWl0SGFuZGxlclw+</entry>
         <entry encoding="base64">XDxvcHRzXD4=</entry>
         <entry>clientId</entry>
@@ -1693,6 +1699,7 @@
         <entry encoding="base64">XDxpc05vdExhcmdlUGxhblw+</entry>
         <entry>signin</entry>
         <entry>try</entry>
+        <entry encoding="base64">XDxwYXltZW50TWV0aG9kXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action FileChooser.NewFolder</entry>
