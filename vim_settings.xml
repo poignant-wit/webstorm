@@ -75,6 +75,12 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="46" column="80" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/analytics/StreamStatistics/index.ts" timestamp="1551977128687">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/errors/ErrorFactory.ts" timestamp="1549637998289">
         <mark key="[" line="35" column="9" />
         <mark key="]" line="35" column="12" />
@@ -386,6 +392,12 @@
         <mark key="]" line="2" column="56" />
         <mark key="^" line="2" column="56" />
         <mark key="." line="2" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/analytics/StreamStatistics/StreamStatistics.tsx" timestamp="1551977041354">
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="34" column="19" />
+        <mark key="^" line="34" column="19" />
+        <mark key="." line="34" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/index.ts" timestamp="1551177749013">
         <mark key="[" line="6" column="0" />
@@ -822,6 +834,12 @@
         <mark key="]" line="3" column="75" />
         <mark key="." line="3" column="75" />
         <mark key="^" line="3" column="75" />
+      </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/analytics/index.ts" timestamp="1551977088641">
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+        <mark key="^" line="0" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/subscription.js" timestamp="1551970670004">
         <mark key="'" line="17" column="35" />
@@ -1319,7 +1337,12 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/containers/analytics/streamsConaitner/StreamsContainer.tsx" timestamp="1551976465347" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/containers/analytics/streamsConaitner/StreamsContainer.tsx" timestamp="1551977206732">
+        <mark key="[" line="65" column="31" />
+        <mark key="]" line="66" column="38" />
+        <mark key="^" line="66" column="38" />
+        <mark key="." line="66" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/upload/uploadHandler.ts" timestamp="1551267253290">
         <mark key="[" line="21" column="25" />
         <mark key="]" line="21" column="27" />
@@ -1640,11 +1663,11 @@
       <jump line="17" column="35" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/subscription.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>{ StreamStatistics }</text>
       </register>
       <register name="-" type="4">
-        <text>PATCH</text>
+        <text>{ StreamStatistics }</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXltZW50TWV0aG9kXD4=</text>
@@ -1653,31 +1676,31 @@
         <text encoding="base64">ICBjb25zdCB7IEFQUF9DTElFTlRfSUQsIEFQUF9SRURJUkVDVF9VUkkgfSA9IGdldENvbmZpZygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VGhpcyByZXZlcnRzIGNvbW1pdCAwMDJkM2NlOAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgU3RyZWFtU3RhdGlzdGljcyB9IGZyb20gJy4vU3RyZWFtU3RhdGlzdGljcyc7CmV4cG9ydCB7IFN0cmVhbVN0YXRpc3RpY3MgfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEFQUF9BUElfQkFTRV9VUkwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoYW5kbGUnKTsK</text>
+        <text encoding="base64">VGhpcyByZXZlcnRzIGNvbW1pdCAwMDJkM2NlOAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdoYW5kbGUnCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEFQUF9BUElfQkFTRV9VUkwpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdoYW5kbGUnCiAgICAnaGFuZGxlJwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoYW5kbGUnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduYXZpZ2F0aW9uJyk7Cg==</text>
+        <text encoding="base64">ICAgICdoYW5kbGUnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyBBUFBfUkVESVJFQ1RfVVJJIH0gPSBnZXRDb25maWcoKQo=</text>
+        <text encoding="base64">ICAgICdoYW5kbGUnCiAgICAnaGFuZGxlJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2dldFRva2VuJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduYXZpZ2F0aW9uJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
