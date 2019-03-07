@@ -974,6 +974,7 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/containers/auth/AuthRouteContainer.tsx" timestamp="1551976242577" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListHistoryLink/index.ts" timestamp="1549525861175">
         <mark key="[" line="0" column="39" />
         <mark key="]" line="0" column="39" />
@@ -1002,6 +1003,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="20" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/routes/index.tsx" timestamp="1551976325580">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/errors/HttpRequestError.ts" timestamp="1549634577494">
         <mark key="[" line="3" column="24" />
@@ -1313,6 +1319,7 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/containers/analytics/streamsConaitner/StreamsContainer.tsx" timestamp="1551976465347" />
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/upload/uploadHandler.ts" timestamp="1551267253290">
         <mark key="[" line="21" column="25" />
         <mark key="]" line="21" column="27" />
@@ -1633,8 +1640,8 @@
       <jump line="17" column="35" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/subscription.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PATCH</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>PATCH</text>
@@ -1646,31 +1653,31 @@
         <text encoding="base64">ICBjb25zdCB7IEFQUF9DTElFTlRfSUQsIEFQUF9SRURJUkVDVF9VUkkgfSA9IGdldENvbmZpZygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VGhpcyByZXZlcnRzIGNvbW1pdCAwMDJkM2NlOAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEFQUF9BUElfQkFTRV9VUkwpOwo=</text>
+        <text encoding="base64">VGhpcyByZXZlcnRzIGNvbW1pdCAwMDJkM2NlOAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoYW5kbGUnKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEFQUF9BUElfQkFTRV9VUkwpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdoYW5kbGUnCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoYW5kbGUnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdoYW5kbGUnCiAgICAnaGFuZGxlJwo=</text>
+        <text encoding="base64">ICAgICdoYW5kbGUnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduYXZpZ2F0aW9uJyk7Cg==</text>
+        <text encoding="base64">ICAgICdoYW5kbGUnCiAgICAnaGFuZGxlJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyBBUFBfUkVESVJFQ1RfVVJJIH0gPSBnZXRDb25maWcoKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduYXZpZ2F0aW9uJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2dldFRva2VuJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgeyBBUFBfUkVESVJFQ1RfVVJJIH0gPSBnZXRDb25maWcoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhsb2dpbkRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2dldFRva2VuJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
