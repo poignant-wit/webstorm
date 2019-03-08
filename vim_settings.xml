@@ -219,11 +219,11 @@
         <mark key="." line="6" column="5" />
         <mark key="^" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/AnalyticsStreamsContainer.tsx" timestamp="1552050970047">
-        <mark key="[" line="82" column="54" />
-        <mark key="]" line="82" column="54" />
-        <mark key="." line="82" column="54" />
-        <mark key="^" line="129" column="40" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/AnalyticsStreamsContainer.tsx" timestamp="1552054310614">
+        <mark key="[" line="111" column="50" />
+        <mark key="]" line="111" column="50" />
+        <mark key="^" line="111" column="50" />
+        <mark key="." line="111" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/dialogs/index.ts" timestamp="1549884024373">
         <mark key="[" line="0" column="34" />
@@ -664,10 +664,10 @@
         <mark key="^" line="8" column="49" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552052741346">
+      <file name="/Dummy.txt" timestamp="1552054330932">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="24" />
+        <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateChoicePanel/ShareToActivateChoicePanel.tsx" timestamp="1549983682086">
@@ -847,6 +847,12 @@
         <mark key="." line="164" column="43" />
         <mark key="^" line="164" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/DateRangePicker/style.css" timestamp="1552054472589">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+        <mark key="^" line="7" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/urlMatcher.ts" timestamp="1548781547212">
         <mark key="[" line="0" column="40" />
         <mark key="]" line="1" column="0" />
@@ -958,11 +964,11 @@
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/DateRangePicker/DateRangePicker.tsx" timestamp="1552046721441">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="35" column="32" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/DateRangePicker/DateRangePicker.tsx" timestamp="1552054489655">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+        <mark key="^" line="5" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsList/EventsListViewModel.ts" timestamp="1549878654925">
         <mark key="[" line="48" column="39" />
@@ -1255,9 +1261,6 @@
         <mark key="]" line="59" column="51" />
         <mark key="." line="59" column="51" />
         <mark key="^" line="59" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/node_modules/@types/react/index.d.ts" timestamp="1552028924395">
-        <mark key="'" line="94" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/errors/components/BrowserError/index.ts" timestamp="1551440653900">
         <mark key="[" line="0" column="30" />
@@ -1735,44 +1738,44 @@
       <jump line="94" column="14" filename="$USER_HOME$/Documents/developer-portal-frontend/node_modules/@types/react/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIERhdGVSYW5nZVBpY2tlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWFjdEVsZW1lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXJJZCA9IDYzODU0OwogICAgY29uc3QgY2hhbm5lbElkID0gMDsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBmcm9tOiAxNTQxNzM4NDAwLAogICAgICB0aWxsOiAxNTQzOTk1OTk5LAogICAgfSk7CiAgICBjb25zdCB0eXBlU3RhdGlzdGljcyA9ICdzdHJlYW1zJzsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgc3RhcnREYXRlLCBlbmREYXRlIH0gPSB0aGlzLnN0YXRlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIERhdGVSYW5nZVBpY2tlcgo=</text>
+        <text encoding="base64">Ly8gV2lsbCBlZGl0IHdoZW4gdGhlIHNlY29uZCBkYXRlIChlbmQgZGF0ZSkgaW4gYSByYW5nZSBvZiBkYXRlcwovLyBpcyBub3QgeWV0IHNlbGVjdGVkLiBFZGl0cyB0aGUgZGF0ZXMgYmV0d2VlbiB5b3VyIG1vdXNlIGFuZCBzYWlkIGRhdGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNoLmRhdGVGb3JtYXR0ZXIuZGF0ZUZvcm1hdCA9ICd5eXl5LU1NLWRkJzsK</text>
+        <text encoding="base64">Ly8gV2lsbCBlZGl0IHdoZW4gaG92ZXJlZCBvdmVyLiBfc3BhbiBzdHlsZSBhbHNvIGhhcyB0aGlzIHByb3BlcnR5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmVhdDogc2NoZWQtMzk0IG9mZmVyL2NvbnN0cnVjdG9yOiBwcmVzZXQgbWluaW1hbCB2YWx1ZSBpbiByYW5nZQo=</text>
+        <text encoding="base64">Ly8gV2lsbCBlZGl0IHNlbGVjdGVkIGRhdGUgb3IgdGhlIGVuZHBvaW50cyBvZiBhIHJhbmdlIG9mIGRhdGVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgIHRoaXMucm91dGluZ1N0b3JlLmxvY2F0aW9uUGF0aG5hbWUubWF0Y2goJ2V2ZW50c3x2aWRlb3MnKSAmJgogICAgICB0aGlzLm1ldGFTdG9yZS5zaGFyZVRvQWN0aXZhdGVGZWF0dXJlRW5hYmxlZCAmJgogICAgICAodGhpcy5tZXRhU3RvcmUuc2hhcmVUb0FjdGl2YXRlTGFzdFRpbWVzdGFtcCA9PT0gMCB8fAogICAgICAgIHRoaXMubWV0YVN0b3JlLnNoYXJlVG9BY3RpdmF0ZUxhc3RUaW1lc3RhbXAgPAogICAgICAgICAgbW9tZW50KCkKICAgICAgICAgICAgLnN1YnRyYWN0KDEsICdtb250aCcpCiAgICAgICAgICAgIC51bml4KCkpICYmCiAgICAgIHRoaXMuZXZlbnRzU3RvcmUuaGlzdG9yeUV2ZW50cy5sZW5ndGggPiAwICYmCiAgICAgICF0aGlzLnN1YnNjcmlwdGlvbnNTdG9yZS5pc05vdEZyZWVQbGFuCiAgICApOwo=</text>
+        <text encoding="base64">Ly8gV2lsbCBlZGl0IGV2ZXJ5dGhpbmcgc2VsZWN0ZWQgaW5jbHVkaW5nIGV2ZXJ5dGhpbmcgYmV0d2VlbiBhIHJhbmdlIG9mIGRhdGVzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhdGVBeGlzLmRhdGVGb3JtYXRzLnNldEtleSgnZGF5JywgJ01NTU0gZHQnKTsK</text>
+        <text encoding="base64">Zml4OiBjaGFydCBkYXRlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRhdGVBeGlzLmJhc2VJbnRlcnZhbCA9IHsKICAgICAgdGltZVVuaXQ6ICdzZWNvbmQnLAogICAgICBjb3VudDogMSwKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNoYXJ0LWNvdW50Ij4KICAgICAgICAgICAgICAgICAgICB7Y291bnQudG90YWx9CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJpY29uLXN0YXR1cyI+CiAgICAgICAgICAgICAgICAgICAgICA8aW1nCiAgICAgICAgICAgICAgICAgICAgICAgIHNyYz17Y291bnQucGVyY2VudGFnZSA+IDAgPyBhcnJvd1VwSWNvbiA6IGFycm93RG93bkljb259CiAgICAgICAgICAgICAgICAgICAgICAgIGFsdD0iYXJyb3ctdXAuc3ZnIgogICAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4KICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17YGNoYXJ0LXBlcmNlbnQgJHsKICAgICAgICAgICAgICAgICAgICAgICAgY291bnQucGVyY2VudGFnZSA+IDAKICAgICAgICAgICAgICAgICAgICAgICAgICA/ICdjaGFydC1wZXJjZW50LXVwJwogICAgICAgICAgICAgICAgICAgICAgICAgIDogJ2NoYXJ0LXBlcmNlbnRfZG93bicKICAgICAgICAgICAgICAgICAgICAgIH1gfQogICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgIHtjb3VudC5wZXJjZW50YWdlfSUKICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNoLmN1cnNvci55QXhpcyA9IHZhbHVlQXhpczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGNoYXJ0KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZ2V0Q2hhcnRDb3VudCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGNoYXJ0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA3NQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
