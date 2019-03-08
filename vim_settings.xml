@@ -99,12 +99,6 @@
         <mark key="^" line="24" column="8" />
         <mark key="." line="139" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/tslint.json" timestamp="1552027682203">
-        <mark key="'" line="29" column="18" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/offers/components/OffersIntervalSwitcher/OffersIntervalSwitcher.tsx" timestamp="1548158364829">
         <mark key="[" line="53" column="21" />
         <mark key="]" line="53" column="21" />
@@ -411,11 +405,11 @@
         <mark key="." line="182" column="43" />
         <mark key="^" line="182" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/support/FeaturesStore.ts" timestamp="1551250486982">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="56" />
-        <mark key="^" line="2" column="56" />
-        <mark key="." line="2" column="56" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/support/FeaturesStore.ts" timestamp="1552052325300">
+        <mark key="[" line="44" column="16" />
+        <mark key="]" line="44" column="16" />
+        <mark key="^" line="44" column="16" />
+        <mark key="." line="44" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/analytics/StreamStatistics/StreamStatistics.tsx" timestamp="1552034797720">
         <mark key="[" line="94" column="0" />
@@ -670,11 +664,11 @@
         <mark key="^" line="8" column="49" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552047665906">
+      <file name="/Dummy.txt" timestamp="1552052520618">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateChoicePanel/ShareToActivateChoicePanel.tsx" timestamp="1549983682086">
         <mark key="[" line="31" column="36" />
@@ -1742,8 +1736,8 @@
       <jump line="94" column="14" filename="$USER_HOME$/Documents/developer-portal-frontend/node_modules/@types/react/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmVhdDogc2NoZWQtMzk0IG9mZmVyL2NvbnN0cnVjdG9yOiBwcmVzZXQgbWluaW1hbCB2YWx1ZSBpbiByYW5nZQo=</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -1755,31 +1749,31 @@
         <text encoding="base64">ICAgIGNvbnN0IHVzZXJJZCA9IDYzODU0OwogICAgY29uc3QgY2hhbm5lbElkID0gMDsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBmcm9tOiAxNTQxNzM4NDAwLAogICAgICB0aWxsOiAxNTQzOTk1OTk5LAogICAgfSk7CiAgICBjb25zdCB0eXBlU3RhdGlzdGljcyA9ICdzdHJlYW1zJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGVBeGlzLmRhdGVGb3JtYXRzLnNldEtleSgnZGF5JywgJ01NTU0gZHQnKTsK</text>
+        <text encoding="base64">ZmVhdDogc2NoZWQtMzk0IG9mZmVyL2NvbnN0cnVjdG9yOiBwcmVzZXQgbWluaW1hbCB2YWx1ZSBpbiByYW5nZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhdGVBeGlzLmJhc2VJbnRlcnZhbCA9IHsKICAgICAgdGltZVVuaXQ6ICdzZWNvbmQnLAogICAgICBjb3VudDogMSwKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgIHRoaXMucm91dGluZ1N0b3JlLmxvY2F0aW9uUGF0aG5hbWUubWF0Y2goJ2V2ZW50c3x2aWRlb3MnKSAmJgogICAgICB0aGlzLm1ldGFTdG9yZS5zaGFyZVRvQWN0aXZhdGVGZWF0dXJlRW5hYmxlZCAmJgogICAgICAodGhpcy5tZXRhU3RvcmUuc2hhcmVUb0FjdGl2YXRlTGFzdFRpbWVzdGFtcCA9PT0gMCB8fAogICAgICAgIHRoaXMubWV0YVN0b3JlLnNoYXJlVG9BY3RpdmF0ZUxhc3RUaW1lc3RhbXAgPAogICAgICAgICAgbW9tZW50KCkKICAgICAgICAgICAgLnN1YnRyYWN0KDEsICdtb250aCcpCiAgICAgICAgICAgIC51bml4KCkpICYmCiAgICAgIHRoaXMuZXZlbnRzU3RvcmUuaGlzdG9yeUV2ZW50cy5sZW5ndGggPiAwICYmCiAgICAgICF0aGlzLnN1YnNjcmlwdGlvbnNTdG9yZS5pc05vdEZyZWVQbGFuCiAgICApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNoLmN1cnNvci55QXhpcyA9IHZhbHVlQXhpczsK</text>
+        <text encoding="base64">ICAgIGRhdGVBeGlzLmRhdGVGb3JtYXRzLnNldEtleSgnZGF5JywgJ01NTU0gZHQnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGNoYXJ0KTsK</text>
+        <text encoding="base64">ICAgIGRhdGVBeGlzLmJhc2VJbnRlcnZhbCA9IHsKICAgICAgdGltZVVuaXQ6ICdzZWNvbmQnLAogICAgICBjb3VudDogMSwKICAgIH07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGNoYXJ0KTsK</text>
+        <text encoding="base64">ICAgIGNoLmN1cnNvci55QXhpcyA9IHZhbHVlQXhpczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZmVhdDogYW5hbHl0aWNzIENoYXJ0IGNvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGNoYXJ0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmcm9tLCB0aWxsKTsK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGNoYXJ0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IGZyb21UID0gTWF0aC5yb3VuZChmcm9tIC8gMTAwMCk7CiAgICAvLyBjb25zdCB0aWxsVCA9IE1hdGgucm91bmQodGlsbCAvIDEwMDApOwo=</text>
+        <text encoding="base64">ZmVhdDogYW5hbHl0aWNzIENoYXJ0IGNvbXBvbmVudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbml0aWFsU3RhcnREYXRlLCBpbml0aWFsRW5kRGF0ZSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmcm9tLCB0aWxsKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -1830,6 +1824,7 @@
         <entry>action EditorDuplicate</entry>
         <entry>action $SelectAll</entry>
         <entry>action Find</entry>
+        <entry>action Replace</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
