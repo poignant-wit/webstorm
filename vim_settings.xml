@@ -219,11 +219,11 @@
         <mark key="." line="6" column="5" />
         <mark key="^" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/AnalyticsStreamsContainer.tsx" timestamp="1552054310614">
-        <mark key="[" line="111" column="50" />
-        <mark key="]" line="111" column="50" />
-        <mark key="^" line="111" column="50" />
-        <mark key="." line="111" column="50" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/AnalyticsStreamsContainer.tsx" timestamp="1552296245995">
+        <mark key="[" line="98" column="19" />
+        <mark key="]" line="99" column="25" />
+        <mark key="^" line="99" column="25" />
+        <mark key="." line="99" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/dialogs/index.ts" timestamp="1549884024373">
         <mark key="[" line="0" column="34" />
@@ -1152,12 +1152,12 @@
         <mark key="." line="24" column="18" />
         <mark key="^" line="106" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/ChartBuilder.ts" timestamp="1552294500691">
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/ChartBuilder.ts" timestamp="1552295926222">
         <mark key="'" line="3" column="17" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="18" column="15" />
+        <mark key="[" line="51" column="66" />
+        <mark key="]" line="52" column="22" />
+        <mark key="." line="52" column="22" />
+        <mark key="^" line="52" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/middlewares/legacyUrlRedirectMiddleware.ts" timestamp="1549905640400">
         <mark key="[" line="3" column="21" />
@@ -1532,10 +1532,11 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/Chart.tsx" timestamp="1552294513792">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/Chart.tsx" timestamp="1552296115892">
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="30" column="20" />
+        <mark key="^" line="30" column="20" />
+        <mark key="." line="30" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/components/EventDialog.tsx" timestamp="1551446583206">
         <mark key="[" line="65" column="64" />
@@ -1750,46 +1751,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNoLmRhdGEgPSBkYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUbyBsaW5lCg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZUF4aXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgYW00Y29yZSBmcm9tICdAYW1jaGFydHMvYW1jaGFydHM0L2NvcmUnOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZXJpZXMuZGF0YUZpZWxkcy52YWx1ZVkgPSAndmFsdWUnOwogICAgICAgIHNlcmllcy5kYXRhRmllbGRzLmRhdGVYID0gJ2RhdGUnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNoLmRhdGEgPSBkYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUbyBsaW5lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFuYWx5dGljc1N0YXRlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgQ2hhcnRCdWlsZGVyIHsKCiAgcHVibGljIGJ1aWxkKCl7CgoKICB9Cgp9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgY2hhcnRDb250YWluZXJJZCA9ICdjaGFydGRpdic7Cg==</text>
+        <text encoding="base64">ICAgIHN3aXRjaCAodHlwZSkgewogICAgICBjYXNlIENoYXJ0U2VyaWVzVHlwZS5MSU5FOgogICAgICAgIGNvbnN0IHNlcmllcyA9IHRoaXMuY2hhcnQuc2VyaWVzLnB1c2gobmV3IGFtNGNoYXJ0cy5MaW5lU2VyaWVzKCkpOwogICAgICAgIHNlcmllcy5kYXRhRmllbGRzLnZhbHVlWSA9ICd2YWx1ZSc7CiAgICAgICAgc2VyaWVzLmRhdGFGaWVsZHMuZGF0ZVggPSAnZGF0ZSc7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICAgIGNhc2UgQ2hhcnRTZXJpZXNUeXBlLkNPTFVNTjoKICAgICAgICB0aGlzLmNoYXJ0LnNlcmllcy5wdXNoKG5ldyBhbTRjaGFydHMuQ29sdW1uU2VyaWVzKCkpOwogICAgICAgIHJldHVybiB0aGlzOwogICAgICBkZWZhdWx0OgogICAgICAgIHJldHVybiB0aGlzOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGVudW0gQ2hhcnRUeXBlIHsKICBMaW5lID0gJ2xpbmUnLAp9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNoYXJ0ID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMuY2hhcnQgPSBhbTRjb3JlLmNyZWF0ZShjaGFydENvbnRhaW5lcklkLCBhbTRjaGFydHMuWFlDaGFydCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action TsLintFileFixAction</text>
       </register>
     </registers>
     <search>
@@ -1832,13 +1833,13 @@
         <entry>action MethodHierarchy.OverrideMethodAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry>action TypeHierarchy</entry>
-        <entry>action TsLintFileFixAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>action EditorDuplicate</entry>
         <entry>action $SelectAll</entry>
         <entry>action Find</entry>
         <entry>action Replace</entry>
         <entry>action GotoFile</entry>
+        <entry>action TsLintFileFixAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
