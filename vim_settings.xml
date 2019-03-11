@@ -536,11 +536,10 @@
         <mark key="^" line="79" column="23" />
         <mark key="." line="79" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/AnalyticsChartContainer.tsx" timestamp="1552316784921">
-        <mark key="[" line="44" column="18" />
-        <mark key="]" line="44" column="33" />
-        <mark key="." line="44" column="33" />
-        <mark key="^" line="44" column="33" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/AnalyticsChartContainer.tsx" timestamp="1552323661236">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/Meta.ts" timestamp="1550214575610">
         <mark key="[" line="10" column="0" />
@@ -1174,12 +1173,12 @@
         <mark key="." line="24" column="18" />
         <mark key="^" line="106" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/ChartBuilder.ts" timestamp="1552316544404">
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/ChartBuilder.ts" timestamp="1552324241302">
         <mark key="'" line="3" column="17" />
-        <mark key="[" line="163" column="31" />
-        <mark key="]" line="163" column="35" />
-        <mark key="." line="163" column="35" />
-        <mark key="^" line="163" column="35" />
+        <mark key="[" line="176" column="16" />
+        <mark key="]" line="176" column="16" />
+        <mark key="." line="176" column="16" />
+        <mark key="^" line="176" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/middlewares/legacyUrlRedirectMiddleware.ts" timestamp="1549905640400">
         <mark key="[" line="3" column="21" />
@@ -1398,11 +1397,10 @@
         <mark key="^" line="4" column="84" />
         <mark key="." line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/selectors/analyticsChartDataSelector.ts" timestamp="1552309083102">
-        <mark key="[" line="18" column="68" />
-        <mark key="]" line="18" column="78" />
-        <mark key="^" line="18" column="78" />
-        <mark key="." line="18" column="78" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/selectors/analyticsChartDataSelector.ts" timestamp="1552324006923">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/Videos.ts" timestamp="1551774666309">
         <mark key="[" line="41" column="20" />
@@ -1512,10 +1510,11 @@
         <mark key="." line="17" column="60" />
         <mark key="^" line="17" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsStreamsPage.tsx" timestamp="1552316790326">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsStreamsPage.tsx" timestamp="1552323061360">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="16" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/offers/constructor/components/OffersConstructorDialog/index.ts" timestamp="1550665973813">
         <mark key="[" line="0" column="0" />
@@ -1577,11 +1576,11 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/Chart.tsx" timestamp="1552316464312">
-        <mark key="[" line="57" column="21" />
-        <mark key="]" line="57" column="21" />
-        <mark key="." line="57" column="21" />
-        <mark key="^" line="57" column="21" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/Chart.tsx" timestamp="1552324218718">
+        <mark key="[" line="72" column="21" />
+        <mark key="]" line="72" column="26" />
+        <mark key="^" line="72" column="26" />
+        <mark key="." line="72" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/components/EventDialog.tsx" timestamp="1551446583206">
         <mark key="[" line="65" column="64" />
@@ -1795,44 +1794,200 @@
       <jump line="0" column="5" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/selectors/analyticsIsRequestSelector.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogZXh0ZXJuYWwgY2hhcnQgY29udGFpbmVyIGlkCg==</text>
+      <register name="&quot;" type="4">
+        <text>(chart!.data!, data)</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>(chart!.data!, data)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUb3BCYXJQcm9ncmVzc0luZGljYXRvclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBJQW5hbHl0aWNzU3RhdGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBtYXAoKGk6IHN0cmluZ1tdKSA9PiAoewogICAgICAgICAgICBkYXRlOiBtb21lbnQudW5peCgraVswXSkudG9EYXRlKCksCiAgICAgICAgICAgIHZhbHVlOiAraVsxXSwKICAgICAgICAgIH0pKShkYXRhKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogZXh0ZXJuYWwgY2hhcnQgY29udGFpbmVyIGlkCg==</text>
+        <text encoding="base64">ICB0eXBlLmxvZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFjdGlvbi5wYXlsb2FkLnZhbHVlLAo=</text>
+        <text encoding="base64">ICB0eXBlCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uLnBheWxvYWQua2V5VGltZXN0YW1wLAogICAgICAgICAgICBhY3Rpb24ucGF5bG9hZC5jaGFubmVsSWQsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGUsIGRhdGEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbWFrZUtleVRpbWVzdGFtcCB9IGZyb20gJy4uLy4uL2R1Y2tzL2FuYWx5dGljcy9nZXRTdHJlYW1zU3RhdGlzdGljcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiA7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbWFrZUtleVRpbWVzdGFtcChzdGFydERhdGUsIGVuZERhdGUpLAogICAgICBjaGFubmVsSWQsCiAgICAgICdzdHJlYW1zJywK</text>
+      <register name="5" type="4">
+        <text>[
+            {
+              hour: '12pm',
+              weekday: 'Sun',
+              value: 2990,
+            },
+            {
+              hour: '1am',
+              weekday: 'Sun',
+              value: 2520,
+            },
+            {
+              hour: '2am',
+              weekday: 'Sun',
+              value: 2334,
+            },
+            {
+              hour: '3am',
+              weekday: 'Sun',
+              value: 2230,
+            },
+            {
+              hour: '4am',
+              weekday: 'Sun',
+              value: 2325,
+            },
+            {
+              hour: '5am',
+              weekday: 'Sun',
+              value: 2019,
+            },
+            {
+              hour: '6am',
+              weekday: 'Sun',
+              value: 2128,
+            },
+            {
+              hour: '7am',
+              weekday: 'Sun',
+              value: 2246,
+            },
+            {
+              hour: '8am',
+              weekday: 'Sun',
+              value: 2421,
+            },
+            {
+              hour: '9am',
+              weekday: 'Sun',
+              value: 2788,
+            },
+            {
+              hour: '10am',
+              weekday: 'Sun',
+              value: 2959,
+            },
+            {
+              hour: '11am',
+              weekday: 'Sun',
+              value: 3018,
+            },
+            {
+              hour: '12am',
+              weekday: 'Sun',
+              value: 3154,
+            },
+            {
+              hour: '1pm',
+              weekday: 'Sun',
+              value: 3172,
+            },
+            {
+              hour: '2pm',
+              weekday: 'Sun',
+              value: 3368,
+            },
+            {
+              hour: '3pm',
+              weekday: 'Sun',
+              value: 3464,
+            },
+            {
+              hour: '4pm',
+              weekday: 'Sun',
+              value: 3746,
+            },
+            {
+              hour: '5pm',
+              weekday: 'Sun',
+              value: 3656,
+            },
+            {
+              hour: '6pm',
+              weekday: 'Sun',
+              value: 3336,
+            },
+            {
+              hour: '7pm',
+              weekday: 'Sun',
+              value: 3292,
+            },
+            {
+              hour: '8pm',
+              weekday: 'Sun',
+              value: 3269,
+            },
+            {
+              hour: '9pm',
+              weekday: 'Sun',
+              value: 3300,
+            },
+            {
+              hour: '10pm',
+              weekday: 'Sun',
+              value: 3403,
+            },
+            {
+              hour: '11pm',
+              weekday: 'Sun',
+              value: 3323,
+            },
+            {
+              hour: '12pm',
+              weekday: 'Mon',
+              value: 3346,
+            },
+            {
+              hour: '1am',
+              weekday: 'Mon',
+              value: 2725,
+            },
+            {
+              hour: '2am',
+              weekday: 'Mon',
+              value: 3052,
+            },
+            {
+              hour: '3am',
+              weekday: 'Mon',
+              value: 3876,
+            },
+            {
+              hour: '4am',
+              weekday: 'Mon',
+              value: 4453,
+            },
+            {
+              hour: '5am',
+              weekday: 'Mon',
+              value: 3972,
+            },
+            {
+              hour: '6am',
+              weekday: 'Mon',
+              value: 4644,
+            },
+          ]</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlU2VsZWN0b3IgfSBmcm9tICdyZXNlbGVjdCc7CmltcG9ydCB7IElTdGF0ZSB9IGZyb20gJy4uLy4uL2R1Y2tzJzsKaW1wb3J0IHsgbWFrZUtleVRpbWVzdGFtcCB9IGZyb20gIi4uLy4uL2R1Y2tzL2FuYWx5dGljcy9nZXRTdHJlYW1zU3RhdGlzdGljcyI7CmltcG9ydCB7IElBbmFseXRpY3NTdGF0ZSB9IGZyb20gJy4uLy4uL2R1Y2tzL2FuYWx5dGljcy90eXBlcyc7CmltcG9ydCB7IHBhdGhPciB9IGZyb20gJ3JhbWRhJzsKCmV4cG9ydCBjb25zdCBhbmFseXRpY3NJc1JlcXVlc3RTZWxlY3RvciA9IGNyZWF0ZVNlbGVjdG9yKAogIChzdGF0ZTogSVN0YXRlKSA9PiBzdGF0ZS5hbmFseXRpY3NTdGF0ZSwKICBwYXRoT3Ioe30sIFsKICAgICdzdGF0aXN0aWNzJywKICAgIHN0YXRpc3RpY3NUeXBlLAogICAgbWFrZUtleVRpbWVzdGFtcChzdGFydERhdGUsIGVuZERhdGUpLAogICAgY2hhbm5lbElkLAogICAgJ3N0cmVhbXMnLAogIF0pLAopOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAoc3RhdGU6IElBbmFseXRpY3NTdGF0ZSkgPT4gc3RhdGUuaXNSZXF1ZXN0LAo=</text>
+        <text encoding="base64">ICAgIGlmIChjaGFydCkgewogICAgICBjb25zb2xlLmxvZyhjaGFydC5kYXRhKTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHsgLi4uc3RhdGUsIHJlcXVlc3RFcnJvcjogdHJ1ZSB9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWN0aW9uLnBheWxvYWQpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhLCB0eXBlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
