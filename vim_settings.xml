@@ -111,6 +111,12 @@
         <mark key="^" line="33" column="36" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/api/apiClient.ts" timestamp="1552456916151">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateDialog/ShareToActivateDialog.tsx" timestamp="1549976665573">
         <mark key="[" line="36" column="28" />
         <mark key="]" line="36" column="33" />
@@ -363,6 +369,9 @@
         <mark key="^" line="28" column="30" />
         <mark key="." line="28" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/api/ApiClient.ts" timestamp="1552456813667">
+        <mark key="[" line="10" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/offers/constructor/components/OffersConstructorDialog/OffersConstructorDialog.scss" timestamp="1550829901198">
         <mark key="[" line="42" column="21" />
         <mark key="]" line="43" column="25" />
@@ -435,6 +444,12 @@
         <mark key="." line="19" column="59" />
         <mark key="^" line="19" column="59" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/api/restream/index.ts" timestamp="1552457303896">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="24" column="13" />
+        <mark key="." line="3" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/context/RootStoreContext.tsx" timestamp="1550658550738">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="16" />
@@ -497,11 +512,9 @@
         <mark key="." line="11" column="24" />
         <mark key="^" line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/utils/apiAdapters/Restream/RestreamApiAdapter.ts" timestamp="1552397971025">
-        <mark key="'" line="2" column="9" />
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="." line="194" column="0" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/utils/apiAdapters/Restream/RestreamApiAdapter.ts" timestamp="1552457274335">
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="184" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/channels/ChannelsStore.ts" timestamp="1549464951078">
         <mark key="[" line="12" column="2" />
@@ -1307,6 +1320,12 @@
         <mark key="^" line="132" column="94" />
         <mark key="." line="110" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/api/buildApiClient.ts" timestamp="1552457060669">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="9" />
+        <mark key="^" line="4" column="9" />
+        <mark key="." line="4" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/config/config.development.json" timestamp="1551965954752">
         <mark key="[" line="7" column="50" />
         <mark key="]" line="7" column="51" />
@@ -1884,43 +1903,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRDb29raWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbWFrZVN0b3JlLCBzdG9yZSB9IGZyb20gIi4vbWFrZVN0b3JlIjsK</text>
+        <text encoding="base64">ICAgIHVzZXJJZDogbnVtYmVyLAogICAgY2hhbm5lbElkOiBudW1iZXIgfCBudWxsLAogICAgZnJvbTogbnVtYmVyLAogICAgdGlsbDogbnVtYmVyLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIGNoYXJ0IGxvYWRlcgo=</text>
+        <text encoding="base64">ICByZXR1cm4gYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb25mOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXRlLCBzZXRTdGF0ZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkaXY+VGVzdDwvZGl2Pgo=</text>
+        <text encoding="base64">ZmVhdDogYWRkIGNoYXJ0IGxvYWRlcgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVzZUNvdW50KCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXRlLCBzZXRTdGF0ZSk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgdXNlQ291bnQgPSAoKSA9PiB7CiAgICBjb25zdCBzdG9yZSA9IHVzZVN0b3JlKCk7CgogICAgY29uc29sZS5sb2coc3RvcmUpOwoKfQo=</text>
+        <text encoding="base64">ICAgIDxkaXY+VGVzdDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
