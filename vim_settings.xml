@@ -21,6 +21,11 @@
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/header/components/HeaderViewModel.ts" timestamp="1552660054103">
+        <mark key="[" line="37" column="11" />
+        <mark key="]" line="37" column="11" />
+        <mark key="." line="37" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/common/modals/ModalRoot.tsx" timestamp="1548094558810">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -142,11 +147,9 @@
         <mark key="^" line="32" column="21" />
         <mark key="." line="32" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/videos/containers/VideosListContainer.tsx" timestamp="1552658712109">
-        <mark key="[" line="143" column="25" />
-        <mark key="]" line="143" column="25" />
-        <mark key="." line="143" column="25" />
-        <mark key="^" line="143" column="24" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/videos/containers/VideosListContainer.tsx" timestamp="1552659591208">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="152" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListSlot/EventsListSlot.tsx" timestamp="1549876920601">
         <mark key="[" line="13" column="24" />
@@ -791,11 +794,11 @@
         <mark key="^" line="8" column="49" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552658739611">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1552660189177">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateChoicePanel/ShareToActivateChoicePanel.tsx" timestamp="1549983682086">
         <mark key="[" line="31" column="36" />
@@ -1137,12 +1140,6 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="1" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsList/EventsList.tsx" timestamp="1550825550187">
-        <mark key="[" line="65" column="57" />
-        <mark key="]" line="65" column="57" />
-        <mark key="^" line="65" column="68" />
-        <mark key="." line="65" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListSlot/EventsListSlot.scss" timestamp="1549527141162">
         <mark key="[" line="10" column="24" />
@@ -1755,11 +1752,11 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="87" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/EventsListViewModel.tsx" timestamp="1551887463397">
-        <mark key="[" line="213" column="62" />
-        <mark key="]" line="213" column="62" />
-        <mark key="^" line="213" column="62" />
-        <mark key="." line="213" column="62" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/EventsListViewModel.tsx" timestamp="1552659762393">
+        <mark key="[" line="76" column="10" />
+        <mark key="]" line="76" column="77" />
+        <mark key="^" line="76" column="77" />
+        <mark key="." line="76" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" timestamp="1552646613797">
         <mark key="[" line="325" column="0" />
@@ -1919,44 +1916,44 @@
       <jump line="22" column="39" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/menu/ProductMenu/ProductMenu.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Zml4OiBsaW50IGVycm9ycwo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>select any</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7ZXZlbnQuZmlyc3RTY2hlZHVsZWRGcmFtZQogICAgICAgICAgPyBmb3JtYXRUaW1lKGV2ZW50LmZpcnN0U2NoZWR1bGVkRnJhbWUuc3RhcnRBdCkKICAgICAgICAgIDogZm9ybWF0VGltZShldmVudC5zdGFydEV2ZW50QXQpfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8R3JpZAogICAgICAgICAgICAgICAgICAgICAgY29udGFpbmVyPXt0cnVlfQogICAgICAgICAgICAgICAgICAgICAgYWxpZ25JdGVtcz0iYmFzZWxpbmUiCiAgICAgICAgICAgICAgICAgICAgICBqdXN0aWZ5PSJzcGFjZS1iZXR3ZWVuIgogICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgIDxINT4KICAgICAgICAgICAgICAgICAgICAgICAgVmlkZW9zICh7dmlkZW9zU3RvcmUhLmFjdGl2ZVZpZGVvcy5sZW5ndGh9LwogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgc3Vic2NyaXB0aW9uc1N0b3JlIS5jdXJyZW50U3Vic2NyaXB0aW9uLmxpbWl0YXRpb25zCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAudmlkZW9zTGltaXQKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICA8L0g1PgogICAgICAgICAgICAgICAgICAgICAge3RoaXMucmVuZGVyVmlkZW9VcGxvYWRCdXR0b24oc2hvd01vZGFsKX0KICAgICAgICAgICAgICAgICAgICA8L0dyaWQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiBsaW50IGVycm9ycwo=</text>
+        <text encoding="base64">Zml4OiBldmVudCBkYXRlIHRpbWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8ZGl2IHN0eWxlPXt7IGZvbnRTaXplOiAxMSB9fT57dGhpcy5yZW5kZXJTdGFydEV2ZW50QXQoKX08L2Rpdj4qL30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2xvdHMgKHt0aGlzLnZtLmV2ZW50cy5sZW5ndGh9L3t0aGlzLnZtLmV2ZW50c0F2YWlsYWJsZX0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic2MtZXZlbnRzLWxpc3QtaXRlbS0tZGF0ZSI+CiAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRTaXplOiAxMSB9fT57dGhpcy5yZW5kZXJTdGFydEV2ZW50QXQoKX08L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzYy1ldmVudHMtbGlzdC1pdGVtLS1kYXRlX19kYXkiPlNhdDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNjLWV2ZW50cy1saXN0LWl0ZW0tLWRhdGVfX2RhdGUiPjE1PC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic2MtZXZlbnRzLWxpc3QtaXRlbS0tZGF0ZV9fbW9udGgiPkRlYzwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNjLWV2ZW50cy1saXN0LWl0ZW0tLWRhdGVfX3RpbWUiPjEwOjAwIFBNPC9kaXY+CiAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VGFicwogICAgICAgICAgbGFyZ2U9e3RydWV9CiAgICAgICAgICBpZD0iVGFic0V4YW1wbGUiCiAgICAgICAgICBzZWxlY3RlZFRhYklkPXt0aGlzLnZtLmFjdGl2ZVRhYn0KICAgICAgICAgIG9uQ2hhbmdlPXtpZCA9PiB7CiAgICAgICAgICAgIGlmIChpZCA9PT0gJ2hpc3RvcnknKSB7CiAgICAgICAgICAgICAgdGhpcy52bS5nb1RvSGlzdG9yeSgpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgIHRoaXMudm0uZ29Ub0FjdGl2ZSgpOwogICAgICAgICAgICB9CiAgICAgICAgICB9fQogICAgICAgID4KICAgICAgICAgIDxUYWIgaWQ9ImFjdGl2ZSIgdGl0bGU9IlF1ZXVlIiBwYW5lbD17PGRpdiAvPn0gLz4KICAgICAgICAgIHt0aGlzLnZtLmlzTm9uRW1wdHlIaXN0b3J5ICYmICgKICAgICAgICAgICAgPFRhYiBpZD0iaGlzdG9yeSIgdGl0bGU9Ikhpc3RvcnkiIHBhbmVsPXs8ZGl2IC8+fSAvPgogICAgICAgICAgKX0KICAgICAgICAgIDxUYWJzLkV4cGFuZGVyIC8+CiAgICAgICAgPC9UYWJzPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zml4OiBhY3RpdmUgZWxlbWVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnJlbmRlclZpZGVvVXBsb2FkQnV0dG9uKHNob3dNb2RhbCl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgaWNvbj0idGltZWxpbmUtZXZlbnRzIgogICAgICAgICAgICBpbnRlbnQ9e0ludGVudC5QUklNQVJZfQogICAgICAgICAgICBsYXJnZT17dHJ1ZX0KICAgICAgICAgICAgb25DbGljaz17KCkgPT4gdGhpcy52bS5uZXdFdmVudCgpfQogICAgICAgICAgICBkaXNhYmxlZD17dGhpcy52bS5kaXNhYmxlU2NoZWR1bGVCdXR0b259CiAgICAgICAgICA+CiAgICAgICAgICAgIFNjaGVkdWxlIEV2ZW50CiAgICAgICAgICA8L0J1dHRvbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmlkZW9zICh7dmlkZW9zU3RvcmUhLmFjdGl2ZVZpZGVvcy5sZW5ndGh9LwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgc3Vic2NyaXB0aW9uc1N0b3JlIS5jdXJyZW50U3Vic2NyaXB0aW9uLmxpbWl0YXRpb25zCiAgICAgICAgICAgICAgICAudmlkZW9zTGltaXQKICAgICAgICAgICAgfQogICAgICAgICAgICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjRjVGOEZBOwo=</text>
+        <text encoding="base64">Zml4OiBsaW50IGVycm9ycwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iYnAzLWRhcmsiCg==</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8ZGl2IHN0eWxlPXt7IGZvbnRTaXplOiAxMSB9fT57dGhpcy5yZW5kZXJTdGFydEV2ZW50QXQoKX08L2Rpdj4qL30K</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -2008,8 +2005,8 @@
         <entry>action TsLintFileFixAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ImplementMethods</entry>
-        <entry>action Find</entry>
         <entry>action ReformatCode</entry>
+        <entry>action Find</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
