@@ -914,11 +914,11 @@
         <mark key="]" line="165" column="0" />
         <mark key="." line="165" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/server/controllers/authController.ts" timestamp="1552897760101">
-        <mark key="[" line="59" column="19" />
-        <mark key="]" line="59" column="27" />
-        <mark key="." line="59" column="27" />
-        <mark key="^" line="59" column="27" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/server/controllers/authController.ts" timestamp="1552899094218">
+        <mark key="[" line="60" column="32" />
+        <mark key="]" line="60" column="32" />
+        <mark key="." line="60" column="32" />
+        <mark key="^" line="60" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/client/index.tsx" timestamp="1547732253616">
         <mark key="[" line="1" column="38" />
@@ -1924,11 +1924,11 @@
       <jump line="133" column="17" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/menu/ProductMenu/ProductMenu.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>// TODO redirect to refresh token</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>// TODO redirect to refresh token</text>
       </register>
       <register name="/" type="4">
         <text>+</text>
@@ -1937,31 +1937,31 @@
         <text encoding="base64">ICAgICAgICBTZW50cnkuY2FwdHVyZUV4Y2VwdGlvbihlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZS5yZXNwb25zZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjdHgucmVxKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYXV0aGVudGljYXRlJyk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjdHgucmVxKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zml4OiBwcm9kdWN0IG1lbnUK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYXV0aGVudGljYXRlJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zml4OiBwcm9kdWN0IG1lbnUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAocmVmcmVzaFRva2VuICYmIHJlZnJlc2hYc3JmVG9rZW4pIHsKICAgIHJldHVybiBjdHgucmVkaXJlY3QoJy8nKTsgLy8gVE9ETyByZWRpcmVjdCB0byByZWZyZXNoIHRva2VuCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCByZWZyZXNoVG9rZW4gPSBjdHguY29va2llcy5nZXQoJ3JlZnJlc2hUb2tlbicpOwogIGNvbnN0IHJlZnJlc2hYc3JmVG9rZW4gPSBjdHguY29va2llcy5nZXQoJ3JlZnJlc2hYc3JmVG9rZW4nKTsK</text>
+        <text encoding="base64">ICBpZiAocmVmcmVzaFRva2VuICYmIHJlZnJlc2hYc3JmVG9rZW4pIHsKICAgIHJldHVybiBjdHgucmVkaXJlY3QoJy8nKTsgLy8gVE9ETyByZWRpcmVjdCB0byByZWZyZXNoIHRva2VuCiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZS5yZXNwb25zZS5kYXRhKTsK</text>
+        <text encoding="base64">ICBjb25zdCByZWZyZXNoVG9rZW4gPSBjdHguY29va2llcy5nZXQoJ3JlZnJlc2hUb2tlbicpOwogIGNvbnN0IHJlZnJlc2hYc3JmVG9rZW4gPSBjdHguY29va2llcy5nZXQoJ3JlZnJlc2hYc3JmVG9rZW4nKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZS5yZXNwb25zZS5kYXRhKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
