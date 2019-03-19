@@ -1473,12 +1473,6 @@
         <mark key="." line="59" column="51" />
         <mark key="^" line="59" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/server/middlewares/authMiddleware.ts" timestamp="1552919245223">
-        <mark key="[" line="56" column="49" />
-        <mark key="]" line="56" column="49" />
-        <mark key="." line="56" column="49" />
-        <mark key="^" line="56" column="49" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/errors/components/BrowserError/index.ts" timestamp="1551440653900">
         <mark key="[" line="0" column="30" />
         <mark key="]" line="0" column="30" />
@@ -1972,8 +1966,8 @@
       <jump line="55" column="14" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/menu/ProductMenu/ProductMenu.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>helloworld</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICF0b2tlbgo=</text>
       </register>
       <register name="-" type="4">
         <text>helloworld</text>
@@ -1985,31 +1979,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXZlcmFnZVN0cmVhbUR1cmF0aW9uOiBTdGF0aXN0aWNzRGF0YSwgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWYgKHN0b3JlLmRhdGEuaGFzKCdoZWxsb3dvcmxkJykpIHsKfQo=</text>
+        <text encoding="base64">ICAgICF0b2tlbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdG9yZS5kYXRhLmdldCgnaGVsbG93b3JsZCcpIS5hdmVyYWdlU3RyZWFtRHVyYXRpb24uY291bnQuZGVsdGEpOwo=</text>
+        <text encoding="base64">aWYgKHN0b3JlLmRhdGEuaGFzKCdoZWxsb3dvcmxkJykpIHsKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdmVyYWdlU3RyZWFtRHVyYXRpb246IHt9LAogICAgICAgIHN0cmVhbWVkSG91cnM6IHt9LAogICAgICAgIHN0cmVhbXM6IHt9LAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdG9yZS5kYXRhLmdldCgnaGVsbG93b3JsZCcpIS5hdmVyYWdlU3RyZWFtRHVyYXRpb24uY291bnQuZGVsdGEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBhdmVyYWdlU3RyZWFtRHVyYXRpb246IHt9LAogICAgICAgIHN0cmVhbWVkSG91cnM6IHt9LAogICAgICAgIHN0cmVhbXM6IHt9LAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgdGVzdCA9IFN0YXRpc3RpY3NEYXRhLmNyZWF0ZSh7IGNvdW50OiB7fSB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBhdmVyYWdlU3RyZWFtRHVyYXRpb246IHt9LAogICAgICAgIHN0cmVhbWVkSG91cnM6IHt9LAogICAgICAgIHN0cmVhbXM6IHt9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICApLAo=</text>
+        <text encoding="base64">Y29uc3QgdGVzdCA9IFN0YXRpc3RpY3NEYXRhLmNyZWF0ZSh7IGNvdW50OiB7fSB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRkdHlwZXMub3B0aW9uYWwoCg==</text>
+        <text encoding="base64">ICApLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0YXRpc3RpY3NEYXRhLmNyZWF0ZSh7IGNvdW50OiB7fSB9KSwK</text>
+        <text encoding="base64">ICAgIGRkdHlwZXMub3B0aW9uYWwoCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
