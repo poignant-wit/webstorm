@@ -340,10 +340,11 @@
         <mark key="." line="1" column="33" />
         <mark key="^" line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/AnalyticsStore.ts" timestamp="1552984347969">
-        <mark key="]" line="12" column="36" />
-        <mark key="." line="12" column="36" />
-        <mark key="^" line="12" column="36" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/AnalyticsStore.ts" timestamp="1552987849964">
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="20" />
+        <mark key="." line="21" column="20" />
+        <mark key="^" line="21" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/landing/test.ts" timestamp="1549958635699">
         <mark key="[" line="1" column="17" />
@@ -809,10 +810,10 @@
         <mark key="^" line="8" column="49" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552978562880">
+      <file name="/Dummy.txt" timestamp="1552987059295">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="22" />
+        <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateChoicePanel/ShareToActivateChoicePanel.tsx" timestamp="1549983682086">
@@ -1164,11 +1165,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/AnalyticsRoutes.tsx" timestamp="1552985446476">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="13" column="33" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/AnalyticsRoutes.tsx" timestamp="1552987600458">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="22" column="6" />
+        <mark key="." line="29" column="30" />
+        <mark key="^" line="29" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListSlot/EventsListSlot.scss" timestamp="1549527141162">
         <mark key="[" line="10" column="24" />
@@ -1967,43 +1968,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>root</text>
+        <text>{key: string, value: any}</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>{key: string, value: any}</text>
       </register>
       <register name="/" type="4">
         <text>play</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wb25lbnQ9e0FuYWx0aWNzU3RyZWFtc1BhZ2V9Cg==</text>
+        <text encoding="base64">Y29uc3QgVG9kb1N0b3JlID0gdHlwZXMKICAubW9kZWwoewogICAgdG9kb3M6IHR5cGVzLmFycmF5KFRvZG8pLAogICAgc2VsZWN0ZWRUb2RvOiB0eXBlcy5tYXliZU51bGwodHlwZXMucmVmZXJlbmNlKFRvZG8pKSwKICB9KQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIGFkZCh0b2RvOiBhbnkpIHsKICAgICAgc2VsZi50b2Rvcy5wdXNoKHRvZG8pOwogICAgfSwKICB9KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb290LmFuYWx5dGljc1N0b3JlKTsK</text>
+        <text encoding="base64">ICAgIHNlbGVjdGVkVG9kbzogdHlwZXMubWF5YmVOdWxsKHR5cGVzLnJlZmVyZW5jZShUb2RvKSksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb290U3RvcmUuYXV0aCk7Cg==</text>
+        <text encoding="base64">YWZ0ZXJDcmVhdGUoKSB7CiAgY29uc29sZS5sb2coIkNyZWF0ZWQgYSBuZXcgdG9kbyEiKQp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByb290LmFuYWx5dGljc1N0b3JlIS5sb2FkU3RhdGlzdGljcygpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBhbmFseXRpY3NTdG9yZS5sb2FkU3RhdGlzdGljcygpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">dG9kb1N0b3JlLnRvZG9zLnB1c2goeyBpZDogMSwgdGl0bGU6ICdoZWxsbycgfSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Zml4OiByZW1vdmUgY29tbWVudHMK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb290LmFuYWx5dGljc1N0b3JlKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJvb3RTdG9yZS5hbmFseXRpY3NTdG9yZSA9IGFuYWx5dGljc1N0b3JlOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb290U3RvcmUuYXV0aCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
