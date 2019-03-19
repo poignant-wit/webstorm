@@ -369,11 +369,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/AnalyticsStore.ts" timestamp="1552990274303">
-        <mark key="[" line="26" column="21" />
-        <mark key="]" line="26" column="30" />
-        <mark key="^" line="26" column="30" />
-        <mark key="." line="26" column="30" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/AnalyticsStore.ts" timestamp="1552991549773">
+        <mark key="[" line="27" column="51" />
+        <mark key="]" line="27" column="60" />
+        <mark key="^" line="27" column="60" />
+        <mark key="." line="27" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateChoicePanel/ShareToActivateChoicePanel.scss" timestamp="1549983433047">
         <mark key="[" line="5" column="29" />
@@ -1170,11 +1170,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/AnalyticsRoutes.tsx" timestamp="1552990209053">
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="27" />
-        <mark key="." line="11" column="27" />
-        <mark key="^" line="11" column="27" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/AnalyticsRoutes.tsx" timestamp="1552991640528">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+        <mark key="^" line="11" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListSlot/EventsListSlot.scss" timestamp="1549527141162">
         <mark key="[" line="10" column="24" />
@@ -1973,10 +1973,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>helloworld</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>helloworld</text>
       </register>
       <register name="/" type="4">
         <text>play</text>
@@ -1985,31 +1985,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXZlcmFnZVN0cmVhbUR1cmF0aW9uOiBTdGF0aXN0aWNzRGF0YSwgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">aWYgKHN0b3JlLmRhdGEuaGFzKCdoZWxsb3dvcmxkJykpIHsKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhdmVyYWdlU3RyZWFtRHVyYXRpb246IHt9LAogICAgICAgIHN0cmVhbWVkSG91cnM6IHt9LAogICAgICAgIHN0cmVhbXM6IHt9LAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdG9yZS5kYXRhLmdldCgnaGVsbG93b3JsZCcpIS5hdmVyYWdlU3RyZWFtRHVyYXRpb24uY291bnQuZGVsdGEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgdGVzdCA9IFN0YXRpc3RpY3NEYXRhLmNyZWF0ZSh7IGNvdW50OiB7fSB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBhdmVyYWdlU3RyZWFtRHVyYXRpb246IHt9LAogICAgICAgIHN0cmVhbWVkSG91cnM6IHt9LAogICAgICAgIHN0cmVhbXM6IHt9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICApLAo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRkdHlwZXMub3B0aW9uYWwoCg==</text>
+        <text encoding="base64">ICAgICAgICBhdmVyYWdlU3RyZWFtRHVyYXRpb246IHt9LAogICAgICAgIHN0cmVhbWVkSG91cnM6IHt9LAogICAgICAgIHN0cmVhbXM6IHt9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN0YXRpc3RpY3NEYXRhLmNyZWF0ZSh7IGNvdW50OiB7fSB9KSwK</text>
+        <text encoding="base64">Y29uc3QgdGVzdCA9IFN0YXRpc3RpY3NEYXRhLmNyZWF0ZSh7IGNvdW50OiB7fSB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgVGVzdCA9IHR5cGVzLm1vZGVsKHsKICBrZXk6IHR5cGVzLnN0cmluZywKICB2YWx1ZTogdHlwZXMuc3RyaW5nLAp9KTsKCmNvbnN0IEFuYWx5dGljcyA9IHR5cGVzLm1vZGVsKHsKICBkYXRhOiB0eXBlcy5tYXAodHlwZXMuYXJyYXkodHlwZXMuc3RyaW5nKSksCn0pOwoKY29uc3QgYW5hbHl0aWNzU3RvcmUgPSBBbmFseXRpY3MuY3JlYXRlKHsKICBkYXRhOiB7IGtleTogW10gfSwKfSk7Cgo=</text>
+        <text encoding="base64">ICApLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9yIChrZXkgaW4gc3RvcmUuZGF0YS5rZXlzKCkpIHsKICAKfQo=</text>
+        <text encoding="base64">ICAgIGRkdHlwZXMub3B0aW9uYWwoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RvcmUuZGF0YS5rZXlzKCkuZm9yRWFjaChjb25zb2xlLmxvZyk7Cg==</text>
+        <text encoding="base64">ICAgIFN0YXRpc3RpY3NEYXRhLmNyZWF0ZSh7IGNvdW50OiB7fSB9KSwK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
