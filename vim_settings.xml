@@ -381,11 +381,8 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/AnalyticsStore.ts" timestamp="1553081801033">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="23" column="7" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/AnalyticsStore.ts" timestamp="1553084545566">
+        <mark key="^" line="59" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateChoicePanel/ShareToActivateChoicePanel.scss" timestamp="1549983433047">
         <mark key="[" line="5" column="29" />
@@ -652,11 +649,11 @@
         <mark key="^" line="60" column="31" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/AnalyticsChartContainer.tsx" timestamp="1553082305302">
-        <mark key="[" line="77" column="6" />
-        <mark key="]" line="79" column="21" />
-        <mark key="^" line="79" column="21" />
-        <mark key="." line="79" column="21" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/AnalyticsChartContainer.tsx" timestamp="1553083491795">
+        <mark key="[" line="67" column="36" />
+        <mark key="]" line="67" column="36" />
+        <mark key="." line="67" column="36" />
+        <mark key="^" line="67" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/side/SideBar/ProductMenu.sass" timestamp="1552581411668">
         <mark key="[" line="600" column="0" />
@@ -1943,7 +1940,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="35" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/src/actions/subscription.js" />
       <jump line="30" column="18" filename="$USER_HOME$/Documents/developer-portal-frontend/tslint.json" />
       <jump line="38" column="34" filename="$USER_HOME$/Documents/developer-portal-frontend/node_modules/@types/react/index.d.ts" />
       <jump line="85" column="14" filename="$USER_HOME$/Documents/developer-portal-frontend/node_modules/@types/react/index.d.ts" />
@@ -2043,13 +2039,14 @@
       <jump line="300" column="48" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/domain/events/EventModel.ts" />
       <jump line="285" column="51" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/domain/events/EventModel.ts" />
       <jump line="5" column="10" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/AnalyticsStore.ts" />
+      <jump line="54" column="5" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/AnalyticsStore.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Zml4OiBzY2hlZHVsZXIgaW52YWxpZCB2aWRlbwo=</text>
+        <text encoding="base64">Y29uc3QgVGVzdE1vZGVsID0gdHlwZXMKICAubW9kZWwoewogICAgaGVsbG86IHR5cGVzLnN0cmluZywKICB9KQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIGFmdGVyQ3JlYXRlKCkgewogICAgICBjb25zb2xlLmxvZygnYWZ0ZXInLCBnZXRFbnYoc2VsZikpOwogICAgfSwKICB9KSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>has</text>
+        <text>now</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1NjaGVkdWxlZFw+</text>
@@ -2058,31 +2055,33 @@
         <text encoding="base64">ICAgIGZyb206IHBhcnRzWzJdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiBzY2hlZHVsZXIgaW52YWxpZCB2aWRlbwo=</text>
+        <text encoding="base64">Y29uc3QgVGVzdE1vZGVsID0gdHlwZXMKICAubW9kZWwoewogICAgaGVsbG86IHR5cGVzLnN0cmluZywKICB9KQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIGFmdGVyQ3JlYXRlKCkgewogICAgICBjb25zb2xlLmxvZygnYWZ0ZXInLCBnZXRFbnYoc2VsZikpOwogICAgfSwKICB9KSk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICkgewogICAgICBjb25zb2xlLmxvZygndGVzdCcpOwogICAgfSBlbHNlIHsKICAgICAgY29uc29sZS5sb2coZmFsc2UpOwogICAgfQo=</text>
+      <register name="2" type="4">
+        <text>{
+            getData: getEnv(self).ApiRestream.analytics.getStreamStatistics,
+          }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICgK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZ2V0RW52KHNlbGYpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2FmdGVyQ3JlYXRlJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZiAoIHJvb3RTdG9yZS5hbmFseXRpY3MuZGF0YS5oYXMoIG1ha2VEYXRhS2V5KHsgdXNlcklkOiB1c2VyLmlkLCBjaGFubmVsSWQ6IDAsIGZyb206IHN0YXJ0RGF0ZSwgdGlsbDogZW5kRGF0ZSwgfSkpICkgewogICAgY29uc29sZS5sb2coInRlc3QiKTsKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2xvYWQnKTsK</text>
+        <text encoding="base64">ICAgICAgICBtYWtlRGF0YUtleSh7CiAgICAgICAgICB1c2VySWQ6IHVzZXIuaWQsCiAgICAgICAgICBjaGFubmVsSWQ6IDAsCiAgICAgICAgICBmcm9tOiBzdGFydERhdGUsCiAgICAgICAgICB0aWxsOiBlbmREYXRlLAogICAgICAgIH0pLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gLnRoZW4oZGF0YSA9PiB7CiAgICAgIC8vIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZGF0YSA9IHlpZWxkIGdldEVudihzZWxmKS5BcGlSZXN0cmVhbS5hbmFseXRpY3MuZ2V0U3RyZWFtU3RhdGlzdGljcygKICAgICAgICB7CiAgICAgICAgICB1c2VySWQsCiAgICAgICAgICBjaGFubmVsSWQsCiAgICAgICAgICBmcm9tLAogICAgICAgICAgdGlsbCwKICAgICAgICB9LAogICAgICApOwogICAgICBzZWxmLmRhdGEuc2V0KG1ha2VEYXRhS2V5KHsgdXNlcklkLCBjaGFubmVsSWQsIGZyb20sIHRpbGwgfSksIGRhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
