@@ -256,11 +256,11 @@
         <mark key="." line="15" column="26" />
         <mark key="^" line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/streams/StreamsDataStore.ts" timestamp="1553090111691">
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="27" column="26" />
-        <mark key="." line="27" column="26" />
-        <mark key="^" line="27" column="26" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/streams/StreamsDataStore.ts" timestamp="1553092283233">
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="30" column="24" />
+        <mark key="." line="30" column="24" />
+        <mark key="^" line="30" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/reporters/analytics/AnalyticsReporter.tsx" timestamp="1548938983879">
         <mark key="[" line="55" column="38" />
@@ -386,6 +386,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/AnalyticsStore.ts" timestamp="1553092267525">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="88" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateChoicePanel/ShareToActivateChoicePanel.scss" timestamp="1549983433047">
         <mark key="[" line="5" column="29" />
@@ -652,11 +658,11 @@
         <mark key="^" line="60" column="31" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/AnalyticsChartContainer.tsx" timestamp="1553090379748">
-        <mark key="[" line="70" column="36" />
-        <mark key="]" line="70" column="51" />
-        <mark key="." line="70" column="51" />
-        <mark key="^" line="70" column="51" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/AnalyticsChartContainer.tsx" timestamp="1553092304957">
+        <mark key="[" line="80" column="48" />
+        <mark key="]" line="80" column="48" />
+        <mark key="." line="80" column="48" />
+        <mark key="^" line="80" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/side/SideBar/ProductMenu.sass" timestamp="1552581411668">
         <mark key="[" line="600" column="0" />
@@ -2055,34 +2061,46 @@
         <text encoding="base64">XDxpc1NjaGVkdWxlZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRpbGw6IHBhcnRzWzNdLAo=</text>
+        <text encoding="base64">ICAgICAgc2VsZi5sb2FkaW5nID0gZmFsc2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbG9hZCcpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYoc2VsZi5zdHJlYW1zLmhhcyhrZXkpKXsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2xvYWQgRGF0YScpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5zdHJlYW1zLmdldChrZXkpIHx8IG51bGwK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgVGVzdE1vZGVsID0gdHlwZXMKICAubW9kZWwoewogICAgaWQ6IHR5cGVzLmlkZW50aWZpZXIsCiAgfSkKICAucHJvcHMoe30pCiAgLmFjdGlvbnMoc2VsZiA9PiAoewogICAgdGVzdCgpIHsKICAgICAgY29uc29sZS5sb2coc2VsZi5oZWxsbyk7CiAgICB9LAogIH0pKTsKCmNvbnN0IHRlc3QgPSBUZXN0TW9kZWwuY3JlYXRlKHsgaWQ6ICdkJyB9KTsKCnRlc3QudGVzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2FmdGVyQ3JlYXRlJyk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>{
+      userId,
+      channelId,
+      from,
+      till,
+      type = 'test',
+    }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKHNlbGYuaGVsbG8pewogICAgICAnJwogICAgfQo=</text>
+      <register name="6" type="4">
+        <text>{
+        userId: user.id,
+        channelId: 0,
+        from: startDate,
+        till: endDate,
+        type: chartType,
+      }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlbGYuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2xvYWQnKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2VsZi50eXBlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAucHJvcHMoewogICAgdHlwZTogJ3N0YXRpc3RpY3MnLAogIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnMK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
