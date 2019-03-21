@@ -881,11 +881,11 @@
         <mark key="^" line="8" column="49" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553100299470">
+      <file name="/Dummy.txt" timestamp="1553165425905">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="49" />
+        <mark key="^" line="0" column="49" />
+        <mark key="." line="0" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateChoicePanel/ShareToActivateChoicePanel.tsx" timestamp="1549983682086">
         <mark key="[" line="31" column="36" />
@@ -1484,6 +1484,11 @@
         <mark key="." line="24" column="18" />
         <mark key="^" line="106" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/ChartBuilder.ts" timestamp="1553166156062">
+        <mark key="'" line="19" column="6" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="70" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/streams/index.ts" timestamp="1553098967626">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
@@ -1944,11 +1949,12 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/Chart.tsx" timestamp="1552977145589">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="72" column="26" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/Chart.tsx" timestamp="1553166715078">
+        <mark key="'" line="71" column="4" />
+        <mark key="[" line="57" column="10" />
+        <mark key="]" line="57" column="15" />
+        <mark key="." line="57" column="15" />
+        <mark key="^" line="57" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/restream-web/api/server/controllers/authentication.js" timestamp="1551105637935">
         <mark key="[" line="397" column="0" />
@@ -2065,9 +2071,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="16" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/ProductMenu/ProductMenu.tsx" />
-      <jump line="314" column="23" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/menu/ProductMenu/ProductMenu.tsx" />
-      <jump line="27" column="8" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/menu/ProductMenu/ProductMenu.tsx" />
       <jump line="330" column="48" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/menu/ProductMenu/ProductMenu.tsx" />
       <jump line="335" column="33" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/menu/ProductMenu/ProductMenu.tsx" />
       <jump line="399" column="24" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/menu/ProductMenu/ProductMenu.tsx" />
@@ -2165,55 +2168,58 @@
       <jump line="6" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/countMapper.ts" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/countMapper.ts" />
       <jump line="4" column="12" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/streams/AnalyticsStreamsStore.ts" />
+      <jump line="76" column="4" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/Chart.tsx" />
+      <jump line="80" column="4" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/Chart.tsx" />
+      <jump line="19" column="6" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/ChartBuilder.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>dateX</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>dateX</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdHJlYW1NZXRyaWNzXD4=</text>
+        <text encoding="base64">XDxidWlsZENoYXJ0U2VyaWVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZ3JvdXBlZCA9IGdyb3VwV2l0aCgKICAgICAgICAoCiAgICAgICAgICBhOiB7IGhvdXI6IHN0cmluZzsgdmFsdWU6IG51bWJlciB9LAogICAgICAgICAgYjogeyBob3VyOiBzdHJpbmc7IHZhbHVlOiBudW1iZXIgfSwKICAgICAgICApID0+IGEuaG91ciA9PT0gYi5ob3VyLAogICAgICApKGRhdGEpOwoKICAgICAgY29uc3Qgc3VtID0gZ3JvdXBlZC5tYXAoZ3JvdXAgPT4gewogICAgICAgIHJldHVybiB7CiAgICAgICAgICBob3VyOiBncm91cFswXS5ob3VyLAogICAgICAgICAgdmFsdWU6IGdyb3VwLnJlZHVjZSgoYWNjLCBpKSA9PiBhY2MgKyBpLnZhbHVlLCAwKSwKICAgICAgICB9OwogICAgICB9KTsKCiAgICAgIGNvbnN0IG1heCA9IHN1bS5yZWR1Y2UoKGFjYywgaXRlbSkgPT4gewogICAgICAgIGlmIChpdGVtLnZhbHVlID4gYWNjLnZhbHVlKSB7CiAgICAgICAgICByZXR1cm4gaXRlbTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGFjYzsKICAgICAgfSwgZGF0YVswXSk7CgogICAgICByZXR1cm4gewogICAgICAgIHRvdGFsOiBgJHttYXguaG91cn0gVVRDYCwKICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgcmVuZGVyZXI6IHsKICAgICAgICBncmlkOiB7CiAgICAgICAgICBkaXNhYmxlZDogdHJ1ZSwKICAgICAgICB9LAogICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwo=</text>
+        <text encoding="base64">ICAgICAgZGF0YUZpZWxkczogewogICAgICAgIGNhdGVnb3J5OiAnZGF0ZScsCiAgICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGF0YU1hcHBlciB9IGZyb20gJy4uL3N0b3JlL3N0cmVhbXMvZGF0YU1hcHBlcnMnOwo=</text>
+        <text encoding="base64">ICAgICAgY2F0ZWdvcnk6ICdkZXBhcnRtZW50JywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhdGVnb3J5OiAnZGVwYXJ0bWVudCcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIHN0cmVhbXNEYXRhLmRhdGFbcGFyYW1zLm1ldHJpY3NdLmNvdW50czsK</text>
+        <text encoding="base64">ICAgICAgcmVuZGVyZXI6IHsKICAgICAgICBiYXNlR3JpZDogewogICAgICAgICAgZGlzYWJsZWQ6IHRydWUsCiAgICAgICAgfSwKICAgICAgICBncmlkOiB7CiAgICAgICAgICBzdHJva2VPcGFjaXR5OiAwLjA3LAogICAgICAgIH0sCiAgICAgIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbWluOiAwLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIGRhdGFNYXBwZXJbcGFyYW1zLnN0YXRpc3RpY3NUeXBlXSgKICAgICAgLy8gICBzdHJlYW1zRGF0YS5kYXRhW3BhcmFtcy5tZXRyaWNzXS5kYXRhLnRvSlNPTigpLAogICAgICAvLyApOwo=</text>
+        <text encoding="base64">ICAgICAgdGl0bGU6IHsKICAgICAgICB0ZXh0OiAnVW5pdHMgc29sZCAoTSknLAogICAgICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwo=</text>
+        <text encoding="base64">ICAgICAgZGF0YUZpZWxkczogewogICAgICAgIGNhdGVnb3J5OiAnY291bnRyeScsCiAgICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvdW50OiBhbnksCg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIHR5cGU6ICdDb2x1bW5TZXJpZXMnLAogICAgICAgIGRhdGFGaWVsZHM6IHsKICAgICAgICAgIHZhbHVlOiAncHJvZml0JywKICAgICAgICAgIGNhdGVnb3J5OiAnZGVwYXJ0bWVudCcsCiAgICAgICAgfSwKICAgICAgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTdHJlYW1NZXRyaWNzXD4=</last-search>
+      <last-search encoding="base64">XDxidWlsZENoYXJ0U2VyaWVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdHJlYW1NZXRyaWNzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxidWlsZENoYXJ0U2VyaWVzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>play</last-substitute>
       <last-dir>1</last-dir>
@@ -2221,7 +2227,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzd2l0Y2hMYWJlbFBlcmNlbnRzXD4=</entry>
         <entry encoding="base64">XDxpc01vbnRobHlcPg==</entry>
         <entry encoding="base64">XDxsYWJlbFw+</entry>
         <entry encoding="base64">R2V0IA==</entry>
@@ -2234,13 +2239,14 @@
         <entry>Finished</entry>
         <entry encoding="base64">XDxnZXRTdGF0dXNMYWJlbFw+</entry>
         <entry encoding="base64">XDxpc1NjaGVkdWxlZFw+</entry>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxjb21tb25DaGFydFByb3BzXD4=</entry>
         <entry>Streams</entry>
         <entry encoding="base64">XDxTdHJlYW1zXD4=</entry>
         <entry encoding="base64">XDx0aW1lXD4=</entry>
         <entry>Link</entry>
         <entry encoding="base64">XDxTdHJlYW1NZXRyaWNzXD4=</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry encoding="base64">XDxidWlsZENoYXJ0U2VyaWVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action FileChooser.NewFolder</entry>
