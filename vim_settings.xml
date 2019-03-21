@@ -1484,10 +1484,10 @@
         <mark key="." line="24" column="18" />
         <mark key="^" line="106" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/ChartBuilder.ts" timestamp="1553166156062">
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/ChartBuilder.ts" timestamp="1553170781946">
         <mark key="'" line="19" column="6" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="70" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/streams/index.ts" timestamp="1553098967626">
         <mark key="[" line="0" column="0" />
@@ -1949,12 +1949,12 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/Chart.tsx" timestamp="1553166715078">
-        <mark key="'" line="71" column="4" />
-        <mark key="[" line="57" column="10" />
-        <mark key="]" line="57" column="15" />
-        <mark key="." line="57" column="15" />
-        <mark key="^" line="57" column="15" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/Chart.tsx" timestamp="1553170972969">
+        <mark key="'" line="73" column="4" />
+        <mark key="[" line="50" column="11" />
+        <mark key="]" line="50" column="12" />
+        <mark key="^" line="50" column="11" />
+        <mark key="." line="50" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/restream-web/api/server/controllers/authentication.js" timestamp="1551105637935">
         <mark key="[" line="397" column="0" />
@@ -2173,44 +2173,44 @@
       <jump line="19" column="6" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/ChartBuilder.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dateX</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNlcmllcy50b29sdGlwVGV4dCA9ICd7dmFsdWV9JzsK</text>
       </register>
       <register name="-" type="4">
-        <text>dateX</text>
+        <text>country</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWlsZENoYXJ0U2VyaWVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyZXI6IHsKICAgICAgICBncmlkOiB7CiAgICAgICAgICBkaXNhYmxlZDogdHJ1ZSwKICAgICAgICB9LAogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIHNlcmllcy50b29sdGlwVGV4dCA9ICd7dmFsdWV9JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGF0YUZpZWxkczogewogICAgICAgIGNhdGVnb3J5OiAnZGF0ZScsCiAgICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2F0ZWdvcnk6ICdkZXBhcnRtZW50JywK</text>
+        <text encoding="base64">ICBkYXRhOiBbXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhdGVnb3J5OiAnZGVwYXJ0bWVudCcsCg==</text>
+        <text encoding="base64">ICAgICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgIH0sIDEwMCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyZXI6IHsKICAgICAgICBiYXNlR3JpZDogewogICAgICAgICAgZGlzYWJsZWQ6IHRydWUsCiAgICAgICAgfSwKICAgICAgICBncmlkOiB7CiAgICAgICAgICBzdHJva2VPcGFjaXR5OiAwLjA3LAogICAgICAgIH0sCiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFydC5kYXRhID0gZGF0YTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbWluOiAwLAo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFydC5kYXRhID0gZGF0YTsKICAgICAgfSwgMTAwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGl0bGU6IHsKICAgICAgICB0ZXh0OiAnVW5pdHMgc29sZCAoTSknLAogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgY291bnRyeTogbmV3IERhdGUoKSwKICAgICAgdW5pdHM6IDUwMCwKICAgIH0sCiAgICB7CiAgICAgIGNvdW50cnk6IG5ldyBEYXRlKCksCiAgICAgIHVuaXRzOiAzMDAsCiAgICB9LAogICAgewogICAgICBjb3VudHJ5OiBuZXcgRGF0ZSgpLAogICAgICB1bml0czogMjAwLAogICAgfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGF0YUZpZWxkczogewogICAgICAgIGNhdGVnb3J5OiAnY291bnRyeScsCiAgICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHR5cGU6ICdDb2x1bW5TZXJpZXMnLAogICAgICAgIGRhdGFGaWVsZHM6IHsKICAgICAgICAgIHZhbHVlOiAncHJvZml0JywKICAgICAgICAgIGNhdGVnb3J5OiAnZGVwYXJ0bWVudCcsCiAgICAgICAgfSwKICAgICAgfSwK</text>
+        <text encoding="base64">ICBoaWRkZW5TdGF0ZTogewogICAgcHJvcGVydGllczogewogICAgICBvcGFjaXR5OiAwLAogICAgfSwKICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY291bnRyeTogMiwK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
