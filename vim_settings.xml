@@ -866,11 +866,11 @@
         <mark key="^" line="8" column="49" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553176896518">
+      <file name="/Dummy.txt" timestamp="1553178397957">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="38" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateChoicePanel/ShareToActivateChoicePanel.tsx" timestamp="1549983682086">
         <mark key="[" line="31" column="36" />
@@ -1891,12 +1891,12 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/Chart.tsx" timestamp="1553172763664">
-        <mark key="'" line="74" column="4" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="60" column="34" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/Chart.tsx" timestamp="1553177872924">
+        <mark key="'" line="79" column="4" />
+        <mark key="[" line="63" column="46" />
+        <mark key="]" line="63" column="47" />
+        <mark key="^" line="63" column="47" />
+        <mark key="." line="63" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/restream-web/api/server/controllers/authentication.js" timestamp="1551105637935">
         <mark key="[" line="397" column="0" />
@@ -2116,43 +2116,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Zml4OiBsaW50IGVycm9ycwo=</text>
+        <text encoding="base64">ZmVhdDogcmVwbGFjZSByZWR1eCB3aXRoIG1vYnggb24gYW5hbHl0aWNzIHN0cmVhbXMK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>toolt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlcmllcy50b29sdGlwVGV4dCA9ICd7dmFsdWV9JzsK</text>
+        <text encoding="base64">ICAgICAgICBnZXRUb29sdGlwVGV4dCh0ZXh0OiBzdHJpbmcpIHsKICAgICAgICAgIHJldHVybiAnPj4+ICcgKyB0ZXh0ICsgJyA8PDwnOwogICAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiBsaW50IGVycm9ycwo=</text>
+        <text encoding="base64">ZmVhdDogcmVwbGFjZSByZWR1eCB3aXRoIG1vYnggb24gYW5hbHl0aWNzIHN0cmVhbXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWRhcHRlcjogewogICAgICAgIGdldFRvb2x0aXBUZXh0KHRleHQ6IHN0cmluZykgewogICAgICAgICAgcmV0dXJuICc+Pj4gJyArIHRleHQgKyAnIDw8PCc7CiAgICAgICAgfSwKICAgICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuYXV0aFN0b3JlIS5hcHBTdW1vRW5hYmxlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgdG9vbHRpcFRleHQ6ICgpID0+ICd0ZWV0M3RldGV0JywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0OiAne3ZhbHVlfScsCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRUb29sdGlwVGV4dCh0ZXh0OiBzdHJpbmcpIHsKICAgICAgICAgIHJldHVybiAnMTExMTExMTExMTEnICsgdGV4dCArICcgPDw8JzsKICAgICAgICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHN3aXRjaCAodHlwZSkgewogICAgLy8gICBjYXNlIENoYXJ0Vmlld1R5cGUuTElORToKICAgIC8vICAgICBjb25zdCBjaGFydCA9IG5ldyBDaGFydEJ1aWxkZXIoQ2hhcnRUeXBlLlhZQ2hhcnQpCiAgICAvLyAgICAgICAuc2V0Q29udGFpbmVySWQoY29udGFpbmVySWQpCiAgICAvLyAgICAgICAuc2V0U2VyaWVzKENoYXJ0U2VyaWVzVHlwZS5MSU5FKQogICAgLy8gICAgICAgLnNldEluaXRpYWxEYXRhKFtdKQogICAgLy8gICAgICAgLmJ1aWxkKCk7CiAgICAvLyAgICAgcmV0dXJuIGNiKGNoYXJ0KTsKICAgIC8vICAgY2FzZSBDaGFydFZpZXdUeXBlLkhFQVQ6CiAgICAvLyAgICAgcmV0dXJuIGNiKAogICAgLy8gICAgICAgbmV3IENoYXJ0QnVpbGRlcihDaGFydFR5cGUuWFlDaGFydCkKICAgIC8vICAgICAgICAgLnNldENvbnRhaW5lcklkKGNvbnRhaW5lcklkKQogICAgLy8gICAgICAgICAuc2V0SW5pdGlhbERhdGEoW10pCiAgICAvLyAgICAgICAgIC5idWlsZEhlYXRNYXAoKSwKICAgIC8vICAgICApOwogICAgLy8gICBkZWZhdWx0OgogICAgLy8gICAgIHRocm93IEVycm9yKCk7CiAgICAvLyB9Cg==</text>
+        <text encoding="base64">Zml4OiBsaW50IGVycm9ycwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuYXV0aFN0b3JlIS5hcHBTdW1vRW5hYmxlZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0OiAne3ZhbHVlfScsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zml4OiBhZGQgY291bnRkb3duCg==</text>
+        <text encoding="base64">ICAgIC8vIHN3aXRjaCAodHlwZSkgewogICAgLy8gICBjYXNlIENoYXJ0Vmlld1R5cGUuTElORToKICAgIC8vICAgICBjb25zdCBjaGFydCA9IG5ldyBDaGFydEJ1aWxkZXIoQ2hhcnRUeXBlLlhZQ2hhcnQpCiAgICAvLyAgICAgICAuc2V0Q29udGFpbmVySWQoY29udGFpbmVySWQpCiAgICAvLyAgICAgICAuc2V0U2VyaWVzKENoYXJ0U2VyaWVzVHlwZS5MSU5FKQogICAgLy8gICAgICAgLnNldEluaXRpYWxEYXRhKFtdKQogICAgLy8gICAgICAgLmJ1aWxkKCk7CiAgICAvLyAgICAgcmV0dXJuIGNiKGNoYXJ0KTsKICAgIC8vICAgY2FzZSBDaGFydFZpZXdUeXBlLkhFQVQ6CiAgICAvLyAgICAgcmV0dXJuIGNiKAogICAgLy8gICAgICAgbmV3IENoYXJ0QnVpbGRlcihDaGFydFR5cGUuWFlDaGFydCkKICAgIC8vICAgICAgICAgLnNldENvbnRhaW5lcklkKGNvbnRhaW5lcklkKQogICAgLy8gICAgICAgICAuc2V0SW5pdGlhbERhdGEoW10pCiAgICAvLyAgICAgICAgIC5idWlsZEhlYXRNYXAoKSwKICAgIC8vICAgICApOwogICAgLy8gICBkZWZhdWx0OgogICAgLy8gICAgIHRocm93IEVycm9yKCk7CiAgICAvLyB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
