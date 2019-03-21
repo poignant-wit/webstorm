@@ -1477,8 +1477,8 @@
         <mark key="." line="24" column="18" />
         <mark key="^" line="106" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/ChartBuilder.ts" timestamp="1553170781946">
-        <mark key="'" line="19" column="6" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/ChartBuilder.ts" timestamp="1553172698322">
+        <mark key="'" line="134" column="19" />
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="35" />
       </file>
@@ -1936,12 +1936,12 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/Chart.tsx" timestamp="1553171684019">
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/Chart.tsx" timestamp="1553172763664">
         <mark key="'" line="74" column="4" />
-        <mark key="[" line="50" column="27" />
-        <mark key="]" line="50" column="27" />
-        <mark key="^" line="50" column="27" />
-        <mark key="." line="50" column="27" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="60" column="34" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-web/api/server/controllers/authentication.js" timestamp="1551105637935">
         <mark key="[" line="397" column="0" />
@@ -2058,8 +2058,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="330" column="48" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/menu/ProductMenu/ProductMenu.tsx" />
-      <jump line="335" column="33" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/menu/ProductMenu/ProductMenu.tsx" />
       <jump line="399" column="24" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/menu/ProductMenu/ProductMenu.tsx" />
       <jump line="92" column="46" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/menu/ProductMenu/ProductMenu.tsx" />
       <jump line="89" column="10" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/menu/ProductMenu/ProductMenu.tsx" />
@@ -2158,55 +2156,57 @@
       <jump line="76" column="4" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/Chart.tsx" />
       <jump line="80" column="4" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/Chart.tsx" />
       <jump line="19" column="6" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/ChartBuilder.ts" />
+      <jump line="127" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/ChartBuilder.ts" />
+      <jump line="134" column="19" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/ChartBuilder.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Zml4OiBhZGQgY291bnRkb3duCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0OiAne3ZhbHVlfScsCg==</text>
       </register>
       <register name="-" type="4">
         <text>LineSeries</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidWlsZENoYXJ0U2VyaWVzXD4=</text>
+        <text>toolt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlcmllcy50b29sdGlwVGV4dCA9ICd7dmFsdWV9JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiBhZGQgY291bnRkb3duCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0OiAne3ZhbHVlfScsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyAgIDxkaXYgY2xhc3M9InNjLWJvb3RzdHJhcCI+PGgyIGNsYXNzPSJicDMtaGVhZGluZyIgc3R5bGU9IgogIC8vICAgICB0ZXh0LXRyYW5zZm9ybTogY2FwaXRhbGl6ZTsKICAvLyAiPlN0cmVhbSByZWNvcmRlZCB2aWRlb3MgPHNwYW4gc3R5bGU9IgogIC8vICAgICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOwogIC8vICAgICBiYWNrZ3JvdW5kOiAjMDA2NWZmOwogIC8vICAgICBib3JkZXItcmFkaXVzOiA0cHg7CiAgLy8gICAgIHBhZGRpbmc6IDAgMnB4OwogIC8vICAgICBmb250LXNpemU6IDg4JTsKICAvLyAiPkxpdmU8L3NwYW4+PC9oMj48ZGl2IGNsYXNzPSIiIHN0eWxlPSIKICAvLyAgICAgbWFyZ2luLWJvdHRvbTogMjBweDsKICAvLyAgICAgZm9udC1zaXplOiAxOHB4OwogIC8vICAgICBtYXgtd2lkdGg6IDUwMDBweDsKICAvLyAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogIC8vICAgICBvcGFjaXR5OiAuNzsKICAvLyAiPjwvZGl2PjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIC8vIHN3aXRjaCAodHlwZSkgewogICAgLy8gICBjYXNlIENoYXJ0Vmlld1R5cGUuTElORToKICAgIC8vICAgICBjb25zdCBjaGFydCA9IG5ldyBDaGFydEJ1aWxkZXIoQ2hhcnRUeXBlLlhZQ2hhcnQpCiAgICAvLyAgICAgICAuc2V0Q29udGFpbmVySWQoY29udGFpbmVySWQpCiAgICAvLyAgICAgICAuc2V0U2VyaWVzKENoYXJ0U2VyaWVzVHlwZS5MSU5FKQogICAgLy8gICAgICAgLnNldEluaXRpYWxEYXRhKFtdKQogICAgLy8gICAgICAgLmJ1aWxkKCk7CiAgICAvLyAgICAgcmV0dXJuIGNiKGNoYXJ0KTsKICAgIC8vICAgY2FzZSBDaGFydFZpZXdUeXBlLkhFQVQ6CiAgICAvLyAgICAgcmV0dXJuIGNiKAogICAgLy8gICAgICAgbmV3IENoYXJ0QnVpbGRlcihDaGFydFR5cGUuWFlDaGFydCkKICAgIC8vICAgICAgICAgLnNldENvbnRhaW5lcklkKGNvbnRhaW5lcklkKQogICAgLy8gICAgICAgICAuc2V0SW5pdGlhbERhdGEoW10pCiAgICAvLyAgICAgICAgIC5idWlsZEhlYXRNYXAoKSwKICAgIC8vICAgICApOwogICAgLy8gICBkZWZhdWx0OgogICAgLy8gICAgIHRocm93IEVycm9yKCk7CiAgICAvLyB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29uZmlnIH0gZnJvbSAnLi4vLi4vLi4vY29uZmlnJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkYXRhOiBbXSwK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgIH0sIDEwMCk7Cg==</text>
+        <text encoding="base64">Zml4OiBhZGQgY291bnRkb3duCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFydC5kYXRhID0gZGF0YTsK</text>
+        <text encoding="base64">ICAvLyAgIDxkaXYgY2xhc3M9InNjLWJvb3RzdHJhcCI+PGgyIGNsYXNzPSJicDMtaGVhZGluZyIgc3R5bGU9IgogIC8vICAgICB0ZXh0LXRyYW5zZm9ybTogY2FwaXRhbGl6ZTsKICAvLyAiPlN0cmVhbSByZWNvcmRlZCB2aWRlb3MgPHNwYW4gc3R5bGU9IgogIC8vICAgICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOwogIC8vICAgICBiYWNrZ3JvdW5kOiAjMDA2NWZmOwogIC8vICAgICBib3JkZXItcmFkaXVzOiA0cHg7CiAgLy8gICAgIHBhZGRpbmc6IDAgMnB4OwogIC8vICAgICBmb250LXNpemU6IDg4JTsKICAvLyAiPkxpdmU8L3NwYW4+PC9oMj48ZGl2IGNsYXNzPSIiIHN0eWxlPSIKICAvLyAgICAgbWFyZ2luLWJvdHRvbTogMjBweDsKICAvLyAgICAgZm9udC1zaXplOiAxOHB4OwogIC8vICAgICBtYXgtd2lkdGg6IDUwMDBweDsKICAvLyAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogIC8vICAgICBvcGFjaXR5OiAuNzsKICAvLyAiPjwvZGl2PjwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFydC5kYXRhID0gZGF0YTsKICAgICAgfSwgMTAwKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgY29uZmlnIH0gZnJvbSAnLi4vLi4vLi4vY29uZmlnJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgY291bnRyeTogbmV3IERhdGUoKSwKICAgICAgdW5pdHM6IDUwMCwKICAgIH0sCiAgICB7CiAgICAgIGNvdW50cnk6IG5ldyBEYXRlKCksCiAgICAgIHVuaXRzOiAzMDAsCiAgICB9LAogICAgewogICAgICBjb3VudHJ5OiBuZXcgRGF0ZSgpLAogICAgICB1bml0czogMjAwLAogICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidWlsZENoYXJ0U2VyaWVzXD4=</last-search>
+      <last-search>toolt</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidWlsZENoYXJ0U2VyaWVzXD4=</last-pattern>
+      <last-pattern>toolt</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>play</last-substitute>
       <last-dir>1</last-dir>
@@ -2214,7 +2214,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc01vbnRobHlcPg==</entry>
         <entry encoding="base64">XDxsYWJlbFw+</entry>
         <entry encoding="base64">R2V0IA==</entry>
         <entry>7-d</entry>
@@ -2234,6 +2233,7 @@
         <entry encoding="base64">XDxTdHJlYW1NZXRyaWNzXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxidWlsZENoYXJ0U2VyaWVzXD4=</entry>
+        <entry>toolt</entry>
       </history-search>
       <history-cmd>
         <entry>action FileChooser.NewFolder</entry>
