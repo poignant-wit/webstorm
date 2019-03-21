@@ -1817,12 +1817,12 @@
         <mark key="." line="17" column="60" />
         <mark key="^" line="17" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsStreamsPage.tsx" timestamp="1553152983904">
-        <mark key="'" line="155" column="0" />
-        <mark key="[" line="31" column="13" />
-        <mark key="]" line="31" column="13" />
-        <mark key="^" line="82" column="7" />
-        <mark key="." line="31" column="13" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsStreamsPage.tsx" timestamp="1553157349679">
+        <mark key="'" line="163" column="0" />
+        <mark key="[" line="125" column="32" />
+        <mark key="]" line="125" column="57" />
+        <mark key="." line="125" column="57" />
+        <mark key="^" line="125" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/offers/constructor/components/OffersConstructorDialog/index.ts" timestamp="1550665973813">
         <mark key="[" line="0" column="0" />
@@ -2098,47 +2098,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>metrics</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>metrics</text>
       </register>
       <register name="/" type="4">
         <text>Link</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBkYXRhOiBhbnkgPSB1c2VDb21wdXRlZCgoKSA9PiB7CiAgICBjb25zdCBzdHJlYW1zRGF0YSA9IHJvb3RTdG9yZS5hbmFseXRpY3Muc3RyZWFtc0RhdGEoc3RvcmVQYXJhbXMpOwogICAgaWYgKHN0cmVhbXNEYXRhKSB7CiAgICAgIHJldHVybiBkYXRhTWFwcGVyW3BhcmFtcy5zdGF0aXN0aWNzVHlwZV0oCiAgICAgICAgc3RyZWFtc0RhdGEuZGF0YVtwYXJhbXMubWV0cmljc10uZGF0YS50b0pTT04oKSwKICAgICAgKTsKICAgIH0KCiAgICByZXR1cm4gW107CiAgfSwgW3BhcmFtc10pOwo=</text>
+        <text encoding="base64">Y29uc3QgbWV0cmljc01hcHBpbmc6IHsgW2tleTogc3RyaW5nXTogU3RyZWFtTWV0cmljcyB9ID0gewogIHN0cmVhbXM6IFN0cmVhbU1ldHJpY3MuU1RSRUFNUywKICAnYXZnLXN0cmVhbS1kdXJhdGlvbic6IFN0cmVhbU1ldHJpY3MuQVZFUkFHRV9TVFJFQU1TX0RVUkFUSU9OLAogICdzdHJlYW1lZC1ob3Vycyc6IFN0cmVhbU1ldHJpY3MuU1RSRUFNRURfSE9VUlMsCn07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICBjb25zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGRhdGFNYXBwZXJbcGFyYW1zLnN0YXRpc3RpY3NUeXBlXSgKICAgICAgKTsK</text>
+        <text encoding="base64">ICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJlYW1zRGF0YS5kYXRhW3BhcmFtcy5tZXRyaWNzXS5kYXRhLnRvSlNPTigpLAo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGRhdGFNYXBwZXJbcGFyYW1zLnN0YXRpc3RpY3NUeXBlXSgKICAgICAgKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHJlYW1zRGF0YS5kYXRhW3BhcmFtcy5tZXRyaWNzXS5kYXRhLnRvSlNPTigpLAo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIH07Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHJldHVybiAoaTogc3RyaW5nW10pID0+IHsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>({
     })</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgZGF0ZTogbW9tZW50LnVuaXgoK2lbMF0pLnRvRGF0ZSgpLAogICAgICB2YWx1ZTogK2lbMV0sCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>({
-        date: moment.unix(+i[0]).toDate(),
-        value: +i[1],
-      })</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
