@@ -575,11 +575,11 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsStreamsPage/streamsHeatChartConfig.ts" timestamp="1553251549285">
-        <mark key="[" line="36" column="17" />
-        <mark key="]" line="36" column="17" />
-        <mark key="." line="36" column="17" />
-        <mark key="^" line="36" column="17" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsStreamsPage/streamsHeatChartConfig.ts" timestamp="1553255295924">
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+        <mark key="^" line="10" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/Auth.ts" timestamp="1551766630160">
         <mark key="[" line="38" column="38" />
@@ -1436,10 +1436,10 @@
         <mark key="." line="24" column="18" />
         <mark key="^" line="106" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/ChartBuilder.ts" timestamp="1553251503682">
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/ChartBuilder.ts" timestamp="1553255294167">
         <mark key="'" line="134" column="19" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="143" column="36" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="38" />
         <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/streams/index.ts" timestamp="1553098967626">
@@ -1568,7 +1568,7 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="24" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsStreamsPage/AnalyticsStreamsPage.tsx" timestamp="1553249893330">
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsStreamsPage/AnalyticsStreamsPage.tsx" timestamp="1553255373228">
         <mark key="[" line="153" column="33" />
         <mark key="]" line="153" column="47" />
         <mark key="." line="153" column="47" />
@@ -1854,7 +1854,7 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/Chart.tsx" timestamp="1553251192338">
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/Chart.tsx" timestamp="1553255224229">
         <mark key="'" line="28" column="4" />
         <mark key="[" line="41" column="20" />
         <mark key="]" line="41" column="21" />
@@ -2079,44 +2079,44 @@
       <jump line="136" column="20" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/payment/PaymentContainer.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>columnId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtaW5HcmlkRGlzdGFuY2U6IDQwLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>columnId</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93RGlzY291bnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcHJvcGVydHk6ICdmaWxsJywKICAgICAgbWluOiBhbTRjb3JlLmNvbG9yKCcjMjUzODU4JyksCiAgICAgIG1heDogYW00Y29yZS5jb2xvcignIzY3YjdkYycpLAo=</text>
+        <text encoding="base64">ICAgICAgICBtaW5HcmlkRGlzdGFuY2U6IDQwLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoZWF0UnVsZXM6IHsKICAgICAgICAgIGZvcmNlQ3JlYXRlOiB0cnVlLAogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICB0b29sdGlwVGV4dDogJ3Rlc3QnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaGVhdFJ1bGVzOiB7CiAgICAgICAgZm9yY2VDcmVhdGU6IHRydWUsCiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZvcmNlQ3JlYXRlOiB0cnVlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0YXJnZXQ6ICdjb2x1bW5JZCcsCg==</text>
+        <text encoding="base64">ICAgICAgaWQ6ICdjWCcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbCg==</text>
+        <text encoding="base64">ICAgICAgaWQ6ICdjWScsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTogewogICAgICAgIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGhlaWdodDogYW00Y29yZS5wZXJjZW50KDIwMCksCiAgICAgICAgICB3aWR0aDogYW00Y29yZS5wZXJjZW50KDIwMCksCiAgICAgICAgICBzdHJva2VXaWR0aDogMSwKICAgICAgICAgIHN0cm9rZU9wYWNpdHk6IDAuMiwKICAgICAgICAgIHRvb2x0aXBUZXh0OiAndGVzdCcsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0YXIK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMuc3Vic2NyaWJlKG9mZmVyKTsK</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTogewogICAgICAgICAgY29sdW1uOiB7CiAgICAgICAgICB9LAogICAgICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
