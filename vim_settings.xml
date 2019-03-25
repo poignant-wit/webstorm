@@ -901,10 +901,10 @@
         <mark key="^" line="8" column="49" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553521322249">
+      <file name="/Dummy.txt" timestamp="1553521829589">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="38" />
+        <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateChoicePanel/ShareToActivateChoicePanel.tsx" timestamp="1549983682086">
@@ -1683,6 +1683,7 @@
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/AnalyticsChartCountContainer.tsx" timestamp="1553521776832" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/server/routes.ts" timestamp="1549958000995">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -2162,7 +2163,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ZmVhdDogbWF4IHZhbHVlIG9uIGVtcHR5IGxpbmUgY2hhcnQK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -2174,31 +2175,31 @@
         <text encoding="base64">ICAgICAgICAoaXRlbTogYW55KSA9PiB7CiAgICAgICAgY29uc29sZS5sb2coaXRlbS50b0pTT04oKSk7CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ZmVhdDogbWF4IHZhbHVlIG9uIGVtcHR5IGxpbmUgY2hhcnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgcmVuZGVyKCk6IFJlYWN0LlJlYWN0Tm9kZSB7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmVhdDogY3VzdG9taXplIHRvb2x0aXBzL2xhYmVsc9Cw0LLQstCy0YjQsNCyawo=</text>
+        <text encoding="base64">ICBwdWJsaWMgcmVuZGVyKCk6IFJlYWN0LlJlYWN0Tm9kZSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmVhdDogY3VzdG9taXplIHRvb2x0aXBzL2xhYmVsc9Cw0LLQstCy0YjQsNCyawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGNvbmZpZyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGNvbmZpZyk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUKICAgIGNvbnNvbGUubG9nKHJhd0NvbmZpZy55QXhlcywgY29uZmlnLnlBeGVzLCBkYXRhKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbWF4OiA1LAo=</text>
+        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUKICAgIGNvbnNvbGUubG9nKHJhd0NvbmZpZy55QXhlcywgY29uZmlnLnlBeGVzLCBkYXRhKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgbWF4OiA1LAo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
