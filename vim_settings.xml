@@ -597,11 +597,11 @@
         <mark key="." line="11" column="24" />
         <mark key="^" line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/RootStore.ts" timestamp="1553099450491">
-        <mark key="[" line="7" column="38" />
-        <mark key="]" line="8" column="17" />
-        <mark key="." line="8" column="17" />
-        <mark key="^" line="8" column="17" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/RootStore.ts" timestamp="1553603179840">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="5" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/channels/ChannelsStore.ts" timestamp="1549464951078">
         <mark key="[" line="12" column="2" />
@@ -2138,7 +2138,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogaGVhdCBtYXAgdG9vbHRpcHMK</text>
+        <text encoding="base64">aW1wb3J0IHsgYWN0aW9uLCBvYnNlcnZhYmxlIH0gZnJvbSAnbW9ieCc7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>k</text>
@@ -2150,31 +2150,31 @@
         <text encoding="base64">ICBjb25zdCBpc0xvYWRpbmcgPSB1c2VDb21wdXRlZCgoKSA9PiB7CiAgICBjb25zdCBzdHJlYW1zRGF0YSA9IHJvb3RTdG9yZS5hbmFseXRpY3Muc3RyZWFtc0RhdGEoc3RvcmVQYXJhbXMpOwogICAgaWYgKHN0cmVhbXNEYXRhKSB7CiAgICAgIHJldHVybiBzdHJlYW1zRGF0YS5sb2FkaW5nOwogICAgfQoKICAgIHJldHVybiB0cnVlOwogIH0sIFtwYXJhbXNdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogaGVhdCBtYXAgdG9vbHRpcHMK</text>
+        <text encoding="base64">aW1wb3J0IHsgYWN0aW9uLCBvYnNlcnZhYmxlIH0gZnJvbSAnbW9ieCc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAge2lzRXJyb3IgJiYgPENoYXJ0RXJyb3IgLz59Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlQ29udGV4dCB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
+        <text encoding="base64">ZmVhdDogaGVhdCBtYXAgdG9vbHRpcHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAge2lzRXJyb3IgJiYgPENoYXJ0RXJyb3IgLz59Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFuJm5ic3A7dW5rbm93biBlcnJvciBvY2N1cnJlZCEgUGxlYXNlIGNoZWNrIHlvdXIgaW50ZXJuZXQgY29ubmVjdGlvbiBhbmQKICAgIHRyeSBhZ2Fpbi4gSWYmbmJzcDt0aGlzIGVycm9yIHBlcnNpc3RzLCBwbGVhc2UgY29udGFjdCBzdXBwb3J0Lgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LmNoYXJ0LWVycm9yIGRpdiB7CiAgei1pbmRleDogMTA7Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmaWx0ZXI6IGJsdXIoMXB4KTsgLXdlYmtpdC1maWx0ZXI6IGJsdXIoMXB4KTsK</text>
+        <text encoding="base64">ICAgIEFuJm5ic3A7dW5rbm93biBlcnJvciBvY2N1cnJlZCEgUGxlYXNlIGNoZWNrIHlvdXIgaW50ZXJuZXQgY29ubmVjdGlvbiBhbmQKICAgIHRyeSBhZ2Fpbi4gSWYmbmJzcDt0aGlzIGVycm9yIHBlcnNpc3RzLCBwbGVhc2UgY29udGFjdCBzdXBwb3J0Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3Bpbm5lciwgU3Bpbm5lclR5cGUgfSBmcm9tICcuLi8uLi8uLi9jb21wb25lbnRzL2NvbW1vbi9TcGlubmVyJzsK</text>
+        <text encoding="base64">LmNoYXJ0LWVycm9yIGRpdiB7CiAgei1pbmRleDogMTA7Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>action $SelectAll</text>
