@@ -904,11 +904,11 @@
         <mark key="^" line="8" column="49" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553667979138">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="13" />
+      <file name="/Dummy.txt" timestamp="1553671857876">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateChoicePanel/ShareToActivateChoicePanel.tsx" timestamp="1549983682086">
         <mark key="[" line="31" column="36" />
@@ -2150,8 +2150,8 @@
       <jump line="87" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/dataMappers/dataMapper.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ducks</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Zml4OiBjb2RlIHN0eWxlCg==</text>
       </register>
       <register name="-" type="4">
         <text>ducks</text>
@@ -2163,31 +2163,31 @@
         <text encoding="base64">ICBpZiAoc3RhdGlzdGljc1R5cGUgPT09IFN0YXRpc3RpY3NUeXBlLlNUUkVBTVMpIHsKICAgIGNvbnNvbGUubG9nKCdzdHJlYW1zJywgY291bnRzLnRvdGFsKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGRpc2FibGVkOiB0cnVlLAo=</text>
+        <text encoding="base64">Zml4OiBjb2RlIHN0eWxlCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgIC8vIGRpc2FibGVkOiB0cnVlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGRpc2FibGVkOiB0cnVlLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiBjYigKICAgIC8vICAgbmV3IENoYXJ0QnVpbGRlcihDaGFydFR5cGUuWFlDaGFydCkKICAgIC8vICAgICAuc2V0Q29udGFpbmVySWQoY29udGFpbmVySWQpCiAgICAvLyAgICAgLnNldEluaXRpYWxEYXRhKFtdKQogICAgLy8gICAgIC5idWlsZEhlYXRNYXAoKSwKICAgIC8vICk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIHJldHVybiBjYigKICAgIC8vICAgbmV3IENoYXJ0QnVpbGRlcihDaGFydFR5cGUuWFlDaGFydCkKICAgIC8vICAgICAuc2V0Q29udGFpbmVySWQoY29udGFpbmVySWQpCiAgICAvLyAgICAgLnNldEluaXRpYWxEYXRhKFtdKQogICAgLy8gICAgIC5idWlsZEhlYXRNYXAoKSwKICAgIC8vICk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ2hhcnRCdWlsZGVyLCBDaGFydFNlcmllc1R5cGUsIENoYXJ0VHlwZSB9IGZyb20gJy4vQ2hhcnRCdWlsZGVyJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgQ2hhcnRTZXJpZXNUeXBlIH0gZnJvbSAnLi9DaGFydEJ1aWxkZXInOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQ2hhcnRCdWlsZGVyLCBDaGFydFNlcmllc1R5cGUsIENoYXJ0VHlwZSB9IGZyb20gJy4vQ2hhcnRCdWlsZGVyJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmVhdDogdXNlIGhlYXRNYXBNYXRyaXggZW5kcG9pbnQK</text>
+        <text encoding="base64">ZXhwb3J0IHsgQ2hhcnRTZXJpZXNUeXBlIH0gZnJvbSAnLi9DaGFydEJ1aWxkZXInOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUNsaWVudEFwcHNTdGF0ZSB9IGZyb20gJy4vZGV2cG9ydGFsL3R5cGVzJzsK</text>
+        <text encoding="base64">ZmVhdDogdXNlIGhlYXRNYXBNYXRyaXggZW5kcG9pbnQK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
