@@ -953,6 +953,12 @@
         <mark key="." line="32" column="13" />
         <mark key="^" line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/channels/__tests__/ChannelsByUserStore.test.ts" timestamp="1553765357168">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/errors/ErrorFactory.ts" timestamp="1552911728865">
         <mark key="[" line="66" column="77" />
         <mark key="]" line="66" column="74" />
@@ -2213,10 +2219,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ChannelsStore</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ChannelsStore</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93TG9vcGluZ0NhbGxvdXRcPg==</text>
@@ -2225,35 +2231,31 @@
         <text encoding="base64">ICAgIGNoYW5uZWxzU3RvcmUubG9hZENoYW5uZWxzQnlVc2VySWQodXNlcklkKTsKICAgIGV4cGVjdChjaGFubmVsc1N0b3JlLmNvbGxlY3Rpb24ubGVuZ3RoKS50b0VxdWFsKDEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZmxvdywgZ2V0RW52LCB0eXBlcyB9IGZyb20gJ21vYngtc3RhdGUtdHJlZSc7Cg==</text>
+        <text encoding="base64">ICBpdCgnW3ZpZXdzXSBjaGFubmVsc0J5VXNlcklkJywgKCkgPT4gewogICAgY29uc3QgdXNlcklkID0gMTAwOwogICAgY29uc3QgY2hhbm5lbHNTdG9yZSA9IENoYW5uZWxzU3RvcmUuY3JlYXRlKCk7CiAgICBjaGFubmVsc1N0b3JlLnNldENvbGxlY3Rpb24oW3sgdXNlcklkIH1dKTsKCiAgICBleHBlY3QoY2hhbm5lbHNTdG9yZS5jaGFubmVsc0J5VXNlcklkKHVzZXJJZCkpLnRvRXF1YWwoewogICAgICB1c2VySWQsCiAgICAgIGNvbGxlY3Rpb246IFtdLAogICAgICBlcnJvcjogbnVsbCwKICAgIH0pOwogICAgZXhwZWN0KGNoYW5uZWxzU3RvcmUuY2hhbm5lbHNCeVVzZXJJZCgxMDEpKS50b0VxdWFsKG51bGwpOwogIH0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ2hhbm5lbE1vZGVsIH0gZnJvbSAnLi9DaGFubmVsTW9kZWwnOwo=</text>
+        <text encoding="base64">ICBpdCgnW2FjdGlvbnNdIGxvYWRDaGFubmVsc0J5VXNlcklkIHN1Y2Nlc3MnLCAoKSA9PiB7CiAgICBjb25zdCBjaGFubmVsc1N0b3JlID0gQ2hhbm5lbHNTdG9yZS5jcmVhdGUoKTsKICAgIGNvbnN0IHVzZXJJZCA9IDEwMDsKCiAgICBjaGFubmVsc1N0b3JlLmxvYWRDaGFubmVsc0J5VXNlcklkKHVzZXJJZCk7CiAgICBleHBlY3QoY2hhbm5lbHNTdG9yZS5jb2xsZWN0aW9uLmxlbmd0aCkudG9FcXVhbCgxKTsKCiAgICBjaGFubmVsc1N0b3JlLmxvYWRDaGFubmVsc0J5VXNlcklkKHVzZXJJZCk7CiAgICBleHBlY3QoY2hhbm5lbHNTdG9yZS5jb2xsZWN0aW9uLmxlbmd0aCkudG9FcXVhbCgxKTsKCiAgICBjaGFubmVsc1N0b3JlLmxvYWRDaGFubmVsc0J5VXNlcklkKDEwMSk7CiAgICBleHBlY3QoY2hhbm5lbHNTdG9yZS5jb2xsZWN0aW9uLmxlbmd0aCkudG9FcXVhbCgyKTsKICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gZXhwb3J0IGNvbnN0IENoYW5uZWxzU3RvcmUgPSBtYWtlQ29sbGVjdGlvblN0b3JlPHR5cGVvZiBDaGFubmVsTW9kZWw+KAovLyAgIENoYW5uZWxNb2RlbCwKLy8gKQovLyAgIC52aWV3cyhzZWxmID0+ICh7Ci8vICAgICBnZXQgY2hhbm5lbHMoKSB7Ci8vICAgICAgIHJldHVybiBzZWxmLmNvbGxlY3Rpb247Ci8vICAgICB9LAovLyAgIH0pKQovLyAgIC5hY3Rpb25zKHNlbGYgPT4gKHsKLy8gICAgIGxvYWRDaGFubmVsczogZmxvdyhmdW5jdGlvbiooKSB7Ci8vICAgICAgIGNvbnN0IGFwaSA9IGdldEVudihzZWxmKS5BcGlSZXN0cmVhbS5jaGFubmVsczsKLy8gICAgICAgdHJ5IHsKLy8gICAgICAgICBjb25zdCBkYXRhID0geWllbGQgYXBpLmdldENoYW5uZWxzKCk7Ci8vICAgICAgICAgc2VsZi5zZXRDb2xsZWN0aW9uKAovLyAgICAgICAgICAgZGF0YS5jaGFubmVscy5tYXAoKGNoYW5uZWw6IGFueSkgPT4gKHsKLy8gICAgICAgICAgICAgLi4uY2hhbm5lbCwKLy8gICAgICAgICAgICAgaWQ6IGNoYW5uZWwuaWQudG9TdHJpbmcoKSwKLy8gICAgICAgICAgICAgcGxhdGZvcm06IGNoYW5uZWwuc3RyZWFtaW5nUGxhdGZvcm1JZCwKLy8gICAgICAgICAgIH0pKSwKLy8gICAgICAgICApOwovLyAgICAgICB9IGNhdGNoIChlKSB7Ci8vICAgICAgICAgc2VsZi5zZXRFcnJvcih7IG1lc3NhZ2U6IGUubWVzc2FnZSB9KTsKLy8gICAgICAgfQovLyAgICAgfSksCi8vICAgfSkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZmxvdywgZ2V0RW52LCB0eXBlcyB9IGZyb20gJ21vYngtc3RhdGUtdHJlZSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbG9hZCBjaGFubmVscycpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQ2hhbm5lbE1vZGVsIH0gZnJvbSAnLi9DaGFubmVsTW9kZWwnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gZXhwb3J0IGNvbnN0IENoYW5uZWxzU3RvcmUgPSBtYWtlQ29sbGVjdGlvblN0b3JlPHR5cGVvZiBDaGFubmVsTW9kZWw+KAovLyAgIENoYW5uZWxNb2RlbCwKLy8gKQovLyAgIC52aWV3cyhzZWxmID0+ICh7Ci8vICAgICBnZXQgY2hhbm5lbHMoKSB7Ci8vICAgICAgIHJldHVybiBzZWxmLmNvbGxlY3Rpb247Ci8vICAgICB9LAovLyAgIH0pKQovLyAgIC5hY3Rpb25zKHNlbGYgPT4gKHsKLy8gICAgIGxvYWRDaGFubmVsczogZmxvdyhmdW5jdGlvbiooKSB7Ci8vICAgICAgIGNvbnN0IGFwaSA9IGdldEVudihzZWxmKS5BcGlSZXN0cmVhbS5jaGFubmVsczsKLy8gICAgICAgdHJ5IHsKLy8gICAgICAgICBjb25zdCBkYXRhID0geWllbGQgYXBpLmdldENoYW5uZWxzKCk7Ci8vICAgICAgICAgc2VsZi5zZXRDb2xsZWN0aW9uKAovLyAgICAgICAgICAgZGF0YS5jaGFubmVscy5tYXAoKGNoYW5uZWw6IGFueSkgPT4gKHsKLy8gICAgICAgICAgICAgLi4uY2hhbm5lbCwKLy8gICAgICAgICAgICAgaWQ6IGNoYW5uZWwuaWQudG9TdHJpbmcoKSwKLy8gICAgICAgICAgICAgcGxhdGZvcm06IGNoYW5uZWwuc3RyZWFtaW5nUGxhdGZvcm1JZCwKLy8gICAgICAgICAgIH0pKSwKLy8gICAgICAgICApOwovLyAgICAgICB9IGNhdGNoIChlKSB7Ci8vICAgICAgICAgc2VsZi5zZXRFcnJvcih7IG1lc3NhZ2U6IGUubWVzc2FnZSB9KTsKLy8gICAgICAgfQovLyAgICAgfSksCi8vICAgfSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbG9hZCBjaGFubmVscycpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-      userId,
-      collection: [],
-      error: null,
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
