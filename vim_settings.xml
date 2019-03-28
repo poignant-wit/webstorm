@@ -441,10 +441,11 @@
         <mark key="." line="80" column="30" />
         <mark key="^" line="86" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/channels/ChannelsStore.ts" timestamp="1553765088916">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/channels/ChannelsStore.ts" timestamp="1553770755130">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="19" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateChoicePanel/ShareToActivateChoicePanel.scss" timestamp="1549983433047">
         <mark key="[" line="5" column="29" />
@@ -482,11 +483,11 @@
         <mark key="^" line="28" column="30" />
         <mark key="." line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/api/restream/__mocks__/channels.ts" timestamp="1553769133032">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="46" />
-        <mark key="." line="8" column="46" />
-        <mark key="^" line="8" column="46" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/api/restream/__mocks__/channels.ts" timestamp="1553770962085">
+        <mark key="[" line="12" column="51" />
+        <mark key="]" line="12" column="51" />
+        <mark key="." line="12" column="51" />
+        <mark key="^" line="12" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/offers/constructor/components/OffersConstructorDialog/OffersConstructorDialog.scss" timestamp="1550829901198">
         <mark key="[" line="42" column="21" />
@@ -959,12 +960,12 @@
         <mark key="." line="32" column="13" />
         <mark key="^" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/channels/__tests__/ChannelsByUserStore.test.ts" timestamp="1553769054859">
-        <mark key="'" line="23" column="36" />
-        <mark key="[" line="24" column="11" />
-        <mark key="]" line="25" column="3" />
-        <mark key="^" line="25" column="3" />
-        <mark key="." line="25" column="3" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/channels/__tests__/ChannelsByUserStore.test.ts" timestamp="1553770642091">
+        <mark key="'" line="22" column="36" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="49" />
+        <mark key="^" line="24" column="3" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/errors/ErrorFactory.ts" timestamp="1552911728865">
         <mark key="[" line="66" column="77" />
@@ -1611,11 +1612,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/channels/__tests__/ChannelsStore.test.ts" timestamp="1553768368444">
-        <mark key="[" line="36" column="52" />
-        <mark key="]" line="36" column="53" />
-        <mark key="." line="36" column="53" />
-        <mark key="^" line="35" column="41" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/channels/__tests__/ChannelsStore.test.ts" timestamp="1553770898945">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="11" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="37" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/upgrade/containers/UpgradeContainer.tsx" timestamp="1553002601903">
         <mark key="[" line="18" column="53" />
@@ -2226,45 +2227,45 @@
       <jump line="23" column="36" filename="$USER_HOME$/Documents/developer-portal-frontend/src/store/channels/__tests__/ChannelsByUserStore.test.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{ data: {} }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRvbmUoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>{ data: {} }</text>
+        <text>it</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93TG9vcGluZ0NhbGxvdXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpdCgnQ3JlYXRlIENoYW5uZWxzQnlVc2VyU3RvcmUgc3VjY2VzcycsICgpID0+IHsKICAgIGNvbnN0IGNoYW5uZWxzU3RvcmUgPSBDaGFubmVsc0J5VXNlclN0b3JlLmNyZWF0ZSh7IHVzZXJJZDogMTAwIH0pOwoKICAgIGV4cGVjdChjaGFubmVsc1N0b3JlLmNvbGxlY3Rpb24ubGVuZ3RoKS50b0VxdWFsKDApOwogICAgZXhwZWN0KGNoYW5uZWxzU3RvcmUuZXJyb3IpLnRvRXF1YWwobnVsbCk7CiAgICBleHBlY3QoY2hhbm5lbHNTdG9yZS5pc0Vycm9yKS50b0VxdWFsKGZhbHNlKTsKICAgIGV4cGVjdChjaGFubmVsc1N0b3JlLnVzZXJJZCkudG9FcXVhbCgxMDApOwogIH0pOwo=</text>
+        <text encoding="base64">ICAgIGRvbmUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>{
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZG9uZSgpOwo=</text>
+        <text encoding="base64">ICAgIGNoYW5uZWxzU3RvcmUubG9hZENoYW5uZWxzQnlVc2VySWQodXNlcklkKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbG9hZCcsIGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdChjaGFubmVsc1N0b3JlLmVycm9yKS50b0VxdWFsKG51bGwpOwogICAgZXhwZWN0KGNoYW5uZWxzU3RvcmUuaXNFcnJvcikudG9FcXVhbChmYWxzZSk7CiAgICBleHBlY3QoY2hhbm5lbHNTdG9yZS51c2VySWQpLnRvRXF1YWwoMTAwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ2hhbm5lbHNTdG9yZSB9IGZyb20gJy4uL0NoYW5uZWxzU3RvcmUnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRvbmUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXhpb3NJbnN0YW5jZSB9IGZyb20gJ2F4aW9zJzsK</text>
+      <register name="8" type="4">
+        <text>{
+    }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZGF0YSB9ID0gYXdhaXQgYXBpQ2xpZW50LmdldChgYXBpL2NoYW5uZWwvZ2V0Q2hhbm5lbHNgKTsK</text>
+        <text encoding="base64">ICAgICAgZG9uZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
