@@ -644,6 +644,12 @@
         <mark key="^" line="17" column="15" />
         <mark key="." line="17" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/initials.ts" timestamp="1553778967921">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/header/components/HeaderIntercomButton/HeaderIntercomButton.tsx" timestamp="1550124105637">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="17" />
@@ -1223,6 +1229,12 @@
         <mark key="." line="3" column="75" />
         <mark key="^" line="3" column="75" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/DropDown/DropDown.tsx" timestamp="1553778839254">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/analytics/index.ts" timestamp="1551977088641">
         <mark key="[" line="0" column="35" />
         <mark key="]" line="0" column="34" />
@@ -1526,7 +1538,11 @@
         <mark key="." line="24" column="18" />
         <mark key="^" line="106" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/AnalyticsAudiencePage.tsx" timestamp="1553777163557" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/AnalyticsAudiencePage.tsx" timestamp="1553779357198">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/chartConfigs/streamsHeatEmptyChartConfig.ts" timestamp="1553595741274">
         <mark key="[" line="86" column="1" />
         <mark key="]" line="86" column="1" />
@@ -1675,9 +1691,10 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="24" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsStreamsPage/AnalyticsStreamsPage.tsx" timestamp="1553777138682">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="27" column="3" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsStreamsPage/AnalyticsStreamsPage.tsx" timestamp="1553779396969">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/errors/components/BrowserError/index.ts" timestamp="1551440653900">
         <mark key="[" line="0" column="30" />
@@ -1907,10 +1924,11 @@
         <mark key="^" line="37" column="15" />
         <mark key="." line="37" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useUrlSearchDates.ts" timestamp="1553774895922">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useUrlSearchDates.ts" timestamp="1553779280572">
+        <mark key="[" line="25" column="28" />
+        <mark key="]" line="25" column="37" />
+        <mark key="." line="25" column="37" />
+        <mark key="^" line="25" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/api/restream/analytics.ts" timestamp="1553667307080">
         <mark key="[" line="33" column="59" />
@@ -2117,11 +2135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="17" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/videos/components/VideoItem.tsx" />
-      <jump line="338" column="21" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsListItem/EventsListItem.tsx" />
-      <jump line="434" column="35" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsListItem/EventsListItem.tsx" />
-      <jump line="494" column="23" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsListItem/EventsListItem.tsx" />
       <jump line="475" column="10" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsListItem/EventsListItem.tsx" />
       <jump line="300" column="48" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/domain/events/EventModel.ts" />
       <jump line="285" column="51" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/domain/events/EventModel.ts" />
@@ -2217,49 +2230,54 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/store/platforms/PlatformsStore.ts" />
       <jump line="4" column="3" filename="$USER_HOME$/Documents/developer-portal-frontend/src/store/platforms/PlatformsStore.ts" />
       <jump line="23" column="36" filename="$USER_HOME$/Documents/developer-portal-frontend/src/store/channels/__tests__/ChannelsByUserStore.test.ts" />
+      <jump line="4" column="6" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/DropDown/DateRangeDropDown.tsx" />
+      <jump line="85" column="1" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsStreamsPage/AnalyticsStreamsPage.tsx" />
+      <jump line="84" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsStreamsPage/AnalyticsStreamsPage.tsx" />
+      <jump line="40" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsStreamsPage/AnalyticsStreamsPage.tsx" />
+      <jump line="75" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsStreamsPage/AnalyticsStreamsPage.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZyb209Ii9hbmFseXRpY3Mvc3RyZWFtLW1ldHJpY3MiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>endDate</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93TG9vcGluZ0NhbGxvdXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZHJvcERvd25JdGVtcyA9IFsxLCA0LCAxMiwgMjRdLm1hcCh2YWx1ZSA9PiB7CiAgcmV0dXJuIHsKICAgIHZhbHVlOiBtb21lbnQoKQogICAgICAuc3VidHJhY3QodmFsdWUsICd3ZWVrcycpCiAgICAgIC51bml4KCksCiAgICB0aXRsZTogdmFsdWUgPT09IDEgPyAnUGFzdCB3ZWVrJyA6IGBQYXN0ICR7dmFsdWV9IHdlZWtzYCwKICB9Owp9KTsK</text>
+        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKCFmcm9tIHx8ICF0aWxsKSB7CiAgICAgIGNoYW5nZURhdGVzKHsgZnJvbTogaW5pdGlhbFN0YXJ0RGF0ZSwgdGlsbDogaW5pdGlhbEVuZERhdGUgfSk7CiAgICB9CiAgfSwgW10pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZyb209Ii9hbmFseXRpY3Mvc3RyZWFtLW1ldHJpY3MiCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAvLyB1c2VFZmZlY3QoKCkgPT4gewogIC8vICAgaWYgKCFmcm9tIHx8ICF0aWxsKSB7CiAgLy8gICAgIGNoYW5nZURhdGVzKHsgZnJvbTogaW5pdGlhbFN0YXJ0RGF0ZSwgdGlsbDogaW5pdGlhbEVuZERhdGUgfSk7CiAgLy8gICB9CiAgLy8gfSwgW10pOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHsgRHJvcERvd24gfSBmcm9tICcuLi8uLi9jb21wb25lbnRzL0Ryb3BEb3duJzsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGVudW0gQW5hbHl0aWNzQXVkaWVuY2VSb3V0ZVBhcmFtIHsKICBBVkVSQUdFCiAgCn0K</text>
+        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKCFmcm9tIHx8ICF0aWxsKSB7CiAgICAgIGNoYW5nZURhdGVzKHsgZnJvbTogaW5pdGlhbFN0YXJ0RGF0ZSwgdGlsbDogaW5pdGlhbEVuZERhdGUgfSk7CiAgICB9CiAgfSwgW10pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3aGl0ZUxpc3Q6IHN0cmluZ1tdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZWRpcmVjdFRvLAo=</text>
+        <text encoding="base64">ICAvLyBjb25zdCBzZWFyY2hQYXJhbXMgPSBuZXcgVVJMU2VhcmNoUGFyYW1zKHByb3BzLmxvY2F0aW9uLnNlYXJjaCk7CiAgLy8KICAvLyBjb25zdCBmcm9tID0gc2VhcmNoUGFyYW1zLmdldChRdWVyeVBhcmFtcy5GUk9NKTsKICAvLyBjb25zdCB0aWxsID0gc2VhcmNoUGFyYW1zLmdldChRdWVyeVBhcmFtcy5USUxMKTsKICAvLwogIC8vIGNvbnN0IHNldFF1ZXJ5UGFyYW1zID0gKHsKICAvLyAgIHN0YXJ0RGF0ZSwKICAvLyAgIGVuZERhdGUsCiAgLy8gfTogewogIC8vICAgc3RhcnREYXRlOiBudW1iZXI7CiAgLy8gICBlbmREYXRlOiBudW1iZXI7CiAgLy8gfSkgPT4gewogIC8vICAgc2VhcmNoUGFyYW1zLnNldChRdWVyeVBhcmFtcy5GUk9NLCBzdGFydERhdGUudG9TdHJpbmcoKSk7CiAgLy8gICBzZWFyY2hQYXJhbXMuc2V0KFF1ZXJ5UGFyYW1zLlRJTEwsIGVuZERhdGUudG9TdHJpbmcoKSk7CiAgLy8gICBwcm9wcy5oaXN0b3J5LnB1c2goewogIC8vICAgICBwYXRobmFtZTogcHJvcHMuaGlzdG9yeS5sb2NhdGlvbi5wYXRobmFtZSwKICAvLyAgICAgc2VhcmNoOiBzZWFyY2hQYXJhbXMudG9TdHJpbmcoKSwKICAvLyAgIH0pOwogIC8vIH07CiAgLy8KICAvLyB1c2VFZmZlY3QoKCkgPT4gewogIC8vICAgaWYgKCFmcm9tIHx8ICF0aWxsKSB7CiAgLy8gICAgIHNldFF1ZXJ5UGFyYW1zKHsgc3RhcnREYXRlOiBpbml0aWFsU3RhcnREYXRlLCBlbmREYXRlOiBpbml0aWFsRW5kRGF0ZSB9KTsKICAvLyAgIH0KICAvLyB9LCBbZnJvbSwgdGlsbF0pOwogIC8vCiAgLy8gY29uc3QgaGFuZGxlQ2hhbmdlRGF0ZVJhbmdlID0gKHsKICAvLyAgIHN0YXJ0RGF0ZSwKICAvLyAgIGVuZERhdGUsCiAgLy8gfTogewogIC8vICAgc3RhcnREYXRlOiBudW1iZXI7CiAgLy8gICBlbmREYXRlOiBudW1iZXI7CiAgLy8gfSkgPT4gewogIC8vICAgc2V0UXVlcnlQYXJhbXMoeyBzdGFydERhdGUsIGVuZERhdGUgfSk7CiAgLy8gfTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3RpdGxlTWFwcGluZ1twcm9wcy5tYXRjaC5wYXJhbXMubWV0cmljc119Cg==</text>
+        <text encoding="base64">Y29uc3QgZHJvcERvd25JdGVtcyA9IFsxLCA0LCAxMiwgMjRdLm1hcCh2YWx1ZSA9PiB7CiAgcmV0dXJuIHsKICAgIHZhbHVlOiBtb21lbnQoKQogICAgICAuc3VidHJhY3QodmFsdWUsICd3ZWVrcycpCiAgICAgIC51bml4KCksCiAgICB0aXRsZTogdmFsdWUgPT09IDEgPyAnUGFzdCB3ZWVrJyA6IGBQYXN0ICR7dmFsdWV9IHdlZWtzYCwKICB9Owp9KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action TypeHierarchy</text>
+        <text>action EditorDuplicate</text>
       </register>
     </registers>
     <search>
@@ -2308,9 +2326,9 @@
         <entry>action ImplementMethods</entry>
         <entry>action $SelectAll</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
         <entry>action TypeHierarchy</entry>
+        <entry>action EditorDuplicate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
