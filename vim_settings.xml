@@ -911,10 +911,11 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsStreamsStore.ts" timestamp="1553667351535">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsStreamsStore.ts" timestamp="1553849604717">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="37" />
+        <mark key="." line="13" column="37" />
+        <mark key="^" line="13" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsActiveListPlaceholder/EventsActiveListPlaceholder.tsx" timestamp="1550560077522">
         <mark key="[" line="15" column="11" />
@@ -1496,10 +1497,10 @@
         <mark key="^" line="288" column="64" />
         <mark key="." line="288" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/App.tsx" timestamp="1553773990292">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/App.tsx" timestamp="1553849508646">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/dialogs/components/ConfirmationAlert.tsx" timestamp="1549889301864">
         <mark key="[" line="22" column="14" />
@@ -2076,11 +2077,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/useAnalyticsAudienceViewModel.ts" timestamp="1553846107269">
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="11" column="14" />
-        <mark key="^" line="11" column="14" />
-        <mark key="." line="11" column="14" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/useAnalyticsAudienceViewModel.ts" timestamp="1553849571099">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/index.ts" timestamp="1549635292586">
         <mark key="[" line="92" column="0" />
@@ -2259,10 +2260,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>contains</text>
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text>contains</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93TG9vcGluZ0NhbGxvdXRcPg==</text>
@@ -2271,34 +2272,34 @@
         <text encoding="base64">ICBmdW5jdGlvbiBjaGFuZ2VEYXRlcyh7IGZyb20sIHRpbGwgfTogeyBmcm9tOiBudW1iZXI7IHRpbGw6IG51bWJlciB9KSB7CiAgICBzZWFyY2hQYXJhbXMuc2V0KFF1ZXJ5UGFyYW1zLkZST00sIGZyb20udG9TdHJpbmcoKSk7CiAgICBzZWFyY2hQYXJhbXMuc2V0KFF1ZXJ5UGFyYW1zLlRJTEwsIHRpbGwudG9TdHJpbmcoKSk7CgogICAgaGlzdG9yeS5wdXNoKHsKICAgICAgcGF0aG5hbWU6IGhpc3RvcnkubG9jYXRpb24ucGF0aG5hbWUsCiAgICAgIHNlYXJjaDogc2VhcmNoUGFyYW1zLnRvU3RyaW5nKCksCiAgICB9KTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocGx1Y2soJ2lkJywgY2hhbm5lbHNEYXRhKSk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCByb290U3RvcmUgPSB1c2VDb250ZXh0KFJvb3RTdG9yZUNvbnRleHQpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwbHVjaygnaWQnLCBjaGFubmVsc0RhdGEpKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhnZXRTbmFwc2hvdChyb290U3RvcmUpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBjaGFubmVsc1NlbGVjdGVkSWQgPSBjaGFubmVsc0RhdGEuCg==</text>
+        <text encoding="base64">ICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBjaGEgPSAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhnZXRTbmFwc2hvdChyb290U3RvcmUpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCB1c2VySWQgPSBwYXJhbXMudXNlcklkIHx8IHJvb3RTdG9yZS5hdXRoLnVzZXJJZCE7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocGx1Y2soJ2lkJywgY2hhbm5lbHNEYXRhKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB1c2VySWQ/OiBudW1iZXI7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwbHVjaygnaWQnLCBjaGFubmVsc0RhdGEpKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCB1c2VySWQgPSB1c2VVcmxTZWFyY2hVc2VySWQoeyBzZWFyY2g6IHByb3BzLmxvY2F0aW9uLnNlYXJjaCB9KTsK</text>
+        <text encoding="base64">ICBjb25zdCBjaGFubmVsc1NlbGVjdGVkSWQgPSBjaGFubmVsc0RhdGEuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -2347,9 +2348,9 @@
         <entry>action ImplementMethods</entry>
         <entry>action $SelectAll</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
-        <entry>action GotoFile</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
