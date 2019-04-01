@@ -195,11 +195,10 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/audience/AnalyticsAudienceStore.ts" timestamp="1554110213071">
-        <mark key="[" line="74" column="40" />
-        <mark key="]" line="74" column="40" />
-        <mark key="." line="74" column="40" />
-        <mark key="^" line="73" column="54" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/audience/AnalyticsAudienceStore.ts" timestamp="1554112376016">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/mobx-intro/src/App.js" timestamp="1547743093255">
         <mark key="[" line="6" column="18" />
@@ -465,10 +464,11 @@
         <mark key="." line="11" column="4" />
         <mark key="^" line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/AnalyticsStore.ts" timestamp="1554109981951">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/AnalyticsStore.ts" timestamp="1554112422559">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="^" line="108" column="20" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateChoicePanel/ShareToActivateChoicePanel.scss" timestamp="1549983433047">
         <mark key="[" line="5" column="29" />
@@ -1572,12 +1572,12 @@
         <mark key="." line="24" column="18" />
         <mark key="^" line="106" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/AnalyticsAudiencePage.tsx" timestamp="1554108874612">
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/AnalyticsAudiencePage.tsx" timestamp="1554112555115">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="58" />
-        <mark key="]" line="19" column="58" />
-        <mark key="." line="19" column="58" />
-        <mark key="^" line="19" column="58" />
+        <mark key="[" line="43" column="29" />
+        <mark key="]" line="43" column="38" />
+        <mark key="^" line="43" column="38" />
+        <mark key="." line="43" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/chartConfigs/streamsHeatEmptyChartConfig.ts" timestamp="1553595741274">
         <mark key="[" line="86" column="1" />
@@ -2098,11 +2098,12 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/useAnalyticsAudienceViewModel.ts" timestamp="1554109855228">
-        <mark key="[" line="81" column="14" />
-        <mark key="]" line="81" column="18" />
-        <mark key="^" line="81" column="18" />
-        <mark key="." line="81" column="18" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/useAnalyticsAudienceViewModel.ts" timestamp="1554112598099">
+        <mark key="'" line="126" column="8" />
+        <mark key="[" line="81" column="12" />
+        <mark key="]" line="81" column="12" />
+        <mark key="." line="81" column="12" />
+        <mark key="^" line="81" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/index.ts" timestamp="1549635292586">
         <mark key="[" line="92" column="0" />
@@ -2178,7 +2179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="5" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/AnalyticsStore.ts" />
       <jump line="56" column="12" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/AnalyticsChartContainer.tsx" />
       <jump line="84" column="15" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/AnalyticsChartContainer.tsx" />
       <jump line="71" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/AnalyticsChartContainer.tsx" />
@@ -2278,6 +2278,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/AnalyticsAudiencePage.tsx" />
       <jump line="40" column="36" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/useAnalyticsAudienceViewModel.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/useAnalyticsAudienceViewModel.ts" />
+      <jump line="123" column="8" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/useAnalyticsAudienceViewModel.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2287,46 +2288,46 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG93TG9vcGluZ0NhbGxvdXRcPg==</text>
+        <text encoding="base64">XDxkYXRhSGVhdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIFtBdWRpZW5jZU1ldHJpY3MuQVZFUkFHRV9WSUVXRVJTXTogewogICAgICAgICAgICBoZWF0OiBbJ3ZpZXdlcnNTdGF0aXN0aWNzJywgJ2F2Z192aWV3ZXJzJ10sCiAgICAgICAgICAgIG5vSGVhdDogWyd2aWV3ZXJzU3RhdGlzdGljcycsICdhdmdfdmlld2VycyddLAogICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhSGVhdDogZ2V0RGF0YSh0cnVlKSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coa2V5KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvb3RTdG9yZS5hbmFseXRpY3MuYXVkaWVuY2UubGVuZ3RoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByb290U3RvcmUuYW5hbHl0aWNzLmF1ZGllbmNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVhdDogWwogICAgICAgICAgICAgIAogICAgICAgICAgICBdLAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2dldEFpZGllbmNlJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY291bnRzOiB0eQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzZWxmLmRhdGEubGVuZ3RoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhbmFseXRpY3MuZGF0YSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzZWxmLmRhdGEpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYXJzZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCFkYXRhKSB7CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgIGRhdGE6IFtdLAogICAgICAgICAgY291bnRzOiB7fSwKICAgICAgICB9OwogICAgICB9CiAgICAgIHJldHVybiBkYXRhOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaG93TG9vcGluZ0NhbGxvdXRcPg==</last-search>
+      <last-search encoding="base64">XDxkYXRhSGVhdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG93TG9vcGluZ0NhbGxvdXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhSGVhdFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>play</last-substitute>
       <last-dir>1</last-dir>
@@ -2334,7 +2335,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aW1lXD4=</entry>
         <entry>Link</entry>
         <entry encoding="base64">XDxTdHJlYW1NZXRyaWNzXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
@@ -2354,6 +2354,7 @@
         <entry>_active</entry>
         <entry>900</entry>
         <entry encoding="base64">XDxzaG93TG9vcGluZ0NhbGxvdXRcPg==</entry>
+        <entry encoding="base64">XDxkYXRhSGVhdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>action FileChooser.NewFolder</entry>
