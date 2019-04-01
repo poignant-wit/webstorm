@@ -195,6 +195,12 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="15" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/audience/AnalyticsAudienceStore.ts" timestamp="1554101352178">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="36" />
+        <mark key="^" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/mobx-intro/src/App.js" timestamp="1547743093255">
         <mark key="[" line="6" column="18" />
         <mark key="]" line="15" column="0" />
@@ -452,6 +458,12 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
         <mark key="^" line="11" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/AnalyticsStore.ts" timestamp="1554101184352">
+        <mark key="[" line="32" column="14" />
+        <mark key="]" line="32" column="24" />
+        <mark key="^" line="32" column="24" />
+        <mark key="." line="32" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateChoicePanel/ShareToActivateChoicePanel.scss" timestamp="1549983433047">
         <mark key="[" line="5" column="29" />
@@ -2261,11 +2273,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/useAnalyticsAudienceViewModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cmVmYWN0b3I6IG1ha2UgdXNlVXJsU2VhcmNoRGF0ZXMgaG9va9Cw0LLQstCy0LDQsmtqZHMK</text>
+      <register name="&quot;" type="4">
+        <text>makeCollectionStore</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>makeCollectionStore</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93TG9vcGluZ0NhbGxvdXRcPg==</text>
