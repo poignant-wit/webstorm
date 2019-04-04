@@ -598,11 +598,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="6" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/components/EventsCreateEditDialog.scss" timestamp="1554354753889">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="94" column="176" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/components/EventsCreateEditDialog.scss" timestamp="1554355450352">
+        <mark key="[" line="94" column="176" />
+        <mark key="]" line="94" column="187" />
+        <mark key="." line="94" column="187" />
+        <mark key="^" line="94" column="187" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/channels/__tests__/ChannelsByUserStore.test.ts" timestamp="1554201514444">
         <mark key="[" line="24" column="54" />
@@ -1838,11 +1838,11 @@
         <mark key="." line="67" column="33" />
         <mark key="^" line="67" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/components/EventsCreateEditLooping.tsx" timestamp="1554354769368">
-        <mark key="[" line="123" column="29" />
-        <mark key="]" line="123" column="56" />
-        <mark key="." line="123" column="56" />
-        <mark key="^" line="123" column="56" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/components/EventsCreateEditLooping.tsx" timestamp="1554355881559">
+        <mark key="[" line="123" column="85" />
+        <mark key="]" line="123" column="85" />
+        <mark key="." line="123" column="85" />
+        <mark key="^" line="123" column="85" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/server/controllers/authController.ts" timestamp="1553675816495">
         <mark key="[" line="63" column="17" />
@@ -2439,12 +2439,12 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="87" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" timestamp="1554301579374">
-        <mark key="'" line="420" column="13" />
-        <mark key="[" line="392" column="48" />
-        <mark key="]" line="392" column="63" />
-        <mark key="." line="392" column="63" />
-        <mark key="^" line="392" column="63" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" timestamp="1554356023718">
+        <mark key="'" line="146" column="2" />
+        <mark key="[" line="366" column="32" />
+        <mark key="]" line="367" column="12" />
+        <mark key="^" line="367" column="12" />
+        <mark key="." line="367" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/EventsListViewModel.tsx" timestamp="1554301230339">
         <mark key="[" line="268" column="0" />
@@ -2499,9 +2499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="51" filename="$USER_HOME$/Documents/developer-portal-frontend/src/routes/index.tsx" />
-      <jump line="51" column="21" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Menu/Menu.tsx" />
-      <jump line="56" column="16" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Menu/Menu.tsx" />
       <jump line="60" column="16" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Menu/Menu.tsx" />
       <jump line="55" column="16" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Menu/Menu.tsx" />
       <jump line="57" column="18" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Menu/Menu.module.scss" />
@@ -2599,55 +2596,58 @@
       <jump line="252" column="34" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/offers/components/OffersRegular.tsx" />
       <jump line="171" column="17" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/components/EventsCreateEditMain/EventsCreateEditMain.tsx" />
       <jump line="13" column="9" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/components/EventsCreateEditMain/EventsCreateEditMain.tsx" />
+      <jump line="313" column="9" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" />
+      <jump line="101" column="0" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" />
+      <jump line="146" column="2" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBib3JkZXI6IHNvbGlkIDFweCByZWQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEYXRlSW5wdXRcPg==</text>
+        <text>Callout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICgKICAgICAgdGhpcy5ldmVudHNTdG9yZS5hY3RpdmVFdmVudHMubGVuZ3RoID09PQogICAgICB0aGlzLnN1YnNjcmlwdGlvbnNTdG9yZS5jdXJyZW50U3Vic2NyaXB0aW9uLmxpbWl0YXRpb25zLmV2ZW50c0xpbWl0CiAgICApIHsKICAgICAgcmV0dXJuIHRoaXMudWlTdG9yZS5kaWFsb2dWaWV3U3RvcmUuc2hvd0RpYWxvZygKICAgICAgICBEaWFsb2dOYW1lLkNPTkZJUk1BVElPTl9BTEVSVCwKICAgICAgICB7CiAgICAgICAgICBwcm9wczogewogICAgICAgICAgICB0ZXh0OiAiWW91J3ZlIHJlYWNoZWQgdGhlIGxpbWl0IG9mIGFjdGl2ZSBxdWV1ZWQgZXZlbnRzLiIsCiAgICAgICAgICAgIGludGVudDogSW50ZW50LlBSSU1BUlksCiAgICAgICAgICAgIGljb246ICdjYWxlbmRhcicsCiAgICAgICAgICAgIGNvbmZpcm1CdXR0b25UZXh0OiAnVXBncmFkZScsCiAgICAgICAgICAgIG9uQ29uZmlybTogKCkgPT4gdGhpcy5yb3V0aW5nU3RvcmUucHVzaChyb3V0ZVBhdGgudXBncmFkZSh7fSkpLAogICAgICAgICAgfSwKICAgICAgICB9LAogICAgICApOwogICAgfQo=</text>
+        <text encoding="base64">ICBAb2JzZXJ2YWJsZSBwdWJsaWMgc2hvd0xvb3BpbmdDYWxsb3V0OiBib29sZWFuID0gZmFsc2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBib3JkZXI6IHNvbGlkIDFweCByZWQ7Cg==</text>
+        <text encoding="base64">ICAgIGlmKHRoaXMuc2hvd0xvb3BpbmdDYWxsb3V0KXsKICAgICAgdGhpcy5zaG93TG9vcGluZ0Vycm9yCiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0UHJvcHM9e3sgaW50ZW50OiBJbnRlbnQuREFOR0VSIH19Cg==</text>
+        <text encoding="base64">ICBAb2JzZXJ2YWJsZSBwdWJsaWMgc2hvd0xvb3Bpbmd0OiBib29sZWFuID0gZmFsc2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaW50ZW50PXtJbnRlbnQuREFOR0VSfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpbnRlbnQ9e0ludGVudC5EQU5HRVJ9Cg==</text>
+        <text encoding="base64">ICBib3JkZXI6IHNvbGlkIDFweCByZWQ7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0UHJvcHM9e3sgaW50ZW50OiBJbnRlbnQuREFOR0VSIH19Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0UHJvcHM9ewogICAgICAgICAgICAgICAgICBpbnRlbnQ6IEludGVudC5EYW5nZXIKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaW50ZW50PXtJbnRlbnQuREFOR0VSfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpbnRlbnQ9e0ludGVudC5EQU5HRVJ9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH19PC9VcGdyYWRlQ29udGV4dC5Db25zdW1lcj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0UHJvcHM9e3sgaW50ZW50OiBJbnRlbnQuREFOR0VSIH19Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvVXBncmFkZUNvbnRleHQuUHJvdmlkZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0UHJvcHM9ewogICAgICAgICAgICAgICAgICBpbnRlbnQ6IEludGVudC5EYW5nZXIKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEYXRlSW5wdXRcPg==</last-search>
+      <last-search>Callout</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEYXRlSW5wdXRcPg==</last-pattern>
+      <last-pattern>Callout</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>play</last-substitute>
       <last-dir>1</last-dir>
@@ -2655,9 +2655,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxlY3RlZENoYW5uZWxcPg==</entry>
-        <entry encoding="base64">XDxpbmNsdWRlc0lkXD4=</entry>
-        <entry>setCha</entry>
         <entry>set</entry>
         <entry>setEventC</entry>
         <entry encoding="base64">XDxBcHBUb2FzdGVyXD4=</entry>
@@ -2675,6 +2672,9 @@
         <entry encoding="base64">XDxpc1JlY29tbWVuZGVkXD4=</entry>
         <entry>looping</entry>
         <entry encoding="base64">XDxEYXRlSW5wdXRcPg==</entry>
+        <entry encoding="base64">XDxzaG93TG9vcGluZ0NhbGxvdXRcPg==</entry>
+        <entry>callout</entry>
+        <entry>Callout</entry>
       </history-search>
       <history-cmd>
         <entry>action FileChooser.NewFolder</entry>
