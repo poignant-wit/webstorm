@@ -2439,12 +2439,12 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="87" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" timestamp="1554356023718">
-        <mark key="'" line="146" column="2" />
-        <mark key="[" line="366" column="32" />
-        <mark key="]" line="367" column="12" />
-        <mark key="^" line="367" column="12" />
-        <mark key="." line="367" column="12" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" timestamp="1554358046003">
+        <mark key="'" line="427" column="10" />
+        <mark key="[" line="364" column="5" />
+        <mark key="]" line="365" column="3" />
+        <mark key="^" line="365" column="3" />
+        <mark key="." line="365" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/EventsListViewModel.tsx" timestamp="1554301230339">
         <mark key="[" line="268" column="0" />
@@ -2499,7 +2499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="16" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Menu/Menu.tsx" />
       <jump line="55" column="16" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Menu/Menu.tsx" />
       <jump line="57" column="18" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Menu/Menu.module.scss" />
       <jump line="104" column="38" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Menu/Menu.module.scss" />
@@ -2599,6 +2598,7 @@
       <jump line="313" column="9" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" />
       <jump line="101" column="0" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" />
       <jump line="146" column="2" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" />
+      <jump line="425" column="10" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/EventsDialogViewModel.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2608,7 +2608,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Callout</text>
+        <text encoding="base64">XDxyZWZyZXNoVmFsaWRUaW1lXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAb2JzZXJ2YWJsZSBwdWJsaWMgc2hvd0xvb3BpbmdDYWxsb3V0OiBib29sZWFuID0gZmFsc2U7Cg==</text>
@@ -2645,9 +2645,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Callout</last-search>
+      <last-search encoding="base64">XDxyZWZyZXNoVmFsaWRUaW1lXD4=</last-search>
       <last-offset />
-      <last-pattern>Callout</last-pattern>
+      <last-pattern encoding="base64">XDxyZWZyZXNoVmFsaWRUaW1lXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>play</last-substitute>
       <last-dir>1</last-dir>
@@ -2655,7 +2655,6 @@
     </search>
     <history>
       <history-search>
-        <entry>set</entry>
         <entry>setEventC</entry>
         <entry encoding="base64">XDxBcHBUb2FzdGVyXD4=</entry>
         <entry encoding="base64">XDxFdmVudFRvYXN0ZXJcPg==</entry>
@@ -2675,6 +2674,7 @@
         <entry encoding="base64">XDxzaG93TG9vcGluZ0NhbGxvdXRcPg==</entry>
         <entry>callout</entry>
         <entry>Callout</entry>
+        <entry encoding="base64">XDxyZWZyZXNoVmFsaWRUaW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action FileChooser.NewFolder</entry>
