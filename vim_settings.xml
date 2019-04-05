@@ -1415,11 +1415,10 @@
         <mark key="^" line="46" column="74" />
         <mark key="." line="46" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/useAnalyticsSessionViewModel.ts" timestamp="1554491822745">
-        <mark key="[" line="10" column="63" />
-        <mark key="]" line="12" column="20" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="12" column="20" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/useAnalyticsSessionViewModel.ts" timestamp="1554492745419">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/upgrade/contexts/UpgradeContext.ts" timestamp="1554365096607">
         <mark key="[" line="2" column="63" />
@@ -1593,7 +1592,12 @@
         <mark key="^" line="0" column="437" />
         <mark key="." line="0" column="437" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/contexts/AnalyticsStoreContext.tsx" timestamp="1554491805966" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/contexts/AnalyticsStoreContext.tsx" timestamp="1554493550330">
+        <mark key="[" line="46" column="4" />
+        <mark key="]" line="46" column="9" />
+        <mark key="." line="46" column="9" />
+        <mark key="^" line="46" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/AnalyticsSessionPageViewModel.ts" timestamp="1554454973019">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -2653,47 +2657,47 @@
       <jump line="7" column="57" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/contexts/AnalyticsStoreContext.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVycm9yOiBudWxsLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>loading</text>
       </register>
       <register name="/" type="4">
         <text>from</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGF0Y2goeyB0eXBlOiAndGVzdCcgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAwOiB7CiAgICAgICAgICBkYXRhOiBbXSwKICAgICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gc3RhdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVycm9yOiBudWxsLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY3Rpb24pOwo=</text>
+        <text encoding="base64">ZW51bSBEYXRhU3RhdGUgewogIElOSVQgPSAnaW5pdCcsCiAgTE9BRElORyA9ICdsb2FkaW5nJywKICAnTE9BREVEJyA9ICdsb2FkZWQnLAp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYWN0aW9uIH0gZnJvbSAnbW9ieCc7Cg==</text>
+        <text encoding="base64">ICAgICAgaWQ6IDEsCiAgICAgIGRhdGE6IHt9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2dldCBzdGF0aXN0aWNzIGJ5IGNoYW5uZWxzJywgc2Vzc2lvbi5jaGFubmVscy5sZW5ndGgpOwo=</text>
+        <text encoding="base64">ICBdLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdXNlcklkOiAxLAogICAgICBmcm9tOiAxLAogICAgICB0aWxsOiAxLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSwgZGlzcGF0Y2gpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXVkaWVuY2VNZXRyaWNzIH0gZnJvbSAnLi4vLi4vdHlwZXMnOwo=</text>
+        <text encoding="base64">ICByZXR1cm4gc3RhdGU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQW5hbHl0aWNzU3RvcmUsIElBbmFseXRpY3NTdG9yZSB9IGZyb20gJy4uL3N0b3JlJzsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY3Rpb24pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -2744,8 +2748,8 @@
         <entry>action $Paste</entry>
         <entry>action $SelectAll</entry>
         <entry>action Find</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
