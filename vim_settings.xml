@@ -248,11 +248,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/chart/js/charts.js" timestamp="1554642402238">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="^" line="68" column="41" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/Documents/_own/chart/js/charts.js" timestamp="1554662137724">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="26" column="5" />
+        <mark key="." line="17" column="13" />
+        <mark key="^" line="17" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/sessions/SessionsStore.ts" timestamp="1554467387004">
         <mark key="[" line="33" column="33" />
@@ -2674,44 +2674,62 @@
       <jump line="7" column="57" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/contexts/AnalyticsStoreContext.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{
+      set(v) {
+        value = v;
+        broadcast();
+      },
+      get() {
+        return value;
+      },
+      subscribe
+    }</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>from</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGN0eC5zdHJva2VSZWN0KDc1LCAxNDAsIDE1MCwgMTEwKTsK</text>
+        <text encoding="base64">ICAgIGxldCBzdWJzY3JpYmVycyA9IFtdOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{
+      set(v) {
+        value = v;
+        broadcast();
+      },
+      get() {
+        return value;
+      },
+      subscribe
+    }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc3Vic2NyaWJlKGZuKSB7CiAgICAgICAgc3Vic2NyaWJlcnMucHVzaChmbik7CiAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBmb3IgKGxldCBpID0gMDsgaSA8IDEwOyBpKyspIHsKICAvLyAgIGN0eC5saW5lV2lkdGggPSAwLjIKICAvLyAgIGN0eC5iZWdpblBhdGgoKTsKICAvLyAgIGN0eC5tb3ZlVG8oNDUgKiBpICwwICk7CiAgLy8gICBjdHgubGluZVRvKCA0NSAqIGksIGNhbnZhcy5oZWlnaHQpOwogIC8vICAgY3R4LnN0cm9rZSgpOwogIC8vIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBsZXQgY3R4Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIGN0eC4K</text>
+        <text encoding="base64">ICAgIGN0eCA9IGNhbnZhcy5nZXRDb250ZXh0KCcyZCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZS5vZmZzZXRYLCBlLm9mZnNldFkpOwo=</text>
+        <text encoding="base64">ICB3aWR0aC5zdWJzY3JpYmUoY29uc29sZS5sb2cpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlbmRlcigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbW91c2VFdmVudFN0YXR1cyA9IE1vdXNlRXZlbnRTdGF0dXMuRE9XTjsK</text>
+        <text encoding="base64">ICAgIGNhbnZhcyA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGNvbnRhaW5lcklkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
