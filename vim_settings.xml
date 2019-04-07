@@ -248,11 +248,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/chart/js/charts.js" timestamp="1554662137724">
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="26" column="5" />
-        <mark key="." line="17" column="13" />
-        <mark key="^" line="17" column="12" />
+      <file name="$USER_HOME$/Documents/_own/chart/js/charts.js" timestamp="1554663461906">
+        <mark key="[" line="59" column="40" />
+        <mark key="]" line="59" column="41" />
+        <mark key="." line="59" column="41" />
+        <mark key="^" line="66" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/sessions/SessionsStore.ts" timestamp="1554467387004">
         <mark key="[" line="33" column="33" />
@@ -1278,6 +1278,7 @@
         <mark key="^" line="61" column="31" />
         <mark key="." line="61" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/chart/js/chart_data.json" timestamp="1554663573177" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListSlot/index.ts" timestamp="1549526765341">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -2674,62 +2675,44 @@
       <jump line="7" column="57" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/contexts/AnalyticsStoreContext.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{
-      set(v) {
-        value = v;
-        broadcast();
-      },
-      get() {
-        return value;
-      },
-      subscribe
-    }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB3aWR0aC5zdWJzY3JpYmUoY29uc29sZS5sb2cpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text encoding="base64">dyA9PiBjYW52YXMud2lkdGggPSB3</text>
       </register>
       <register name="/" type="4">
         <text>from</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCBzdWJzY3JpYmVycyA9IFtdOwo=</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIFN1YmplY3QoaW5pdGlhbFZhbHVlKSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgc2V0KHYpIHsKICAgICAgICAgIHZhbHVlID0gdjsKICAgICAgICAgIGJyb2FkY2FzdCgpOwogICAgICAgIH0sCiAgICAgICAgZ2V0KCkgewogICAgICAgICAgcmV0dXJuIHZhbHVlOwogICAgICAgIH0sCiAgICAgICAgc3Vic2NyaWJlCiAgICAgIH0KICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-      set(v) {
-        value = v;
-        broadcast();
-      },
-      get() {
-        return value;
-      },
-      subscribe
-    }</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc3Vic2NyaWJlKGZuKSB7CiAgICAgICAgc3Vic2NyaWJlcnMucHVzaChmbik7CiAgICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBsZXQgY3R4Owo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGN0eCA9IGNhbnZhcy5nZXRDb250ZXh0KCcyZCcpOwo=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="1" type="2">
         <text encoding="base64">ICB3aWR0aC5zdWJzY3JpYmUoY29uc29sZS5sb2cpOwo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBsZXQgZGF0YTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIHZhbHVlID0gbmV3VmFsdWU7CiAgICAgICAgICBicm9hZGNhc3QodmFsdWUpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlbmRlcigpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhbnZhcyA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGNvbnRhaW5lcklkKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
