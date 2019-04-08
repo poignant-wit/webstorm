@@ -269,11 +269,11 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Session/SessionHeaderBlock.tsx" timestamp="1554734627937">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-        <mark key="^" line="6" column="18" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Session/SessionHeaderBlock.tsx" timestamp="1554735865888">
+        <mark key="[" line="19" column="48" />
+        <mark key="]" line="19" column="48" />
+        <mark key="^" line="16" column="14" />
+        <mark key="." line="19" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/.env" timestamp="1551352828206">
         <mark key="[" line="18" column="0" />
@@ -1472,11 +1472,11 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Session/SessionHeader.module.scss" timestamp="1554733572164">
-        <mark key="[" line="18" column="1" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Session/SessionHeader.module.scss" timestamp="1554736231593">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/dialogs/index.ts" timestamp="1549884024373">
         <mark key="[" line="0" column="34" />
@@ -1715,11 +1715,8 @@
         <mark key="." line="149" column="0" />
         <mark key="^" line="2" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Session/SessionHeader.tsx" timestamp="1554734247645">
-        <mark key="[" line="17" column="51" />
-        <mark key="]" line="17" column="74" />
-        <mark key="." line="17" column="74" />
-        <mark key="^" line="17" column="74" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Session/SessionHeader.tsx" timestamp="1554736275947">
+        <mark key="[" line="18" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/ChannelsTabs/DropdownChannelsItem.tsx" timestamp="1554181958358">
         <mark key="[" line="3" column="21" />
@@ -2722,43 +2719,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;sss&quot;</text>
+        <text>session.isLoadingState</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;sss&quot;</text>
+        <text>session.isLoadingState</text>
       </register>
       <register name="/" type="4">
         <text>from</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IEZDIH0gZnJvbSAncmVhY3QnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT17c3R5bGVzLmJsb2NrX2RhdGV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8U2Vzc2lvbkhlYWRlckJsb2NrIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5udW1iZXJ9Pntsb2FkaW5nID8gJ2xvYWRpbmcuLi4nIDogdmFsdWV9PC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8U2Vzc2lvbkhlYWRlckJsb2NrIC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibGFzdC1zZXNzaW9uX3ZpZXdlcnNfX2Jsb2NrIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsYXN0LXNlc3Npb25fdmlld2Vyc19fYmxvY2stdGl0bGUiPgogICAgICAgICAgICBXYXRjaGVkIG1pbnV0ZXMKICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBpZD0id2F0Y2hlZE1pbnV0ZXMiIGNsYXNzTmFtZT0ibGFzdC1zZXNzaW9uX3ZpZXdlcnNfX2Jsb2NrLXRleHQiPgogICAgICAgICAgICAwCiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibGFzdC1zZXNzaW9uX3ZpZXdlcnNfX2Jsb2NrIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsYXN0LXNlc3Npb25fdmlld2Vyc19fYmxvY2stdGl0bGUiPgogICAgICAgICAgICBXYXRjaGVkIG1pbnV0ZXMKICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBpZD0id2F0Y2hlZE1pbnV0ZXMiIGNsYXNzTmFtZT0ibGFzdC1zZXNzaW9uX3ZpZXdlcnNfX2Jsb2NrLXRleHQiPgogICAgICAgICAgICAwCiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibGFzdC1zZXNzaW9uX3ZpZXdlcnNfX2Jsb2NrIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsYXN0LXNlc3Npb25fdmlld2Vyc19fYmxvY2stdGl0bGUiPlBlYWsgdGltZTwvZGl2PgogICAgICAgICAgPGRpdiBpZD0icGVha1RpbWUiIGNsYXNzTmFtZT0ibGFzdC1zZXNzaW9uX3ZpZXdlcnNfX2Jsb2NrLXRleHQiPgogICAgICAgICAgICAtLS0KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibGFzdC1zZXNzaW9uX3ZpZXdlcnNfX2Jsb2NrIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsYXN0LXNlc3Npb25fdmlld2Vyc19fYmxvY2stdGl0bGUiPk1heCB2aWV3ZXJzPC9kaXY+CiAgICAgICAgICA8ZGl2IGlkPSJtYXhWaWV3ZXJzIiBjbGFzc05hbWU9Imxhc3Qtc2Vzc2lvbl92aWV3ZXJzX19ibG9jay10ZXh0Ij4KICAgICAgICAgICAgMAogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gU2Vzc2lvbkhlYWRlckJsb2NrKCkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmJsb2NrfT4KICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy50aXRsZX0+QXZlcmFnZSB2aWV3ZXJzPC9kaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMubnVtYmVyfT4wPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibGFzdC1zZXNzaW9uX3ZpZXdlcnNfX2Jsb2NrIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsYXN0LXNlc3Npb25fdmlld2Vyc19fYmxvY2stdGl0bGUiPlBlYWsgdGltZTwvZGl2PgogICAgICAgICAgPGRpdiBpZD0icGVha1RpbWUiIGNsYXNzTmFtZT0ibGFzdC1zZXNzaW9uX3ZpZXdlcnNfX2Jsb2NrLXRleHQiPgogICAgICAgICAgICAtLS0KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
