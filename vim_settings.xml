@@ -248,10 +248,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/chart/js/charts.js" timestamp="1554668176537">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/Documents/_own/chart/js/charts.js" timestamp="1554706249216">
+        <mark key="'" line="66" column="24" />
+        <mark key="[" line="69" column="23" />
+        <mark key="]" line="70" column="18" />
+        <mark key="." line="70" column="18" />
+        <mark key="^" line="70" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/sessions/SessionsStore.ts" timestamp="1554467387004">
         <mark key="[" line="33" column="33" />
@@ -2572,7 +2574,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="78" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Menu/Menu.module.scss" />
       <jump line="95" column="31" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Menu/Menu.module.scss" />
       <jump line="99" column="31" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Menu/Menu.module.scss" />
       <jump line="159" column="35" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Menu/Menu.module.scss" />
@@ -2672,46 +2673,47 @@
       <jump line="46" column="20" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/payment/PaymentPage.tsx" />
       <jump line="48" column="40" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/payment/PaymentPage.tsx" />
       <jump line="7" column="57" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/contexts/AnalyticsStoreContext.ts" />
+      <jump line="66" column="24" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvKioKICAgKiAKICAgKiBAdHlwZSB7e3NldCgqKTogdm9pZCwgc3Vic2NyaWJlOiBzdWJzY3JpYmUsIGdldCgpOiAqfX0KICAgKi8K</text>
+        <text encoding="base64">ICB0ZXN0Mi5zZXQoMTAwKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>pointer</text>
+        <text>console.log</text>
       </register>
       <register name="/" type="4">
         <text>from</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDdXJzb3IoJ3BvaW50ZXInKTsK</text>
+        <text encoding="base64">ICBjb25zdCB3aWR0aCA9IE9ic2VydmFibGUoKS5TdWJqZWN0KGNhbnZhcy5wYXJlbnRFbGVtZW50LmNsaWVudFdpZHRoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvKioKICAgKiAKICAgKiBAdHlwZSB7e3NldCgqKTogdm9pZCwgc3Vic2NyaWJlOiBzdWJzY3JpYmUsIGdldCgpOiAqfX0KICAgKi8K</text>
+        <text encoding="base64">ICB0ZXN0Mi5zZXQoMTAwKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvKioKICAgKiAKICAgKiBAcGFyYW0gY3R4CiAgICogQHJldHVybnMge3tyZW5kZXI6IHJlbmRlcn19CiAgICogQGNvbnN0cnVjdG9yCiAgICovCg==</text>
+        <text encoding="base64">ICBjb25zdCB0ZXN0MiA9IHRlc3QubWFwKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0ZXN0LnNldCgxMDApOwogIHRlc3QyLnNldCgxMDApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBpc0luKHBDb29yZGluYXRlcywgc0Nvb3JkaW5hdGVzKSB7CiAgICByZXR1cm4gcENvb3JkaW5hdGVzCg==</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBnZXRQcmV2aWV3Q29vcmRpbmF0ZXMoKSB7CiAgICByZXR1cm4gW3ByZXZpZXdMLmdldCgpLCBoZWlnaHQuZ2V0KCkgLSBwcmV2aWV3SGVpZ2h0LCBwcmV2aWV3Ui5nZXQoKSwgaGVdCgogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlLm9mZnNldFgpOwo=</text>
+        <text encoding="base64">ICAvKioKICAgKiAKICAgKiBAdHlwZSB7e3NldCgqKTogdm9pZCwgc3Vic2NyaWJlOiBzdWJzY3JpYmUsIGdldCgpOiAqfX0KICAgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvKioKICAgKiAKICAgKiBAcGFyYW0gY3R4CiAgICogQHJldHVybnMge3tyZW5kZXI6IHJlbmRlcn19CiAgICogQGNvbnN0cnVjdG9yCiAgICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGN0eC5maWxsUmVjdChwcmV2aWV3TC5nZXQoKSwgaGVpZ2h0LmdldCgpIC0gcHJldmlld0hlaWdodCwgIHByZXZpZXdSLmdldCgpIC0gcHJldmlld0wuZ2V0KCksIHByZXZpZXdIZWlnaHQpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBmdW5jdGlvbiBpc0luKHBDb29yZGluYXRlcywgc0Nvb3JkaW5hdGVzKSB7CiAgICByZXR1cm4gcENvb3JkaW5hdGVzCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjYW52YXMucGFyZW50RWxlbWVudC5zdHlsZS5jdXJzb3IgPSAncG9pbnRlcic7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlLm9mZnNldFgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
