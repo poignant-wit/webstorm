@@ -239,13 +239,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/chart/js/charts.js" timestamp="1554793728221">
-        <mark key="'" line="174" column="12" />
-        <mark key="[" line="287" column="17" />
-        <mark key="]" line="287" column="18" />
-        <mark key="." line="287" column="18" />
-        <mark key="^" line="289" column="33" />
-      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/sessions/SessionsStore.ts" timestamp="1554801823995">
         <mark key="[" line="30" column="15" />
         <mark key="]" line="30" column="26" />
@@ -298,6 +291,12 @@
         <mark key="]" line="19" column="33" />
         <mark key="^" line="19" column="33" />
         <mark key="." line="19" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/actions.ts" timestamp="1554814204416">
+        <mark key="[" line="88" column="15" />
+        <mark key="]" line="88" column="15" />
+        <mark key="." line="88" column="15" />
+        <mark key="^" line="88" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/Events.ts" timestamp="1550129936647">
         <mark key="[" line="19" column="55" />
@@ -381,6 +380,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/loadViewersData.ts" timestamp="1554817809966">
+        <mark key="^" line="38" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/selectors/analyticsIsRequestSelector.ts" timestamp="1552380357720">
         <mark key="[" line="19" column="3" />
@@ -700,6 +702,11 @@
         <mark key="." line="33" column="24" />
         <mark key="^" line="33" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/lenses.ts" timestamp="1554817537674">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/share/ShareToActivateDialogContainer.tsx" timestamp="1550053176210">
         <mark key="[" line="31" column="51" />
         <mark key="]" line="31" column="76" />
@@ -1017,6 +1024,12 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/types.ts" timestamp="1554818113662">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/server/middlewares/authMiddleware.ts" timestamp="1552996717718">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -1211,6 +1224,12 @@
         <mark key="^" line="491" column="27" />
         <mark key="." line="135" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/index.ts" timestamp="1554818047877">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/EventsListPlaceholderContainer.ts" timestamp="1550559460766">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="11" />
@@ -1234,6 +1253,12 @@
         <mark key="]" line="82" column="5" />
         <mark key="^" line="54" column="57" />
         <mark key="." line="130" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/types.ts" timestamp="1554817412040">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="2" column="38" />
+        <mark key="." line="2" column="38" />
+        <mark key="^" line="2" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/errors/EventsCountLimitError.ts" timestamp="1549614355963">
         <mark key="[" line="2" column="28" />
@@ -1418,6 +1443,12 @@
         <mark key="^" line="45" column="1" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/__tests__/loadViewersData.test.ts" timestamp="1554817765350">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="46" column="12" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="20" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/server/views/landing.ejs" timestamp="1554293045288">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -1436,10 +1467,11 @@
         <mark key="^" line="46" column="74" />
         <mark key="." line="46" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/useAnalyticsSessionViewModel.ts" timestamp="1554813590365">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/useAnalyticsSessionViewModel.ts" timestamp="1554814306007">
+        <mark key="[" line="47" column="21" />
+        <mark key="]" line="47" column="21" />
+        <mark key="." line="47" column="21" />
+        <mark key="^" line="47" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/upgrade/contexts/UpgradeContext.ts" timestamp="1554365096607">
         <mark key="[" line="2" column="63" />
@@ -1625,13 +1657,6 @@
         <mark key="^" line="0" column="437" />
         <mark key="." line="0" column="437" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/contexts/AnalyticsStoreContext.tsx" timestamp="1554722946314">
-        <mark key="'" line="25" column="13" />
-        <mark key="[" line="12" column="9" />
-        <mark key="]" line="12" column="11" />
-        <mark key="." line="12" column="11" />
-        <mark key="^" line="12" column="11" />
-      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/AnalyticsSessionPageViewModel.ts" timestamp="1554454973019">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -1708,9 +1733,6 @@
         <mark key="]" line="149" column="29" />
         <mark key="." line="149" column="0" />
         <mark key="^" line="2" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Session/SessionHeader.tsx" timestamp="1554736275947">
-        <mark key="[" line="18" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/ChannelsTabs/DropdownChannelsItem.tsx" timestamp="1554181958358">
         <mark key="[" line="3" column="21" />
@@ -2391,6 +2413,12 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/AnalyticsStoreContext.tsx" timestamp="1554818302925">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="25" column="38" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain/EventsCreateEditContentItem/index.ts" timestamp="1548065638304">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="43" />
@@ -2544,6 +2572,11 @@
         <mark key="^" line="422" column="50" />
         <mark key="." line="397" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/sessionActions.ts" timestamp="1554814231478">
+        <mark key="]" line="92" column="16" />
+        <mark key="^" line="92" column="16" />
+        <mark key="." line="92" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEdit.scss" timestamp="1549643235303">
         <mark key="[" line="1" column="2" />
         <mark key="]" line="1" column="5" />
@@ -2622,16 +2655,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="36" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/useAnalyticsAudienceViewModel.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/useAnalyticsAudienceViewModel.ts" />
-      <jump line="123" column="8" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/useAnalyticsAudienceViewModel.ts" />
-      <jump line="102" column="40" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/AnalyticsAudiencePage.tsx" />
-      <jump line="163" column="6" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/useAnalyticsAudienceViewModel.ts" />
-      <jump line="11" column="6" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/useAnalyticsAudienceViewModel.ts" />
-      <jump line="104" column="61" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/AnalyticsAudiencePage.tsx" />
-      <jump line="73" column="17" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/audience/__tests__/AnalyticsAudienceStore.test.ts" />
-      <jump line="75" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/audience/__tests__/AnalyticsAudienceStore.test.ts" />
-      <jump line="92" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/audience/__tests__/AnalyticsAudienceStore.test.ts" />
       <jump line="102" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/audience/__tests__/AnalyticsAudienceStore.test.ts" />
       <jump line="107" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/audience/__tests__/AnalyticsAudienceStore.test.ts" />
       <jump line="125" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/audience/__tests__/AnalyticsAudienceStore.test.ts" />
@@ -2722,55 +2745,65 @@
       <jump line="167" column="77" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
       <jump line="171" column="12" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
       <jump line="106" column="57" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/useAnalyticsSessionViewModel.ts" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/index.ts" />
+      <jump line="44" column="13" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/loadViewersData.ts" />
+      <jump line="45" column="3" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/loadViewersData.ts" />
+      <jump line="51" column="24" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/loadViewersData.ts" />
+      <jump line="60" column="5" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/loadViewersData.ts" />
+      <jump line="10" column="14" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/__tests__/loadViewersData.test.ts" />
+      <jump line="41" column="13" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/loadViewersData.ts" />
+      <jump line="42" column="3" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/loadViewersData.ts" />
+      <jump line="30" column="17" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/AnalyticsStoreContext.tsx" />
+      <jump line="22" column="30" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/AnalyticsStoreContext.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGNoYW5uZWxzTG9hZGluZzogY2hhbm5lbHNTdG9yZSA/IGNoYW5uZWxzU3RvcmUuaXNMb2FkaW5nU3RhdGUgOiB0cnVlLAogICAgLy8gY2hhbm5lbHM6IGNoYW5uZWxzU3RvcmUgPyBjaGFubmVsc1N0b3JlLmNoYW5uZWxzIDogW10sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sessionViewersData</text>
+        <text>{ session: {} }</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXNzaW9uVmlld2Vyc0RhdGFcPg==</text>
+        <text encoding="base64">XDxJQW5hbHl0aWNzRGF0YVNlc3Npb25TdGF0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyAgIHJldHVybiBwaXBlKAogIC8vICAgICBwYXRoT3IoCiAgLy8gICAgICAgW10sCiAgLy8gICAgICAgWwogIC8vICAgICAgICAgYCR7dm0uY2hhbm5lbHMuc2VsZWN0ZWQgPyB2bS5jaGFubmVscy5zZWxlY3RlZC5pZCA6IDB9YCwKICAvLyAgICAgICAgICdkYXRhJywKICAvLyAgICAgICAgICdhdmdWaWV3ZXJzJywKICAvLyAgICAgICAgICdkYXRhJywKICAvLyAgICAgICBdLAogIC8vICAgICApLAogIC8vICAgICBkYXRhTWFwcGVyLnN0cmVhbXMsCiAgLy8gICApKHZtLnZpZXdlcnMuZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDI6IHsKICAgICAgICAgICAgZGF0YToge30sCiAgICAgICAgICAgIHN0YXRlOiBTdGF0ZS5FUlJPUiwKICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGNoYW5uZWxzTG9hZGluZzogY2hhbm5lbHNTdG9yZSA/IGNoYW5uZWxzU3RvcmUuaXNMb2FkaW5nU3RhdGUgOiB0cnVlLAogICAgLy8gY2hhbm5lbHM6IGNoYW5uZWxzU3RvcmUgPyBjaGFubmVsc1N0b3JlLmNoYW5uZWxzIDogW10sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh2aWV3ZXJzRGF0YSk7Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgcmVkdWNlciA9IChzdGF0ZTogSUFuYWx5dGljc0RhdGFTdGF0ZSA9IGluaXRpYWxTdGF0ZSwgYWN0aW9uOiBhbnkpID0+IHsKLy8gICByZXR1cm4gewovLyAgICAgc2Vzc2lvbjogcmVkdWNlUmVkdWNlcjxJQW5hbHl0aWNzRGF0YVNlc3Npb25TdGF0ZT4oCi8vICAgICAgIC8vIEB0cy1pZ25vcmUKLy8gICAgICAgLy8gbG9hZFZpZXdlcnNSZXF1ZXN0UmVkdWNlciwKLy8gICAgICAgLy8gbG9hZFZpZXdlcnNTdWNjZXNzUmVkdWNlciwKLy8gICAgICkoc3RhdGUuc2Vzc2lvbiwgYWN0aW9uKSwKLy8gICB9OwovLyB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbXTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gICByZXR1cm4gcGlwZSgKICAgICAgLy8gICAgIHBhdGhPcigKICAgICAgLy8gICAgICAgW10sCiAgICAgIC8vICAgICAgIFsKICAgICAgLy8gICAgICAgICBgJHt2bS5jaGFubmVscy5zZWxlY3RlZCA/IHZtLmNoYW5uZWxzLnNlbGVjdGVkLmlkIDogMH1gLAogICAgICAvLyAgICAgICAgICdkYXRhJywKICAgICAgLy8gICAgICAgICAnYXZnVmlld2VycycsCiAgICAgIC8vICAgICAgICAgJ2RhdGEnLAogICAgICAvLyAgICAgICBdLAogICAgICAvLyAgICAgKSwKICAgICAgLy8gICAgIGRhdGFNYXBwZXIuc3RyZWFtcywKICAgICAgLy8gICApKHZtLnZpZXdlcnMuZGF0YSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgIGRhdGFNYXBwZXIuc3RyZWFtcywKICAgICAgLy8gICApKHZtLnZpZXdlcnMuZGF0YSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJQW5hbHl0aWNzRGF0YVNlc3Npb25TdGF0ZSB7CiAgW3Nlc3Npb25JZDogc3RyaW5nXTogewogICAgdmlld2VyczogewogICAgICBbY2hhbm5lbElkOiBzdHJpbmddOiB7CiAgICAgICAgc3RhdGU6IFN0YXRlOwogICAgICAgIGRhdGE6IG9iamVjdDsKICAgICAgfTsKICAgIH07CiAgfTsKfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJQW5hbHl0aWNzRGF0YVN0YXRlIHsKICBzZXNzaW9uOiBJQW5hbHl0aWNzRGF0YVNlc3Npb25TdGF0ZTsKfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgaW5pdGlhbFN0YXRlOiBJQW5hbHl0aWNzRGF0YVN0YXRlID0gewogIHNlc3Npb246IHt9LAp9Owo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2Vzc2lvblZpZXdlcnNEYXRhKTsK</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgc2Vzc2lvbkFjdGlvbnMgfSBmcm9tICcuL3Nlc3Npb24vc2Vzc2lvbkFjdGlvbnMnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkYXRhOiBBcnJheTx7IGRhdGU6IERhdGU7IHZhbHVlOiBzdHJpbmcgfT47Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJlZHVjZVJlZHVjZXIsIHsKICBJQW5hbHl0aWNzRGF0YVNlc3Npb25TdGF0ZSwKICBJQW5hbHl0aWNzRGF0YVN0YXRlLAp9IGZyb20gJy4vQW5hbHl0aWNzU3RvcmVDb250ZXh0JzsK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXNzaW9uVmlld2Vyc0RhdGFcPg==</last-search>
+      <last-search encoding="base64">XDxJQW5hbHl0aWNzRGF0YVNlc3Npb25TdGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXNzaW9uVmlld2Vyc0RhdGFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxJQW5hbHl0aWNzRGF0YVNlc3Npb25TdGF0ZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>play</last-substitute>
       <last-dir>1</last-dir>
@@ -2778,8 +2811,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJSZWNvbW1lbmRlZExhYmVsXD4=</entry>
-        <entry encoding="base64">XDxpc1JlY29tbWVuZGVkXD4=</entry>
         <entry encoding="base64">XDxEYXRlSW5wdXRcPg==</entry>
         <entry encoding="base64">XDxzaG93TG9vcGluZ0NhbGxvdXRcPg==</entry>
         <entry>callout</entry>
@@ -2798,6 +2829,8 @@
         <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
         <entry encoding="base64">XDxwcmV2aWV3TFw+</entry>
         <entry encoding="base64">XDxzZXNzaW9uVmlld2Vyc0RhdGFcPg==</entry>
+        <entry encoding="base64">XDxsb2FkVmlld2Vyc1JlcXVlc3RcPg==</entry>
+        <entry encoding="base64">XDxJQW5hbHl0aWNzRGF0YVNlc3Npb25TdGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -2812,10 +2845,10 @@
         <entry>action TypeHierarchy</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action $Paste</entry>
-        <entry>action $SelectAll</entry>
         <entry>action Find</entry>
         <entry>action FileChooser.NewFolder</entry>
         <entry>action GotoFile</entry>
+        <entry>action $SelectAll</entry>
         <entry>action EditorDuplicate</entry>
       </history-cmd>
       <history-expr />
