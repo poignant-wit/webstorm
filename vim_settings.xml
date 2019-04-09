@@ -1436,11 +1436,10 @@
         <mark key="^" line="46" column="74" />
         <mark key="." line="46" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/useAnalyticsSessionViewModel.ts" timestamp="1554805896512">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="^" line="109" column="30" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/useAnalyticsSessionViewModel.ts" timestamp="1554813590365">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/upgrade/contexts/UpgradeContext.ts" timestamp="1554365096607">
         <mark key="[" line="2" column="63" />
@@ -1536,11 +1535,11 @@
         <mark key="." line="80" column="30" />
         <mark key="^" line="86" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/channels/ChannelsStore.ts" timestamp="1554803006904">
-        <mark key="[" line="17" column="73" />
-        <mark key="]" line="17" column="73" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/channels/ChannelsStore.ts" timestamp="1554813171966">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
         <mark key="^" line="17" column="34" />
-        <mark key="." line="17" column="73" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateChoicePanel/ShareToActivateChoicePanel.scss" timestamp="1549983433047">
         <mark key="[" line="5" column="29" />
@@ -2267,11 +2266,11 @@
         <mark key="^" line="25" column="59" />
         <mark key="." line="25" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/AnalyticsSessionPage.tsx" timestamp="1554805916950">
-        <mark key="[" line="36" column="29" />
-        <mark key="]" line="36" column="48" />
-        <mark key="." line="36" column="48" />
-        <mark key="^" line="36" column="48" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/AnalyticsSessionPage.tsx" timestamp="1554813341478">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="36" column="26" />
+        <mark key="." line="24" column="76" />
+        <mark key="^" line="24" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/channels/__tests__/ChannelsStore.test.ts" timestamp="1554105181800">
         <mark key="[" line="22" column="13" />
@@ -2491,6 +2490,12 @@
         <mark key="^" line="54" column="54" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionChart.tsx" timestamp="1554813207531">
+        <mark key="[" line="3" column="48" />
+        <mark key="]" line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventCreateEditFormLabel.tsx" timestamp="1548176248748">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
@@ -2617,7 +2622,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/AnalyticsAudiencePage.tsx" />
       <jump line="40" column="36" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/useAnalyticsAudienceViewModel.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/useAnalyticsAudienceViewModel.ts" />
       <jump line="123" column="8" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/useAnalyticsAudienceViewModel.ts" />
@@ -2717,55 +2721,56 @@
       <jump line="111" column="42" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
       <jump line="167" column="77" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
       <jump line="171" column="12" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
+      <jump line="106" column="57" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/useAnalyticsSessionViewModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIGNoYW5uZWxzTG9hZGluZzogY2hhbm5lbHNTdG9yZSA/IGNoYW5uZWxzU3RvcmUuaXNMb2FkaW5nU3RhdGUgOiB0cnVlLAogICAgLy8gY2hhbm5lbHM6IGNoYW5uZWxzU3RvcmUgPyBjaGFubmVsc1N0b3JlLmNoYW5uZWxzIDogW10sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>sessionViewersData</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmV2aWV3TFw+</text>
+        <text encoding="base64">XDxzZXNzaW9uVmlld2Vyc0RhdGFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBjaGFubmVsSWQgPSB1c2VNZW1vKCgpID0+IHsKICAgIHJldHVybiBjaGFubmVsSWRQYXJhbSAmJgogICAgICBzZXNzaW9uLmlzTG9hZGVkU3RhdGUgJiYKICAgICAgaW5jbHVkZXNJZCgKICAgICAgICBwYXJzZUludChjaGFubmVsSWRQYXJhbSwgdW5kZWZpbmVkKSwKICAgICAgICByb290U3RvcmUuY2hhbm5lbHMuYnlVc2VySWQoc2Vzc2lvbi51c2VySWQhKSwKICAgICAgKQogICAgICA/IHBhcnNlSW50KGNoYW5uZWxJZFBhcmFtLCB1bmRlZmluZWQpCiAgICAgIDogMDsKICB9LCBbCiAgICBjaGFubmVsSWRQYXJhbSwKICAgIHJvb3RTdG9yZS5jaGFubmVscy5jb2xsZWN0aW9uLmxlbmd0aCwKICAgIHNlc3Npb24uaXNMb2FkZWRTdGF0ZSwKICBdKTsK</text>
+        <text encoding="base64">ICAvLyAgIHJldHVybiBwaXBlKAogIC8vICAgICBwYXRoT3IoCiAgLy8gICAgICAgW10sCiAgLy8gICAgICAgWwogIC8vICAgICAgICAgYCR7dm0uY2hhbm5lbHMuc2VsZWN0ZWQgPyB2bS5jaGFubmVscy5zZWxlY3RlZC5pZCA6IDB9YCwKICAvLyAgICAgICAgICdkYXRhJywKICAvLyAgICAgICAgICdhdmdWaWV3ZXJzJywKICAvLyAgICAgICAgICdkYXRhJywKICAvLyAgICAgICBdLAogIC8vICAgICApLAogIC8vICAgICBkYXRhTWFwcGVyLnN0cmVhbXMsCiAgLy8gICApKHZtLnZpZXdlcnMuZGF0YSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNoYW5uZWxzTG9hZGluZzogY2hhbm5lbHNTdG9yZSA/IGNoYW5uZWxzU3RvcmUuaXNMb2FkaW5nU3RhdGUgOiB0cnVlLAogICAgLy8gY2hhbm5lbHM6IGNoYW5uZWxzU3RvcmUgPyBjaGFubmVsc1N0b3JlLmNoYW5uZWxzIDogW10sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWxlY3RlZENoYW5uZWwpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjaGFubmVsSWRQYXJhbSAmJgogICAgICBzZXNzaW9uLmlzTG9hZGVkU3RhdGUgJiYKICAgICAgaW5jbHVkZXNJZCgKICAgICAgICBwYXJzZUludChjaGFubmVsSWRQYXJhbSwgdW5kZWZpbmVkKSwKICAgICAgICByb290U3RvcmUuY2hhbm5lbHMuYnlVc2VySWQoc2Vzc2lvbi51c2VySWQhKSwKICAgICAgKQogICAgICA/IHBhcnNlSW50KGNoYW5uZWxJZFBhcmFtLCB1bmRlZmluZWQpCiAgICAgIDogMDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hhbm5lbElkUGFyYW0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJvb3RTdG9yZS5jaGFubmVscy5jb2xsZWN0aW9uLmxlbmd0aCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2Vzc2lvbi5pc0xvYWRlZFN0YXRlLAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh2aWV3ZXJzRGF0YSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBbXTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgLy8gICByZXR1cm4gcGlwZSgKICAgICAgLy8gICAgIHBhdGhPcigKICAgICAgLy8gICAgICAgW10sCiAgICAgIC8vICAgICAgIFsKICAgICAgLy8gICAgICAgICBgJHt2bS5jaGFubmVscy5zZWxlY3RlZCA/IHZtLmNoYW5uZWxzLnNlbGVjdGVkLmlkIDogMH1gLAogICAgICAvLyAgICAgICAgICdkYXRhJywKICAgICAgLy8gICAgICAgICAnYXZnVmlld2VycycsCiAgICAgIC8vICAgICAgICAgJ2RhdGEnLAogICAgICAvLyAgICAgICBdLAogICAgICAvLyAgICAgKSwKICAgICAgLy8gICAgIGRhdGFNYXBwZXIuc3RyZWFtcywKICAgICAgLy8gICApKHZtLnZpZXdlcnMuZGF0YSk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKAogICAgICBjaGFubmVsSWRQYXJhbSwKICAgICAgc2Vzc2lvbi5pc0xvYWRlZFN0YXRlLAogICAgICByb290U3RvcmUuY2hhbm5lbHMuY29sbGVjdGlvbi5sZW5ndGgsCiAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gICAgIGRhdGFNYXBwZXIuc3RyZWFtcywKICAgICAgLy8gICApKHZtLnZpZXdlcnMuZGF0YSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjaGFubmVsSWRQYXJhbSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2Vzc2lvblZpZXdlcnNEYXRhKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBjaGFubmVsSWRQYXJhbSA9IHVzZU1lbW8oKCkgPT4gewogICAgcmV0dXJuIHNlYXJjaFBhcmFtcy5nZXQoUXVlcnlQYXJhbXMuQ0hBTk5FTF9JRCk7CiAgfSwgW3NlYXJjaFBhcmFtc10pOwoKICBjb25zdCBjaGFubmVsSWQgPSB1c2VNZW1vKCgpID0+IHsKICAgIHJldHVybiBjaGFubmVsSWRQYXJhbSAmJgogICAgICBpbmNsdWRlc0lkKAogICAgICAgIHBhcnNlSW50KGNoYW5uZWxJZFBhcmFtLCB1bmRlZmluZWQpLAogICAgICAgIHJvb3RTdG9yZS5jaGFubmVscy5ieVVzZXJJZChzZXNzaW9uLnVzZXJJZCksCiAgICAgICkKICAgICAgPyBwYXJzZUludChjaGFubmVsSWRQYXJhbSwgdW5kZWZpbmVkKQogICAgICA6IDA7CiAgfSwgW2NoYW5uZWxJZFBhcmFtLCByb290U3RvcmUuY2hhbm5lbHMuY29sbGVjdGlvbl0pOwo=</text>
+        <text encoding="base64">ICBkYXRhOiBBcnJheTx7IGRhdGU6IERhdGU7IHZhbHVlOiBzdHJpbmcgfT47Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action EditorDuplicate</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmV2aWV3TFw+</last-search>
+      <last-search encoding="base64">XDxzZXNzaW9uVmlld2Vyc0RhdGFcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmV2aWV3TFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZXNzaW9uVmlld2Vyc0RhdGFcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>play</last-substitute>
       <last-dir>1</last-dir>
@@ -2773,7 +2778,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Best</entry>
         <entry encoding="base64">XDxyZW5kZXJSZWNvbW1lbmRlZExhYmVsXD4=</entry>
         <entry encoding="base64">XDxpc1JlY29tbWVuZGVkXD4=</entry>
         <entry encoding="base64">XDxEYXRlSW5wdXRcPg==</entry>
@@ -2793,6 +2797,7 @@
         <entry encoding="base64">XDxkcmF3UHJldmlld1w+</entry>
         <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
         <entry encoding="base64">XDxwcmV2aWV3TFw+</entry>
+        <entry encoding="base64">XDxzZXNzaW9uVmlld2Vyc0RhdGFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -2810,8 +2815,8 @@
         <entry>action $SelectAll</entry>
         <entry>action Find</entry>
         <entry>action FileChooser.NewFolder</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
+        <entry>action EditorDuplicate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
