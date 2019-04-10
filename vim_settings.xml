@@ -239,6 +239,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/chart/js/charts.js" timestamp="1554834724842">
+        <mark key="'" line="309" column="8" />
+        <mark key="[" line="302" column="0" />
+        <mark key="]" line="302" column="0" />
+        <mark key="." line="302" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/sessions/SessionsStore.ts" timestamp="1554801823995">
         <mark key="[" line="30" column="15" />
         <mark key="]" line="30" column="26" />
@@ -632,10 +638,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="28" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554803195979">
+      <file name="/Dummy.txt" timestamp="1554829370899">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="18" />
+        <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/services/__tests__/ChannelsService.test.ts" timestamp="1554451674339">
@@ -1308,6 +1314,7 @@
         <mark key="^" line="61" column="31" />
         <mark key="." line="61" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/chart/js/chart_data.json" timestamp="1554834815265" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListSlot/index.ts" timestamp="1549526765341">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -2655,7 +2662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/audience/__tests__/AnalyticsAudienceStore.test.ts" />
       <jump line="107" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/audience/__tests__/AnalyticsAudienceStore.test.ts" />
       <jump line="125" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/audience/__tests__/AnalyticsAudienceStore.test.ts" />
       <jump line="126" column="22" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/audience/__tests__/AnalyticsAudienceStore.test.ts" />
@@ -2755,19 +2761,20 @@
       <jump line="42" column="3" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/loadViewersData.ts" />
       <jump line="30" column="17" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/AnalyticsStoreContext.tsx" />
       <jump line="22" column="30" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/AnalyticsStoreContext.tsx" />
+      <jump line="324" column="8" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{ session: {} }</text>
+        <text encoding="base64">IC8vIGRyYXcgaXQ=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJQW5hbHl0aWNzRGF0YVNlc3Npb25TdGF0ZVw+</text>
+        <text encoding="base64">XDxyZXF1ZXN0QW5pbWF0aW9uRnJhbWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDI6IHsKICAgICAgICAgICAgZGF0YToge30sCiAgICAgICAgICAgIHN0YXRlOiBTdGF0ZS5FUlJPUiwKICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICBzZXRUaW1lb3V0KCgpID0+IHsKICAgIGNvbnN0IHN0YXJ0ID0gcHJldmlld0xQZXJjZW50LnZhbHVlKCk7CiAgICBjb25zb2xlLmxvZygnc3RhcnQnLCBzdGFydCk7CiAgICBhbmltYXRlKHsKICAgICAgZHVyYXRpb246IDUwMCwKICAgICAgdGltaW5nOiBtYWtlRWFzZUluT3V0KHF1YWQpLAogICAgICBkcmF3KHByb2dyZXNzKSB7CiAgICAgICAgY29uc3QgZGlmZiA9IDEwOwogICAgICAgIHByZXZpZXdMUGVyY2VudC5uZXh0KHN0YXJ0ICsgZGlmZiAqIHByb2dyZXNzKTsKICAgICAgfQogICAgfSk7CiAgfSwgMjAwKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2776,34 +2783,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gY29uc3QgcmVkdWNlciA9IChzdGF0ZTogSUFuYWx5dGljc0RhdGFTdGF0ZSA9IGluaXRpYWxTdGF0ZSwgYWN0aW9uOiBhbnkpID0+IHsKLy8gICByZXR1cm4gewovLyAgICAgc2Vzc2lvbjogcmVkdWNlUmVkdWNlcjxJQW5hbHl0aWNzRGF0YVNlc3Npb25TdGF0ZT4oCi8vICAgICAgIC8vIEB0cy1pZ25vcmUKLy8gICAgICAgLy8gbG9hZFZpZXdlcnNSZXF1ZXN0UmVkdWNlciwKLy8gICAgICAgLy8gbG9hZFZpZXdlcnNTdWNjZXNzUmVkdWNlciwKLy8gICAgICkoc3RhdGUuc2Vzc2lvbiwgYWN0aW9uKSwKLy8gICB9OwovLyB9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJQW5hbHl0aWNzRGF0YVNlc3Npb25TdGF0ZSB7CiAgW3Nlc3Npb25JZDogc3RyaW5nXTogewogICAgdmlld2VyczogewogICAgICBbY2hhbm5lbElkOiBzdHJpbmddOiB7CiAgICAgICAgc3RhdGU6IFN0YXRlOwogICAgICAgIGRhdGE6IG9iamVjdDsKICAgICAgfTsKICAgIH07CiAgfTsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJQW5hbHl0aWNzRGF0YVN0YXRlIHsKICBzZXNzaW9uOiBJQW5hbHl0aWNzRGF0YVNlc3Npb25TdGF0ZTsKfQo=</text>
+        <text encoding="base64">ICAgICAgLy8gdGltZUZyYWN0aW9uIGdvZXMgZnJvbSAwIHRvIDEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgaW5pdGlhbFN0YXRlOiBJQW5hbHl0aWNzRGF0YVN0YXRlID0gewogIHNlc3Npb246IHt9LAp9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgc2Vzc2lvbkFjdGlvbnMgfSBmcm9tICcuL3Nlc3Npb24vc2Vzc2lvbkFjdGlvbnMnOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gY2FsY3VsYXRlIHRoZSBjdXJyZW50IGFuaW1hdGlvbiBzdGF0ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHJlZHVjZVJlZHVjZXIsIHsKICBJQW5hbHl0aWNzRGF0YVNlc3Npb25TdGF0ZSwKICBJQW5hbHl0aWNzRGF0YVN0YXRlLAp9IGZyb20gJy4vQW5hbHl0aWNzU3RvcmVDb250ZXh0JzsK</text>
+        <text encoding="base64">ICBzZXRUaW1lb3V0KCgpID0+IHsKICAgIGNvbnN0IHN0YXJ0ID0gcHJldmlld1JQZXJjZW50LnZhbHVlKCk7CiAgICBhbmltYXRlKHsKICAgICAgZHVyYXRpb246IDUwMCwKICAgICAgdGltaW5nOiBtYWtlRWFzZUluT3V0KHF1YWQpLAogICAgICBkcmF3KHByb2dyZXNzKSB7CiAgICAgICAgY29uc3QgZGlmZiA9IC0xMDsKICAgICAgICBwcmV2aWV3UlBlcmNlbnQubmV4dChzdGFydCArIGRpZmYgKiBwcm9ncmVzcyk7CiAgICAgIH0KICAgIH0pOwogIH0sIDMwMCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJQW5hbHl0aWNzRGF0YVNlc3Npb25TdGF0ZVw+</last-search>
+      <last-search encoding="base64">XDxyZXF1ZXN0QW5pbWF0aW9uRnJhbWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJQW5hbHl0aWNzRGF0YVNlc3Npb25TdGF0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxyZXF1ZXN0QW5pbWF0aW9uRnJhbWVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>play</last-substitute>
       <last-dir>1</last-dir>
@@ -2811,7 +2818,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEYXRlSW5wdXRcPg==</entry>
         <entry encoding="base64">XDxzaG93TG9vcGluZ0NhbGxvdXRcPg==</entry>
         <entry>callout</entry>
         <entry>Callout</entry>
@@ -2831,6 +2837,7 @@
         <entry encoding="base64">XDxzZXNzaW9uVmlld2Vyc0RhdGFcPg==</entry>
         <entry encoding="base64">XDxsb2FkVmlld2Vyc1JlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxJQW5hbHl0aWNzRGF0YVNlc3Npb25TdGF0ZVw+</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0QW5pbWF0aW9uRnJhbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -2838,7 +2845,6 @@
         <entry>action MethodHierarchy.OverrideMethodAction</entry>
         <entry>action Replace</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry>action ImplementMethods</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
@@ -2850,6 +2856,7 @@
         <entry>action GotoFile</entry>
         <entry>action $SelectAll</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
