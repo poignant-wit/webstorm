@@ -75,7 +75,6 @@
         <mark key="]" line="6" column="7" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/chart/js/chart_data.json" timestamp="1554834815265" />
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/ducks/__tests__/loadViewersData.test.ts" timestamp="1554886714235">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -100,11 +99,11 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/sessionViewersSelector.ts" timestamp="1554887674722">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="49" />
-        <mark key="." line="15" column="49" />
-        <mark key="^" line="15" column="49" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/sessionViewersSelector.ts" timestamp="1554889023692">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="24" column="20" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/api/restream/__mocks__/index.ts" timestamp="1554883881823" />
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/AnalyticsSessionPage.tsx" timestamp="1554813341478">
@@ -112,6 +111,12 @@
         <mark key="]" line="36" column="26" />
         <mark key="." line="24" column="76" />
         <mark key="^" line="24" column="76" />
+      </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/channels/__tests__/ChannelsStore.test.ts" timestamp="1554888519904">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="17" />
+        <mark key="^" line="22" column="17" />
+        <mark key="." line="22" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/AnalyticsStoreContext.tsx" timestamp="1554881139532">
         <mark key="[" line="23" column="0" />
@@ -235,11 +240,11 @@
       <jump line="6" column="9" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/loadViewersData.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sessionByIdSelector</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsga2V5cyB9IGZyb20gJ21vYngnOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>sessionByIdSelector</text>
+        <text>rray</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJQW5hbHl0aWNzRGF0YVNlc3Npb25TdGF0ZVw+</text>
@@ -248,36 +253,36 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGF2Z1ZpZXdlcnM6IHsKICAgICAgICAgICAgICAgICAgZGF0YTogW1snZGF0ZTEnLCAxXSwgWydkYXRlMicsIDFdXSwKICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZpZXdPcih7fSwgCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbXBvc2Uoc2Vzc2lvbkJ5SWRMZW5zKHNlc3Npb25JZCkpKQo=</text>
+        <text encoding="base64">aW1wb3J0IHsga2V5cyB9IGZyb20gJ21vYngnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFubmVsQnlJZExlbnMoY2hhbm5lbElkKSwK</text>
+        <text encoding="base64">ICAgICAgbWFwKChpLCBpbmRleCwgYXJyYXkpID0+IHsKICAgICAgY29uc29sZS5sb2coaSwgaW5kZXgsIGFycmF5KTsKICAgICAgcmV0dXJuIGk7CiAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIG1hcCgpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjaGFubmVsc0RhdGEpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZpZXdPcih7fSwgCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbXBvc2Uoc2Vzc2lvbkJ5SWRMZW5zKHNlc3Npb25JZCkpKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjaGFubmVsQnlJZExlbnMoY2hhbm5lbElkKSwK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHN0YXRlLAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>{
         
       }</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBkYXRhOiAxLAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGE6IDIsCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGE6IDEsCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGE6IHsKICAgICAgICAgICAgICAgIH0sCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYXZnVmlld2VyczogewogICAgICAgICAgICAgICAgICAgIGRhdGE6IFsKICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgfQo=</text>
-      </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -328,8 +333,8 @@
         <entry>action FileChooser.NewFolder</entry>
         <entry>action $SelectAll</entry>
         <entry>action ReformatCode</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
