@@ -2414,11 +2414,10 @@
         <mark key="^" line="54" column="54" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionChart.tsx" timestamp="1554894055717">
-        <mark key="[" line="18" column="19" />
-        <mark key="]" line="38" column="28" />
-        <mark key="^" line="38" column="28" />
-        <mark key="." line="38" column="28" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionChart.tsx" timestamp="1554896598880">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventCreateEditFormLabel.tsx" timestamp="1548176248748">
         <mark key="[" line="0" column="12" />
@@ -2644,11 +2643,11 @@
       <jump line="66" column="8" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/useAnalyticsSessionViewModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>xAxes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXNzaW9uVmlld2Vyc0RhdGFMb2FkaW5nXD4=</text>
@@ -2657,34 +2656,34 @@
         <text encoding="base64">YW00Y29yZS51c2VUaGVtZShhbTR0aGVtZXNfZGFyayk7CmFtNGNvcmUudXNlVGhlbWUoYW00dGhlbWVzX2FuaW1hdGVkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZXQgY2hhcnQ6IENoYXJ0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjaGFubmVsSWRzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2hhcnQuZGlzcG9zZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQogICAgICBjaGFydC5kaXNwb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZXQgc2V0dGluZ3MnLCBjaGFubmVsSWRzLmxlbmd0aCA+IDAsIGNoYXJ0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2hhcnQuZGlzcG9zZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgY2hhcnQueEF4ZXMuY2xlYXIoKTsKICAgICAgY2hhcnQueUF4ZXMuY2xlYXIoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZmVhdDogYW5hbHl0aWNzIHJlZHV4IHN0b3JlCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3NldCBzZXR0dGluZ3MnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCB2aWV3ZXJzQnlDaGFubmVsSWQgPSB1c2VNZW1vKCgpID0+IHsKICAgIHJldHVybiBwYXRoT3IoCiAgICAgIHt9LAogICAgICBbJ3Nlc3Npb24nLCBgJHtzZXNzaW9uLmlkfWAsICd2aWV3ZXJzQnlDaGFubmVsSWQnXSwKICAgICAgc3RhdGUsCiAgICApOwogIH0sIFtzdGF0ZV0pOwo=</text>
+        <text encoding="base64">ICAgICAgc2VyaWVzLnRvb2x0aXBUZXh0ID0gJ3t2YWx1ZVkudmFsdWV9JzsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action EditorDuplicate</text>
       </register>
     </registers>
     <search>
@@ -2735,8 +2734,8 @@
         <entry>action $SelectAll</entry>
         <entry>action ReformatCode</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
+        <entry>action EditorDuplicate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
