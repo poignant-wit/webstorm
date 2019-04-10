@@ -99,11 +99,11 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/sessionViewersSelector.ts" timestamp="1554889023692">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="24" column="20" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/sessionViewersSelector.ts" timestamp="1554890834777">
+        <mark key="[" line="33" column="80" />
+        <mark key="]" line="35" column="24" />
+        <mark key="." line="35" column="24" />
+        <mark key="^" line="35" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/api/restream/__mocks__/index.ts" timestamp="1554883881823" />
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/AnalyticsSessionPage.tsx" timestamp="1554813341478">
@@ -240,49 +240,47 @@
       <jump line="6" column="9" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/loadViewersData.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsga2V5cyB9IGZyb20gJ21vYngnOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>rray</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJQW5hbHl0aWNzRGF0YVNlc3Npb25TdGF0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF2Z1ZpZXdlcnM6IHsKICAgICAgICAgICAgICAgICAgZGF0YTogW1snZGF0ZTEnLCAxXSwgWydkYXRlMicsIDFdXSwKICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRhdGEgPSB2aWV3T3IoCiAgICAgIFtdLAogICAgICBsZW5zUGF0aChbJ2RhdGEnLCAnYXZnVmlld2VycycsICdkYXRhJ10pLAogICAgICBjaGFubmVsc0RhdGFbY2hdLAogICAgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsga2V5cyB9IGZyb20gJ21vYngnOwo=</text>
+        <text encoding="base64">ICBjb25zdCBkYXRhID0gdmlld09yKAogICAgW10sCiAgICBsZW5zUGF0aChbJ2RhdGEnLCAnYXZnVmlld2VycycsICdkYXRhJ10pLAogICAgY2hhbm5lbHNEYXRhWzBdLAogICk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbWFwKChpLCBpbmRleCwgYXJyYXkpID0+IHsKICAgICAgY29uc29sZS5sb2coaSwgaW5kZXgsIGFycmF5KTsKICAgICAgcmV0dXJuIGk7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgY2hhbm5lbHNEYXRhW2NoXSwKICAgICk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIG1hcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwaXBlKAogICAgICAgICAgdmlldyhsZW5zSW5kZXgoaW5kZXgpKSwKICAgICAgICAgIGlzTmlsLAogICAgICAgICksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjaGFubmVsc0RhdGEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZpZXdPcih7fSwgCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbXBvc2Uoc2Vzc2lvbkJ5SWRMZW5zKHNlc3Npb25JZCkpKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaSwgaW5kZXgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFubmVsQnlJZExlbnMoY2hhbm5lbElkKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRlLAo=</text>
+        <text encoding="base64">ICAgICAgICB2aWV3KGxlbnNJbmRleChpbmRleCkpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-        
-      }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpc05pbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhOiAxLAo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGFzc29jUGF0aChbeF0pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action TsLintFileFixAction</text>
       </register>
     </registers>
     <search>
@@ -322,7 +320,6 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action MethodHierarchy.OverrideMethodAction</entry>
         <entry>action Replace</entry>
-        <entry>action TsLintFileFixAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry>action ImplementMethods</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
@@ -333,8 +330,9 @@
         <entry>action FileChooser.NewFolder</entry>
         <entry>action $SelectAll</entry>
         <entry>action ReformatCode</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
+        <entry>action EditorDuplicate</entry>
+        <entry>action TsLintFileFixAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
