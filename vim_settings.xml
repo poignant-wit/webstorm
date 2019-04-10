@@ -388,7 +388,7 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/loadViewersData.ts" timestamp="1554880710140">
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/loadViewersData.ts" timestamp="1554883227161">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="59" column="23" />
@@ -1075,10 +1075,11 @@
         <mark key="^" line="35" column="24" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/index.ts" timestamp="1554881112530">
-        <mark key="]" line="2" column="44" />
-        <mark key="." line="2" column="44" />
-        <mark key="^" line="2" column="44" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/index.ts" timestamp="1554881304279">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+        <mark key="^" line="6" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListHistoryLink.tsx" timestamp="1549525824434">
         <mark key="[" line="0" column="26" />
@@ -1239,11 +1240,11 @@
         <mark key="^" line="491" column="27" />
         <mark key="." line="135" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/index.ts" timestamp="1554818047877">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/index.ts" timestamp="1554881292058">
+        <mark key="[" line="25" column="52" />
+        <mark key="]" line="25" column="53" />
+        <mark key="^" line="25" column="52" />
+        <mark key="." line="25" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/EventsListPlaceholderContainer.ts" timestamp="1550559460766">
         <mark key="[" line="4" column="0" />
@@ -1483,11 +1484,11 @@
         <mark key="^" line="46" column="74" />
         <mark key="." line="46" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/useAnalyticsSessionViewModel.ts" timestamp="1554881184084">
-        <mark key="[" line="49" column="33" />
-        <mark key="]" line="49" column="36" />
-        <mark key="." line="49" column="36" />
-        <mark key="^" line="49" column="36" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/useAnalyticsSessionViewModel.ts" timestamp="1554883259806">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="47" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/upgrade/contexts/UpgradeContext.ts" timestamp="1554365096607">
         <mark key="[" line="2" column="63" />
@@ -2783,43 +2784,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY3Rpb25zKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>sessionReducer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJQW5hbHl0aWNzRGF0YVNlc3Npb25TdGF0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBkYXRhID0gb3B0cy5kYXRhWzBdLmNvbHVtbnNbMF0ubWFwKChpLCBpbmRleCwgYXJyKSA9PiB7CiAgICBpZihpbmRleCA9PT0gMCl7CiAgICAgIHJldHVybiBpOwogICAgfQoKICAgIGNvbnN0IG1pbiA9IGFyclsxXTsKICAgIGNvbnN0IG1heCA9IGFyclthcnIubGVuZ3RoIC0gMV07CgogICAgcmV0dXJuIFtpLCAoaSAtIG1pbikgLyAobWF4IC0gbWluKV0KCiAgfSk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNlc3Npb25SZWR1Y2VyID0gY3JlYXRlUmVkdWNlcih7fSwgaGFuZGxlID0+IFsKICBoYW5kbGUobG9hZFZpZXdlcnNSZXF1ZXN0LCBsb2FkVmlld2Vyc1JlcXVlc3RSZWR1Y2VyKSwKXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY3Rpb25zKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUFuYWx5dGljc0RhdGFTZXNzaW9uU3RhdGUgfSBmcm9tICcuLi9BbmFseXRpY3NTdG9yZUNvbnRleHQnOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY3Rpb25zKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC5tYXAgPT4geyAKICAgIGNvbnN0IG1pbiA9IGFyclsxXTsKICAgIGNvbnN0IG1heCA9IGFyclthcnIubGVuZ3RoIC0gMV07CgogICAgcmV0dXJuIFtpLCAoaSAtIG1pbikgLyAobWF4IC0gbWluKV0KCiAgfSk7Cg==</text>
+      <register name="3" type="4">
+        <text>{
+    loadViewersData: loadViewersData(dispatch),
+  }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmKGluZGV4ID09PSAwKXsKICAgICAgcmV0dXJuIGk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFycik7Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNlc3Npb25BY3Rpb25zID0gY3JlYXRlUmVkdWNlcih7fSwgaGFuZGxlID0+IFsKICBoYW5kbGUobG9hZFZpZXdlcnNSZXF1ZXN0LCBsb2FkVmlld2Vyc1JlcXVlc3RSZWR1Y2VyKSwKXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY3Rpb25zKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSUFuYWx5dGljc0RhdGFTZXNzaW9uU3RhdGUgfSBmcm9tICcuLi9BbmFseXRpY3NTdG9yZUNvbnRleHQnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
