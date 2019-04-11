@@ -2524,11 +2524,11 @@
         <mark key="^" line="54" column="54" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionChart.tsx" timestamp="1554903657550">
-        <mark key="[" line="81" column="26" />
-        <mark key="]" line="81" column="31" />
-        <mark key="." line="81" column="31" />
-        <mark key="^" line="81" column="31" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionChart.tsx" timestamp="1554987835277">
+        <mark key="[" line="76" column="29" />
+        <mark key="]" line="76" column="34" />
+        <mark key="." line="76" column="34" />
+        <mark key="^" line="76" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventCreateEditFormLabel.tsx" timestamp="1548176248748">
         <mark key="[" line="0" column="12" />
@@ -2760,11 +2760,11 @@
       <jump line="44" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogU2Vzc2lvbkNoYXJ0ZGQK</text>
+      <register name="&quot;" type="4">
+        <text>center</text>
       </register>
       <register name="-" type="4">
-        <text>sefl</text>
+        <text>center</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYW52YXNNYWluXD4=</text>
@@ -2773,31 +2773,31 @@
         <text encoding="base64">ICAgICAgc2Vzc2lvbi5sb2FkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogU2Vzc2lvbkNoYXJ0ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgIHNlcmllcy5kdW1teURhdGEgPSB7CiAgICAgICAgICAgIGZsYWc6IGNoYW5uZWwKICAgICAgICAgICAgICA/IGNoYW5uZWwucGxhdGZvcm0uaW1hZ2Uuc3ZnCiAgICAgICAgICAgICAgOiAnaHR0cHM6Ly9zMy11cy13ZXN0LTIuYW1hem9uYXdzLmNvbS9zLmNkcG4uaW8vdC0xNjAvZmxhZ19kZW5tYXJrLnN2ZycsCiAgICAgICAgICB9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2Vzc2lvblZpZXdlcnNEYXRhU2VsZWN0b3IgfSBmcm9tICcuLi8uLi9yZWR1eC9zZXNzaW9uL3NlbGVjdG9ycyc7CmltcG9ydCB7IHNlc3Npb25WaWV3ZXJzTG9hZGluZ1NlbGVjdG9yIH0gZnJvbSAnLi4vLi4vcmVkdXgvc2Vzc2lvbi9zZWxlY3RvcnMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3RhdGUgfSBmcm9tICcuLi8uLi8uLi9zdG9yZS9iYXNlL1N0YXRlU3RvcmUnOwppbXBvcnQgeyBkYXRhTWFwcGVyIH0gZnJvbSAnLi4vLi4vZGF0YU1hcHBlcnMvZGF0YU1hcHBlcic7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaW50ZXJmYWNlQ29sb3JzID0gbmV3IGFtNGNvcmUuSW50ZXJmYWNlQ29sb3JTZXQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhbGwsCiAgZGlzc29jLAogIGlzRW1wdHksCg==</text>
+        <text encoding="base64">ICAgICAgZmVhdDogU2Vzc2lvbkNoYXJ0ZGQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtYXAsCiAgcGF0aE9yLAogIHBpcGUsCiAgcHJvcEVxLAogIHZhbHVlcywK</text>
+        <text encoding="base64">ZmVhdDogU2Vzc2lvbkNoYXJ0ZGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgc2Vzc2lvblZpZXdlcnNEYXRhU2VsZWN0b3IgfSBmcm9tICcuLi8uLi9yZWR1eC9zZXNzaW9uL3NlbGVjdG9ycyc7CmltcG9ydCB7IHNlc3Npb25WaWV3ZXJzTG9hZGluZ1NlbGVjdG9yIH0gZnJvbSAnLi4vLi4vcmVkdXgvc2Vzc2lvbi9zZWxlY3RvcnMnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlc3Npb24udG9KU09OKCkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgU3RhdGUgfSBmcm9tICcuLi8uLi8uLi9zdG9yZS9iYXNlL1N0YXRlU3RvcmUnOwppbXBvcnQgeyBkYXRhTWFwcGVyIH0gZnJvbSAnLi4vLi4vZGF0YU1hcHBlcnMvZGF0YU1hcHBlcic7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKTsK</text>
+        <text encoding="base64">ICBhbGwsCiAgZGlzc29jLAogIGlzRW1wdHksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlkOiBkYXRhLnVzZXJTdHJlYW1TZXNzaW9uSWQsCg==</text>
+        <text encoding="base64">ICBtYXAsCiAgcGF0aE9yLAogIHBpcGUsCiAgcHJvcEVxLAogIHZhbHVlcywK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
