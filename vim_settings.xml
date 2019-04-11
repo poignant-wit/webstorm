@@ -1542,11 +1542,11 @@
         <mark key="^" line="23" column="8" />
         <mark key="." line="23" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/sessionViewersCountsSelector.ts" timestamp="1554970471592">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="21" column="14" />
-        <mark key="^" line="14" column="35" />
-        <mark key="." line="14" column="35" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/sessionViewersCountsSelector.ts" timestamp="1554971556753">
+        <mark key="[" line="39" column="21" />
+        <mark key="]" line="39" column="21" />
+        <mark key="^" line="39" column="21" />
+        <mark key="." line="39" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/index.ts" timestamp="1549972789228">
         <mark key="[" line="0" column="18" />
@@ -2015,7 +2015,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/__tests__/sessionViewersCountsSelector.test.ts" timestamp="1554970425642">
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/__tests__/sessionViewersCountsSelector.test.ts" timestamp="1554971382537">
         <mark key="[" line="57" column="22" />
         <mark key="]" line="57" column="25" />
         <mark key="^" line="57" column="25" />
@@ -2923,44 +2923,51 @@
       <jump line="75" column="8" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJ3ZpZXdlcnNCeUNoYW5uZWxJZCcsCiAgICAgIGNoYW5uZWxJZCwKICAgICAgJ2RhdGEnLAogICAgICB2aWV3ZXJzLAo=</text>
+      <register name="&quot;" type="4">
+        <text>keys</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>keys</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYW52YXNNYWluXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJ3ZpZXdlcnNCeUNoYW5uZWxJZCcsCiAgICAgIGNoYW5uZWxJZCwKICAgICAgJ2RhdGEnLAogICAgICB2aWV3ZXJzLAo=</text>
+        <text encoding="base64">ICBjb25zdCB2aWV3ZXJzRGF0YUxlbnMgPSAoY2hJZDogbnVtYmVyLCB2aWV3ZXJzOiBzdHJpbmcpID0+CiAgICBsZW5zUGF0aChbJ3ZpZXdlcnNCeUNoYW5uZWxJZCcsIGNoSWQsICdkYXRhJywgdmlld2Vyc10pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhdGhPcihudWxsLCBbCiAgICAgICd2aWV3ZXJzQnlDaGFubmVsSWQnLAogICAgICBjaGFubmVsSWQsCiAgICAgICdkYXRhJywKICAgICAgJ21heFZpZXdlcnMnLAogICAgICAnY291bnRzJywKICAgICAgJ3RvdGFsJywKICAgIF0pLAo=</text>
+      <register name="1" type="4">
+        <text>[
+      'viewersByChannelId',
+      channelId,
+      'data',
+      viewers,
+      'counts',
+      'total',
+    ]</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhdGhPcihudWxsLCBbCiAgICAgICd2aWV3ZXJzQnlDaGFubmVsSWQnLAogICAgICBjaGFubmVsSWQsCiAgICAgICdkYXRhJywKICAgICAgJ2F2Z1ZpZXdlcnMnLAogICAgICAnY291bnRzJywKICAgICAgJ3RvdGFsJywKICAgIF0pLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnbWF4Vmlld2VycycsCg==</text>
+        <text encoding="base64">ICAgIHBhdGhPcihudWxsLCBbCiAgICAgICd2aWV3ZXJzQnlDaGFubmVsSWQnLAogICAgICBjaGFubmVsSWQsCiAgICAgICdkYXRhJywKICAgICAgJ21heFZpZXdlcnMnLAogICAgICAnY291bnRzJywKICAgICAgJ3RvdGFsJywKICAgIF0pLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRhdGUyID0gbmV3IERhdGUoKS5zZXRNaW51dGVzKDIwKTsK</text>
+        <text encoding="base64">ICAgIHBhdGhPcihudWxsLCBbCiAgICAgICd2aWV3ZXJzQnlDaGFubmVsSWQnLAogICAgICBjaGFubmVsSWQsCiAgICAgICdkYXRhJywKICAgICAgJ2F2Z1ZpZXdlcnMnLAogICAgICAnY291bnRzJywKICAgICAgJ3RvdGFsJywKICAgIF0pLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgRGF0ZSgpLnNldE1pbnV0ZXMoMTApCg==</text>
+        <text encoding="base64">ICAgICAgICAnbWF4Vmlld2VycycsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNoYW5uZWxJZCA9IDE7CiAgICBjb25zdCBkYXRlMSA9IG5ldyBEYXRlKCkuc2V0TWludXRlcygxMGYsCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRhdGUyID0gbmV3IERhdGUoKS5zZXRNaW51dGVzKDIwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRhdGE6IHt9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgRGF0ZSgpLnNldE1pbnV0ZXMoMTApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRhdGE6IHsgdGVzdDogJ3Rlc3QnIH0sCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNoYW5uZWxJZCA9IDE7CiAgICBjb25zdCBkYXRlMSA9IG5ldyBEYXRlKCkuc2V0TWludXRlcygxMGYsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkYXRhOiB7fSwK</text>
+        <text encoding="base64">ICAgICAgICAgIGRhdGE6IHt9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
