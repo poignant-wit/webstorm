@@ -201,11 +201,6 @@
         <mark key="." line="30" column="24" />
         <mark key="^" line="30" column="24" />
       </file>
-      <file name="$USER_HOME$/Downloads/static-html-webpack-boilerplate-1.1.0/src/js/app.js" timestamp="1554966108534">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="29" />
-        <mark key="." line="4" column="29" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/typings/index.d.ts" timestamp="1552582765928">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="35" />
@@ -1797,6 +1792,12 @@
         <mark key="^" line="10" column="63" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/Hoc.tsx" timestamp="1554988461866">
+        <mark key="[" line="7" column="58" />
+        <mark key="]" line="7" column="68" />
+        <mark key="." line="7" column="68" />
+        <mark key="^" line="7" column="68" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateSuccessPanel/index.ts" timestamp="1549976741004">
         <mark key="[" line="0" column="45" />
         <mark key="]" line="0" column="45" />
@@ -2658,7 +2659,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="24" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/menu/ProductMenu/ProductMenu.tsx" />
       <jump line="420" column="24" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/menu/ProductMenu/ProductMenu.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/menu/ProductMenu/ProductMenu.sass" />
       <jump line="270" column="0" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/App.scss" />
@@ -2758,46 +2758,47 @@
       <jump line="326" column="11" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
       <jump line="75" column="8" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
       <jump line="44" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" />
+      <jump line="3" column="18" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/Hoc.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>center</text>
+        <text>rest</text>
       </register>
       <register name="-" type="4">
-        <text>center</text>
+        <text>rest</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYW52YXNNYWluXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2Vzc2lvbi5sb2FkKCk7Cg==</text>
+        <text encoding="base64">Y29uc3QgVGVzdDogRkM8eyB0ZXh0OiBzdHJpbmcgfT4gPSAoKSA9PiB7CiAgcmV0dXJuIDxkaXY+Q09tbTwvZGl2PjsKfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlcmllcy5kdW1teURhdGEgPSB7CiAgICAgICAgICAgIGZsYWc6IGNoYW5uZWwKICAgICAgICAgICAgICA/IGNoYW5uZWwucGxhdGZvcm0uaW1hZ2Uuc3ZnCiAgICAgICAgICAgICAgOiAnaHR0cHM6Ly9zMy11cy13ZXN0LTIuYW1hem9uYXdzLmNvbS9zLmNkcG4uaW8vdC0xNjAvZmxhZ19kZW5tYXJrLnN2ZycsCiAgICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICByZXR1cm4gPExvYWRlciAvPjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
+        <text encoding="base64">ICByZXR1cm4gPGRpdj5DT21tPC9kaXY+Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgaW50ZXJmYWNlQ29sb3JzID0gbmV3IGFtNGNvcmUuSW50ZXJmYWNlQ29sb3JTZXQoKTsK</text>
+        <text encoding="base64">Y29uc3QgVGVzdDI6IEZDPHt9PiA9ICgpID0+IHsKICByZXR1cm4gPGRpdj5DT21tPC9kaXY+Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZmVhdDogU2Vzc2lvbkNoYXJ0ZGQK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZmVhdDogU2Vzc2lvbkNoYXJ0ZGQK</text>
+        <text encoding="base64">ICBbCiAgICAKICBdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2Vzc2lvblZpZXdlcnNEYXRhU2VsZWN0b3IgfSBmcm9tICcuLi8uLi9yZWR1eC9zZXNzaW9uL3NlbGVjdG9ycyc7CmltcG9ydCB7IHNlc3Npb25WaWV3ZXJzTG9hZGluZ1NlbGVjdG9yIH0gZnJvbSAnLi4vLi4vcmVkdXgvc2Vzc2lvbi9zZWxlY3RvcnMnOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3RhdGUgfSBmcm9tICcuLi8uLi8uLi9zdG9yZS9iYXNlL1N0YXRlU3RvcmUnOwppbXBvcnQgeyBkYXRhTWFwcGVyIH0gZnJvbSAnLi4vLi4vZGF0YU1hcHBlcnMvZGF0YU1hcHBlcic7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNlcmllcy5kdW1teURhdGEgPSB7CiAgICAgICAgICAgIGZsYWc6IGNoYW5uZWwKICAgICAgICAgICAgICA/IGNoYW5uZWwucGxhdGZvcm0uaW1hZ2Uuc3ZnCiAgICAgICAgICAgICAgOiAnaHR0cHM6Ly9zMy11cy13ZXN0LTIuYW1hem9uYXdzLmNvbS9zLmNkcG4uaW8vdC0xNjAvZmxhZ19kZW5tYXJrLnN2ZycsCiAgICAgICAgICB9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhbGwsCiAgZGlzc29jLAogIGlzRW1wdHksCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtYXAsCiAgcGF0aE9yLAogIHBpcGUsCiAgcHJvcEVxLAogIHZhbHVlcywK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaW50ZXJmYWNlQ29sb3JzID0gbmV3IGFtNGNvcmUuSW50ZXJmYWNlQ29sb3JTZXQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
