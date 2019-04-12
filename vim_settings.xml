@@ -598,13 +598,6 @@
         <mark key="." line="6" column="60" />
         <mark key="^" line="6" column="60" />
       </file>
-      <file name="$USER_HOME$/Downloads/static-html-webpack-boilerplate-1.1.0/src/js/chart/helpers/stateHelpers.js" timestamp="1554996810123">
-        <mark key="'" line="1" column="40" />
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-        <mark key="^" line="7" column="22" />
-      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateDialog/index.ts" timestamp="1549972019389">
         <mark key="[" line="0" column="39" />
         <mark key="]" line="0" column="39" />
@@ -2589,11 +2582,11 @@
         <mark key="^" line="54" column="54" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionChart.tsx" timestamp="1554987835277">
-        <mark key="[" line="76" column="29" />
-        <mark key="]" line="76" column="34" />
-        <mark key="." line="76" column="34" />
-        <mark key="^" line="76" column="34" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionChart.tsx" timestamp="1555056246137">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="75" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventCreateEditFormLabel.tsx" timestamp="1548176248748">
         <mark key="[" line="0" column="12" />
@@ -2839,7 +2832,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjdXJyZW50RGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gZmxhZy52ZXJ0aWNhbENlbnRlciA9ICdtaWRkbGUnOwogICAgICAvLyBmbGFnLmhvcml6b250YWxDZW50ZXIgPSAnbGVmdCc7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -2851,31 +2844,31 @@
         <text encoding="base64">ICBjb25zdCBjb250YWluZXJTdGF0ZSA9IGNvbnRhaW5lclN0YXRlU2VsZWN0b3Ioc3RhdGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjdXJyZW50RGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gZmxhZy52ZXJ0aWNhbENlbnRlciA9ICdtaWRkbGUnOwogICAgICAvLyBmbGFnLmhvcml6b250YWxDZW50ZXIgPSAnbGVmdCc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhWCwgZGF0YVkpOwo=</text>
+        <text encoding="base64">ICAgICAgbWFya2VyLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGN1cnJlbnREYXRhU2VsZWN0b3IgPSBzdGF0ZSA9PiBkYXRhU3RhdGVTZWxlY3RvcihzdGF0ZSkuY3VycmVudDsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjdXJyZW50RGF0YSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhU3RhdGUpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhWCwgZGF0YVkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcmVuZGVyTGluZUNoYXJ0IH0gZnJvbSAnLi9jaGFydC9yZW5kZXJMaW5lQ2hhcnQnOwo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGN1cnJlbnREYXRhU2VsZWN0b3IgPSBzdGF0ZSA9PiBkYXRhU3RhdGVTZWxlY3RvcihzdGF0ZSkuY3VycmVudDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2V0U3RhdGUgfSBmcm9tICcuLi9zdGF0ZSc7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhU3RhdGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgcmVuZGVyTGluZUNoYXJ0IH0gZnJvbSAnLi9jaGFydC9yZW5kZXJMaW5lQ2hhcnQnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgc2V0U3RhdGUgfSBmcm9tICcuLi9zdGF0ZSc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZW5kZXJMaW5lQ2hhcnQoY3R4LCBzdGF0ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action TsLintFileFixAction</text>
