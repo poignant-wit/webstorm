@@ -676,10 +676,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="28" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555059702195">
+      <file name="/Dummy.txt" timestamp="1555075550549">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/services/__tests__/ChannelsService.test.ts" timestamp="1554451674339">
@@ -739,6 +739,12 @@
         <mark key="]" line="30" column="47" />
         <mark key="." line="30" column="47" />
         <mark key="^" line="30" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/offers/components/OffersRegular.tsx" timestamp="1555075076959">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="9" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateDialog.tsx" timestamp="1549968859070">
         <mark key="[" line="33" column="18" />
@@ -1322,6 +1328,7 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/offers/containers/OffersContainer.tsx" timestamp="1555075493700" />
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsListItem/EventsListItem.tsx" timestamp="1554294145586">
         <mark key="[" line="135" column="40" />
         <mark key="]" line="135" column="41" />
@@ -1364,6 +1371,7 @@
         <mark key="^" line="54" column="57" />
         <mark key="." line="130" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/types.ts" timestamp="1554968409418" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/errors/EventsCountLimitError.ts" timestamp="1549614355963">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="28" />
@@ -1387,12 +1395,6 @@
         <mark key="]" line="10" column="25" />
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/__tests__/sessionByIdSelector.test.ts" timestamp="1554969514503">
-        <mark key="'" line="3" column="3" />
-        <mark key="[" line="47" column="31" />
-        <mark key="]" line="47" column="32" />
-        <mark key="." line="47" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/list/components/EventsList/EventsList.tsx" timestamp="1549892173531">
         <mark key="[" line="79" column="0" />
@@ -1505,12 +1507,6 @@
         <mark key="]" line="7" column="36" />
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="36" />
-      </file>
-      <file name="$USER_HOME$/Downloads/static-html-webpack-boilerplate-1.1.0/src/js/charts.js" timestamp="1555048769411">
-        <mark key="'" line="63" column="11" />
-        <mark key="[" line="415" column="0" />
-        <mark key="]" line="424" column="14" />
-        <mark key="." line="305" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/contexts/actions.ts" timestamp="1554724879188">
         <mark key="[" line="26" column="0" />
@@ -2331,6 +2327,7 @@
         <mark key="." line="15" column="29" />
         <mark key="^" line="39" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/api/restream/__mocks__/index.ts" timestamp="1554883881823" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListSlot/EventsListSlot.scss" timestamp="1549527141162">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="13" column="25" />
@@ -2987,11 +2984,11 @@
       <jump line="12" column="0" filename="$USER_HOME$/Downloads/static-html-webpack-boilerplate-1.1.0/src/js/chart/data/prepareData.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>flag</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Zml4OiBsb2NhdGlvbiBzdGF0ZSB1bmRlZmluZWQK</text>
       </register>
       <register name="-" type="4">
-        <text>flag</text>
+        <text>getIsMonthly()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3JtYWxpemVBcnJheVw+</text>
@@ -3000,31 +2997,31 @@
         <text encoding="base64">ICAgICAgICAgIDxDb2x1bW4gbGc9ezZ9IG1kPXs2fSBzbT17Nn0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjaC5kYXRhRmllbGRzLnZhbHVlID0gJ3ZhbHVlJzsKICBjaC5kYXRhRmllbGRzLm5hbWUgPSAnbmFtZSc7Cg==</text>
+        <text encoding="base64">Zml4OiBsb2NhdGlvbiBzdGF0ZSB1bmRlZmluZWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwppbXBvcnQgeyBkaXNzb2MsIGtleXMsIHBpcGUgfSBmcm9tICdyYW1kYSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH19PC9PYnNlcnZlcj4gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB1c2VDb250ZXh0LAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGdldElzTW9udGhseSA9ICgpID0+IHRoaXMuaXNNb250aGx5Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB1c2VNZW1vLAogIHVzZVN0YXRlLAo=</text>
+        <text encoding="base64">ICAgICAgPE9ic2VydmVyPnsoKSA9Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm9vdFN0b3JlQ29udGV4dCB9IGZyb20gJy4uLy4uLy4uL3N0b3JlJzsK</text>
+        <text encoding="base64">ICAgICAgfTwvT2JzZXJ2ZXI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBjaGFydC5kYXRhID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICB9fQogICAgICA8L09ic2VydmVyPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHNldENoYXJ0KGNyZWF0ZUNoYXJ0KGRhdGEpKTsK</text>
+        <text encoding="base64">ICAgICAgPE9ic2VydmVyPgogICAgICAgIHsoKSA9PiAoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBbY2hhcnQsIHNldENoYXJ0XSA9IHVzZVN0YXRlPENoYXJ0IHwgbnVsbD4obnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGdldElzTW9kZG50aGx5ID0gKCkgPT4gdGhpcy5pc01vbnRobHk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gc2V0VGltZW91dCgoKSA9PiB7CiAgICAgIC8vIH0sIDEwMDApOwo=</text>
+        <text encoding="base64">ICAgICAgfTwvT2JzZXJ2ZXI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
