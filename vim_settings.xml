@@ -729,10 +729,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="28" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555400970270">
+      <file name="/Dummy.txt" timestamp="1555404621191">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/services/__tests__/ChannelsService.test.ts" timestamp="1554451674339">
@@ -2002,6 +2002,12 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChattersData.ts" timestamp="1555404471678">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="25" />
+        <mark key="^" line="24" column="25" />
+        <mark key="." line="24" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/Meta.ts" timestamp="1550214575610">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -2588,12 +2594,12 @@
         <mark key="^" line="25" column="59" />
         <mark key="." line="25" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/AnalyticsSessionPage.tsx" timestamp="1555403698587">
-        <mark key="'" line="75" column="14" />
-        <mark key="[" line="65" column="21" />
-        <mark key="]" line="65" column="28" />
-        <mark key="^" line="65" column="28" />
-        <mark key="." line="65" column="28" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/AnalyticsSessionPage.tsx" timestamp="1555404601194">
+        <mark key="'" line="73" column="14" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="63" column="28" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/channels/__tests__/ChannelsStore.test.ts" timestamp="1554888519904">
         <mark key="[" line="22" column="13" />
@@ -3102,8 +3108,8 @@
       <jump line="76" column="14" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/AnalyticsSessionPage.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>vm.channels.channelId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmVhdDogc2Vzc2lvbiBjaGF0dGVycyBhY3Rpb24vcmVkdWNlcgo=</text>
       </register>
       <register name="-" type="4">
         <text>vm.channels.channelId</text>
@@ -3115,31 +3121,31 @@
         <text encoding="base64">ICAgICAgICBzZXRTZWFyY2hQYXJhbXMoeyBbUXVlcnlQYXJhbXMuQ0hBTk5FTF9JRF06IGlkIH0pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb249e3ZtLnNlc3Npb259Cg==</text>
+        <text encoding="base64">ZmVhdDogc2Vzc2lvbiBjaGF0dGVycyBhY3Rpb24vcmVkdWNlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzZWxlY3QnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWxlY3RlZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb290U3RvcmUuY2hhbm5lbHMuY29sbGVjdGlvbi5sZW5ndGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb249e3ZtLnNlc3Npb259Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzZWxlY3QnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvUmVhY3QuRnJhZ21lbnQ+Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb290U3RvcmUuY2hhbm5lbHMuY29sbGVjdGlvbi5sZW5ndGgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIDxSZWFjdC5GcmFnbWVudD4KICAgICAgPFNlc3Npb25IZWFkZXIgc2Vzc2lvbj17c2Vzc2lvbn0gLz4KICAgICAgPENvbnRhaW5lcj4KICAgICAgICA8Um93IGZsdWlkPXt0cnVlfSBkaXJlY3Rpb249eydjb2x1bW4nfT4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMudGFic30+CiAgICAgICAgICAgIDxDaGFubmVsc1RhYnMKICAgICAgICAgICAgICBpdGVtcz17Y2hhbm5lbHMuZmlsdGVyKGNoID0+ICEhY2gpfQogICAgICAgICAgICAgIG9uU2VsZWN0PXt2bS5jaGFubmVscy5zZXRTZWxlY3RlZENoYW5uZWxJZH0KICAgICAgICAgICAgICBzZWxlY3RlZENoYW5uZWw9e3NlbGVjdGVkfQogICAgICAgICAgICAgIGxvYWRpbmc9e3Nlc3Npb24uaXNMb2FkaW5nU3RhdGUgfHwgbG9hZGluZ30KICAgICAgICAgICAgLz4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvUm93PgogICAgICB7LyogIDxDaGFydEJsb2NrIGZsZXg9e3RydWV9PiovfQogICAgICB7LyogICAgPFNlc3Npb25DaGFydEhlYWRlciBjb3VudHM9e2NvdW50c30gLz4qL30KICAgICAgey8qICA8L0NoYXJ0QmxvY2s+Ki99CiAgICAgIHsvKiAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5kaXZpZGVyfSAvPiovfQogICAgICB7LyogIDxSb3c+Ki99CiAgICAgIHsvKiAgICA8Q29sdW1uIGxnPXs4fSBtZD17OH0gc209ezh9IHBhZGRpbmc9eycwIDFweCAwIDAnfT4qL30KICAgICAgey8qICAgICAgPENoYXJ0QmxvY2sgdGl0bGU9IlZpZXdlcnMiPiovfQogICAgICB7LyogICAgICAgIHt2aWV3ZXJzRGF0YUxvYWRpbmcgPyAoKi99CiAgICAgIHsvKiAgICAgICAgICA8Q2hhcnRMb2FkZXIgLz4qL30KICAgICAgey8qICAgICAgICApIDogKCovfQogICAgICB7LyogICAgICAgICAgPFNlc3Npb25WaWV3ZXJzQ2hhcnQgZGF0YT17dmlld2Vyc0RhdGF9IC8+Ki99CiAgICAgIHsvKiAgICAgICAgKX0qL30KICAgICAgey8qICAgICAgPC9DaGFydEJsb2NrPiovfQogICAgICB7LyogICAgPC9Db2x1bW4+Ki99CiAgICAgIHsvKiAgICA8Q29sdW1uIGxnPXs0fSBtZD17NH0gc209ezR9IHBhZGRpbmc9eycwIDAgMCAxcHgnfT4qL30KICAgICAgey8qICAgICAgPENoYXJ0QmxvY2sgdGl0bGU9IldhdGNoZWQgbWludXRlcyBieSBjaGFubmVsIj4qL30KICAgICAgey8qICAgICAgICB7dmlld2Vyc0RhdGFMb2FkaW5nID8gKCovfQogICAgICB7LyogICAgICAgICAgPENoYXJ0TG9hZGVyIC8+Ki99CiAgICAgIHsvKiAgICAgICAgKSA6ICgqL30KICAgICAgey8qICAgICAgICAgIDxTZXNzaW9uV2F0Y2hlZE1pbnV0ZXNDaGFydCBkYXRhPXt3YXRjaGVkTWludXRlc0RhdGF9IC8+Ki99CiAgICAgIHsvKiAgICAgICAgKX0qL30KICAgICAgey8qICAgICAgPC9DaGFydEJsb2NrPiovfQogICAgICB7LyogICAgPC9Db2x1bW4+Ki99CiAgICAgIHsvKiAgPC9Sb3c+Ki99CiAgICAgIHsvKiAgPFJvdz4qL30KICAgICAgey8qICAgIDxDb2x1bW4gbGc9ezZ9IG1kPXs2fSBzbT17Nn0gcGFkZGluZz17JzFweCAxcHggMCAwJ30+Ki99CiAgICAgIHsvKiAgICAgIDxDaGFydEJsb2NrIHRpdGxlPSJDaGF0dGVycyI+Ki99CiAgICAgIHsvKiAgICAgICAgPEFuYWx5dGljc1Nlc3Npb25DaGF0dGVyc0NvbnRhaW5lciovfQogICAgICB7LyogICAgICAgICAgc2Vzc2lvbj17dm0uc2Vzc2lvbn0qL30KICAgICAgey8qICAgICAgICAgIGNoYW5uZWxJZD17dm0uY2hhbm5lbHMuY2hhbm5lbElkfSovfQogICAgICB7LyogICAgICAgIC8+Ki99CiAgICAgIHsvKiAgICAgIDwvQ2hhcnRCbG9jaz4qL30KICAgICAgey8qICAgIDwvQ29sdW1uPiovfQogICAgICB7LyogICAgPENvbHVtbiBsZz17Nn0gbWQ9ezZ9IHNtPXs2fSBwYWRkaW5nPXsnMXB4IDAgMCAxcHgnfT4qL30KICAgICAgey8qICAgICAgPENoYXJ0QmxvY2sgdGl0bGU9IkNoYXQgbWVzc2FnZXMiIC8+Ki99CiAgICAgIHsvKiAgICA8L0NvbHVtbj4qL30KICAgICAgey8qICA8L1Jvdz4qL30KICAgICAgey8qPC9Db250YWluZXI+Ki99CiAgICA8L1JlYWN0LkZyYWdtZW50Pg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
