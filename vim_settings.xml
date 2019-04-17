@@ -993,11 +993,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/factory/SessionDucksFactory.ts" timestamp="1555507457378">
-        <mark key="[" line="179" column="29" />
-        <mark key="]" line="179" column="29" />
-        <mark key="." line="179" column="29" />
-        <mark key="^" line="179" column="64" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/factory/SessionDucksFactory.ts" timestamp="1555513793864">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="169" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/_own/mobx-intro/src/TodosStore.js" timestamp="1547742667808">
         <mark key="[" line="29" column="24" />
@@ -1826,6 +1826,12 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/sessionDataScopeCountsSelector.ts" timestamp="1555513447123">
+        <mark key="[" line="3" column="56" />
+        <mark key="]" line="3" column="63" />
+        <mark key="^" line="3" column="63" />
+        <mark key="." line="3" column="63" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useUrlSearchParams.ts" timestamp="1553844420332">
         <mark key="[" line="21" column="19" />
         <mark key="]" line="21" column="19" />
@@ -2068,10 +2074,11 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChattersData.ts" timestamp="1555512577702">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChattersData.ts" timestamp="1555513520333">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="55" column="4" />
+        <mark key="^" line="54" column="13" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/Meta.ts" timestamp="1550214575610">
         <mark key="[" line="10" column="0" />
@@ -2228,10 +2235,11 @@
         <mark key="^" line="28" column="60" />
         <mark key="." line="28" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" timestamp="1555512488280">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="44" column="4" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" timestamp="1555513532179">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="46" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/index.ts" timestamp="1553078952507">
         <mark key="[" line="2" column="18" />
@@ -2833,11 +2841,11 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="33" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionChatMessagesContainer.tsx" timestamp="1555506924758">
-        <mark key="[" line="26" column="32" />
-        <mark key="]" line="26" column="32" />
-        <mark key="." line="26" column="32" />
-        <mark key="^" line="26" column="41" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionChatMessagesContainer.tsx" timestamp="1555513691793">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="28" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/dialog/index.ts" timestamp="1549882711251">
         <mark key="[" line="0" column="39" />
@@ -3197,43 +3205,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWx1ZXMsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>sessionChatMessagesDucks</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBkYXRhU2NvcGUgPSB1c2VNZW1vKAogICAgKCkgPT4gc2Vzc2lvbkNoYXRNZXNzYWdlc0R1Y2tzLnNlbGVjdG9ycy5kYXRhU2VsZWN0b3Ioc2Vzc2lvbi5pZCkoc3RhdGUpLAogICAgW3N0YXRlXSwKICApOwoKICBjb25zdCBsb2FkaW5nID0gdXNlTWVtbygKICAgICgpID0+IHNlc3Npb25EYXRhU2NvcGVMb2FkaW5nU2VsZWN0b3IoZGF0YVNjb3BlKSB8fCAhc2Vzc2lvbi5pc0xvYWRlZFN0YXRlLAogICAgW2RhdGFTY29wZSwgc2Vzc2lvbi5zdGF0ZV0sCiAgKTsKCiAgY29uc3QgZGF0YSA9IHVzZU1lbW8oCiAgICAoKSA9PiBzZXNzaW9uRGF0YVNjb3BlQ29tYmluZVNlbGVjdG9yKHsgY2hhbm5lbElkIH0pKGRhdGFTY29wZSksCiAgICBbZGF0YVNjb3BlLCBjaGFubmVsSWRdLAogICk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBjb3VudHMgPSB1c2VNZW1vKAogICAgKCkgPT4gc2Vzc2lvbkRhdGFTY29wZUNvdW50c1NlbGVjdG9yKGNoYW5uZWxJZCkoZGF0YVNjb3BlKSwKICAgIFtkYXRhU2NvcGUsIGNoYW5uZWxJZF0sCiAgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWx1ZXMsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBsb2FkaW5nID0gdXNlTWVtbygKICAgICgpID0+CiAgICAgIHNlc3Npb25DaGF0dGVyc0xvYWRpbmdTZWxlY3Rvcih7IHNlc3Npb25JZDogc2Vzc2lvbi5pZCB9KShzdGF0ZSkgfHwKICAgICAgIXNlc3Npb24uaXNMb2FkZWRTdGF0ZSwKICAgIFtjaGF0dGVyc0J5Q2hhbm5lbElkU3RhdGUsIHNlc3Npb24uc3RhdGVdLAogICk7Cg==</text>
+        <text encoding="base64">ICBwaXBlLAogIHBsdWNrLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlcXVhbHMsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBkYXRhID0gdXNlTWVtbygKICAgICgpID0+CiAgICAgIHNlc3Npb25DaGF0dGVyc0RhdGFTZWxlY3Rvcih7IHNlc3Npb25JZDogc2Vzc2lvbi5pZCwgY2hhbm5lbElkIH0pKHN0YXRlKSwKICAgIFtjaGF0dGVyc0J5Q2hhbm5lbElkU3RhdGUsIGNoYW5uZWxJZF0sCiAgKTsK</text>
+        <text encoding="base64">ICBhbnksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZXNzaW9uVmlld2Vyc0NvdW50c1NlbGVjdG9yLAogIHNlc3Npb25WaWV3ZXJzRGF0YVNlbGVjdG9yLAogIHNlc3Npb25WaWV3ZXJzTG9hZGluZ1NlbGVjdG9yLAo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gbG9hZGluZ1NlbGVjdG9yKGRhdGFTY29wZTogYW55KSB7CiAgcmV0dXJuIChzdGF0ZTogSUFuYWx5dGljc1N0b3JlKSA9PiB7CiAgICByZXR1cm4gcGlwZSgKICAgICAgdmFsdWVzLAogICAgICBwbHVjaygnc3RhdGUnKSwKICAgICAgYW55KGVxdWFscyhTdGF0ZS5MT0FESU5HKSksCiAgICApKGRhdGFTY29wZSk7CiAgfTsKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm9vdFN0b3JlQ29udGV4dCB9IGZyb20gJy4uLy4uL3N0b3JlJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgdXNlQW5hbHl0aWNzU2Vzc2lvbkNoYXR0ZXJzRGF0YSB9IGZyb20gJy4uLy4uL2hvb2tzL3VzZUFuYWx5dGljc1Nlc3Npb25DaGF0dGVyc0RhdGEnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaXNOaWwgfSBmcm9tICdyYW1kYSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaXNOaWwgfSBmcm9tICdyYW1kYSc7Cg==</text>
+        <text encoding="base64">ICAvLwogIC8vIGNvbnN0IGNvdW50cyA9IHVzZU1lbW8oCiAgLy8gICAoKSA9PgogIC8vICAgICBzZXNzaW9uQ2hhdHRlcnNDb3VudHNTZWxlY3Rvcih7IHNlc3Npb25JZDogc2Vzc2lvbi5pZCwgY2hhbm5lbElkIH0pKAogIC8vICAgICAgIHN0YXRlLAogIC8vICAgICApLAogIC8vICAgW2NoYXR0ZXJzQnlDaGFubmVsSWRTdGF0ZSwgY2hhbm5lbElkXSwKICAvLyApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm9vdFN0b3JlQ29udGV4dCB9IGZyb20gJy4uLy4uL3N0b3JlJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
