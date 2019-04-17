@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionChattersContainer.tsx" timestamp="1555408858157">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="24" column="17" />
-        <mark key="^" line="28" column="1" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionChattersContainer.tsx" timestamp="1555420888729">
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="29" column="19" />
+        <mark key="." line="29" column="19" />
+        <mark key="^" line="29" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/restream-web/api/server/routes/oauth.js" timestamp="1551103917159">
         <mark key="[" line="9" column="7" />
@@ -458,6 +458,11 @@
         <mark key="." line="19" column="2" />
         <mark key="^" line="19" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/sessionChattersDataSelector.ts" timestamp="1555421064259">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/analytics/Chart/Chart.tsx" timestamp="1552036292296">
         <mark key="[" line="19" column="52" />
         <mark key="]" line="19" column="59" />
@@ -469,6 +474,12 @@
         <mark key="]" line="52" column="2" />
         <mark key="^" line="51" column="39" />
         <mark key="." line="51" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/__tests__/sessionViewersDataSelector.test.ts" timestamp="1555420199885">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="35" />
+        <mark key="^" line="13" column="35" />
+        <mark key="." line="13" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/context/RootStoreContext.tsx" timestamp="1550658550738">
         <mark key="[" line="5" column="13" />
@@ -660,9 +671,9 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionViewersData.ts" timestamp="1555417528873">
-        <mark key="[" line="61" column="49" />
-        <mark key="]" line="61" column="67" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionViewersData.ts" timestamp="1555420769231">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="102" column="4" />
         <mark key="^" line="61" column="67" />
         <mark key="." line="61" column="67" />
       </file>
@@ -835,12 +846,12 @@
         <mark key="." line="1" column="59" />
         <mark key="^" line="1" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/ducks/loadChattersData.ts" timestamp="1555418860845">
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/ducks/loadChattersData.ts" timestamp="1555421094687">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="5" column="36" />
-        <mark key="]" line="5" column="36" />
-        <mark key="^" line="9" column="40" />
-        <mark key="." line="5" column="36" />
+        <mark key="[" line="122" column="18" />
+        <mark key="]" line="122" column="18" />
+        <mark key="^" line="122" column="18" />
+        <mark key="." line="122" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/base/StateEnum.ts" timestamp="1553854506455">
         <mark key="[" line="11" column="6" />
@@ -1447,11 +1458,11 @@
         <mark key="^" line="22" column="6" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/types.ts" timestamp="1555399107626">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="26" />
-        <mark key="^" line="6" column="25" />
-        <mark key="." line="6" column="26" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/types.ts" timestamp="1555420502759">
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="23" />
+        <mark key="^" line="19" column="23" />
+        <mark key="." line="19" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/events/errors/EventsCountLimitError.ts" timestamp="1549614355963">
         <mark key="[" line="2" column="28" />
@@ -1470,6 +1481,13 @@
         <mark key="]" line="10" column="25" />
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/__tests__/sessionByIdSelector.test.ts" timestamp="1555420847797">
+        <mark key="'" line="3" column="3" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="30" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="8" column="32" />
       </file>
       <file name="$USER_HOME$/Downloads/static-html-webpack-boilerplate-1.1.0/src/index.html" timestamp="1555225702250">
         <mark key="[" line="9" column="5" />
@@ -2028,11 +2046,11 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChattersData.ts" timestamp="1555409813445">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="39" column="27" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChattersData.ts" timestamp="1555420792843">
+        <mark key="[" line="51" column="12" />
+        <mark key="]" line="52" column="7" />
+        <mark key="." line="52" column="7" />
+        <mark key="^" line="52" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/Meta.ts" timestamp="1550214575610">
         <mark key="[" line="10" column="0" />
@@ -2171,11 +2189,11 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/__tests__/sessionViewersCountsSelector.test.ts" timestamp="1554972778692">
-        <mark key="[" line="50" column="16" />
-        <mark key="]" line="50" column="19" />
-        <mark key="^" line="50" column="19" />
-        <mark key="." line="50" column="19" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/__tests__/sessionViewersCountsSelector.test.ts" timestamp="1555420148653">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="65" />
+        <mark key="^" line="16" column="32" />
+        <mark key="." line="16" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/errors/ErrorFactory.ts" timestamp="1552911728865">
         <mark key="[" line="66" column="77" />
@@ -2720,11 +2738,11 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/sessionViewersDataSelector.ts" timestamp="1555059209019">
-        <mark key="[" line="38" column="31" />
-        <mark key="]" line="38" column="36" />
-        <mark key="." line="38" column="36" />
-        <mark key="^" line="38" column="36" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/sessionViewersDataSelector.ts" timestamp="1555420586738">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="35" />
+        <mark key="^" line="20" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsListPlaceholderIcon/index.ts" timestamp="1550577648985">
         <mark key="[" line="0" column="17" />
@@ -3151,43 +3169,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgb21pdCB9IGZyb20gJ3JhbWRhJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>sessionViewersDataSelector</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJTG9hZFZpZXdlcnNEYXRhUGFyYW1zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNoYXR0ZXJzQnlDaGFubmVsSWQ6IHt9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgb21pdCB9IGZyb20gJ3JhbWRhJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjaGFubmVsc0RhdGEsIGRhdGFMZW5ndGgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVmYWN0b3I6IGFuYWx5dGljcyBob29rc2RkCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmFsdWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ2hhcnRMb2FkZXIgfSBmcm9tICIuLi9DaGFydExvYWRlciI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm9vdFN0b3JlQ29udGV4dCB9IGZyb20gJy4uLy4uL3N0b3JlJzsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjaGFubmVsc0RhdGEpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0U1ZHIGZyb20gJ3JlYWN0LXN2Zyc7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBsb2FkaW5nID0gdXNlTWVtbygKICAgICgpID0+CiAgICAgIHNlc3Npb25DaGF0dGVyc0xvYWRpbmdTZWxlY3Rvcih7IHNlc3Npb25JZDogc2Vzc2lvbi5pZCB9KShzdGF0ZSkgfHwKICAgICAgIXNlc3Npb24uaXNMb2FkZWRTdGF0ZSwKICAgIFtzdGF0ZSwgc2Vzc2lvbi5zdGF0ZV0sCiAgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsKLy8gICBsb2FkVmlld2Vyc1JlcXVlc3QsCi8vICAgbG9hZFZpZXdlcnNSZXF1ZXN0UmVkdWNlciwKLy8gICBsb2FkVmlld2Vyc1N1Y2Nlc3NSZWR1Y2VyLAovLyAgIHNlc3Npb25BY3Rpb25zLAovLyB9IGZyb20gJy4vc2Vzc2lvbi9zZXNzaW9uQWN0aW9ucyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHJlZHVjZVJlZHVjZXIgZnJvbSAncmVkdWNlLXJlZHVjZXJzJzsKaW1wb3J0IHsgY3JlYXRlQWN0aW9uLCBjcmVhdGVBY3Rpb25zIH0gZnJvbSAncmVkdXgtYWN0aW9ucyc7CmltcG9ydCB7IFN0YXRlIH0gZnJvbSAnLi4vLi4vc3RvcmUvYmFzZS9TdGF0ZVN0b3JlJzsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2Vzc2lvbkNoYXR0ZXJzQ2hhcnQgfSBmcm9tICcuLi8uLi9jb21wb25lbnRzL1Nlc3Npb25DaGFydC9TZXNzaW9uQ2hhdHRlcnNDaGFydCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
