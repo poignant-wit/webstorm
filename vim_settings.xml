@@ -690,6 +690,12 @@
         <mark key="." line="6" column="60" />
         <mark key="^" line="6" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/Chart.scss" timestamp="1555661624209">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateDialog/index.ts" timestamp="1549972019389">
         <mark key="[" line="0" column="39" />
         <mark key="]" line="0" column="39" />
@@ -1461,6 +1467,12 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="9" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/Chart.module.scss" timestamp="1555661439944">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/list/components/EventsList/EventsList.tsx" timestamp="1549892173531">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -1718,11 +1730,11 @@
         <mark key="." line="21" column="58" />
         <mark key="^" line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionViewersChart.tsx" timestamp="1555660399623">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="37" column="43" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionViewersChart.tsx" timestamp="1555661472421">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+        <mark key="^" line="15" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventCreateEditModal.tsx" timestamp="1549882558091">
         <mark key="[" line="25" column="28" />
@@ -3122,11 +3134,11 @@
       <jump line="10" column="2" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionViewersData.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjaGFydC5leHBvcnRpbmcubWVudS5iYWNrZ3JvdW5kQ29sb3IgPSAnd2hpdGUnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>menu</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXNzaW9uVmlld2Vyc0RhdGFTZWxlY3Rvclw+</text>
@@ -3135,31 +3147,31 @@
         <text encoding="base64">ICBjaGFydC5leHBvcnRpbmcubWVudSA9IG5ldyBhbTRjb3JlLkV4cG9ydE1lbnUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjaGFydC5leHBvcnRpbmcubWVudS5iYWNrZ3JvdW5kQ29sb3IgPSAnd2hpdGUnOwo=</text>
+        <text encoding="base64">ICBib3JkZXI6IDJweCBzb2xpZCAjNzc3Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBtZW51ID0gbmV3IGFtNGNvcmUuRXhwb3J0TWVudSgpOwo=</text>
+        <text encoding="base64">ICBjaGFydC5leHBvcnRpbmcubWVudS5iYWNrZ3JvdW5kQ29sb3IgPSAnd2hpdGUnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtZW51Lgo=</text>
+        <text encoding="base64">ICBjb25zdCBtZW51ID0gbmV3IGFtNGNvcmUuRXhwb3J0TWVudSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtZW51Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgYW00cGx1Z2luc193b3JkQ2xvdWQgZnJvbSAnQGFtY2hhcnRzL2FtY2hhcnRzNC9wbHVnaW5zL3dvcmRDbG91ZCc7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlUm9vdFN0b3JlIH0gZnJvbSAnLi4vLi4vLi4vaG9va3MvdXNlUm9vdFN0b3JlJzsK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgYW00cGx1Z2luc193b3JkQ2xvdWQgZnJvbSAnQGFtY2hhcnRzL2FtY2hhcnRzNC9wbHVnaW5zL3dvcmRDbG91ZCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZmVhdDogYW5hbHl0aWNzIGV2ZW50cwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgdXNlUm9vdFN0b3JlIH0gZnJvbSAnLi4vLi4vLi4vaG9va3MvdXNlUm9vdFN0b3JlJzsK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
