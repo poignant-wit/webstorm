@@ -1049,12 +1049,6 @@
         <mark key="^" line="157" column="72" />
         <mark key="." line="157" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/App.tsx" timestamp="1555677530015">
-        <mark key="[" line="36" column="16" />
-        <mark key="]" line="36" column="42" />
-        <mark key="." line="36" column="42" />
-        <mark key="^" line="36" column="42" />
-      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/dialogs/components/ConfirmationAlert.tsx" timestamp="1549889301864">
         <mark key="[" line="22" column="14" />
         <mark key="]" line="22" column="25" />
@@ -2289,6 +2283,12 @@
         <mark key="." line="5" column="30" />
         <mark key="^" line="5" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionViewersContainer.tsx" timestamp="1555920066028">
+        <mark key="[" line="51" column="34" />
+        <mark key="]" line="51" column="35" />
+        <mark key="." line="51" column="35" />
+        <mark key="^" line="51" column="35" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1554980428687">
         <mark key="[" line="43" column="274" />
         <mark key="]" line="43" column="273" />
@@ -2651,10 +2651,11 @@
         <mark key="^" line="25" column="59" />
         <mark key="." line="25" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/AnalyticsSessionPage.tsx" timestamp="1555590599657">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/AnalyticsSessionPage.tsx" timestamp="1555920587916">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="38" />
+        <mark key="." line="71" column="30" />
+        <mark key="^" line="71" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/channels/__tests__/ChannelsStore.test.ts" timestamp="1554888519904">
         <mark key="[" line="22" column="13" />
@@ -3167,46 +3168,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXNzaW9uVmlld2Vyc0RhdGFTZWxlY3Rvclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBwYXJlbnQgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZChvcHRzLmNvbnRhaW5lcklkKTsKICBjb25zdCBjYW52YXMgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdjYW52YXMnKTsK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IHN0eWxlPXt7IGhlaWdodDogMjAgfX0gLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Um93IC8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29udGFpbmVyCg==</text>
+        <text encoding="base64">ICAgICAgICBvdyAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29udGFpbmVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgPFBvcnRhbCBjbGFzc05hbWU9e3N0eWxlcy5jb250YWluZXJ9Pntjb250ZW50fTwvUG9ydGFsPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPFBvcnRhbCBjbGFzc05hbWU9e3N0eWxlcy5jb250YWluZXJ9Pntjb250ZW50fTwvUG9ydGFsPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJTsKICBoZWlnaHQ6IDEwMCU7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICAgICAgPFBvcnRhbCBjbGFzc05hbWU9e3N0eWxlcy5jb250YWluZXJ9Pntjb250ZW50fTwvUG9ydGFsPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgPFBvcnRhbCBjbGFzc05hbWU9e3N0eWxlcy5jb250YWluZXJ9Pntjb250ZW50fTwvUG9ydGFsPgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICB3aWR0aDogMTAwJTsKICBoZWlnaHQ6IDEwMCU7Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -3257,8 +3258,8 @@
         <entry>action $SelectAll</entry>
         <entry>action ImplementMethods</entry>
         <entry>action Replace</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
