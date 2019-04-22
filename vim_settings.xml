@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionChattersContainer.tsx" timestamp="1555924619049">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="5" column="80" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-web/api/server/routes/oauth.js" timestamp="1551103917159">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="23" />
@@ -32,6 +38,12 @@
         <mark key="]" line="0" column="9" />
         <mark key="^" line="12" column="44" />
         <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionTrendingEmojisContainer.tsx" timestamp="1555924414116">
+        <mark key="[" line="35" column="65" />
+        <mark key="]" line="35" column="65" />
+        <mark key="." line="35" column="65" />
+        <mark key="^" line="35" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/chartConfigs/timeLineEmptyChartConfig.ts" timestamp="1553595891465">
         <mark key="[" line="51" column="1" />
@@ -201,11 +213,12 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="6" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionTrendingEmojisData.ts" timestamp="1555590386376">
-        <mark key="[" line="36" column="10" />
-        <mark key="]" line="36" column="35" />
-        <mark key="." line="36" column="35" />
-        <mark key="^" line="36" column="35" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionTrendingEmojisData.ts" timestamp="1555924429364">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="49" column="4" />
+        <mark key="." line="59" column="9" />
+        <mark key="^" line="59" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/ui/DialogViewStore.ts" timestamp="1549967556379">
         <mark key="[" line="15" column="26" />
@@ -273,11 +286,11 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Session/SessionHeaderBlock.tsx" timestamp="1554735865888">
-        <mark key="[" line="19" column="48" />
-        <mark key="]" line="19" column="48" />
-        <mark key="^" line="16" column="14" />
-        <mark key="." line="19" column="48" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Session/SessionHeaderBlock.tsx" timestamp="1555926099084">
+        <mark key="[" line="26" column="54" />
+        <mark key="]" line="26" column="59" />
+        <mark key="." line="26" column="59" />
+        <mark key="^" line="26" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/__tests__/sessionViewersSelector.test.ts" timestamp="1554891574533">
         <mark key="[" line="56" column="29" />
@@ -651,16 +664,16 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionViewersData.ts" timestamp="1555922799944">
-        <mark key="[" line="105" column="54" />
-        <mark key="]" line="105" column="54" />
-        <mark key="." line="105" column="54" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionViewersData.ts" timestamp="1555926163667">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/api/restream/sessions.ts" timestamp="1554458566086">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="12" />
-        <mark key="." line="4" column="12" />
-        <mark key="^" line="4" column="12" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/api/restream/sessions.ts" timestamp="1555925311498">
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="10" column="39" />
+        <mark key="." line="10" column="39" />
+        <mark key="^" line="10" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/ChartCount/ChartCount.tsx" timestamp="1555490212633">
         <mark key="[" line="6" column="28" />
@@ -722,10 +735,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="28" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555671779005">
+      <file name="/Dummy.txt" timestamp="1555926991335">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="36" />
+        <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/services/__tests__/ChannelsService.test.ts" timestamp="1554451674339">
@@ -1136,8 +1149,10 @@
         <mark key="." line="7" column="51" />
         <mark key="^" line="7" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/RootStoreContext.ts" timestamp="1555670338125">
-        <mark key="[" line="6" column="67" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsChatPage/chartConfig/chatLineChartConfig.ts" timestamp="1555926472482">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-web/api/.env.example" timestamp="1551105814060">
         <mark key="[" line="75" column="0" />
@@ -1349,11 +1364,10 @@
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/chartConfigs/audienceLineChartConfig.ts" timestamp="1555668694176">
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/chartConfigs/audienceLineChartConfig.ts" timestamp="1555926468773">
         <mark key="[" line="19" column="0" />
-        <mark key="]" line="21" column="4" />
-        <mark key="." line="21" column="3" />
-        <mark key="^" line="21" column="3" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/__tests__/sessionViewersLoadingSelector.ts" timestamp="1555512247255">
         <mark key="[" line="53" column="10" />
@@ -1415,11 +1429,11 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionWatchedMinutesChart.tsx" timestamp="1555659668990">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="4" />
-        <mark key="^" line="19" column="49" />
-        <mark key="." line="19" column="4" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionWatchedMinutesChart.tsx" timestamp="1555926798508">
+        <mark key="[" line="45" column="48" />
+        <mark key="]" line="45" column="48" />
+        <mark key="^" line="45" column="48" />
+        <mark key="." line="45" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/ChartWithCounter/index.ts" timestamp="1554132777838">
         <mark key="[" line="0" column="34" />
@@ -1565,10 +1579,10 @@
         <mark key="." line="35" column="18" />
         <mark key="^" line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/chartConfigs/timeLineChartConfig.ts" timestamp="1555668739488">
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/chartConfigs/timeLineChartConfig.ts" timestamp="1555926458712">
         <mark key="[" line="32" column="0" />
-        <mark key="]" line="34" column="4" />
-        <mark key="^" line="53" column="1" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="50" column="1" />
         <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/api/apiClient.ts" timestamp="1552456916151">
@@ -1738,6 +1752,12 @@
         <mark key="]" line="21" column="58" />
         <mark key="." line="21" column="58" />
         <mark key="^" line="21" column="58" />
+      </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionViewersChart.tsx" timestamp="1555926426550">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventCreateEditModal.tsx" timestamp="1549882558091">
         <mark key="[" line="25" column="28" />
@@ -1925,6 +1945,13 @@
         <mark key="^" line="38" column="25" />
         <mark key="." line="38" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionPopularPhrasesData.ts" timestamp="1555924477724">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="46" column="4" />
+        <mark key="." line="56" column="9" />
+        <mark key="^" line="56" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/sessionWatchedMinutesByChannelsSelector.ts" timestamp="1555064314833">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="51" />
@@ -1979,12 +2006,6 @@
         <mark key="." line="149" column="0" />
         <mark key="^" line="2" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Session/SessionHeader.tsx" timestamp="1555411975647">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="20" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/components/EventsCreateEditMain/EventsCreateEditMain.scss" timestamp="1552651585764">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -2002,6 +2023,13 @@
         <mark key="]" line="9" column="32" />
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChattersData.ts" timestamp="1555924509773">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="46" column="4" />
+        <mark key="." line="62" column="9" />
+        <mark key="^" line="62" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/Meta.ts" timestamp="1550214575610">
         <mark key="[" line="10" column="0" />
@@ -2153,11 +2181,12 @@
         <mark key="^" line="28" column="60" />
         <mark key="." line="28" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" timestamp="1555585086704">
-        <mark key="[" line="58" column="78" />
-        <mark key="]" line="58" column="114" />
-        <mark key="." line="58" column="114" />
-        <mark key="^" line="58" column="114" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" timestamp="1555924525496">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="62" column="9" />
+        <mark key="]" line="62" column="9" />
+        <mark key="." line="62" column="9" />
+        <mark key="^" line="62" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/index.ts" timestamp="1555670350979">
         <mark key="[" line="1" column="25" />
@@ -2224,11 +2253,11 @@
         <mark key="." line="5" column="30" />
         <mark key="^" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionViewersContainer.tsx" timestamp="1555920066028">
-        <mark key="[" line="51" column="34" />
-        <mark key="]" line="51" column="35" />
-        <mark key="." line="51" column="35" />
-        <mark key="^" line="51" column="35" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionViewersContainer.tsx" timestamp="1555926160475">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1554980428687">
         <mark key="[" line="43" column="274" />
@@ -2284,6 +2313,12 @@
         <mark key="^" line="0" column="44" />
         <mark key="." line="0" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionPopularPhrasesContainer.tsx" timestamp="1555924570310">
+        <mark key="[" line="35" column="64" />
+        <mark key="]" line="35" column="64" />
+        <mark key="^" line="35" column="64" />
+        <mark key="." line="35" column="64" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/domain/events/EventsStore.ts" timestamp="1550585406551">
         <mark key="[" line="83" column="25" />
         <mark key="]" line="83" column="25" />
@@ -2338,7 +2373,6 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionPopularPhrasesChart.tsx" timestamp="1555660015696" />
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsActiveListPlaceholder/EventsActiveListPlaceholder.scss" timestamp="1550560065590">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="6" column="21" />
@@ -2381,7 +2415,6 @@
         <mark key="^" line="13" column="51" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Downloads/static-html-webpack-boilerplate-1.1.0/src/js/chart/state/observable.js" timestamp="1555915858242" />
       <file name="$USER_HOME$/Documents/restream-scheduler/docker-compose-scheduler/docker-compose.yml" timestamp="1551972199284">
         <mark key="[" line="6" column="9" />
         <mark key="]" line="6" column="10" />
@@ -2406,11 +2439,11 @@
         <mark key="." line="30" column="20" />
         <mark key="^" line="30" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionChattersChart.tsx" timestamp="1555660011322">
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionChattersChart.tsx" timestamp="1555926430202">
         <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="50" />
-        <mark key="." line="36" column="0" />
+        <mark key="]" line="36" column="0" />
         <mark key="^" line="21" column="61" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/components/EventsCreateEditAdvanced/index.ts" timestamp="1551251089701">
         <mark key="[" line="0" column="42" />
@@ -2700,10 +2733,10 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/chartConfigs/streamsLineChartConfig.ts" timestamp="1555668725460">
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/chartConfigs/streamsLineChartConfig.ts" timestamp="1555926442773">
         <mark key="[" line="24" column="0" />
-        <mark key="]" line="26" column="4" />
-        <mark key="^" line="47" column="1" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="44" column="1" />
         <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/DropDownChannelsItem/index.ts" timestamp="1554118606164">
@@ -2723,9 +2756,6 @@
         <mark key="]" line="0" column="48" />
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/factory/__tests__/SessionDucksFactory.test.ts" timestamp="1555922070734">
-        <mark key="'" line="96" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/header/components/Header.scss" timestamp="1554299028660">
         <mark key="[" line="29" column="25" />
@@ -2757,11 +2787,11 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="33" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionChatMessagesContainer.tsx" timestamp="1555513691793">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="28" column="29" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionChatMessagesContainer.tsx" timestamp="1555924699552">
+        <mark key="[" line="42" column="67" />
+        <mark key="]" line="42" column="79" />
+        <mark key="." line="42" column="79" />
+        <mark key="^" line="42" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/dialog/index.ts" timestamp="1549882711251">
         <mark key="[" line="0" column="39" />
@@ -2781,8 +2811,11 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/HigherOrderComponent/withLoaderAndError.ts" timestamp="1555923536679">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/HigherOrderComponent/withLoaderAndError.ts" timestamp="1555926347212">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="33" />
+        <mark key="." line="10" column="33" />
+        <mark key="^" line="10" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/AppAuth.tsx" timestamp="1549883079428">
         <mark key="[" line="54" column="0" />
@@ -2838,11 +2871,11 @@
         <mark key="." line="30" column="56" />
         <mark key="^" line="30" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/api/restream/analytics.ts" timestamp="1555922850742">
-        <mark key="[" line="52" column="54" />
-        <mark key="]" line="52" column="54" />
-        <mark key="^" line="52" column="54" />
-        <mark key="." line="52" column="54" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/api/restream/analytics.ts" timestamp="1555925219868">
+        <mark key="[" line="128" column="55" />
+        <mark key="]" line="128" column="55" />
+        <mark key="^" line="128" column="55" />
+        <mark key="." line="128" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/channels/index.ts" timestamp="1553689898550">
         <mark key="[" line="1" column="17" />
@@ -3008,47 +3041,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="57" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/contexts/AnalyticsStoreContext.ts" />
-      <jump line="66" column="24" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="19" column="13" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/contexts/AnalyticsStoreContext.tsx" />
-      <jump line="61" column="25" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/useAnalyticsSessionViewModel.ts" />
-      <jump line="11" column="8" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Session/SessionHeader.module.scss" />
-      <jump line="164" column="8" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="246" column="8" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="242" column="22" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="260" column="86" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="97" column="8" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="103" column="15" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="118" column="42" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="266" column="4" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="259" column="11" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="119" column="4" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="124" column="13" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="135" column="6" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="264" column="11" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="268" column="17" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="274" column="2" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="234" column="22" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="252" column="86" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="80" column="11" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="88" column="5" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="96" column="15" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="111" column="42" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="167" column="77" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="171" column="12" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="106" column="57" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/useAnalyticsSessionViewModel.ts" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/index.ts" />
-      <jump line="44" column="13" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/loadViewersData.ts" />
-      <jump line="45" column="3" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/loadViewersData.ts" />
-      <jump line="51" column="24" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/loadViewersData.ts" />
-      <jump line="60" column="5" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/loadViewersData.ts" />
-      <jump line="10" column="14" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/__tests__/loadViewersData.test.ts" />
-      <jump line="41" column="13" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/loadViewersData.ts" />
-      <jump line="42" column="3" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/loadViewersData.ts" />
-      <jump line="30" column="17" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/AnalyticsStoreContext.tsx" />
-      <jump line="22" column="30" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/AnalyticsStoreContext.tsx" />
-      <jump line="324" column="8" filename="$USER_HOME$/Documents/_own/chart/js/charts.js" />
-      <jump line="1945" column="11" filename="$USER_HOME$/Documents/_own/chart/js/main.js" />
       <jump line="6" column="9" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/loadViewersData.ts" />
       <jump line="107" column="37" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/useAnalyticsSessionViewModel.ts" />
       <jump line="12" column="20" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/useAnalyticsSessionViewModel.ts" />
@@ -3108,46 +3100,87 @@
       <jump line="10" column="2" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionViewersData.ts" />
       <jump line="6" column="44" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Portal/Portal.tsx" />
       <jump line="96" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/factory/__tests__/SessionDucksFactory.test.ts" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionViewersChart.tsx" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionViewersChart.tsx" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionViewersChart.tsx" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionViewersChart.tsx" />
+      <jump line="48" column="8" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionViewersContainer.tsx" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionViewersContainer.tsx" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionViewersContainer.tsx" />
+      <jump line="74" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionViewersContainer.tsx" />
+      <jump line="46" column="23" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionTrendingEmojisData.ts" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionTrendingEmojisData.ts" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionTrendingEmojisData.ts" />
+      <jump line="60" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionTrendingEmojisData.ts" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionPopularPhrasesData.ts" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionPopularPhrasesData.ts" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionPopularPhrasesData.ts" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionPopularPhrasesData.ts" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionPopularPhrasesData.ts" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionPopularPhrasesData.ts" />
+      <jump line="43" column="23" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionPopularPhrasesData.ts" />
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionPopularPhrasesData.ts" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionPopularPhrasesData.ts" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChattersData.ts" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChattersData.ts" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChattersData.ts" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChattersData.ts" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChattersData.ts" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChattersData.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
+      <jump line="41" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
+      <jump line="46" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
+      <jump line="51" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
+      <jump line="43" column="23" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
+      <jump line="57" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
+      <jump line="63" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>w</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmVhdDogaGFuZGxlIGVycm9ycyBvbiBzZXNzaW9uIHBhZ2UK</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>ticks</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXNzaW9uVmlld2Vyc0RhdGFTZWxlY3Rvclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IHN0eWxlPXt7IGhlaWdodDogMjAgfX0gLz4K</text>
+        <text encoding="base64">ICAgICAgICAgIGVycm9yPXtzZXNzaW9uLmlzRXJyb3JTdGF0ZX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHYgPT4gewogICAgICBjb25zb2xlLmxvZyh2KTsKICAgICAgcmV0dXJuIHY7CiAgICB9LAo=</text>
+        <text encoding="base64">ZmVhdDogaGFuZGxlIGVycm9ycyBvbiBzZXNzaW9uIHBhZ2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmVhdDogUm91dGluZ1N0b3JlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhU2NvcGUpOwo=</text>
+        <text encoding="base64">ICBleHBvcnRpbmc6IHsKICAgIG1lbnU6IHt9LAogIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICBwcm9jZXNzZWQgPSByZWR1Y2Vycy5sb2FkRGF0YUVycm9yUmVkdWNlcigKICAgICAgaW5pdGlhbFN0YXRlLAogICAgICBhY3Rpb25zLmxvYWREYXRhRXJyb3IoYWN0aW9uUGFyYW1zKSwKICAgICk7Cg==</text>
+        <text encoding="base64">ICBleHBvcnRpbmc6IHsKICAgIG1lbnU6IHt9LAogIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8Um93IC8+Cg==</text>
+        <text encoding="base64">ICBleHBvcnRpbmc6IHsKICAgIG1lbnU6IHt9LAogIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvdyAgCg==</text>
+        <text encoding="base64">ICBleHBvcnRpbmc6IHsKICAgIG1lbnU6IHt9LAogIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjaGFydC5leHBvcnRpbmcubWVudSA9IG5ldyBhbTRjb3JlLkV4cG9ydE1lbnUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29udGFpbmVyCg==</text>
+        <text encoding="base64">ICBjaGFydC5leHBvcnRpbmcubWVudSA9IG5ldyBhbTRjb3JlLkV4cG9ydE1lbnUoKTsKICBjaGFydC5leHBvcnRpbmcuYmFja2dyb3VuZENvbG9yID0gYW00Y29yZS5jb2xvcignI2YwMCcsIDApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
