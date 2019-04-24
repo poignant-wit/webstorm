@@ -1651,11 +1651,11 @@
         <mark key="^" line="32" column="21" />
         <mark key="." line="32" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.tsx" timestamp="1556104453948">
-        <mark key="[" line="100" column="54" />
-        <mark key="]" line="101" column="36" />
-        <mark key="^" line="101" column="36" />
-        <mark key="." line="101" column="36" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.tsx" timestamp="1556109284583">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="^" line="63" column="19" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/mobx-intro/src/App.js" timestamp="1547743093255">
         <mark key="[" line="6" column="18" />
@@ -3172,10 +3172,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB1c2VMYXlvdXRFZmZlY3QoKCkgPT4gewogICAgY29uc29sZS5sb2coJ29ic2VyYnZlJyk7CiAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>tooltipTitleMapping[props.match.params.metrics]</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZ2JhXD4=</text>
@@ -3184,34 +3184,34 @@
         <text encoding="base64">ICAgICAgICAgICAgdGl0bGU9ewogICAgICAgICAgICAgIDxDaGFydEJsb2NrVGl0bGUKICAgICAgICAgICAgICAgIHRpdGxlPXt0aXRsZU1hcHBpbmdbcHJvcHMubWF0Y2gucGFyYW1zLm1ldHJpY3NdfQogICAgICAgICAgICAgICAgdG9vbHRpcFRleHQ9e3Rvb2x0aXBUaXRsZU1hcHBpbmdbcHJvcHMubWF0Y2gucGFyYW1zLm1ldHJpY3NdfQogICAgICAgICAgICAgIC8+CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB1c2VMYXlvdXRFZmZlY3QoKCkgPT4gewogICAgY29uc29sZS5sb2coJ29ic2VyYnZlJyk7CiAgfSk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpdGxlPXsnTU9TVCBMT0FERUQgUEVSSU9EJ30KICAgICAgICAgICAgICAgIHRvb2x0aXBUZXh0PXt0b29sdGlwVGl0bGVNYXBwaW5nW3Byb3BzLm1hdGNoLnBhcmFtcy5tZXRyaWNzXX0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGl0bGU9Ik1PU1QgTE9BREVEIFBFUklPRCI+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3Jlc2l6ZUxpc3RlbmVyfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG9ic2VydmVyID0gbmV3IE11dGF0aW9uT2JzZXJ2ZXIoKCkgPT4gewogICAgfSk7CiAgICBvYnNlcnZlci5vYnNlcnZlKGZpbmRET01Ob2RlKHRoaXMpISwgTVVUQVRJT05fT0JTRVJWRVJfQ09ORklHKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ29ic2VyYnZlJyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBpZiAodG9vbHRpcFRhcmdldFJlZikgewogICAgY29uc29sZS5sb2codG9vbHRpcFRhcmdldFJlZi5nZXRCb3VuZGluZ0NsaWVudFJlY3QoKSk7CiAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdlZmZlY3QnKTsKICAgIGNvbnN0IG9ic2VydmVyID0gbmV3IE11dGF0aW9uT2JzZXJ2ZXIoKCkgPT4gewogICAgICBjb25zb2xlLmxvZygnY2hhbmdlJyk7CiAgICB9KTsKCiAgICBpZiAodGFyZ2V0UmVmKSB7CiAgICAgIG9ic2VydmVyLm9ic2VydmUodGFyZ2V0UmVmLCB7CiAgICAgICAgY2hpbGRMaXN0OiB0cnVlLAogICAgICAgIHN1YnRyZWU6IHRydWUsCiAgICAgIH0pOwogICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB0b29sdGlwVGFyZ2V0UmVmLgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICcnICsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICcnCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIHRoaXMucHJvcHMuc2NoZWR1bGVVcGRhdGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action EditorDuplicate</text>
       </register>
     </registers>
     <search>
@@ -3262,8 +3262,8 @@
         <entry>action ImplementMethods</entry>
         <entry>action Replace</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
+        <entry>action EditorDuplicate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
