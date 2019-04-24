@@ -747,10 +747,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="28" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556014889980">
+      <file name="/Dummy.txt" timestamp="1556090291470">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="31" />
+        <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/services/__tests__/ChannelsService.test.ts" timestamp="1554451674339">
@@ -1405,12 +1405,12 @@
         <mark key="^" line="24" column="43" />
         <mark key="." line="24" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.module.scss" timestamp="1556025779527">
-        <mark key="'" line="103" column="9" />
-        <mark key="[" line="105" column="9" />
-        <mark key="]" line="105" column="10" />
-        <mark key="." line="105" column="10" />
-        <mark key="^" line="114" column="9" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.module.scss" timestamp="1556090270300">
+        <mark key="'" line="102" column="9" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="113" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/.env.docker" timestamp="1552910429526">
         <mark key="[" line="10" column="0" />
@@ -2264,11 +2264,7 @@
         <mark key="^" line="5" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionViewersContainer.tsx" timestamp="1556025860276">
-        <mark key="'" line="87" column="0" />
-        <mark key="[" line="61" column="46" />
-        <mark key="]" line="61" column="47" />
-        <mark key="^" line="58" column="26" />
-        <mark key="." line="61" column="47" />
+        <mark key="'" line="76" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1554980428687">
         <mark key="[" line="43" column="274" />
@@ -2461,6 +2457,11 @@
         <mark key="]" line="0" column="42" />
         <mark key="^" line="0" column="42" />
         <mark key="." line="0" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Portal/Portal.tsx" timestamp="1556090262933">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/AnalyticsRoutes.tsx" timestamp="1556013938952">
         <mark key="[" line="42" column="45" />
@@ -3148,8 +3149,8 @@
       <jump line="85" column="9" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.module.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>left</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Zml4OiBkYXRlIHJhbmdlIGluaXRpYWxzCg==</text>
       </register>
       <register name="-" type="4">
         <text>left</text>
@@ -3161,31 +3162,31 @@
         <text encoding="base64">LnRvb2x0aXBbZGF0YS1wbGFjZW1lbnQ9J2JvdHRvbSddOmFmdGVyIHsKICBib3R0b206IDEwMCU7CiAgbGVmdDogNTAlOwogIGJvcmRlci1jb2xvcjogdHJhbnNwYXJlbnQ7CiAgYm9yZGVyLWJvdHRvbS1jb2xvcjogJHRvb2x0aXAtYmFja2dyb3VuZDsKICBib3JkZXItd2lkdGg6ICR0b29sdGlwLWFycm93LXNpemU7CiAgbWFyZ2luLXRvcDogLSR0b29sdGlwLWFycm93LXNpemU7Cn0KCi50b29sdGlwW2RhdGEtcGxhY2VtZW50PSdib3R0b20nXTpiZWZvcmUgewogIGJvdHRvbTogMTAwJTsKICBsZWZ0OiA1MCU7CiAgYm9yZGVyLWNvbG9yOiB0cmFuc3BhcmVudDsKICBib3JkZXItYm90dG9tLWNvbG9yOiAkdG9vbHRpcC1ib3JkZXItY29sb3I7CiAgYm9yZGVyLXdpZHRoOiAkdG9vbHRpcC1hcnJvdy1zaXplICsgJHRvb2x0aXAtYm9yZGVyLXNpemU7CiAgbWFyZ2luLXRvcDogLSgkdG9vbHRpcC1hcnJvdy1zaXplICsgJHRvb2x0aXAtYm9yZGVyLXNpemUpOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LnRvb2x0aXBbZGF0YS1wbGFjZW1lbnQ9J2JvdHRvbSddOmFmdGVyIHsK</text>
+        <text encoding="base64">Zml4OiBkYXRlIHJhbmdlIGluaXRpYWxzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0b3A6IDUwJTsKICBsZWZ0OiAxMDAlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBib3R0b206IDEwMCU7CiAgbGVmdDogNTAlOwo=</text>
+        <text encoding="base64">ICBjb25zdCBnZXRDb250YWluZXIgPSAoKSA9PiBjb250YWluZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0b3A6IDUwJTsK</text>
+        <text encoding="base64">ICAgIC8vIHJldHVybiAoKSA9PiB7CiAgICAvLyAgIGNvbnNvbGUubG9nKGdldENvbnRhaW5lcigpKTsKICAgIC8vICAgaWYgKGNvbnRhaW5lciAmJiBjb250YWluZXIucGFyZW50Tm9kZSkgewogICAgLy8gICAgIGNvbnRhaW5lci5wYXJlbnROb2RlLnJlbW92ZUNoaWxkKGNvbnRhaW5lcik7CiAgICAvLyAgIH0KICAgIC8vIH07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBib3JkZXItY29sb3I6IHJnYmEoMTM2LCAxODMsIDIxMywgMCk7Cg==</text>
+        <text encoding="base64">LnRvb2x0aXBbZGF0YS1wbGFjZW1lbnQ9J2JvdHRvbSddOmFmdGVyIHsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0b3A6IDUwJTsKICBsZWZ0OiAxMDAlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAmW2RhdGEtcGxhY2VtZW50PSdyaWdodCddewogIH0K</text>
+        <text encoding="base64">ICBib3R0b206IDEwMCU7CiAgbGVmdDogNTAlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
