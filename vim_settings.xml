@@ -380,6 +380,12 @@
         <mark key="." line="19" column="18" />
         <mark key="^" line="19" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/.env.local" timestamp="1556194120903">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="1" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/server/routes.ts" timestamp="1552915918256">
         <mark key="[" line="12" column="30" />
         <mark key="]" line="13" column="0" />
@@ -3189,7 +3195,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>@types</text>
@@ -3201,30 +3207,29 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2VuKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Zml4OiBsb2dvdXQgcm91dGUK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2VuKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIGNoYXJ0IHRvb2x0aXBzCg==</text>
+        <text encoding="base64">Zml4OiBsb2dvdXQgcm91dGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICcgUmVzdHJlYW0gQ2hhdCBhcHBsaWNhdGlvbiByZXF1aXJlZC4nLAo=</text>
+        <text encoding="base64">ZmVhdDogYWRkIGNoYXJ0IHRvb2x0aXBzCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICcgUmVzdHJlYW0gQ2hhdCBhcHBsaWNhdGlvbiByZXF1aXJlZC4nLAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICcgUmVzdHJlYW0gQ2hhdCBhcHBsaWNhdGlvbiByZXF1aXJlZC4nLAo=</text>
+      </register>
+      <register name="8" type="4">
         <text>d' +
     ' Restream Chat application required.',</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRvb2x0aXBUZXh0PXsKICAgICAgICAgICAgICAgICAgJ01vc3QgcG9wdWxhciBwaHJhc2VzIGZyb20gY2hhdCBkdXJpbmcgeW91ciBzdHJlYW1zIG92ZXIgYSBwZXJpb2Qgb2YgdGltZS4gUmVzdHJlYW0gQ2hhdCBhcHBsaWNhdGlvbiByZXF1aXJlZAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>.' +
-                  ' Restream Chat application required.'</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
