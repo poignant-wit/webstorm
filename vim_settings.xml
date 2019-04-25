@@ -1763,7 +1763,11 @@
         <mark key="^" line="2" column="76" />
         <mark key="." line="2" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/AuthStore.ts" timestamp="1556192908843" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/AuthStore.ts" timestamp="1556197032960">
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="0" />
+        <mark key="." line="204" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain/EventsCreateEditContentItem/EventsCreateEditContentItem.scss" timestamp="1548328201296">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="6" column="5" />
@@ -2003,11 +2007,11 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/Auth.ts" timestamp="1556192883376">
-        <mark key="[" line="9" column="38" />
-        <mark key="]" line="9" column="38" />
-        <mark key="^" line="38" column="25" />
-        <mark key="." line="9" column="38" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/Auth.ts" timestamp="1556196894306">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+        <mark key="^" line="10" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/sessionWatchedMinutesByChannelsSelector.ts" timestamp="1555064314833">
         <mark key="[" line="4" column="13" />
@@ -2116,6 +2120,10 @@
         <mark key="]" line="0" column="31" />
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/server/controllers/authController.ts" timestamp="1556195571891">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="29" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/Ingests.ts" timestamp="1550228240190">
         <mark key="[" line="3" column="0" />
@@ -2595,6 +2603,11 @@
         <mark key="]" line="288" column="64" />
         <mark key="^" line="288" column="64" />
         <mark key="." line="288" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/index.ts" timestamp="1556196368596">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/index.ts" timestamp="1553682380943">
         <mark key="[" line="0" column="17" />
@@ -3201,44 +3214,43 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>@types</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBUElfSE9TVDogcHJvY2Vzcy5lbnYuUkFaWkxFX0FQSV9IT1NUISwKICAgICAgICBBUElfVklERU9fSE9TVDogcHJvY2Vzcy5lbnYuUkFaWkxFX0FQSV9WSURFT19IT1NUISwKICAgICAgICBBUFBfQ0xJRU5UX0lEOiBwcm9jZXNzLmVudi5SQVpaTEVfQVBQX0NMSUVOVF9JRCEsCiAgICAgICAgQVdTX0hPU1Q6IHByb2Nlc3MuZW52LlJBWlpMRV9BV1NfSE9TVCEsCiAgICAgICAgU0VOVFJZX0RTTjogcHJvY2Vzcy5lbnYuUkFaWkxFX1NFTlRSWV9EU04hLAogICAgICAgIEFNUExJVFVERV9LRVk6IHByb2Nlc3MuZW52LlJBWlpMRV9BTVBMSVRVREVfQVBJX0tFWSEsCiAgICAgICAgT05FX1NJR05BTF9BUFBfSUQ6IHByb2Nlc3MuZW52LlJBWlpMRV9PTkVfU0lHTkFMX0FQUF9JRCEsCiAgICAgICAgUkVTVFJFQU1fV0VCU0lURV9IT1NUOgogICAgICAgICAgcHJvY2Vzcy5lbnYuUkFaWkxFX1JFU1RSRUFNX1dFQlNJVEVfSE9TVCEgfHwgJ2h0dHBzOi8vcmVzdHJlYW0uaW8nLAo=</text>
+        <text encoding="base64">ICAgIGlmICh0b2tlbikgewogICAgICB0aGlzLnVzZXJJZCA9IGp3dERlY29kZTx7IHN1YjogbnVtYmVyIH0+KHRva2VuKS5zdWIudG9TdHJpbmcoKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2VuKTsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zml4OiBsb2dvdXQgcm91dGUK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgeyBkYXRhIH0gPSBhd2FpdCB0aGlzLnJvb3RTdG9yZS5hcGkuYXV0aC5hdXRoZW50aWNhdGUoKTsKICAgICAgdGhpcy5hdXRoVG9rZW5TZXJ2aWNlLnNhdmVUb2tlbihkYXRhLnRva2VuKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIGNoYXJ0IHRvb2x0aXBzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICcgUmVzdHJlYW0gQ2hhdCBhcHBsaWNhdGlvbiByZXF1aXJlZC4nLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvb2tpZXNTZGRlcnZpY2UuZ2V0Q29va2llKCdhY2Nlc3NUb2tlbicpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICcgUmVzdHJlYW0gQ2hhdCBhcHBsaWNhdGlvbiByZXF1aXJlZC4nLAo=</text>
+        <text encoding="base64">ICAgICAgZWUK</text>
       </register>
-      <register name="8" type="4">
-        <text>d' +
-    ' Restream Chat application required.',</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbmYuaGVhZGVycy5hY2Nlc3NUb2tlbiA9IGNvb2tpZXNTZXJ2aWNlLmdldENvb2tpZSgnYWNjZXNzVG9rZW4nKTsKICAgIGNvbmYuaGVhZGVycy5hY2Nlc3NYc3JmVG9rZW4gPSBjb29raWVzU2VydmljZS5nZXRDb29raWUoJ2FjY2Vzc1hzcmZUb2tlbicpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvb2x0aXBUZXh0PXsKICAgICAgICAgICAgICAgICAgJ01vc3QgcG9wdWxhciBwaHJhc2VzIGZyb20gY2hhdCBkdXJpbmcgeW91ciBzdHJlYW1zIG92ZXIgYSBwZXJpb2Qgb2YgdGltZS4gUmVzdHJlYW0gQ2hhdCBhcHBsaWNhdGlvbiByZXF1aXJlZAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action EditorDuplicate</text>
       </register>
     </registers>
     <search>
@@ -3288,9 +3300,9 @@
         <entry>action $SelectAll</entry>
         <entry>action Replace</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action ImplementMethods</entry>
         <entry>action GotoFile</entry>
+        <entry>action EditorDuplicate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
