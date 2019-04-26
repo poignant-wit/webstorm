@@ -260,6 +260,13 @@
         <mark key="^" line="39" column="8" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/RootStore.ts" timestamp="1556286141806">
+        <mark key="'" line="51" column="9" />
+        <mark key="[" line="80" column="43" />
+        <mark key="]" line="81" column="20" />
+        <mark key="^" line="81" column="20" />
+        <mark key="." line="81" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/ChartError.module.scss" timestamp="1553598399094">
         <mark key="[" line="17" column="21" />
         <mark key="]" line="18" column="12" />
@@ -780,10 +787,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="28" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556282834649">
+      <file name="/Dummy.txt" timestamp="1556286348222">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="19" />
+        <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/services/__tests__/ChannelsService.test.ts" timestamp="1554451674339">
@@ -1785,11 +1792,11 @@
         <mark key="^" line="2" column="76" />
         <mark key="." line="2" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/AuthStore.ts" timestamp="1556280613772">
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="^" line="206" column="13" />
-        <mark key="." line="192" column="0" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/AuthStore.ts" timestamp="1556286764019">
+        <mark key="[" line="167" column="25" />
+        <mark key="]" line="167" column="37" />
+        <mark key="^" line="167" column="37" />
+        <mark key="." line="167" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain/EventsCreateEditContentItem/EventsCreateEditContentItem.scss" timestamp="1548328201296">
         <mark key="[" line="4" column="0" />
@@ -2030,11 +2037,11 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/Auth.ts" timestamp="1556196894306">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="26" />
-        <mark key="." line="10" column="26" />
-        <mark key="^" line="10" column="26" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/Auth.ts" timestamp="1556286113391">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="29" />
+        <mark key="." line="14" column="29" />
+        <mark key="^" line="14" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/sessionWatchedMinutesByChannelsSelector.ts" timestamp="1555064314833">
         <mark key="[" line="4" column="13" />
@@ -3147,11 +3154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="18" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/Hoc.tsx" />
-      <jump line="302" column="2" filename="$USER_HOME$/Downloads/static-html-webpack-boilerplate-1.1.0/src/js/charts.js" />
-      <jump line="143" column="21" filename="$USER_HOME$/Downloads/static-html-webpack-boilerplate-1.1.0/src/js/charts.js" />
-      <jump line="1" column="40" filename="$USER_HOME$/Downloads/static-html-webpack-boilerplate-1.1.0/src/js/chart/helpers/stateHelpers.js" />
-      <jump line="237" column="42" filename="$USER_HOME$/Downloads/static-html-webpack-boilerplate-1.1.0/src/js/charts.js" />
       <jump line="0" column="33" filename="$USER_HOME$/Downloads/static-html-webpack-boilerplate-1.1.0/src/js/chart/render/renderScroll.js" />
       <jump line="63" column="11" filename="$USER_HOME$/Downloads/static-html-webpack-boilerplate-1.1.0/src/js/charts.js" />
       <jump line="12" column="0" filename="$USER_HOME$/Downloads/static-html-webpack-boilerplate-1.1.0/src/js/chart/data/prepareData.js" />
@@ -3247,55 +3249,60 @@
       <jump line="10309" column="0" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/yarn.lock" />
       <jump line="10418" column="5" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/yarn.lock" />
       <jump line="23" column="6" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/server/middlewares/authMiddleware.ts" />
+      <jump line="147" column="30" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/RootStore.ts" />
+      <jump line="152" column="32" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/RootStore.ts" />
+      <jump line="153" column="27" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/RootStore.ts" />
+      <jump line="42" column="2" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/RootStore.ts" />
+      <jump line="50" column="9" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/RootStore.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogZW52LnByb2R1Y3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiwK</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>bp3-heading</text>
+        <text>authStore</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgdGhpcy5zaWduT3V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogZW52LnByb2R1Y3Rpb24K</text>
+        <text encoding="base64">Zml4OiB1c2UgY29va2llcyBhY2Nlc3NUb2tlbiBldGMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNwIGVudi5wcm9kdWN0aW9uIC5lbnYucHJvZHVjdGlvbgo=</text>
+        <text encoding="base64">Zml4OiBhdXRoIHJlZGlyZWN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXJzOiB7CiAgICAgICAgICBhY2Nlc3NUb2tlbjogY29va2llc1NlcnZpY2UuZ2V0Q29va2llKCdhY2Nlc3NUb2tlbicpLAogICAgICAgICAgYWNjZXNzWHNyZlRva2VuOiBjb29raWVzU2VydmljZS5nZXRDb29raWUoJ2FjY2Vzc1hzcmZUb2tlbicpLAogICAgICAgIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFJFU1RSRUFNX1dFQlNJVEVfSE9TVCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFjY2Vzc1Rva2VuID0gdGhpcy5jb29raWVzU2VydmljZS5nZXRDb29raWUoJ2FjY2Vzc1Rva2VuJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlZnJlc2hUb2tlbiA9IHRoaXMuY29va2llc1NlcnZpY2UuZ2V0Q29va2llKCdyZWZyZXNoVG9rZW4nKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSBgJHtSRVNUUkVBTV9XRUJTSVRFX0hPU1R9L3NjaGVkdWxlci9sb2dpbj9jb250aW51ZT0ke2VuY29kZVVSSUNvbXBvbmVudCgKICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiwKICAgICAgKX1gOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KCk7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc2lnbkluKHJlZGlyZWN0VG8/OiBzdHJpbmcpIHsKICAgIGF1dGhSZXN0cmVhbSh7IHNob3dTaWduVXBGb3JtOiBmYWxzZSwgcmVkaXJlY3RUbyB9KTsKICB9CiAgcHVibGljIHNpZ25VcChyZWRpcmVjdFRvPzogc3RyaW5nKSB7CiAgICBhdXRoUmVzdHJlYW0oeyBzaG93U2lnblVwRm9ybTogdHJ1ZSwgcmVkaXJlY3RUbyB9KTsKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zml4OiBleGFtcGxlLmVudgo=</text>
+        <text encoding="base64">aW1wb3J0IHFzIGZyb20gJ3FzJzsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>bp3-heading</last-search>
+      <last-search>authStore</last-search>
       <last-offset />
-      <last-pattern>bp3-heading</last-pattern>
+      <last-pattern>authStore</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>play</last-substitute>
       <last-dir>1</last-dir>
@@ -3303,7 +3310,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkcmF3TGluZUNoYXJ0XD4=</entry>
         <entry encoding="base64">XDxjYW52YXNQcmV2aWV3Q2hhcnRcPg==</entry>
         <entry encoding="base64">XDxwb3NZXD4=</entry>
         <entry encoding="base64">XDxkcmF3UHJldmlld1w+</entry>
@@ -3323,6 +3329,7 @@
         <entry>@types</entry>
         <entry encoding="base64">XDxnZXRBdXRoUmVkaXJlY3RcPg==</entry>
         <entry>bp3-heading</entry>
+        <entry>authStore</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -3339,8 +3346,8 @@
         <entry>action Replace</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>action ImplementMethods</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action $SelectAll</entry>
+        <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
