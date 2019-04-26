@@ -726,7 +726,7 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/support/BootstrapStore.ts" timestamp="1556271559380">
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/support/BootstrapStore.ts" timestamp="1556280640311">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="^" line="62" column="7" />
@@ -1731,6 +1731,12 @@
         <mark key="^" line="0" column="46" />
         <mark key="." line="0" column="46" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" timestamp="1556281238975">
+        <mark key="[" line="0" column="50" />
+        <mark key="]" line="0" column="49" />
+        <mark key="^" line="0" column="49" />
+        <mark key="." line="0" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/chartConfigs/streamsLineEmptyChartConfig.ts" timestamp="1553677440894">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -1779,7 +1785,12 @@
         <mark key="^" line="2" column="76" />
         <mark key="." line="2" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/AuthStore.ts" timestamp="1556278452609" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/AuthStore.ts" timestamp="1556280613772">
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="0" />
+        <mark key="^" line="206" column="13" />
+        <mark key="." line="192" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain/EventsCreateEditContentItem/EventsCreateEditContentItem.scss" timestamp="1548328201296">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="6" column="5" />
@@ -3237,44 +3248,44 @@
       <jump line="23" column="6" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/server/middlewares/authMiddleware.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>bp3-heading</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJDST10cnVlIG5wbSBydW4gdGVzdCAmJiBucG0gcnVuIGxpbnQgJiYgR0VORVJBVEVfU09VUkNFTUFQPWZhbHNlIHJlYWN0LXNjcmlwdHMgYnVpbGQiLAogICAgInRlc3QiOiAicmVhY3Qtc2NyaXB0cyB0ZXN0IiwKICAgICJlamVjdCI6ICJyZWFjdC1zY3JpcHRzIGVqZWN0IiwKICAgICJsaW50IjogIm5vZGVfbW9kdWxlcy8uYmluL3RzbGludCAtLXByb2plY3QgLiIsCiAgICAibGludDpmaXgiOiAibm9kZV9tb2R1bGVzLy5iaW4vdHNsaW50IC0tZml4IC0tcHJvamVjdCAuIgo=</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgdGhpcy5zaWduT3V0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiBleGFtcGxlLmVudgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFJFU1RSRUFNX1dFQlNJVEVfSE9TVCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UE9SVD01MDAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zml4OiByZW1vdmUgbG9ncwo=</text>
+        <text encoding="base64">ICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSBgJHtSRVNUUkVBTV9XRUJTSVRFX0hPU1R9L3NjaGVkdWxlci9sb2dpbj9jb250aW51ZT0ke2VuY29kZVVSSUNvbXBvbmVudCgKICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiwKICAgICAgKX1gOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZmVhdDogYXV0aCBsb2dpYwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICBpZiAoIWlzU2VydmVyKCkpIHsKICAgICAgfQogICAgfSk7Cg==</text>
+        <text encoding="base64">Zml4OiBleGFtcGxlLmVudgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9IFJFU1RSRUFNX1dFQlNJVEVfSE9TVCArICcvYXV0aC9sb2dvdXQnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UE9SVD01MDAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -3324,11 +3335,11 @@
         <entry>action FileChooser.NewFolder</entry>
         <entry>action ReformatCode</entry>
         <entry>action Find</entry>
-        <entry>action $SelectAll</entry>
         <entry>action Replace</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>action ImplementMethods</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action $SelectAll</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
