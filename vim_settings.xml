@@ -787,10 +787,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="28" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556286348222">
+      <file name="/Dummy.txt" timestamp="1556288341484">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="31" />
+        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/services/__tests__/ChannelsService.test.ts" timestamp="1554451674339">
@@ -1793,10 +1793,10 @@
         <mark key="." line="2" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/AuthStore.ts" timestamp="1556286764019">
-        <mark key="[" line="167" column="25" />
-        <mark key="]" line="167" column="37" />
-        <mark key="^" line="167" column="37" />
-        <mark key="." line="167" column="37" />
+        <mark key="[" line="166" column="25" />
+        <mark key="]" line="166" column="37" />
+        <mark key="^" line="166" column="37" />
+        <mark key="." line="166" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain/EventsCreateEditContentItem/EventsCreateEditContentItem.scss" timestamp="1548328201296">
         <mark key="[" line="4" column="0" />
@@ -2115,10 +2115,11 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/Jenkinsfile" timestamp="1556282810293">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/Jenkinsfile" timestamp="1556288315115">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="10" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/Meta.ts" timestamp="1550214575610">
         <mark key="[" line="10" column="0" />
@@ -3257,10 +3258,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiwK</text>
+        <text encoding="base64">Zml4OiBodHRwIG9ubHkgY29va2llcyB1c2FnZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>disableConcurrentBuilds</text>
       </register>
       <register name="/" type="4">
         <text>authStore</text>
@@ -3269,31 +3270,31 @@
         <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiB1c2UgY29va2llcyBhY2Nlc3NUb2tlbiBldGMK</text>
+        <text encoding="base64">Zml4OiBodHRwIG9ubHkgY29va2llcyB1c2FnZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zml4OiBhdXRoIHJlZGlyZWN0Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJzOiB7CiAgICAgICAgICBhY2Nlc3NUb2tlbjogY29va2llc1NlcnZpY2UuZ2V0Q29va2llKCdhY2Nlc3NUb2tlbicpLAogICAgICAgICAgYWNjZXNzWHNyZlRva2VuOiBjb29raWVzU2VydmljZS5nZXRDb29raWUoJ2FjY2Vzc1hzcmZUb2tlbicpLAogICAgICAgIH0sCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFjY2Vzc1Rva2VuID0gdGhpcy5jb29raWVzU2VydmljZS5nZXRDb29raWUoJ2FjY2Vzc1Rva2VuJyk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlZnJlc2hUb2tlbiA9IHRoaXMuY29va2llc1NlcnZpY2UuZ2V0Q29va2llKCdyZWZyZXNoVG9rZW4nKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG9wdGlvbnMgeyAoKSB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Zml4OiB1c2UgY29va2llcyBhY2Nlc3NUb2tlbiBldGMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Zml4OiBhdXRoIHJlZGlyZWN0Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBoZWFkZXJzOiB7CiAgICAgICAgICBhY2Nlc3NUb2tlbjogY29va2llc1NlcnZpY2UuZ2V0Q29va2llKCdhY2Nlc3NUb2tlbicpLAogICAgICAgICAgYWNjZXNzWHNyZlRva2VuOiBjb29raWVzU2VydmljZS5nZXRDb29raWUoJ2FjY2Vzc1hzcmZUb2tlbicpLAogICAgICAgIH0sCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc2lnbkluKHJlZGlyZWN0VG8/OiBzdHJpbmcpIHsKICAgIGF1dGhSZXN0cmVhbSh7IHNob3dTaWduVXBGb3JtOiBmYWxzZSwgcmVkaXJlY3RUbyB9KTsKICB9CiAgcHVibGljIHNpZ25VcChyZWRpcmVjdFRvPzogc3RyaW5nKSB7CiAgICBhdXRoUmVzdHJlYW0oeyBzaG93U2lnblVwRm9ybTogdHJ1ZSwgcmVkaXJlY3RUbyB9KTsKICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFjY2Vzc1Rva2VuID0gdGhpcy5jb29raWVzU2VydmljZS5nZXRDb29raWUoJ2FjY2Vzc1Rva2VuJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHFzIGZyb20gJ3FzJzsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlZnJlc2hUb2tlbiA9IHRoaXMuY29va2llc1NlcnZpY2UuZ2V0Q29va2llKCdyZWZyZXNoVG9rZW4nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
