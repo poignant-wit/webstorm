@@ -3,7 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/index.tsx" timestamp="1557757677125" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/index.tsx" timestamp="1557760226741">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionChattersContainer.tsx" timestamp="1555924619049">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -225,6 +229,12 @@
         <mark key="]" line="6" column="14" />
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/App.tsx" timestamp="1557760210072">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="35" />
+        <mark key="^" line="9" column="35" />
+        <mark key="." line="9" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/ui/DialogViewStore.ts" timestamp="1549967556379">
         <mark key="[" line="15" column="26" />
@@ -1558,6 +1568,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/index.scss" timestamp="1557760118244">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/list/components/EventsList/EventsList.tsx" timestamp="1549892173531">
         <mark key="[" line="79" column="0" />
@@ -3256,7 +3271,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>&quot;primary&quot;</text>
       </register>
       <register name="/" type="4">
         <text>authStore</text>
@@ -3268,31 +3283,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zml4OiBKZW5raW5zZmlsZQo=</text>
+        <text encoding="base64">Ly8gSWYgeW91IHdhbnQgeW91ciBhcHAgdG8gd29yayBvZmZsaW5lIGFuZCBsb2FkIGZhc3RlciwgeW91IGNhbiBjaGFuZ2UKLy8gdW5yZWdpc3RlcigpIHRvIHJlZ2lzdGVyKCkgYmVsb3cuIE5vdGUgdGhpcyBjb21lcyB3aXRoIHNvbWUgcGl0ZmFsbHMuCi8vIExlYXJuIG1vcmUgYWJvdXQgc2VydmljZSB3b3JrZXJzOiBodHRwczovL2JpdC5seS9DUkEtUFdBCi8vIHNlcnZpY2VXb3JrZXIudW5yZWdpc3RlcigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Zml4OiBodHRwIG9ubHkgY29va2llcyB1c2FnZQo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgc2VydmljZVdvcmtlciBmcm9tICcuL3NlcnZpY2VXb3JrZXInOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbnMgeyAoKSB9Cg==</text>
+        <text encoding="base64">JHB0LWludGVudC1wcmltYXJ5OiB5ZWxsb3c7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zml4OiB1c2UgY29va2llcyBhY2Nlc3NUb2tlbiBldGMK</text>
+        <text encoding="base64">QGltcG9ydCAifm5vcm1hbGl6ZS5jc3Mvbm9ybWFsaXplLmNzcyI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zml4OiBhdXRoIHJlZGlyZWN0Cg==</text>
+        <text encoding="base64">QGltcG9ydCAifm5vcm1hbGl6ZS5jc3Mvbm9ybWFsaXplLmNzcyI7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJzOiB7CiAgICAgICAgICBhY2Nlc3NUb2tlbjogY29va2llc1NlcnZpY2UuZ2V0Q29va2llKCdhY2Nlc3NUb2tlbicpLAogICAgICAgICAgYWNjZXNzWHNyZlRva2VuOiBjb29raWVzU2VydmljZS5nZXRDb29raWUoJ2FjY2Vzc1hzcmZUb2tlbicpLAogICAgICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action EditorDuplicate</text>
       </register>
     </registers>
     <search>
@@ -3343,8 +3358,8 @@
         <entry>action TsLintFileFixAction</entry>
         <entry>action ImplementMethods</entry>
         <entry>action $SelectAll</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
+        <entry>action EditorDuplicate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
