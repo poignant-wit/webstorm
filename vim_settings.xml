@@ -230,11 +230,11 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/App.tsx" timestamp="1557760210072">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="35" />
-        <mark key="^" line="9" column="35" />
-        <mark key="." line="9" column="35" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/App.tsx" timestamp="1557761554251">
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="7" column="49" />
+        <mark key="^" line="7" column="49" />
+        <mark key="." line="7" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/ui/DialogViewStore.ts" timestamp="1549967556379">
         <mark key="[" line="15" column="26" />
@@ -748,6 +748,11 @@
         <mark key="]" line="6" column="32" />
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/App.css" timestamp="1557761315160">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/support/BootstrapStore.ts" timestamp="1556280640311">
         <mark key="[" line="63" column="0" />
@@ -1569,10 +1574,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/index.scss" timestamp="1557760118244">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/index.scss" timestamp="1557761524354">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/list/components/EventsList/EventsList.tsx" timestamp="1549892173531">
         <mark key="[" line="79" column="0" />
@@ -2983,6 +2989,12 @@
         <mark key="^" line="37" column="15" />
         <mark key="." line="37" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/public/index.html" timestamp="1557761491935">
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="24" />
+        <mark key="^" line="22" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useUrlSearchDates.ts" timestamp="1553844253147">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="22" column="3" />
@@ -3267,11 +3279,11 @@
       <jump line="50" column="9" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/RootStore.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Button content</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;primary&quot;</text>
+        <text>Button content</text>
       </register>
       <register name="/" type="4">
         <text>authStore</text>
@@ -3280,31 +3292,31 @@
         <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtYXJnaW46IDA7CiAgZm9udC1mYW1pbHk6IC1hcHBsZS1zeXN0ZW0sIEJsaW5rTWFjU3lzdGVtRm9udCwgJ1NlZ29lIFVJJywgJ1JvYm90bycsICdPeHlnZW4nLAogICAgJ1VidW50dScsICdDYW50YXJlbGwnLCAnRmlyYSBTYW5zJywgJ0Ryb2lkIFNhbnMnLCAnSGVsdmV0aWNhIE5ldWUnLAogICAgc2Fucy1zZXJpZjsKICAtd2Via2l0LWZvbnQtc21vb3RoaW5nOiBhbnRpYWxpYXNlZDsKICAtbW96LW9zeC1mb250LXNtb290aGluZzogZ3JheXNjYWxlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gSWYgeW91IHdhbnQgeW91ciBhcHAgdG8gd29yayBvZmZsaW5lIGFuZCBsb2FkIGZhc3RlciwgeW91IGNhbiBjaGFuZ2UKLy8gdW5yZWdpc3RlcigpIHRvIHJlZ2lzdGVyKCkgYmVsb3cuIE5vdGUgdGhpcyBjb21lcyB3aXRoIHNvbWUgcGl0ZmFsbHMuCi8vIExlYXJuIG1vcmUgYWJvdXQgc2VydmljZSB3b3JrZXJzOiBodHRwczovL2JpdC5seS9DUkEtUFdBCi8vIHNlcnZpY2VXb3JrZXIudW5yZWdpc3RlcigpOwo=</text>
+        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1SdWJpazo0MDAsNTAwIiByZWw9InN0eWxlc2hlZXQiPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgc2VydmljZVdvcmtlciBmcm9tICcuL3NlcnZpY2VXb3JrZXInOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtJbnRlbnR9IGZyb20gIkBibHVlcHJpbnRqcy9jb3JlL2xpYi9lc20vY29tbW9uL2ludGVudCI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICcuL0FwcC5jc3MnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JHB0LWludGVudC1wcmltYXJ5OiB5ZWxsb3c7Cg==</text>
+        <text encoding="base64">LkFwcC1saW5rIHsKICBjb2xvcjogIzYxZGFmYjsKfQoKQGtleWZyYW1lcyBBcHAtbG9nby1zcGluIHsKICBmcm9tIHsKICAgIHRyYW5zZm9ybTogcm90YXRlKDBkZWcpOwogIH0KICB0byB7CiAgICB0cmFuc2Zvcm06IHJvdGF0ZSgzNjBkZWcpOwogIH0KfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGltcG9ydCAifm5vcm1hbGl6ZS5jc3Mvbm9ybWFsaXplLmNzcyI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGltcG9ydCAifm5vcm1hbGl6ZS5jc3Mvbm9ybWFsaXplLmNzcyI7Cgo=</text>
+        <text encoding="base64">Ly8gSWYgeW91IHdhbnQgeW91ciBhcHAgdG8gd29yayBvZmZsaW5lIGFuZCBsb2FkIGZhc3RlciwgeW91IGNhbiBjaGFuZ2UKLy8gdW5yZWdpc3RlcigpIHRvIHJlZ2lzdGVyKCkgYmVsb3cuIE5vdGUgdGhpcyBjb21lcyB3aXRoIHNvbWUgcGl0ZmFsbHMuCi8vIExlYXJuIG1vcmUgYWJvdXQgc2VydmljZSB3b3JrZXJzOiBodHRwczovL2JpdC5seS9DUkEtUFdBCi8vIHNlcnZpY2VXb3JrZXIudW5yZWdpc3RlcigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgc2VydmljZVdvcmtlciBmcm9tICcuL3NlcnZpY2VXb3JrZXInOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
