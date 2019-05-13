@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/index.tsx" timestamp="1557757677125" />
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionChattersContainer.tsx" timestamp="1555924619049">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -470,6 +471,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/.gitignore" timestamp="1557757438535">
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="24" column="5" />
+        <mark key="." line="24" column="5" />
+        <mark key="^" line="24" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/loadViewersData.ts" timestamp="1554884400017">
         <mark key="[" line="64" column="0" />
@@ -3021,11 +3028,6 @@
         <mark key="^" line="13" column="40" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/server/middlewares/authMiddleware.ts" timestamp="1556264225655">
-        <mark key="'" line="23" column="6" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="34" column="61" />
-      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateProcessingPanel/ShareToActivateProcessingPanel.scss" timestamp="1549983729995">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="13" column="21" />
@@ -3250,8 +3252,8 @@
       <jump line="50" column="9" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/RootStore.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -3263,31 +3265,31 @@
         <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiBKZW5raW5zZmlsZQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Zml4OiBodHRwIG9ubHkgY29va2llcyB1c2FnZQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Zml4OiBKZW5raW5zZmlsZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Zml4OiBodHRwIG9ubHkgY29va2llcyB1c2FnZQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbnMgeyAoKSB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zml4OiB1c2UgY29va2llcyBhY2Nlc3NUb2tlbiBldGMK</text>
+        <text encoding="base64">ICAgIG9wdGlvbnMgeyAoKSB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zml4OiBhdXRoIHJlZGlyZWN0Cg==</text>
+        <text encoding="base64">Zml4OiB1c2UgY29va2llcyBhY2Nlc3NUb2tlbiBldGMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJzOiB7CiAgICAgICAgICBhY2Nlc3NUb2tlbjogY29va2llc1NlcnZpY2UuZ2V0Q29va2llKCdhY2Nlc3NUb2tlbicpLAogICAgICAgICAgYWNjZXNzWHNyZlRva2VuOiBjb29raWVzU2VydmljZS5nZXRDb29raWUoJ2FjY2Vzc1hzcmZUb2tlbicpLAogICAgICAgIH0sCg==</text>
+        <text encoding="base64">Zml4OiBhdXRoIHJlZGlyZWN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFjY2Vzc1Rva2VuID0gdGhpcy5jb29raWVzU2VydmljZS5nZXRDb29raWUoJ2FjY2Vzc1Rva2VuJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXJzOiB7CiAgICAgICAgICBhY2Nlc3NUb2tlbjogY29va2llc1NlcnZpY2UuZ2V0Q29va2llKCdhY2Nlc3NUb2tlbicpLAogICAgICAgICAgYWNjZXNzWHNyZlRva2VuOiBjb29raWVzU2VydmljZS5nZXRDb29raWUoJ2FjY2Vzc1hzcmZUb2tlbicpLAogICAgICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
