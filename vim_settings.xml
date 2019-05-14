@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/index.tsx" timestamp="1557760226741">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/index.tsx" timestamp="1557816270841">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionChattersContainer.tsx" timestamp="1555924619049">
         <mark key="[" line="13" column="0" />
@@ -25,6 +25,12 @@
         <mark key="]" line="55" column="0" />
         <mark key="^" line="40" column="47" />
         <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/users/index.ts" timestamp="1557810363004">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/common/modals/ModalRoot.tsx" timestamp="1548094558810">
         <mark key="[" line="22" column="0" />
@@ -230,11 +236,11 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/App.tsx" timestamp="1557761554251">
-        <mark key="[" line="7" column="47" />
-        <mark key="]" line="7" column="49" />
-        <mark key="^" line="7" column="49" />
-        <mark key="." line="7" column="49" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/App.tsx" timestamp="1557816696227">
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="26" column="44" />
+        <mark key="^" line="26" column="44" />
+        <mark key="." line="26" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/ui/DialogViewStore.ts" timestamp="1549967556379">
         <mark key="[" line="15" column="26" />
@@ -254,10 +260,11 @@
         <mark key="." line="26" column="59" />
         <mark key="^" line="26" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/typings/index.d.ts" timestamp="1556187661863">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/index.ts" timestamp="1557814227320">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="7" />
+        <mark key="." line="12" column="7" />
+        <mark key="^" line="12" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/header/components/HeaderViewModel.ts" timestamp="1549891907223">
         <mark key="[" line="37" column="63" />
@@ -270,13 +277,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="39" column="8" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/RootStore.ts" timestamp="1556286141806">
-        <mark key="'" line="51" column="9" />
-        <mark key="[" line="80" column="43" />
-        <mark key="]" line="81" column="20" />
-        <mark key="^" line="81" column="20" />
-        <mark key="." line="81" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/ChartError.module.scss" timestamp="1553598399094">
         <mark key="[" line="17" column="21" />
@@ -404,6 +404,12 @@
         <mark key="." line="19" column="18" />
         <mark key="^" line="19" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/base/BaseStateStore.ts" timestamp="1557809311400">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="16" />
+        <mark key="^" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/.env.local" timestamp="1556263974912">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="8" />
@@ -505,6 +511,12 @@
         <mark key="]" line="19" column="2" />
         <mark key="." line="19" column="2" />
         <mark key="^" line="19" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/common/components/RInputGroup/RInputGroup.module.scss" timestamp="1557815209741">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="3" column="12" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="3" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/sessionChattersDataSelector.ts" timestamp="1555500422234">
         <mark key="[" line="16" column="9" />
@@ -614,11 +626,6 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/request/index.ts" timestamp="1556184110583">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/integrations/frameIo/components/IntegrationsFrameIo.tsx" timestamp="1548062681124">
         <mark key="[" line="106" column="102" />
         <mark key="]" line="106" column="116" />
@@ -654,11 +661,6 @@
         <mark key="]" line="35" column="0" />
         <mark key="^" line="6" column="27" />
         <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/.env.production" timestamp="1556273872413">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useUserChannelsData.ts" timestamp="1555403166541">
         <mark key="[" line="16" column="0" />
@@ -701,11 +703,6 @@
         <mark key="]" line="56" column="52" />
         <mark key="^" line="56" column="52" />
         <mark key="." line="56" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/config.ts" timestamp="1556189490893">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/ducks/user/getUser.ts" timestamp="1555507247831">
         <mark key="[" line="55" column="8" />
@@ -814,8 +811,8 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="28" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556288946564">
-        <mark key="[" line="0" column="6" />
+      <file name="/Dummy.txt" timestamp="1557811289155">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -874,6 +871,12 @@
         <mark key="^" line="22" column="31" />
         <mark key="." line="22" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/base/index.ts" timestamp="1557810385746">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="39" />
+        <mark key="." line="2" column="39" />
+        <mark key="^" line="2" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.scss" timestamp="1555933701456">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -898,6 +901,7 @@
         <mark key="^" line="31" column="76" />
         <mark key="." line="31" column="76" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/package.json" timestamp="1557808286524" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/client/index.tsx" timestamp="1547732253616">
         <mark key="[" line="1" column="38" />
         <mark key="]" line="1" column="59" />
@@ -988,11 +992,6 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/components/EventsDialogChannels/EventsDialogChannels.tsx" timestamp="1556183587722">
-        <mark key="[" line="89" column="44" />
-        <mark key="]" line="89" column="44" />
-        <mark key="." line="89" column="44" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/settings.ts" timestamp="1548779641603">
         <mark key="[" line="37" column="37" />
         <mark key="]" line="37" column="50" />
@@ -1028,6 +1027,18 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="169" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/tslint.json" timestamp="1557809092936">
+        <mark key="[" line="131" column="32" />
+        <mark key="]" line="132" column="29" />
+        <mark key="^" line="132" column="29" />
+        <mark key="." line="132" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/common/components/RInputGroup/RInputGroup.scss" timestamp="1557813281946">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/_own/mobx-intro/src/TodosStore.js" timestamp="1547742667808">
         <mark key="[" line="29" column="24" />
@@ -1113,11 +1124,11 @@
         <mark key="^" line="25" column="47" />
         <mark key="." line="25" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/common/components/RButton/RButton.tsx" timestamp="1557763364359">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="14" />
-        <mark key="." line="1" column="14" />
-        <mark key="^" line="4" column="44" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/common/components/RButton/RButton.tsx" timestamp="1557808653054">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/VideosStore.ts" timestamp="1549953832595">
         <mark key="[" line="81" column="25" />
@@ -1130,11 +1141,6 @@
         <mark key="]" line="157" column="72" />
         <mark key="^" line="157" column="72" />
         <mark key="." line="157" column="72" />
-      </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/typings/index.d.ts" timestamp="1556103098908">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/App.tsx" timestamp="1556008377928">
         <mark key="[" line="37" column="0" />
@@ -1297,6 +1303,12 @@
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/auth/AuthStore.ts" timestamp="1557812937839">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
+        <mark key="^" line="19" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChartHeader/index.tsx" timestamp="1554906839245">
         <mark key="[" line="0" column="36" />
@@ -1586,11 +1598,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/index.scss" timestamp="1557761524354">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="34" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/index.scss" timestamp="1557817151656">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/list/components/EventsList/EventsList.tsx" timestamp="1549892173531">
         <mark key="[" line="79" column="0" />
@@ -1616,6 +1628,12 @@
         <mark key="^" line="61" column="31" />
         <mark key="." line="61" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/AppViewModel.ts" timestamp="1557812696718">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="44" />
+        <mark key="." line="7" column="44" />
+        <mark key="^" line="7" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/ducks/__tests__/loadChattersData.test.ts" timestamp="1555497928900">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="57" column="6" />
@@ -1639,6 +1657,11 @@
         <mark key="]" line="2" column="10" />
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/base/__tests__/makeBaseCollectionStore.test.ts" timestamp="1557809649974">
+        <mark key="[" line="37" column="6" />
+        <mark key="]" line="37" column="6" />
+        <mark key="." line="37" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Container/Container.tsx" timestamp="1554732791487">
         <mark key="[" line="0" column="11" />
@@ -1705,11 +1728,6 @@
         <mark key="]" line="7" column="36" />
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/menu/ProductMenu/ProductMenu.tsx" timestamp="1556116429421">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/contexts/actions.ts" timestamp="1554724879188">
         <mark key="[" line="26" column="0" />
@@ -1837,6 +1855,12 @@
         <mark key="." line="6" column="5" />
         <mark key="^" line="22" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/common/components/RHeader/RHeader.tsx" timestamp="1557816391717">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="35" />
+        <mark key="." line="16" column="35" />
+        <mark key="^" line="16" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsStreamsPage/streamsLineChart.ts" timestamp="1553247100027">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="34" />
@@ -1921,6 +1945,12 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/services/index.ts" timestamp="1557811677664">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateChoicePanel/ShareToActivateChoicePanel.scss" timestamp="1549983433047">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="8" column="23" />
@@ -1993,6 +2023,9 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/common/components/RInputGroup/RInputGroup.tsx" timestamp="1557814743738">
+        <mark key="^" line="0" column="45" />
+      </file>
       <file name="$USER_HOME$/Downloads/static-html-webpack-boilerplate-1.1.0/src/js/chart/selectors/dataSelectors.js" timestamp="1555171595535">
         <mark key="[" line="9" column="27" />
         <mark key="]" line="9" column="45" />
@@ -2016,11 +2049,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="4" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/onboarding/containers/OnboardingOffersContainer.tsx" timestamp="1556189106669">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/api/restream/channels.ts" timestamp="1553855872494">
         <mark key="[" line="4" column="94" />
@@ -2064,9 +2092,9 @@
         <mark key="." line="11" column="24" />
         <mark key="^" line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/RootStore.ts" timestamp="1555671757975">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/RootStore.ts" timestamp="1557810815216">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="51" />
         <mark key="^" line="11" column="23" />
         <mark key="." line="20" column="0" />
       </file>
@@ -2111,6 +2139,12 @@
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/users/UsersStore.ts" timestamp="1557809852078">
+        <mark key="[" line="0" column="98" />
+        <mark key="]" line="0" column="106" />
+        <mark key="^" line="0" column="106" />
+        <mark key="." line="0" column="106" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/server/controllers/spaController.tsx" timestamp="1550489850994">
         <mark key="[" line="0" column="0" />
@@ -2189,6 +2223,12 @@
         <mark key="]" line="0" column="31" />
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/auth/index.ts" timestamp="1557810439997">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/Ingests.ts" timestamp="1550228240190">
         <mark key="[" line="3" column="0" />
@@ -2406,9 +2446,9 @@
         <mark key="^" line="63" column="34" />
         <mark key="." line="65" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/App.tsx" timestamp="1556179162476">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/App.tsx" timestamp="1557813515808">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="40" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
@@ -2429,11 +2469,6 @@
         <mark key="]" line="35" column="64" />
         <mark key="^" line="35" column="64" />
         <mark key="." line="35" column="64" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/App.scss" timestamp="1556265227640">
-        <mark key="[" line="281" column="0" />
-        <mark key="]" line="281" column="0" />
-        <mark key="." line="281" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/domain/events/EventsStore.ts" timestamp="1550585406551">
         <mark key="[" line="83" column="25" />
@@ -2488,11 +2523,6 @@
         <mark key="]" line="11" column="17" />
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/.example.env" timestamp="1556273523037">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsActiveListPlaceholder/EventsActiveListPlaceholder.scss" timestamp="1550560065590">
         <mark key="[" line="4" column="3" />
@@ -2554,6 +2584,12 @@
         <mark key="^" line="31" column="36" />
         <mark key="." line="31" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/RootStore.ts" timestamp="1557814215071">
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsStreamsPage/streamsLineChartConfig.ts" timestamp="1553590025189">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="39" column="8" />
@@ -2571,11 +2607,6 @@
         <mark key="]" line="0" column="42" />
         <mark key="^" line="0" column="42" />
         <mark key="." line="0" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Portal/Portal.tsx" timestamp="1556090262933">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/AnalyticsRoutes.tsx" timestamp="1556013938952">
         <mark key="[" line="42" column="45" />
@@ -2679,10 +2710,11 @@
         <mark key="^" line="288" column="64" />
         <mark key="." line="288" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/index.ts" timestamp="1556196368596">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/colors.scss" timestamp="1557817024610">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/index.ts" timestamp="1553682380943">
         <mark key="[" line="0" column="17" />
@@ -2828,11 +2860,6 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsStreamsPage/AnalyticsStreamsPage.tsx" timestamp="1556191732912">
-        <mark key="[" line="31" column="70" />
-        <mark key="]" line="31" column="70" />
-        <mark key="." line="31" column="70" />
-      </file>
       <file name="$USER_HOME$/Downloads/static-html-webpack-boilerplate-1.1.0/src/js/chart/selectors/index.js" timestamp="1555226630686">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -2923,6 +2950,12 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="33" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/base/makeCollectionStore.ts" timestamp="1557809555143">
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="37" column="5" />
+        <mark key="." line="37" column="5" />
+        <mark key="^" line="37" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionChatMessagesContainer.tsx" timestamp="1555924699552">
         <mark key="[" line="42" column="67" />
         <mark key="]" line="42" column="79" />
@@ -2953,11 +2986,23 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/base/BaseErrorModel.ts" timestamp="1557809505864">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/AppAuth.tsx" timestamp="1549883079428">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="65" column="42" />
         <mark key="." line="141" column="50" />
         <mark key="^" line="141" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/users/UserModel.ts" timestamp="1557809759610">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="2" />
+        <mark key="^" line="4" column="2" />
+        <mark key="." line="4" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/auth/dialog/index.ts" timestamp="1551796129211">
         <mark key="[" line="0" column="0" />
@@ -3085,6 +3130,13 @@
         <mark key="." line="190" column="0" />
         <mark key="^" line="190" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/node_modules/@blueprintjs/core/src/components/forms/inputGroup.tsx" timestamp="1557814329147" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/services/BootstrapService.ts" timestamp="1557812216946">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="34" />
+        <mark key="." line="6" column="34" />
+        <mark key="^" line="6" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-web/api/server/controllers/authentication.js" timestamp="1551105637935">
         <mark key="[" line="397" column="0" />
         <mark key="]" line="397" column="0" />
@@ -3096,6 +3148,13 @@
         <mark key="]" line="14" column="21" />
         <mark key="^" line="14" column="21" />
         <mark key="." line="14" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/common/components/RHeader/RHeader.module.scss" timestamp="1557816404963">
+        <mark key="j" line="0" column="5" />
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="8" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEdit.scss" timestamp="1549643235303">
         <mark key="[" line="1" column="2" />
@@ -3291,44 +3350,44 @@
       <jump line="50" column="9" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/RootStore.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">JHB0LWludGVudC1wcmltYXJ5OiByZWQ7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>authStore</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiwK</text>
+        <text encoding="base64">QGltcG9ydCAifkBibHVlcHJpbnRqcy9jb3JlL3NyYy9ibHVlcHJpbnQuc2NzcyI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIElSQnV0dG9uUHJvcHMgewp9Owo=</text>
+        <text encoding="base64">JHB0LWludGVudC1wcmltYXJ5OiByZWQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkaXY+CiAgICAgIAogICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">QGltcG9ydCAifkBibHVlcHJpbnRqcy9jb3JlL3NyYy92LnNjc3MiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtYXJnaW46IDA7CiAgZm9udC1mYW1pbHk6IC1hcHBsZS1zeXN0ZW0sIEJsaW5rTWFjU3lzdGVtRm9udCwgJ1NlZ29lIFVJJywgJ1JvYm90bycsICdPeHlnZW4nLAogICAgJ1VidW50dScsICdDYW50YXJlbGwnLCAnRmlyYSBTYW5zJywgJ0Ryb2lkIFNhbnMnLCAnSGVsdmV0aWNhIE5ldWUnLAogICAgc2Fucy1zZXJpZjsKICAtd2Via2l0LWZvbnQtc21vb3RoaW5nOiBhbnRpYWxpYXNlZDsKICAtbW96LW9zeC1mb250LXNtb290aGluZzogZ3JheXNjYWxlOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1SdWJpazo0MDAsNTAwIiByZWw9InN0eWxlc2hlZXQiPgo=</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiB5ZWxsb3dncmVlbjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtJbnRlbnR9IGZyb20gIkBibHVlcHJpbnRqcy9jb3JlL2xpYi9lc20vY29tbW9uL2ludGVudCI7Cg==</text>
+        <text encoding="base64">Ly8gdHNsaW50OmRpc2FibGUtbmV4dC1saW5lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICcuL2luZGV4LnNjc3MnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL0FwcC5jc3MnOwo=</text>
+        <text encoding="base64">aW1wb3J0ICcuL2luZGV4LnNjc3MnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LkFwcC1saW5rIHsKICBjb2xvcjogIzYxZGFmYjsKfQoKQGtleWZyYW1lcyBBcHAtbG9nby1zcGluIHsKICBmcm9tIHsKICAgIHRyYW5zZm9ybTogcm90YXRlKDBkZWcpOwogIH0KICB0byB7CiAgICB0cmFuc2Zvcm06IHJvdGF0ZSgzNjBkZWcpOwogIH0KfQo=</text>
+        <text encoding="base64">ICAgIHsvKjxoZWFkZXIgY2xhc3NOYW1lPXtzdHlsZXMuaGVhZGVyfT4qL30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIDwvaGVhZGVyPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
