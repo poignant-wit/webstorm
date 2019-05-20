@@ -458,6 +458,13 @@
         <mark key="." line="62" column="67" />
         <mark key="^" line="62" column="67" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/payment/CampaignPaymentPage.tsx" timestamp="1558353721467">
+        <mark key="'" line="28" column="16" />
+        <mark key="[" line="3" column="51" />
+        <mark key="]" line="3" column="51" />
+        <mark key="." line="3" column="51" />
+        <mark key="^" line="3" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/tsconfig.json" timestamp="1556187673427">
         <mark key="[" line="19" column="9" />
         <mark key="]" line="19" column="18" />
@@ -956,8 +963,8 @@
         <mark key="^" line="86" column="21" />
         <mark key="." line="86" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/common/components/RLoader/RLoader.tsx" timestamp="1558351119514">
-        <mark key="[" line="8" column="8" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/common/components/RLoader/RLoader.tsx" timestamp="1558353749301">
+        <mark key="[" line="5" column="14" />
         <mark key="]" line="8" column="32" />
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
@@ -1849,7 +1856,7 @@
         <mark key="^" line="35" column="28" />
         <mark key="." line="35" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" timestamp="1558352788709">
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" timestamp="1558353677413">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
@@ -3759,7 +3766,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="9" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/useAnalyticsAudienceViewModel.ts" />
       <jump line="63" column="6" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsAudiencePage/useAnalyticsAudienceViewModel.ts" />
       <jump line="60" column="12" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/AnalyticsSessionPage.tsx" />
       <jump line="76" column="14" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/AnalyticsSessionPage/AnalyticsSessionPage.tsx" />
@@ -3859,13 +3865,14 @@
       <jump line="57" column="5" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" />
       <jump line="37" column="32" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/campaigns/CampaignsStore.ts" />
       <jump line="22" column="9" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/components/CampaignCreationStepFirst/CampaignCreationStepFirst.tsx" />
+      <jump line="26" column="16" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/payment/CampaignPaymentPage.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZih0aGlzLmlzKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRNb21lbnRGb3JtYXR0ZXJcPg==</text>
