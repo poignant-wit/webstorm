@@ -1824,6 +1824,12 @@
         <mark key="^" line="40" column="26" />
         <mark key="." line="40" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" timestamp="1558337670327">
+        <mark key="[" line="67" column="58" />
+        <mark key="]" line="67" column="81" />
+        <mark key="." line="67" column="81" />
+        <mark key="^" line="67" column="81" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/videos.controller.ts" timestamp="1551354798775">
         <mark key="[" line="391" column="0" />
         <mark key="]" line="391" column="0" />
@@ -3815,44 +3821,44 @@
       <jump line="22" column="9" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/components/CampaignCreationStepFirst/CampaignCreationStepFirst.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogY2FtcGFpZ24gdGl0bGUgZXJyb3IgY29tcG9uZW50Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRNb21lbnRGb3JtYXR0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzTmFtZT17c3R5bGVzWydzZWxlY3Rvci1jbGVhciddfT4KICAgICAgICAgICAgICAgICAgICAgICAgU2V0IGFsbCBsYW5ndWFnZXMKICAgICAgICAgICAgICAgICAgICAgIDwvYT4K</text>
+        <text encoding="base64">ICAgIHRoaXMucmVhY3Rpb25UYXJnZXRpbmdEaXNwb3NlciA9IHJlYWN0aW9uKAogICAgICAoKSA9PiAoewogICAgICAgIHRhcmdldGluZ0luZm86IHRoaXMudGFyZ2V0aW5nSW5mbywKICAgICAgICBidWRnZXQ6IHRoaXMuY2FtcGFpZ24uYnVkZ2V0LAogICAgICB9KSwKICAgICAgZGVib3VuY2UoKCkgPT4gewogICAgICAgIHRoaXMubG9hZFRhcmdldGluZ0RhdGEoKTsKICAgICAgfSwgMTAwMCksCiAgICApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogY2FtcGFpZ24gdGl0bGUgZXJyb3IgY29tcG9uZW50Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXNMb2FkZWQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgZGVib3VuY2UoaXNMb2FkZWQgPT4gewogICAgICB9LCAxMDAwKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2V0IGFsbCBsYW5ndWFnZXMK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpc0xvYWRlZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2V0IGFsbCBsYW5ndWFnZXMK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvYWRUYXJnZXRpbmdEYXRhKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4OwogIGFsaWduLWl0ZW1zOiBiYXNlbGluZTsK</text>
+        <text encoding="base64">ICAgICAgKCkgPT4gKHsKICAgICAgICB0YXJnZXRpbmdJbmZvOiB0aGlzLnRhcmdldGluZ0luZm8sCiAgICAgICAgYnVkZ2V0OiB0aGlzLmNhbXBhaWduLmJ1ZGdldCwKICAgICAgfSksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgJiA+IGlucHV0IHsKICAgICBiYWNrZ3JvdW5kOiByZWQ7CiAgIH0K</text>
+        <text encoding="base64">ZmVhdDogY2FtcGFpZ24gdGl0bGUgZXJyb3IgY29tcG9uZW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtzdHlsZXMuc2VsZWN0b3J9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB3aWR0aDogMzAwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2V0IGFsbCBsYW5ndWFnZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2V0IGFsbCBsYW5ndWFnZXMK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
