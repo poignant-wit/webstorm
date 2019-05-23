@@ -3000,12 +3000,12 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/CampaignAnalyticsHeader/CampaignAnalyticsHeader.tsx" timestamp="1558606255486">
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/CampaignAnalyticsHeader/CampaignAnalyticsHeader.tsx" timestamp="1558608527669">
         <mark key="'" line="1" column="37" />
-        <mark key="[" line="37" column="61" />
-        <mark key="]" line="37" column="72" />
-        <mark key="^" line="37" column="72" />
-        <mark key="." line="37" column="72" />
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="14" column="1" />
+        <mark key="^" line="14" column="1" />
+        <mark key="." line="14" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/makeRootStore.ts" timestamp="1558006435532">
         <mark key="[" line="10" column="2" />
@@ -4057,7 +4057,7 @@
         <text encoding="base64">Zml4OiBkZXNjcmlwdGlvbiBzdGVwIGdlbnJlIHNlbGVjdAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -4108,8 +4108,8 @@
         <entry>action Find</entry>
         <entry>action $SelectAll</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
