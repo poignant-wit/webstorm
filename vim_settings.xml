@@ -4185,7 +4185,7 @@
         <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6IDQwcHg7CiAgLy9tYXJnaW4tbGVmdDogNDBweDsK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -4236,8 +4236,8 @@
         <entry>action Find</entry>
         <entry>action $SelectAll</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
