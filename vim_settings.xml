@@ -159,6 +159,13 @@
         <mark key="." line="36" column="33" />
         <mark key="^" line="36" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/components/CampaignCreationStepSecond/CampaignCreationStepSecond.tsx" timestamp="1558687525074">
+        <mark key="'" line="42" column="6" />
+        <mark key="[" line="280" column="19" />
+        <mark key="]" line="280" column="20" />
+        <mark key="^" line="280" column="20" />
+        <mark key="." line="280" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/public/index.html" timestamp="1556265430567">
         <mark key="[" line="30" column="30" />
         <mark key="]" line="30" column="38" />
@@ -722,7 +729,6 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
-        <mark key="^" line="23" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/components/CampaignCreationStepFirst/CampaignCreationStepFirst.tsx" timestamp="1558528745951">
         <mark key="[" line="40" column="65" />
@@ -982,10 +988,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="28" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558685180062">
+      <file name="/Dummy.txt" timestamp="1558687695411">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="22" />
+        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/services/__tests__/ChannelsService.test.ts" timestamp="1554451674339">
@@ -1960,12 +1966,6 @@
         <mark key="]" line="23" column="65" />
         <mark key="^" line="23" column="64" />
         <mark key="." line="23" column="65" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" timestamp="1558685151875">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="171" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/videos.controller.ts" timestamp="1551354798775">
         <mark key="[" line="391" column="0" />
@@ -4148,46 +4148,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Zml4OiBsYW5kaW5nIHZhbGlkYXRpb24K</text>
+        <text encoding="base64">Zml4OiB1cmwgdmFsaWRhdGlvbiBvbiBkZXNjcmlwdGlvbiBzdGVwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Invalid url</text>
+        <text>(this.originalCampaign.budget)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZW5yZXNTZWxlY3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlbHBlclRleHQ9e2hlbHBlclRleHRCeUlzRXJyb3IoCiAgICAgICAgICAgIHZtLmlzQ2FtcGFpZ25EZXNjcmlwdGlvbkFib3V0RXJyb3IsCiAgICAgICAgICAgIGlucHV0RXJyb3JUZXh0LAogICAgICAgICAgKX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpbnRlbnQ9ewogICAgICAgICAgICAgICAgdm0uaXNDYW1wYWlnbkJ1ZGdldEVycm9yICYmIHZtLnNob3dUYXJnZXRpbmdTdGVwRXJyb3JzCiAgICAgICAgICAgICAgICAgID8gSW50ZW50LkRBTkdFUgogICAgICAgICAgICAgICAgICA6IEludGVudC5OT05FCiAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiBsYW5kaW5nIHZhbGlkYXRpb24K</text>
+        <text encoding="base64">Zml4OiB1cmwgdmFsaWRhdGlvbiBvbiBkZXNjcmlwdGlvbiBzdGVwCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGVudW0gQ2FtcGFpZ25MYW5kaW5nSW5mb0tleSB7CiAgR0FNRV9OQU1FID0gJ3RpdGxlJywKICBHQU1FX0RFVkVMT1BFUl9OQU1FID0gJ2RldmVsb3BlcicsCiAgUFVCTElTSEVSX05BTUUgPSAncHVibGlzaGVyJywKICBXRUJTSVRFID0gJ3Byb2R1Y3RMaW5rJywKICBUT0RPX0xJU1QgPSAndG9kbycsCiAgQUJPVVQgPSAnZGVzY3JpcHRpb24nLAogIExJTktfVE9fUFJPTU8gPSAndmlkZW8nLAp9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY2FtcGFpZ24ubGFuZGluZ0luZm8udmlkZW8pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGRpc2FibGVkPXshdm0uaXNWYWxpZFRhcmdldGluZ1N0ZXB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgaXNDYW1wYWlnbkxhbmRpbmdJbmZvU3RyaW5nRXJyb3Ioa2V5OiBDYW1wYWlnbkxhbmRpbmdJbmZvS2V5KSB7CiAgICBjb25zdCBzbmFwc2hvdCA9IGdldFNuYXBzaG90KHRoaXMuY2FtcGFpZ24ubGFuZGluZ0luZm8pOwoKICAgIHJldHVybiBzbmFwc2hvdFtrZXldICYmIHNuYXBzaG90W2tleV0hLmxlbmd0aCA+PSBTVFJJTkdfTUFYX0xFTkdUSDsKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBDYW1wYWlnbkxhbmRpbmdJbmZvS2V5LAo=</text>
+        <text encoding="base64">ICAgICAgKHRoaXMuY2FtcGFpZ24ubGFuZGluZ0luZm8udmlkZW8ubGVuZ3RoID09PSAwIHx8CiAgICAgICAgaXNVcmwodGhpcy5jYW1wYWlnbi5sYW5kaW5nSW5mby52aWRlbykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBpbnB1dEludGVudCA9IChrZXk6IENhbXBhaWduTGFuZGluZ0luZm9LZXkpID0+IHsKICAgIHJldHVybiB2bS5pc0NhbXBhaWduTGFuZGluZ0luZm9TdHJpbmdFcnJvcihrZXkpCiAgICAgID8gSW50ZW50LkRBTkdFUgogICAgICA6IEludGVudC5OT05FOwogIH07Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5pc0NhbXBhaWduRGVzY3JpcHRpb25WaWRlb0Vycm9yIHx8CiAgICAgIHRoaXMuaXNDYW1wYWlnbkRlc2NyaXB0aW9uUHJvZHVjdExpbmtFcnJvcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBpbnB1dEhlbHBlclRleHQgPSAoa2V5OiBDYW1wYWlnbkxhbmRpbmdJbmZvS2V5KSA9PiB7CiAgICByZXR1cm4gdm0uaXNDYW1wYWlnbkxhbmRpbmdJbmZvU3RyaW5nRXJyb3Ioa2V5KQogICAgICA/ICdUaGUgbGVuZ3RoIG9mIHRoZSBmaWVsZCBtdXN0IGJlIHVwIHRvIDEwMDAgY2hhcmFjdGVycycKICAgICAgOiAnJzsKICB9Owo=</text>
+        <text encoding="base64">Zml4OiBsYW5kaW5nIHZhbGlkYXRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlbHBlclRleHQ9e2lucHV0SGVscGVyVGV4dChDYW1wYWlnbkxhbmRpbmdJbmZvS2V5LkxJTktfVE9fUFJPTU8pfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -4238,8 +4238,8 @@
         <entry>action Find</entry>
         <entry>action $SelectAll</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
