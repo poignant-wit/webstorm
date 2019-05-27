@@ -15,11 +15,11 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/CampaignAnalyticsPage.tsx" timestamp="1558691849420">
-        <mark key="[" line="62" column="7" />
-        <mark key="]" line="62" column="14" />
-        <mark key="." line="62" column="14" />
-        <mark key="^" line="62" column="14" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/CampaignAnalyticsPage.tsx" timestamp="1558950489740">
+        <mark key="[" line="85" column="38" />
+        <mark key="]" line="85" column="44" />
+        <mark key="." line="85" column="44" />
+        <mark key="^" line="85" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionChattersContainer.tsx" timestamp="1555924619049">
         <mark key="[" line="13" column="0" />
@@ -164,13 +164,6 @@
         <mark key="]" line="36" column="33" />
         <mark key="." line="36" column="33" />
         <mark key="^" line="36" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/components/CampaignCreationStepSecond/CampaignCreationStepSecond.tsx" timestamp="1558704596134">
-        <mark key="'" line="41" column="6" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="46" column="42" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/public/index.html" timestamp="1556265430567">
         <mark key="[" line="30" column="30" />
@@ -356,6 +349,13 @@
         <mark key="]" line="1" column="58" />
         <mark key="^" line="10" column="5" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatMessages/CampaignAnalyticsChatMessages.tsx" timestamp="1558947435146">
+        <mark key="'" line="20" column="12" />
+        <mark key="[" line="120" column="41" />
+        <mark key="]" line="120" column="48" />
+        <mark key="." line="120" column="48" />
+        <mark key="^" line="120" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/ChartError.module.scss" timestamp="1553598399094">
         <mark key="[" line="17" column="21" />
@@ -591,9 +591,9 @@
         <mark key="^" line="0" column="46" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.module.scss" timestamp="1558943954174">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="1" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.module.scss" timestamp="1558947132392">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="14" column="1" />
         <mark key="." line="13" column="18" />
         <mark key="^" line="13" column="18" />
       </file>
@@ -705,11 +705,11 @@
         <mark key="^" line="94" column="0" />
         <mark key="." line="64" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/sessions/CampaignAnalyticsSessionsViewModel.ts" timestamp="1558706873738">
-        <mark key="[" line="5" column="86" />
-        <mark key="]" line="5" column="89" />
-        <mark key="." line="5" column="89" />
-        <mark key="^" line="5" column="89" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/sessions/CampaignAnalyticsSessionsViewModel.ts" timestamp="1558950577455">
+        <mark key="[" line="6" column="64" />
+        <mark key="]" line="6" column="78" />
+        <mark key="." line="6" column="78" />
+        <mark key="^" line="6" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/payment/components/index.ts" timestamp="1558093868774">
         <mark key="[" line="0" column="37" />
@@ -776,12 +776,12 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" timestamp="1558944251841">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="118" column="45" />
-        <mark key="]" line="118" column="52" />
-        <mark key="." line="118" column="52" />
-        <mark key="^" line="118" column="52" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" timestamp="1558950426667">
+        <mark key="'" line="132" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="37" />
+        <mark key="." line="119" column="84" />
+        <mark key="^" line="119" column="84" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/errors/http/HttpRequestError.ts" timestamp="1551336659715">
         <mark key="[" line="17" column="15" />
@@ -951,6 +951,13 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViewsByPlatform/CampaignAnalyticsViewsByPlatform.tsx" timestamp="1558950312647">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="80" column="70" />
+        <mark key="]" line="80" column="69" />
+        <mark key="." line="80" column="69" />
+        <mark key="^" line="80" column="69" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/api/restream/sessions.ts" timestamp="1555925311498">
         <mark key="[" line="10" column="39" />
         <mark key="]" line="10" column="39" />
@@ -1040,10 +1047,16 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="28" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558715359356">
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.module.scss" timestamp="1558947424158">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="20" column="1" />
+        <mark key="." line="19" column="14" />
+        <mark key="^" line="19" column="14" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1558952268959">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="26" />
+        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/services/__tests__/ChannelsService.test.ts" timestamp="1554451674339">
@@ -1171,6 +1184,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="6" column="20" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/sessions/CampaignAnalyticsSessions/CampaignAnalyticsSessions.tsx" timestamp="1558952264183">
+        <mark key="[" line="22" column="7" />
+        <mark key="]" line="22" column="19" />
+        <mark key="." line="22" column="19" />
+        <mark key="^" line="22" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/base/StateEnum.ts" timestamp="1553854506455">
         <mark key="[" line="11" column="6" />
@@ -1435,9 +1454,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="12" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/common/ChartContainer/ChartContainer.ts" timestamp="1558943369356">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventsListHistoryLink/index.ts" timestamp="1549525861175">
         <mark key="[" line="0" column="39" />
@@ -1787,6 +1803,12 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatMessages/CampaignAnalyticsChatMessages.module.scss" timestamp="1558947428499">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend/docker/scheduler-website-frontend/config/config.development.json" timestamp="1551966024456">
         <mark key="[" line="7" column="50" />
         <mark key="]" line="7" column="51" />
@@ -1858,6 +1880,12 @@
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/sessions/CampaignAnalyticsSessions/CampaignAnalyticsSessions.module.scss" timestamp="1558951691086">
+        <mark key="[" line="64" column="12" />
+        <mark key="]" line="64" column="13" />
+        <mark key="." line="64" column="13" />
+        <mark key="^" line="64" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/ChartBlock/ChartBlock.tsx" timestamp="1556095482117">
         <mark key="[" line="10" column="39" />
@@ -1972,9 +2000,9 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionWatchedMinutesChart.tsx" timestamp="1555926798508">
-        <mark key="[" line="45" column="48" />
-        <mark key="]" line="45" column="48" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionWatchedMinutesChart.tsx" timestamp="1558947973923">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="78" column="9" />
         <mark key="^" line="45" column="48" />
         <mark key="." line="45" column="48" />
       </file>
@@ -2041,13 +2069,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" timestamp="1558715181079">
-        <mark key="'" line="137" column="23" />
-        <mark key="[" line="278" column="28" />
-        <mark key="]" line="278" column="115" />
-        <mark key="^" line="278" column="115" />
-        <mark key="." line="278" column="115" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/videos.controller.ts" timestamp="1551354798775">
         <mark key="[" line="391" column="0" />
         <mark key="]" line="391" column="0" />
@@ -2094,13 +2115,6 @@
         <mark key="]" line="1" column="19" />
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/api/campaigns.ts" timestamp="1558691753637">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="93" column="38" />
-        <mark key="]" line="93" column="45" />
-        <mark key="^" line="93" column="45" />
-        <mark key="." line="93" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/ui/DialogViewStore.ts" timestamp="1551437109401">
         <mark key="[" line="17" column="13" />
@@ -2400,6 +2414,9 @@
         <mark key="]" line="172" column="12" />
         <mark key="^" line="166" column="37" />
         <mark key="." line="172" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/utils/time.ts" timestamp="1558951810576">
+        <mark key="^" line="0" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain/EventsCreateEditContentItem/EventsCreateEditContentItem.scss" timestamp="1548328201296">
         <mark key="[" line="4" column="0" />
@@ -2981,11 +2998,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChartsViewModel.ts" timestamp="1558944130973">
-        <mark key="[" line="32" column="20" />
-        <mark key="]" line="32" column="25" />
-        <mark key="." line="32" column="25" />
-        <mark key="^" line="32" column="25" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChartsViewModel.ts" timestamp="1558950202160">
+        <mark key="[" line="58" column="9" />
+        <mark key="]" line="59" column="14" />
+        <mark key="." line="59" column="14" />
+        <mark key="^" line="59" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/support/TimeStore.ts" timestamp="1549642933108">
         <mark key="[" line="8" column="0" />
@@ -3255,10 +3272,11 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" timestamp="1558944206347">
-        <mark key="'" line="130" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="61" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" timestamp="1558949828048">
+        <mark key="'" line="133" column="0" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="74" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsActiveListPlaceholder/EventsActiveListPlaceholder.scss" timestamp="1550560065590">
         <mark key="[" line="4" column="3" />
@@ -3840,6 +3858,7 @@
         <mark key="." line="42" column="79" />
         <mark key="^" line="42" column="79" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/utils/time.ts" timestamp="1558951732438" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/dialog/index.ts" timestamp="1549882711251">
         <mark key="[" line="0" column="39" />
         <mark key="]" line="0" column="39" />
@@ -4188,41 +4207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionPopularPhrasesData.ts" />
-      <jump line="52" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionPopularPhrasesData.ts" />
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChattersData.ts" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChattersData.ts" />
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChattersData.ts" />
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChattersData.ts" />
-      <jump line="31" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChattersData.ts" />
-      <jump line="36" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChattersData.ts" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
-      <jump line="31" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
-      <jump line="36" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
-      <jump line="41" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
-      <jump line="46" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
-      <jump line="51" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
-      <jump line="43" column="23" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
-      <jump line="47" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
-      <jump line="52" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
-      <jump line="57" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
-      <jump line="63" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useAnalyticsSessionChatMessagesData.ts" />
-      <jump line="30" column="11" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.tsx" />
-      <jump line="79" column="20" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.tsx" />
-      <jump line="28" column="9" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.module.scss" />
-      <jump line="25" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.module.scss" />
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.module.scss" />
-      <jump line="7" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.module.scss" />
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.module.scss" />
-      <jump line="20" column="13" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.module.scss" />
-      <jump line="14" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.module.scss" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.module.scss" />
-      <jump line="32" column="9" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.module.scss" />
-      <jump line="85" column="9" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.module.scss" />
-      <jump line="84" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.tsx" />
       <jump line="131" column="1" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.tsx" />
       <jump line="91" column="0" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Tooltip/Tooltip.tsx" />
@@ -4270,67 +4254,102 @@
       <jump line="250" column="7" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" />
       <jump line="137" column="23" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" />
       <jump line="14" column="6" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
-      <jump line="22" column="13" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
-      <jump line="27" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
       <jump line="39" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
       <jump line="44" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
       <jump line="52" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
       <jump line="61" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
-      <jump line="64" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
       <jump line="69" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
       <jump line="86" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
       <jump line="91" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
       <jump line="112" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
-      <jump line="115" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
       <jump line="130" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
       <jump line="17" column="4" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" />
       <jump line="50" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" />
+      <jump line="21" column="21" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" />
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" />
+      <jump line="51" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" />
+      <jump line="60" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" />
+      <jump line="63" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" />
+      <jump line="85" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" />
+      <jump line="90" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" />
+      <jump line="111" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" />
+      <jump line="114" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" />
+      <jump line="129" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" />
+      <jump line="16" column="17" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatMessages/CampaignAnalyticsChatMessages.tsx" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatMessages/CampaignAnalyticsChatMessages.tsx" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatMessages/CampaignAnalyticsChatMessages.tsx" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatMessages/CampaignAnalyticsChatMessages.tsx" />
+      <jump line="51" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatMessages/CampaignAnalyticsChatMessages.tsx" />
+      <jump line="20" column="12" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatMessages/CampaignAnalyticsChatMessages.tsx" />
+      <jump line="22" column="12" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
+      <jump line="40" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
+      <jump line="45" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
+      <jump line="51" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
+      <jump line="64" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
+      <jump line="67" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
+      <jump line="72" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
+      <jump line="89" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
+      <jump line="94" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
+      <jump line="115" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
+      <jump line="118" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
+      <jump line="133" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.tsx" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViewsByPlatform/CampaignAnalyticsViewsByPlatform.tsx" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViewsByPlatform/CampaignAnalyticsViewsByPlatform.tsx" />
+      <jump line="16" column="12" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViewsByPlatform/CampaignAnalyticsViewsByPlatform.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViewsByPlatform/CampaignAnalyticsViewsByPlatform.tsx" />
+      <jump line="46" column="32" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChartsViewModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Views</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmVhdDogYW5hbHl0aWNzIGNoYXR0ZXJzL21lc3NhZ2VzIGNoYXJ0cwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Views</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFydENvbnRhaW5lcklkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgeyBjb250YWluZXJJZCwgQ2hhcnRDb250YWluZXIgfSA9IG1ha2VDaGFydENvbnRhaW5lcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+e2dldEZvcm1hdHRlZER1cmF0aW9uKGRhdGEuZGF0ZUVuZCAtIGRhdGEuZGF0ZVN0YXJ0KX08L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgY2hhcnRDb250YWluZXJJZCA9ICdjaGF0dGVycyc7Cg==</text>
+        <text encoding="base64">ZmVhdDogYW5hbHl0aWNzIGNoYXR0ZXJzL21lc3NhZ2VzIGNoYXJ0cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBbaXNDaGFydE1vZHVsZUxvYWRpbmcsIHNldElzQ2hhcnRNb2R1bGVMb2FkaW5nXSA9IHVzZVN0YXRlKHRydWUpOwogIGNvbnN0IFtpc0NoYXJ0TW9kdWxlRXJyb3IsIHNldElzQ2hhcnRNb2R1bGVFcnJvcl0gPSB1c2VTdGF0ZShmYWxzZSk7CgogIHVzZUFtNENoYXJ0cygKICAgICgpID0+IHsKICAgICAgc2V0SXNDaGFydE1vZHVsZUVycm9yKHRydWUpOwogICAgfSwKICAgICh7IGFtNGNvcmUsIGFtNGNoYXJ0cyB9KSA9PiB7CiAgICAgIHNldElzQ2hhcnRNb2R1bGVMb2FkaW5nKGZhbHNlKTsKICAgICAgY29uc3QgY2hhcnQgPSBhbTRjb3JlLmNyZWF0ZShjaGFydENvbnRhaW5lcklkLCBhbTRjaGFydHMuWFlDaGFydCk7CiAgICAgIGNvbnN0IGRhdGVBeGlzID0gY2hhcnQueEF4ZXMucHVzaChuZXcgYW00Y2hhcnRzLkRhdGVBeGlzKCkpOwogICAgICBjb25zdCB2YWx1ZUF4aXMgPSBjaGFydC55QXhlcy5wdXNoKG5ldyBhbTRjaGFydHMuVmFsdWVBeGlzKCkpOwoKICAgICAgdmFsdWVBeGlzLnRvb2x0aXAhLmRpc2FibGVkID0gdHJ1ZTsKICAgICAgdmFsdWVBeGlzLnJlbmRlcmVyLm1pbldpZHRoID0gMzU7CiAgICAgIGNoYXJ0LmN1cnNvciA9IG5ldyBhbTRjaGFydHMuWFlDdXJzb3IoKTsKICAgICAgY2hhcnQubGVnZW5kID0gbmV3IGFtNGNoYXJ0cy5MZWdlbmQoKTsKICAgIH0sCiAgKTsKICByZXR1cm4gKAogICAgPFJDYXJkPgogICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmNvbnRlbnR9PgogICAgICAgIHtpc0NoYXJ0TW9kdWxlTG9hZGluZyA/ICgKICAgICAgICAgIDxSTG9hZGVyIHR5cGU9e1NwaW5uZXJUeXBlLlNOQUtFfSAvPgogICAgICAgICkgOiAoCiAgICAgICAgICA8UmVhY3QuRnJhZ21lbnQ+CiAgICAgICAgICAgIDxDYW1wYWlnbkFuYWx5dGljc0NoYXJ0VGl0bGUgdGl0bGU9eydDaGF0dGVycyd9IC8+CiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogJ2ZsZXgnLCBmbGV4OiAxIH19IGlkPXtjaGFydENvbnRhaW5lcklkfSAvPgogICAgICAgICAgPC9SZWFjdC5GcmFnbWVudD4KICAgICAgICApfQogICAgICA8L2Rpdj4KICAgIDwvUkNhcmQ+CiAgKTsK</text>
+        <text encoding="base64">ICAgICAgICBDU1MgZnJhbWV3b3JrIGFuZCBVSSB0b29sa2l0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5jb250ZW50fT4K</text>
+        <text encoding="base64">ICAgICAgICBDU1MgZnJhbWV3b3JrIGFuZCBVSSB0b29sa2l0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge21vbWVudC51bml4KGRhdGEuZGF0ZVN0YXJ0KS5mb3JtYXQoZGF0ZUZvcm1hdCl9IC17JyAnfQogICAgICAgICAgICB7bW9tZW50LnVuaXgoZGF0YS5kYXRlRW5kKS5mb3JtYXQoJ0hIOm1tJyl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L0NhbXBhaWduQW5hbHl0aWNzQ2hhcnRDb250YWluZXI+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY3VycnkgfSBmcm9tICdyYW1kYSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fTsKCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIElDYW1wYWlnbkFuYWx5dGljc0NoYXJ0Q29udGFpbmVyUHJvcHMgewo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBzd2l0Y2ggKGZvcm1hdCkgewogICAgY2FzZSAnY29tcGFjdCc6CiAgICAgIHJldHVybiAoCiAgICAgICAgKGhvdXJzID8gYCR7aG91cnN9IGhyIGAgOiAnJykgKwogICAgICAgIChtaW51dGVzID8gYCR7bWludXRlc30gbWluIGAgOiAnJykgKwogICAgICAgIChzZWNvbmRzICYmICghbWludXRlcyB8fCAhaG91cnMpID8gYCR7c2Vjb25kc30gc2VjYCA6ICcnKQogICAgICApOwoKICAgIGRlZmF1bHQ6CiAgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuICgKICAgICAgICAoaG91cnMgPyBgJHtob3Vyc30gaHIgYCA6ICcnKSArCiAgICAgICAgKG1pbnV0ZXMgPyBgJHttaW51dGVzfSBtaW4gYCA6ICcnKSArCiAgICAgICAgKHNlY29uZHMgPyBgJHtzZWNvbmRzfSBzZWNgIDogJycpCiAgICAgICk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY29udGFpbmVySWQpOwo=</text>
+        <text encoding="base64">ICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -4380,9 +4399,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>action Find</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action $SelectAll</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
