@@ -512,9 +512,9 @@
         <mark key="." line="62" column="67" />
         <mark key="^" line="62" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViewsByPlatform/CampaignAnalyticsViewsByPlatform.module.scss" timestamp="1558954156097">
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="7" column="0" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViewsByPlatform/CampaignAnalyticsViewsByPlatform.module.scss" timestamp="1558954895779">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="13" column="1" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
@@ -597,7 +597,7 @@
         <mark key="^" line="0" column="46" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.module.scss" timestamp="1558954151387">
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViews/CampaignAnalyticsViews.module.scss" timestamp="1558954893418">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="14" column="1" />
         <mark key="." line="13" column="18" />
@@ -959,10 +959,6 @@
       </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsViewsByPlatform/CampaignAnalyticsViewsByPlatform.tsx" timestamp="1558954130509">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="89" column="61" />
-        <mark key="]" line="89" column="68" />
-        <mark key="." line="89" column="68" />
-        <mark key="^" line="89" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/api/restream/sessions.ts" timestamp="1555925311498">
         <mark key="[" line="10" column="39" />
@@ -1059,10 +1055,10 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558954195561">
+      <file name="/Dummy.txt" timestamp="1558954911775">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/services/__tests__/ChannelsService.test.ts" timestamp="1554451674339">
@@ -4316,7 +4312,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ZmVhdDogc2Vzc2lvbnMgdGFibGUK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -4328,15 +4324,18 @@
         <text encoding="base64">LmxvYWRlciB7CiAgcG9zaXRpb246IGFic29sdXRlOwogIGhlaWdodDogMTAwJTsKICB3aWR0aDogMTAwJTsKICBkaXNwbGF5OiBmbGV4OwogIGJhY2tncm91bmQ6IHdoaXRlOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ZmVhdDogc2Vzc2lvbnMgdGFibGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Ci5jCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>ontent {
   display: flex;
   flex: 1;
@@ -4344,20 +4343,17 @@
   min-height: 400px;
 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZmVhdDogYW5hbHl0aWNzIGNoYXR0ZXJzL21lc3NhZ2VzIGNoYXJ0cwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDU1MgZnJhbWV3b3JrIGFuZCBVSSB0b29sa2l0Cg==</text>
+        <text encoding="base64">ZmVhdDogYW5hbHl0aWNzIGNoYXR0ZXJzL21lc3NhZ2VzIGNoYXJ0cwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBDU1MgZnJhbWV3b3JrIGFuZCBVSSB0b29sa2l0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge21vbWVudC51bml4KGRhdGEuZGF0ZVN0YXJ0KS5mb3JtYXQoZGF0ZUZvcm1hdCl9IC17JyAnfQogICAgICAgICAgICB7bW9tZW50LnVuaXgoZGF0YS5kYXRlRW5kKS5mb3JtYXQoJ0hIOm1tJyl9Cg==</text>
+        <text encoding="base64">ICAgICAgICBDU1MgZnJhbWV3b3JrIGFuZCBVSSB0b29sa2l0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
