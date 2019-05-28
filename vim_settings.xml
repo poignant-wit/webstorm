@@ -2075,12 +2075,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" timestamp="1559025572127">
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" timestamp="1559033188856">
         <mark key="'" line="145" column="23" />
-        <mark key="[" line="120" column="33" />
-        <mark key="]" line="120" column="33" />
-        <mark key="^" line="117" column="33" />
-        <mark key="." line="120" column="33" />
+        <mark key="[" line="185" column="13" />
+        <mark key="]" line="185" column="27" />
+        <mark key="^" line="185" column="27" />
+        <mark key="." line="185" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/videos.controller.ts" timestamp="1551354798775">
         <mark key="[" line="391" column="0" />
@@ -2976,7 +2976,7 @@
         <mark key="." line="0" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/videos/containers/VideoUploaderContainer.tsx" timestamp="1558960093193">
-        <mark key="'" line="188" column="10" />
+        <mark key="'" line="160" column="10" />
       </file>
       <file name="$USER_HOME$/Downloads/static-html-webpack-boilerplate-1.1.0/src/js/chart/helpers/positionHelpers.js" timestamp="1555046266795">
         <mark key="[" line="45" column="24" />
@@ -4317,11 +4317,11 @@
       <jump line="88" column="10" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/videos/containers/VideoUploaderContainer.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogeW91dHViZSBsaW5rIHZhbGlkYXRpb24K</text>
+      <register name="&quot;" type="4">
+        <text>CAMPAIGN_TYPE</text>
       </register>
       <register name="-" type="4">
-        <text>IGamePlatformModel</text>
+        <text>CAMPAIGN_TYPE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVQaWNrRmlsZVw+</text>
