@@ -513,11 +513,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/payment/CampaignPaymentPage.tsx" timestamp="1559205165401">
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="100" />
-        <mark key="." line="6" column="100" />
-        <mark key="^" line="6" column="100" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/payment/CampaignPaymentPage.tsx" timestamp="1559207016144">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="100" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/tsconfig.json" timestamp="1556187673427">
         <mark key="[" line="19" column="9" />
@@ -645,6 +645,7 @@
         <mark key="." line="24" column="5" />
         <mark key="^" line="24" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/Column/Column.module.scss" timestamp="1559206392262" />
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/loadViewersData.ts" timestamp="1554884400017">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -977,6 +978,12 @@
         <mark key="." line="6" column="60" />
         <mark key="^" line="6" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/components/CampaignCreationStepSecond/CampaignCreationStepSecond.module.scss" timestamp="1559206873082">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="16" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/Chart.scss" timestamp="1555663898721">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1037,11 +1044,11 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559205289744">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="31" />
-        <mark key="." line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1559207033407">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/services/__tests__/ChannelsService.test.ts" timestamp="1554451674339">
         <mark key="[" line="12" column="49" />
@@ -2133,9 +2140,6 @@
         <mark key="^" line="17" column="13" />
         <mark key="." line="17" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/common/components/RImageUploader/RImageUploader.ts" timestamp="1559193016241">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/download/downloadFromUrlHandler.ts" timestamp="1548838206061">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="85" column="19" />
@@ -2766,6 +2770,12 @@
         <mark key="]" line="14" column="29" />
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/_media.scss" timestamp="1559206825921">
+        <mark key="[" line="31" column="7" />
+        <mark key="]" line="31" column="8" />
+        <mark key="." line="31" column="8" />
+        <mark key="^" line="31" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/sessionWatchedMinutesByChannelsSelector.ts" timestamp="1555064314833">
         <mark key="[" line="4" column="13" />
@@ -4336,43 +4346,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogUkltYWdlQ3JvcCBjb21wb25lbnQK</text>
+        <text encoding="base64">ZmVhdDogcGF5bWVudCBwcmV2aWV3IHNob3cgZXJyb3IK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;The page you were looking for was moved or doesn't exist.&quot;</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSRXJyb3JQYWdlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlPXsiVGhlIHBhZ2UgeW91IHdlcmUgbG9va2luZyBmb3Igd2FzIG1vdmVkIG9yIGRvZXNuJ3QgZXhpc3QuIn0K</text>
+        <text encoding="base64">ICBAaW5jbHVkZSBsZyB7CiAgICBiYWNrZ3JvdW5kOiBncmVlbjsKICAgIHdpZHRoOiA1MCU7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogUkltYWdlQ3JvcCBjb21wb25lbnQK</text>
+        <text encoding="base64">ZmVhdDogcGF5bWVudCBwcmV2aWV3IHNob3cgZXJyb3IK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgICAgRXJyb3IKICAgICAgICAgIDxSQnV0dG9uIHRleHQ9eydFZGl0IGNhbXBhaWduJ30gb25DbGljaz17KCkgPT4gdm0uZ29Ub0NhbXBhaWduKCl9IC8+CiAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUkJ1dHRvbiB9IGZyb20gJy4uLy4uLy4uL2NvbW1vbi9jb21wb25lbnRzL1JCdXR0b24nOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmVhdDogUkltYWdlVXBsb2FkZXIK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGdyZWVuOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGdyZWVuOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHJlZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGdldENyb3BwZWRJbWcoaW1hZ2VSZWYuY3VycmVudCwgY3JvcCwgJ3Rlc3QnKTsK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHllbGxvdzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIDxCdXR0b24+PC9CdXR0b24+IAo=</text>
+        <text encoding="base64">ICB3aWR0aDogNDAlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLwo=</text>
+        <text encoding="base64">ZmVhdDogUkltYWdlQ3JvcCBjb21wb25lbnQK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -4426,6 +4436,7 @@
         <entry>action Find</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>action $SelectAll</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
         <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
