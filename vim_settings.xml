@@ -823,6 +823,12 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/components/CampaignCreationStepThird/CampaignCreationStepThird.tsx" timestamp="1559573954348">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="17" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/components/CampaignCreationStepFirst/CampaignCreationStepFirst.tsx" timestamp="1558528745951">
         <mark key="[" line="40" column="65" />
         <mark key="]" line="40" column="88" />
@@ -3202,6 +3208,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="14" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/components/CampaignCreationStepThird/preview/Card/Card.tsx" timestamp="1559573947362">
+        <mark key="]" line="1" column="30" />
+        <mark key="^" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChartsViewModel.ts" timestamp="1558950202160">
         <mark key="[" line="58" column="9" />
         <mark key="]" line="59" column="14" />
@@ -4203,7 +4214,8 @@
         <mark key="^" line="37" column="15" />
         <mark key="." line="37" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/public/index.html" timestamp="1558180929516">
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/public/index.html" timestamp="1559574051013">
+        <mark key="'" line="49" column="0" />
         <mark key="[" line="5" column="88" />
         <mark key="]" line="6" column="101" />
         <mark key="^" line="6" column="101" />
@@ -4438,10 +4450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="23" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" />
-      <jump line="90" column="23" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" />
-      <jump line="57" column="25" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/components/CampaignCreationStepFourth/CampaignCreationStepFourth.tsx" />
-      <jump line="42" column="6" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/components/CampaignCreationStepSecond/CampaignCreationStepSecond.tsx" />
       <jump line="24" column="37" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/CampaignAnalyticsHeader/CampaignAnalyticsHeader.tsx" />
       <jump line="16" column="12" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" />
       <jump line="85" column="40" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/api/campaigns.ts" />
@@ -4538,6 +4546,10 @@
       <jump line="256" column="22" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/components/CampaignCreationStepThird/components/CampaignCreationDescriptionForm/CampaignCreationDescriptionForm.tsx" />
       <jump line="12" column="42" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/campaigns/CampaignModel.ts" />
       <jump line="10" column="91" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/components/CampaignCreationStepThird/components/CampaignCreationDescriptionForm/CampaignCreationDescriptionForm.tsx" />
+      <jump line="26" column="2" filename="$USER_HOME$/Documents/restream-marketplace-frontend/public/index.html" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/public/index.html" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/public/index.html" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/public/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4580,7 +4592,7 @@
         <text encoding="base64">ClByZXZpZXcuQ2FyZC5QcmV2aWV3Q2FyZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action $SelectAll</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -4632,8 +4644,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
         <entry>action EditorDuplicate</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action $SelectAll</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
