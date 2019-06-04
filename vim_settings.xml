@@ -21,10 +21,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="82" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/index.tsx" timestamp="1559650485239">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/index.tsx" timestamp="1559652922171">
+        <mark key="k" line="11" column="0" />
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="35" />
+        <mark key="." line="11" column="35" />
+        <mark key="^" line="11" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionChattersContainer.tsx" timestamp="1555924619049">
         <mark key="[" line="13" column="0" />
@@ -1117,10 +1119,10 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559646637009">
+      <file name="/Dummy.txt" timestamp="1559652352016">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="16" />
+        <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/services/__tests__/ChannelsService.test.ts" timestamp="1554451674339">
@@ -4640,10 +4642,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text>NoResponseError</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>NoResponseError</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb1Jlc3BvbnNlRXJyb3JcPg==</text>
@@ -4652,31 +4654,31 @@
         <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBOb1Jlc3BvbnNlRXJyb3IoCiAgICAgICAgYE5vIHJlc3BvbnNlOiAke3BhdGhPcigiQ2FuJ3QgZ2V0IHVybCIsIFsnY29uZmlnJywgJ3VybCddLCBlKX1gLAogICAgICApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgRXJyb3JSZXBvcnRlci5jYXB0dXJlKCkK</text>
+        <text encoding="base64">Zml4OiBpbWFnZSBwbGFjZW1lbnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTm9SZXNwb25zZUVycm9yIH0gZnJvbSAnLi9hcGkvZXJyb3JzJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RXJyb3JSZXBvcnRlci5jYXB0dXJlKG5ldyBFcnJvcigndGVzdCcpKTsK</text>
+        <text encoding="base64">RXJyb3JSZXBvcnRlci5jYXB0dXJlKG5ldyBOb1Jlc3BvbnNlRXJyb3IoJ3Rlc3Qgc2VudHJ5IGludGVncmF0aW9uJykpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgRXJyb3JSZXBvcnRlci5jYXB0dXJlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RXJyb3JSZXBvcnRlci5jYXB0dXJlKG5ldyBFcnJvcigndGVzdCcpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zml4OiBkZWZhdWx0IHN0ZXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
