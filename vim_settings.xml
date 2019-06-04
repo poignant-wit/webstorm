@@ -1114,10 +1114,10 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559563149689">
+      <file name="/Dummy.txt" timestamp="1559641298650">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="25" />
+        <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/services/__tests__/ChannelsService.test.ts" timestamp="1554451674339">
@@ -1610,11 +1610,11 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/description/preview/card/Card.tsx" timestamp="1559640111726">
-        <mark key="[" line="36" column="13" />
-        <mark key="]" line="32" column="40" />
-        <mark key="." line="32" column="40" />
-        <mark key="^" line="32" column="40" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/description/preview/card/Card.tsx" timestamp="1559640938722">
+        <mark key="[" line="37" column="52" />
+        <mark key="]" line="37" column="61" />
+        <mark key="." line="37" column="61" />
+        <mark key="^" line="37" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/utils/distance.ts" timestamp="1550222481455">
         <mark key="[" line="11" column="28" />
@@ -1808,7 +1808,7 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/description/preview/landing/CampaignCreationPreview.tsx" timestamp="1559637368742">
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/description/preview/landing/CampaignCreationPreview.tsx" timestamp="1559641042641">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="^" line="58" column="13" />
@@ -4266,7 +4266,7 @@
         <mark key="^" line="37" column="15" />
         <mark key="." line="37" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/public/index.html" timestamp="1559574051013">
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/public/index.html" timestamp="1559641294577">
         <mark key="'" line="49" column="0" />
         <mark key="[" line="5" column="88" />
         <mark key="]" line="6" column="101" />
@@ -4285,11 +4285,10 @@
         <mark key="^" line="128" column="55" />
         <mark key="." line="128" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/description/preview/landing/CampaignCreationPreview.module.scss" timestamp="1559639827118">
-        <mark key="[" line="105" column="12" />
-        <mark key="]" line="105" column="18" />
-        <mark key="." line="105" column="18" />
-        <mark key="^" line="105" column="18" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/description/preview/landing/CampaignCreationPreview.module.scss" timestamp="1559641150279">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="23" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/CampaignAnalyticsStats/CampaignAnalyticsStats.module.scss" timestamp="1558611573545">
         <mark key="[" line="2" column="22" />
@@ -4616,11 +4615,11 @@
       <jump line="49" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/public/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Zml4OiB1cGxvYWRlciB0eXBlcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSSW1hZ2VVcGxvYWRlcklucHV0XD4=</text>
@@ -4629,31 +4628,31 @@
         <text encoding="base64">ICAgICAgICAgICAge21vbWVudC51bml4KGRhdGEuZGF0ZVN0YXJ0KS5mb3JtYXQoZGF0ZUZvcm1hdCl9IC17JyAnfQogICAgICAgICAgICB7ZGF0YS5kYXRlRW5kID8gbW9tZW50LnVuaXgoZGF0YS5kYXRlRW5kKS5mb3JtYXQoJ0hIOm1tJykgOiAnLi4uJ30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3ZtLm9yaWdpbmFsQ2FtcGFpZ24uZGF0ZVN0YXJ0fQo=</text>
+        <text encoding="base64">Zml4OiB1cGxvYWRlciB0eXBlcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBjb3ZlckltYWdlVXJsID0gdm0ub3JpZ2luYWxDYW1wYWlnbi5pbWFnZXMuY292ZXJJbWFnZQogICAgPyB2bS5vcmlnaW5hbENhbXBhaWduLmltYWdlcy5jb3ZlckltYWdlLnVybAogICAgOiBudWxsOwo=</text>
+        <text encoding="base64">ICAgIG92ZXJmbG93OiBzY3JvbGw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgICAgU3RyZWFtIGR1cmF0aW9uOiA8c3BhbiBjbGFzc05hbWU9e3N0eWxlc1snaW5mby12YWx1ZSddfT50ZXN0PC9zcGFuPgogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICBvdmVyZmxvdzogc2Nyb2xsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgICAgQ29udGVudCB0eXBlOiA8c3BhbiBjbGFzc05hbWU9e3N0eWxlc1snaW5mby12YWx1ZSddfT50ZXN0PC9zcGFuPgogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKntBcnJheSgxMCAtIHZtLm9yaWdpbmFsQ2FtcGFpZ24uaW1hZ2VzLmdldEFsbCgpLmxlbmd0aCkqL30KICAgICAgICAgIHsvKiAgLmZpbGwobnVsbCkqL30KICAgICAgICAgIHsvKiAgLm1hcCgoXywgaW5kZXgpID0+IHsqL30KICAgICAgICAgIHsvKiAgICByZXR1cm4gPEltYWdlIGtleT17aW5kZXh9IC8+OyovfQogICAgICAgICAgey8qICB9KX0qL30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzY3JvbGwteAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAge3ZtLm9yaWdpbmFsQ2FtcGFpZ24uZGF0ZVN0YXJ0fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzZXRDb3ZlcicpOwo=</text>
+        <text encoding="base64">ICBjb25zdCBjb3ZlckltYWdlVXJsID0gdm0ub3JpZ2luYWxDYW1wYWlnbi5pbWFnZXMuY292ZXJJbWFnZQogICAgPyB2bS5vcmlnaW5hbENhbXBhaWduLmltYWdlcy5jb3ZlckltYWdlLnVybAogICAgOiBudWxsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndHJ1ZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgICAgU3RyZWFtIGR1cmF0aW9uOiA8c3BhbiBjbGFzc05hbWU9e3N0eWxlc1snaW5mby12YWx1ZSddfT50ZXN0PC9zcGFuPgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3JlbW92ZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgICAgQ29udGVudCB0eXBlOiA8c3BhbiBjbGFzc05hbWU9e3N0eWxlc1snaW5mby12YWx1ZSddfT50ZXN0PC9zcGFuPgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi5yZW1vdmUoaW1hZ2UpOwo=</text>
+        <text encoding="base64">ICBzY3JvbGwteAo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
