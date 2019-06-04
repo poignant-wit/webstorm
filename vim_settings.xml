@@ -811,11 +811,11 @@
         <mark key="^" line="44" column="32" />
         <mark key="." line="44" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/description/preview/index.ts" timestamp="1559574864306">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-        <mark key="^" line="0" column="20" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/description/preview/index.ts" timestamp="1559627284788">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+        <mark key="^" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/channels/ChannelsStore.ts" timestamp="1549464951078">
         <mark key="[" line="12" column="2" />
@@ -1600,7 +1600,6 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/description/preview/card/Card.tsx" timestamp="1559575473935" />
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/utils/distance.ts" timestamp="1550222481455">
         <mark key="[" line="11" column="28" />
         <mark key="]" line="11" column="28" />
@@ -2218,12 +2217,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" timestamp="1559564801162">
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" timestamp="1559627308012">
         <mark key="'" line="149" column="35" />
         <mark key="[" line="211" column="13" />
-        <mark key="]" line="211" column="25" />
-        <mark key="^" line="211" column="25" />
-        <mark key="." line="211" column="25" />
+        <mark key="]" line="211" column="27" />
+        <mark key="^" line="211" column="27" />
+        <mark key="." line="211" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/videos.controller.ts" timestamp="1551354798775">
         <mark key="[" line="391" column="0" />
@@ -4565,10 +4564,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CampaignCreationStepThird</text>
+        <text>CAMPAIGN_TYPE</text>
       </register>
       <register name="-" type="4">
-        <text>CampaignCreationStepThird</text>
+        <text>CAMPAIGN_TYPE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSSW1hZ2VVcGxvYWRlcklucHV0XD4=</text>
@@ -4654,9 +4653,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>action $SelectAll</entry>
+        <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
