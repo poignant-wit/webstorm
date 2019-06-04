@@ -3314,17 +3314,17 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/errors/ErrorFactory.ts" timestamp="1552911728865">
-        <mark key="[" line="66" column="77" />
-        <mark key="]" line="66" column="74" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/errors/ErrorFactory.ts" timestamp="1559650702240">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="24" column="8" />
         <mark key="." line="66" column="74" />
         <mark key="^" line="66" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/api/client/index.ts" timestamp="1559650550773">
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="13" column="27" />
-        <mark key="." line="13" column="27" />
-        <mark key="^" line="13" column="27" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/api/client/index.ts" timestamp="1559650742364">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+        <mark key="^" line="15" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/ShareToActivateDialogContainer.tsx" timestamp="1549982459400">
         <mark key="[" line="28" column="59" />
@@ -3804,6 +3804,9 @@
         <mark key="]" line="7" column="34" />
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/index.ts" timestamp="1559650659053">
+        <mark key="'" line="4" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/README.md" timestamp="1557821823235">
         <mark key="[" line="23" column="0" />
@@ -4534,7 +4537,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="12" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.tsx" />
       <jump line="85" column="40" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/api/campaigns.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/api/campaigns.ts" />
       <jump line="102" column="3" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" />
@@ -4634,34 +4636,35 @@
       <jump line="35" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/public/index.html" />
       <jump line="49" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/public/index.html" />
       <jump line="236" column="9" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/description/form/CampaignCreationDescriptionForm.tsx" />
+      <jump line="4" column="48" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/api/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIE5vUmVzcG9uc2VFcnJvciBleHRlbmRzIEVycm9yIHsKICBwdWJsaWMgbmFtZTogc3RyaW5nOwogIGNvbnN0cnVjdG9yKHB1YmxpYyBtZXNzYWdlOiBzdHJpbmcpIHsKICAgIHN1cGVyKG1lc3NhZ2UpOwogICAgdGhpcy5uYW1lID0gJ05vUmVzcG9uc2VFcnJvcic7CiAgICB0aGlzLnN0YWNrID0gKG5ldyBFcnJvcigpIGFzIGFueSkuc3RhY2s7CiAgfQp9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PGE=</text>
+        <text encoding="base64">XDxOb1Jlc3BvbnNlRXJyb3JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIE5vUmVzcG9uc2VFcnJvciBleHRlbmRzIEVycm9yIHsKICBwdWJsaWMgbmFtZTogc3RyaW5nOwogIGNvbnN0cnVjdG9yKHB1YmxpYyBtZXNzYWdlOiBzdHJpbmcpIHsKICAgIHN1cGVyKG1lc3NhZ2UpOwogICAgdGhpcy5uYW1lID0gJ05vUmVzcG9uc2VFcnJvcic7CiAgICB0aGlzLnN0YWNrID0gKG5ldyBFcnJvcigpIGFzIGFueSkuc3RhY2s7CiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBOb1Jlc3BvbnNlRXJyb3IoCiAgICAgICAgYE5vIHJlc3BvbnNlOiAke3BhdGhPcigiQ2FuJ3QgZ2V0IHVybCIsIFsnY29uZmlnJywgJ3VybCddLCBlKX1gLAogICAgICApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRXJyb3JSZXBvcnRlci5jYXB0dXJlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RXJyb3JSZXBvcnRlci5jYXB0dXJlKG5ldyBFcnJvcigndGVzdCcpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">RXJyb3JSZXBvcnRlci5jYXB0dXJlKG5ldyBFcnJvcigndGVzdCcpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb24K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb24K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -4670,19 +4673,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zml4OiBkZWZhdWx0IHN0ZXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgZGF0ZUZvcm1hdCA9ICdNTU0gREQsIEhIOm1tJzsK</text>
+        <text encoding="base64">Zml4OiBkZWZhdWx0IHN0ZXAK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PGE=</last-search>
+      <last-search encoding="base64">XDxOb1Jlc3BvbnNlRXJyb3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PGE=</last-pattern>
+      <last-pattern encoding="base64">XDxOb1Jlc3BvbnNlRXJyb3JcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>targetAudience</last-substitute>
       <last-dir>1</last-dir>
@@ -4690,7 +4693,6 @@
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
         <entry encoding="base64">XDxsb2FkVGFyZ2V0aW5nRGF0YVw+</entry>
         <entry encoding="base64">XDxzaG93VGFyZ2V0aW5nUGxhY2Vob2xkZXJcPg==</entry>
         <entry encoding="base64">XDxHZW5yZXNTZWxlY3RcPg==</entry>
@@ -4710,6 +4712,7 @@
         <entry encoding="base64">XDxIdHRwRXJyb3JNb2RlbFw+</entry>
         <entry encoding="base64">XDxSSW1hZ2VVcGxvYWRlcklucHV0XD4=</entry>
         <entry encoding="base64">PGE=</entry>
+        <entry encoding="base64">XDxOb1Jlc3BvbnNlRXJyb3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
