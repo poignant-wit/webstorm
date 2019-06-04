@@ -21,6 +21,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="82" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/index.tsx" timestamp="1559650485239">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/session/AnalyticsSessionChattersContainer.tsx" timestamp="1555924619049">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -1196,6 +1201,12 @@
         <mark key="." line="30" column="47" />
         <mark key="^" line="30" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/api/errors/index.ts" timestamp="1559650623969">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/offers/components/OffersRegular.tsx" timestamp="1556188793508">
         <mark key="[" line="22" column="24" />
         <mark key="]" line="22" column="31" />
@@ -1249,6 +1260,12 @@
         <mark key="]" line="1" column="59" />
         <mark key="." line="1" column="59" />
         <mark key="^" line="1" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/reporters/ErrorReporter.ts" timestamp="1559650330521">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/CampaignPageViewModel.ts" timestamp="1558081489644">
         <mark key="[" line="0" column="0" />
@@ -1349,6 +1366,10 @@
         <mark key="]" line="0" column="43" />
         <mark key="^" line="0" column="43" />
         <mark key="." line="0" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/errors/http/NoResponseError.ts" timestamp="1559650605685">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/DateRangePicker/style.css" timestamp="1552054472589">
         <mark key="[" line="1" column="14" />
@@ -2246,6 +2267,12 @@
         <mark key="]" line="225" column="25" />
         <mark key="." line="225" column="25" />
         <mark key="^" line="225" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/reporters/index.ts" timestamp="1559650364180">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/videos.controller.ts" timestamp="1551354798775">
         <mark key="[" line="391" column="0" />
@@ -3293,10 +3320,11 @@
         <mark key="." line="66" column="74" />
         <mark key="^" line="66" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/api/client/index.ts" timestamp="1558523814658">
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="9" column="34" />
-        <mark key="." line="9" column="34" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/api/client/index.ts" timestamp="1559650550773">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+        <mark key="^" line="13" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/ShareToActivateDialogContainer.tsx" timestamp="1549982459400">
         <mark key="[" line="28" column="59" />
@@ -4117,6 +4145,11 @@
         <mark key="." line="27" column="62" />
         <mark key="^" line="27" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/api/errors/NoResponseError.ts" timestamp="1559650612143">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditMain/EventsCreateEditContentItem/index.ts" timestamp="1548065638304">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="43" />
@@ -4604,7 +4637,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Zml4OiBkZWZhdWx0IHN0ZXAK</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIE5vUmVzcG9uc2VFcnJvciBleHRlbmRzIEVycm9yIHsKICBwdWJsaWMgbmFtZTogc3RyaW5nOwogIGNvbnN0cnVjdG9yKHB1YmxpYyBtZXNzYWdlOiBzdHJpbmcpIHsKICAgIHN1cGVyKG1lc3NhZ2UpOwogICAgdGhpcy5uYW1lID0gJ05vUmVzcG9uc2VFcnJvcic7CiAgICB0aGlzLnN0YWNrID0gKG5ldyBFcnJvcigpIGFzIGFueSkuc3RhY2s7CiAgfQp9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -4613,34 +4646,34 @@
         <text encoding="base64">PGE=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge21vbWVudC51bml4KGRhdGEuZGF0ZVN0YXJ0KS5mb3JtYXQoZGF0ZUZvcm1hdCl9IC17JyAnfQogICAgICAgICAgICB7ZGF0YS5kYXRlRW5kID8gbW9tZW50LnVuaXgoZGF0YS5kYXRlRW5kKS5mb3JtYXQoJ0hIOm1tJykgOiAnLi4uJ30K</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIE5vUmVzcG9uc2VFcnJvciBleHRlbmRzIEVycm9yIHsKICBwdWJsaWMgbmFtZTogc3RyaW5nOwogIGNvbnN0cnVjdG9yKHB1YmxpYyBtZXNzYWdlOiBzdHJpbmcpIHsKICAgIHN1cGVyKG1lc3NhZ2UpOwogICAgdGhpcy5uYW1lID0gJ05vUmVzcG9uc2VFcnJvcic7CiAgICB0aGlzLnN0YWNrID0gKG5ldyBFcnJvcigpIGFzIGFueSkuc3RhY2s7CiAgfQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiBkZWZhdWx0IHN0ZXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgZGF0ZUZvcm1hdCA9ICdNTU0gREQsIEhIOm1tJzsK</text>
+        <text encoding="base64">RXJyb3JSZXBvcnRlci5jYXB0dXJlKG5ldyBFcnJvcigndGVzdCcpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmVhdDogcHJldmlldyBpbWFnZXMK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zml4OiB1cGxvYWRlciB0eXBlcwo=</text>
+        <text encoding="base64">ICBjb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG92ZXJmbG93OiBzY3JvbGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdzogc2Nyb2xsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKntBcnJheSgxMCAtIHZtLm9yaWdpbmFsQ2FtcGFpZ24uaW1hZ2VzLmdldEFsbCgpLmxlbmd0aCkqL30KICAgICAgICAgIHsvKiAgLmZpbGwobnVsbCkqL30KICAgICAgICAgIHsvKiAgLm1hcCgoXywgaW5kZXgpID0+IHsqL30KICAgICAgICAgIHsvKiAgICByZXR1cm4gPEltYWdlIGtleT17aW5kZXh9IC8+OyovfQogICAgICAgICAgey8qICB9KX0qL30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3ZtLm9yaWdpbmFsQ2FtcGFpZ24uZGF0ZVN0YXJ0fQo=</text>
+        <text encoding="base64">Zml4OiBkZWZhdWx0IHN0ZXAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBjb3ZlckltYWdlVXJsID0gdm0ub3JpZ2luYWxDYW1wYWlnbi5pbWFnZXMuY292ZXJJbWFnZQogICAgPyB2bS5vcmlnaW5hbENhbXBhaWduLmltYWdlcy5jb3ZlckltYWdlLnVybAogICAgOiBudWxsOwo=</text>
+        <text encoding="base64">Y29uc3QgZGF0ZUZvcm1hdCA9ICdNTU0gREQsIEhIOm1tJzsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
