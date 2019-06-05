@@ -2891,11 +2891,11 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559740146966">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1559744905224">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/services/__tests__/ChannelsService.test.ts" timestamp="1554451674339">
         <mark key="[" line="12" column="49" />
@@ -3194,11 +3194,10 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreation.tsx" timestamp="1559298199804">
-        <mark key="[" line="27" column="8" />
-        <mark key="]" line="27" column="9" />
-        <mark key="." line="27" column="9" />
-        <mark key="^" line="27" column="9" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreation.tsx" timestamp="1559744653530">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/upgrade/containers/UpgradeContainer.tsx" timestamp="1553002601903">
         <mark key="[" line="18" column="53" />
@@ -3421,12 +3420,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" timestamp="1559728900503">
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" timestamp="1559744836174">
         <mark key="'" line="155" column="35" />
-        <mark key="[" line="96" column="25" />
-        <mark key="]" line="96" column="35" />
-        <mark key="^" line="96" column="35" />
-        <mark key="." line="96" column="35" />
+        <mark key="[" line="309" column="39" />
+        <mark key="]" line="309" column="54" />
+        <mark key="^" line="309" column="54" />
+        <mark key="." line="309" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/reporters/index.ts" timestamp="1559650364180">
         <mark key="[" line="0" column="31" />
@@ -3904,11 +3903,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChartsViewModel.ts" timestamp="1558950202160">
-        <mark key="[" line="58" column="9" />
-        <mark key="]" line="59" column="14" />
-        <mark key="." line="59" column="14" />
-        <mark key="^" line="59" column="14" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChartsViewModel.ts" timestamp="1559744108590">
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="36" column="30" />
+        <mark key="." line="36" column="30" />
+        <mark key="^" line="36" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/domain/meta/index.ts" timestamp="1550050741786">
         <mark key="[" line="0" column="27" />
@@ -4686,7 +4685,7 @@
         <text encoding="base64">ago=</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>origicampaign</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aXRsZVw+</text>
@@ -4698,38 +4697,28 @@
         <text encoding="base64">ago=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2xlYXIgdGVtcCcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNlbnRyeS5jYXB0dXJlRXhjZXB0aW9uKGUpOwo=</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coaXNQcm9kKTsK</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RXJyb3JSZXBvcnRlci5pbml0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>(
-    key:
-      | 'sessions'
-      | 'averageViewDuration'
-      | 'views'
-      | 'airTime'
-      | 'messages'
-      | 'platforms'
-      | 'totalViews'
-      | 'chatters',
-  )</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIFNlbnRyeS5jYXB0dXJlRXhjZXB0aW9uKGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxsUmVuZGVyZXI9e2NlbGxSZW5kZXJlcn0K</text>
+        <text encoding="base64">Y29uc29sZS5sb2coaXNQcm9kKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
