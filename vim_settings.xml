@@ -2244,10 +2244,11 @@
         <mark key="^" line="6" column="101" />
         <mark key="." line="6" column="101" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/description/preview/landing/CampaignCreationPreview.module.scss" timestamp="1559641150279">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="23" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/description/preview/landing/CampaignCreationPreview.module.scss" timestamp="1559808518600">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/CampaignAnalyticsStats/CampaignAnalyticsStats.module.scss" timestamp="1558611573545">
         <mark key="[" line="2" column="22" />
@@ -3228,12 +3229,12 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/description/preview/landing/CampaignCreationPreview.tsx" timestamp="1559729023383">
-        <mark key="'" line="41" column="12" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="22" column="24" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/description/preview/landing/CampaignCreationPreview.tsx" timestamp="1559808600725">
+        <mark key="'" line="45" column="12" />
+        <mark key="[" line="38" column="27" />
+        <mark key="]" line="38" column="41" />
+        <mark key="." line="38" column="41" />
+        <mark key="^" line="38" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/types.ts" timestamp="1554818113662">
         <mark key="[" line="0" column="33" />
@@ -4458,11 +4459,11 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/description/form/CampaignCreationDescriptionForm.module.scss" timestamp="1559727399558">
-        <mark key="[" line="97" column="24" />
-        <mark key="]" line="97" column="35" />
-        <mark key="." line="97" column="35" />
-        <mark key="^" line="97" column="35" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/description/form/CampaignCreationDescriptionForm.module.scss" timestamp="1559808984592">
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="30" column="14" />
+        <mark key="." line="30" column="14" />
+        <mark key="^" line="30" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditAdvanced.tsx" timestamp="1549627886923">
         <mark key="[" line="78" column="0" />
@@ -4677,10 +4678,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[rowIndex]</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>[rowIndex]</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VSZWZcPg==</text>
@@ -4689,31 +4690,31 @@
         <text encoding="base64">ICAgICAgICBsb2FkaW5nPXtkYXRhW3Jvd0luZGV4XS5hbmFseXRpY3Muc3RhdHMuaXNMb2FkaW5nU3RhdGUgfHwgbG9hZGluZ30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkaW5nPXtjYW1wYWlnbi5hbmFseXRpY3Muc3RhdHMuaXNMb2FkaW5nU3RhdGV9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdsb2FkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8SWNvbiBpY29uPXtJY29uTmFtZXMuSU5GT19TSUdOfSAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2FkaW5nPXtjYW1wYWlnbi5hbmFseXRpY3Muc3RhdHMuaXNMb2FkaW5nU3RhdGV9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBkYXRhTGVuZ3RoUmVmID0gdXNlUmVmKDApOwoKICAvLyB1c2VFZmZlY3QoKCkgPT4gewogIC8vICAgaWYgKGRhdGEubGVuZ3RoICE9PSBkYXRhTGVuZ3RoUmVmLmN1cnJlbnQpIHsKICAvLyAgICAgY29uc29sZS5sb2coJ2VmZmVjdCcpOwogIC8vICAgICBkYXRhTGVuZ3RoUmVmLmN1cnJlbnQgPSBkYXRhLmxlbmd0aDsKICAvLyAgICAgZGF0YS5mb3JFYWNoKGNhbXBhaWduID0+IHsKICAvLyAgICAgICBpZiAoIWNhbXBhaWduLmlzRHJhZnQpIHsKICAvLyAgICAgICAgIGNvbnNvbGUubG9nKCdsb2FkJyk7CiAgLy8gICAgICAgICBjYW1wYWlnbi5hbmFseXRpY3Muc3RhdHMubG9hZCgpOwogIC8vICAgICAgIH0KICAvLyAgICAgfSk7CiAgLy8gICB9CiAgLy8gfSwgW2RhdGFdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdsb2FkJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhsb2FkaW5nLCAnTE9BRElORycpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zdCBkYXRhTGVuZ3RoUmVmID0gdXNlUmVmKDApOwoKICAvLyB1c2VFZmZlY3QoKCkgPT4gewogIC8vICAgaWYgKGRhdGEubGVuZ3RoICE9PSBkYXRhTGVuZ3RoUmVmLmN1cnJlbnQpIHsKICAvLyAgICAgY29uc29sZS5sb2coJ2VmZmVjdCcpOwogIC8vICAgICBkYXRhTGVuZ3RoUmVmLmN1cnJlbnQgPSBkYXRhLmxlbmd0aDsKICAvLyAgICAgZGF0YS5mb3JFYWNoKGNhbXBhaWduID0+IHsKICAvLyAgICAgICBpZiAoIWNhbXBhaWduLmlzRHJhZnQpIHsKICAvLyAgICAgICAgIGNvbnNvbGUubG9nKCdsb2FkJyk7CiAgLy8gICAgICAgICBjYW1wYWlnbi5hbmFseXRpY3Muc3RhdHMubG9hZCgpOwogIC8vICAgICAgIH0KICAvLyAgICAgfSk7CiAgLy8gICB9CiAgLy8gfSwgW2RhdGFdKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZtLmNhbXBhaWducy5mb3JFYWNoKGNhbXBhaWduID0+IHsKICAgICAgaWYgKCFjYW1wYWlnbi5pc0RyYWZ0KSB7CiAgICAgICAgY29uc29sZS5sb2coJ2xvYWQnKTsKICAgICAgICBjYW1wYWlnbi5hbmFseXRpY3Muc3RhdHMubG9hZCgpOwogICAgICB9CiAgICB9KTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsb2FkaW5nLCAnTE9BRElORycpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWducygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZtLmxvYWRDYW1wCg==</text>
+        <text encoding="base64">ICAgIHZtLmNhbXBhaWducy5mb3JFYWNoKGNhbXBhaWduID0+IHsKICAgICAgaWYgKCFjYW1wYWlnbi5pc0RyYWZ0KSB7CiAgICAgICAgY29uc29sZS5sb2coJ2xvYWQnKTsKICAgICAgICBjYW1wYWlnbi5hbmFseXRpY3Muc3RhdHMubG9hZCgpOwogICAgICB9CiAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
