@@ -69,6 +69,12 @@
         <mark key="." line="22" column="81" />
         <mark key="^" line="22" column="81" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/Test.module.scss.css" timestamp="1560238458802">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChartHeader/SessionChartHeader.module.scss" timestamp="1554975437392">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="15" />
@@ -1156,11 +1162,10 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/rollup.config.js" timestamp="1560152219331">
-        <mark key="[" line="34" column="36" />
-        <mark key="]" line="34" column="40" />
-        <mark key="^" line="34" column="40" />
-        <mark key="." line="34" column="40" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/rollup.config.js" timestamp="1560239812428">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/ChartWithCounter/index.ts" timestamp="1554132777838">
         <mark key="[" line="0" column="34" />
@@ -1168,6 +1173,7 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/Test.module.css" timestamp="1560238873135" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/header/components/Header.scss" timestamp="1548343404237">
         <mark key="[" line="17" column="16" />
         <mark key="]" line="17" column="16" />
@@ -2960,6 +2966,12 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/Test.module.scss" timestamp="1560239362849">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/common/index.ts" timestamp="1558619228783">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="21" />
@@ -4392,6 +4404,13 @@
         <mark key="." line="141" column="50" />
         <mark key="^" line="141" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/index.tsx" timestamp="1560238903152">
+        <mark key="'" line="0" column="8" />
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="42" />
+        <mark key="." line="9" column="42" />
+        <mark key="^" line="9" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/auth/dialog/index.ts" timestamp="1551796129211">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
@@ -4665,10 +4684,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm9vdFN0b3JlLnRoZW1lcy5sb2FkVGhlbWVzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3N0Y3NzKHsKICAgICAgICAgICAgLy8gcHJlcHJvY2Vzc29yOiBzYXNzUHJlcHJvY2Vzc29yLAogICAgICAgICAgICAvLyBleHRlbnNpb25zOiBbJy5zY3NzJ10sCiAgICAgICAgICAgIGF1dG9Nb2R1bGVzOiB0cnVlCiAgICAgICAgfSksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>red</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -4677,31 +4696,31 @@
         <text encoding="base64">b25TbmFwc2hvdCh0aGVtZXNTdG9yZSwgZGF0YSA9PiB7CiAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ3RoZW1lcycsIEpTT04uc3RyaW5naWZ5KGRhdGEpKTsKfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm9vdFN0b3JlLnRoZW1lcy5sb2FkVGhlbWVzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3N0Y3NzKHsKICAgICAgICAgICAgLy8gcHJlcHJvY2Vzc29yOiBzYXNzUHJlcHJvY2Vzc29yLAogICAgICAgICAgICAvLyBleHRlbnNpb25zOiBbJy5zY3NzJ10sCiAgICAgICAgICAgIGF1dG9Nb2R1bGVzOiB0cnVlCiAgICAgICAgfSksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXh0cmFjdDogdHJ1ZSwKICAgICAgICAgICAgCiAgICAgICAgICAgIG1vZHVsZXM6IHRydWUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYoc3RvcmUuKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kdWxlczogdHJ1ZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGpzb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gT3Igd2l0aCBjdXN0b20gb3B0aW9ucyBmb3IgYHBvc3Rjc3MtbW9kdWxlc2AK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kdWxlczoge30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZnJvbVN0b3JhZ2UgPSBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgndGhlbWVzJyk7CgppZiAoZnJvbVN0b3JhZ2UpIHsKICBjb25zdCBqc29uID0gSlNPTi5wYXJzZShmcm9tU3RvcmFnZSk7CiAgY29uc29sZS5sb2coanNvbik7Cn0K</text>
+        <text encoding="base64">ICAgICAgICBjb21tb25qcygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b25TbmFwc2hvdCh0aGVtZXNTdG9yZSwgZGF0YSA9PiB7CiAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ3RoZW1lcycsIEpTT04uc3RyaW5naWZ5KGRhdGEpKTsKfSk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucm9vdFN0b3JlLnRoZW1lcy5sb2FkVGhlbWVzKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gc2V0VGVtcChtOiBJbnN0YW5jZTx0eXBlb2YgbW9kZWw+KSB7CiAgICAgIC8vICAgc2VsZi50ZW1wID0gbTsKICAgICAgLy8gfSwKICAgICAgLy8gY2xlYXJUZW1wKCkgewogICAgICAvLyAgIHNlbGYudGVtcCA9IG51bGw7CiAgICAgIC8vIH0sCg==</text>
+        <text encoding="base64">ICAgICAgaWYoc3RvcmUuKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
