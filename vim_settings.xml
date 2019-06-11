@@ -932,11 +932,6 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="18" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/base/makeBaseCollectionStore.ts" timestamp="1560232689589">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-web/api/.env.example" timestamp="1551105814060">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="31" />
@@ -1147,11 +1142,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/button/_RButton.scss" timestamp="1560243450752">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="19" />
-        <mark key="." line="6" column="19" />
-        <mark key="^" line="6" column="19" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/button/_RButton.scss" timestamp="1560246187418">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+        <mark key="^" line="2" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsListItem/EventsListItem.tsx" timestamp="1554294145586">
         <mark key="[" line="135" column="40" />
@@ -1975,6 +1970,12 @@
         <mark key="]" line="7" column="29" />
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/_variables.scss" timestamp="1560245814405">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/index.ts" timestamp="1553682380943">
         <mark key="[" line="0" column="17" />
@@ -3270,11 +3271,6 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/auth/AuthStore.ts" timestamp="1560162477126">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/CampaignAnalyticsStats/CampaignAnalyticsStatsItem.tsx" timestamp="1558611700785">
         <mark key="[" line="14" column="10" />
         <mark key="]" line="14" column="33" />
@@ -3586,11 +3582,6 @@
         <mark key="]" line="0" column="37" />
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/common/components/RTable/RTable.tsx" timestamp="1559908436004">
-        <mark key="[" line="24" column="22" />
-        <mark key="]" line="24" column="22" />
-        <mark key="." line="24" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/index.ts" timestamp="1549972789228">
         <mark key="[" line="0" column="18" />
@@ -4722,48 +4713,46 @@
       <jump line="0" column="8" filename="$USER_HOME$/Documents/restream-ui-kit/src/index.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{
-
-        }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>black</text>
+        <text>B</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICYtLWRhbmdlciB7CiAgICAgIGJhY2tncm91bmQ6IHJlZDsKICAgIH0K</text>
+      <register name="0" type="4">
+        <text>#{$ns}</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAmICN7JG5zfSB7CiAgICBiYWNrZ3JvdW5kOiBibHVlOwogIH0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">JHRlc3Q6ICIuZGFyay1tb2RlIjsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>{
+
+        }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHllbGxvdzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYnV0dG9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
