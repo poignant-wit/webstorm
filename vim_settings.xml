@@ -1459,7 +1459,7 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/AuthStore.ts" timestamp="1556288861305">
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/AuthStore.ts" timestamp="1560761822191">
         <mark key="[" line="172" column="12" />
         <mark key="]" line="172" column="12" />
         <mark key="^" line="166" column="37" />
@@ -3557,11 +3557,6 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/domain/IngestsStore.ts" timestamp="1560500404973">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/static-html-webpack-boilerplate-1.1.0/src/js/chart/helpers/arrayHelpers.js" timestamp="1555170532074">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -4946,7 +4941,7 @@
         <text encoding="base64">ICAgICAgLy8gc2V0VGltZW91dCgoKSA9PiB7CiAgICAgIC8vCiAgICAgIC8vICAgdGhpcy5uZXdQcmljZSA9IDIwMDsKICAgICAgLy8gfSwgMTAwMCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -4998,8 +4993,8 @@
         <entry>action $SelectAll</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
