@@ -3009,7 +3009,7 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560847041480">
+      <file name="/Dummy.txt" timestamp="1560849059459">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
@@ -3141,12 +3141,11 @@
         <mark key="^" line="21" column="30" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/stats/CampaignAnalyticsStats/CampaignAnalyticsStats.tsx" timestamp="1560781373153">
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/stats/CampaignAnalyticsStats/CampaignAnalyticsStats.tsx" timestamp="1560848981552">
         <mark key="'" line="10" column="6" />
-        <mark key="[" line="35" column="49" />
-        <mark key="]" line="35" column="49" />
-        <mark key="^" line="35" column="49" />
-        <mark key="." line="35" column="49" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/.env.development" timestamp="1557928651288">
         <mark key="[" line="1" column="0" />
@@ -3579,13 +3578,6 @@
         <mark key="]" line="80" column="36" />
         <mark key="." line="78" column="0" />
         <mark key="^" line="78" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/videos.controller.ts" timestamp="1560425599646">
-        <mark key="'" line="12" column="4" />
-        <mark key="[" line="106" column="38" />
-        <mark key="]" line="106" column="50" />
-        <mark key="." line="106" column="50" />
-        <mark key="^" line="106" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/Chart.module.scss" timestamp="1555661439944">
         <mark key="[" line="0" column="0" />
@@ -4874,10 +4866,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Zml4OiBpbmZpbml0eSB2YWx1ZQo=</text>
+        <text encoding="base64">Zml4OiBlbmQgZGF0ZSBlcnJvcgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRWaWRlb0ZpbGVNZXRhZGF0YVw+</text>
@@ -4886,31 +4878,31 @@
         <text encoding="base64">ICAgIHByaW50bG4hKCJWZWN0b3Ige30iLCB2WzBdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiBpbmZpbml0eSB2YWx1ZQo=</text>
+        <text encoding="base64">Zml4OiBlbmQgZGF0ZSBlcnJvcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmVhdDogc3BlY2lmaWMgYXVkaWVuY2UgbWVzc2FnZQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZbMF0gPSAyMDA7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGQK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEudG90YWxWaWV3cyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Zml4OiBpbmZpbml0eSB2YWx1ZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZmVhdDogc3BlY2lmaWMgYXVkaWVuY2UgbWVzc2FnZQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZmsK</text>
+        <text encoding="base64">ICAgIHZbMF0gPSAyMDA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBzID0gU3RyaW5nOjpmcm9tKCJIZWxsbyB3b3JkbCIpOwogICAgbGV0IHkgPSAmczsKCiAgICBwcmludGxuISgie30iLCBzKTsK</text>
+        <text encoding="base64">ICAgIGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJ7Oj99IiwgKHZlYzEpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZlYzJbMF0gPSA1Owo=</text>
+        <text encoding="base64">ZmsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
