@@ -417,11 +417,11 @@
         <mark key="^" line="44" column="32" />
         <mark key="." line="44" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/leart-rust/src/print.rs" timestamp="1560781246986">
-        <mark key="[" line="18" column="10" />
-        <mark key="]" line="18" column="10" />
-        <mark key="." line="18" column="10" />
-        <mark key="^" line="18" column="13" />
+      <file name="$USER_HOME$/Documents/_own/leart-rust/src/print.rs" timestamp="1560867203514">
+        <mark key="[" line="27" column="39" />
+        <mark key="]" line="27" column="46" />
+        <mark key="^" line="27" column="46" />
+        <mark key="." line="27" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/channels/ChannelsStore.ts" timestamp="1549464951078">
         <mark key="[" line="12" column="2" />
@@ -3028,7 +3028,7 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560857016720">
+      <file name="/Dummy.txt" timestamp="1560867188243">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
@@ -4333,6 +4333,12 @@
         <mark key="." line="30" column="20" />
         <mark key="^" line="30" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaigns/CampaignsViewModel.ts" timestamp="1560946424146">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+        <mark key="^" line="14" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionChattersChart.tsx" timestamp="1555926430202">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -4911,49 +4917,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Zml4OiBpbmZpbml0eSB2YWx1ZQo=</text>
+        <text encoding="base64">ICAgICAgc2VsZi5yb290U3RvcmUuY29uc29sZS5sb2coJ2xvYWQgZGF0YScpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRWaWRlb0ZpbGVNZXRhZGF0YVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL3dpZGdldC5pbnRlcmNvbS5pby93aWRnZXQvd3Z3ZWU1eGkiIGRlZmVyPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">I1tkZXJpdmUoRGVidWcpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiBpbmZpbml0eSB2YWx1ZQo=</text>
+        <text encoding="base64">ICAgICAgc2VsZi5yb290U3RvcmUuY29uc29sZS5sb2coJ2xvYWQgZGF0YScpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICdiYWNrZ3JvdW5kLXNpemUnOiAnY292ZXIgIWltcG9ydGFudCcsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRTaXplOiAnY292ZXInLAo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>`url(${
-        vm.originalCampaign.images.coverImage.url
-      })no-repeat center center`
-    : '#ffffff3b';</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kU2l6ZTogJ2NvdmVyJywK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRTaXplOiAnY292ZXInLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAgc2VsZi5yb290U3RvcmUuY2FtcGFpZ25zLmdldEFsbCgpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Owo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlIHRlc3Q6OlRlc3RGbjsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygndXJsJywgdXJsKTsK</text>
+        <text encoding="base64">ICAgIGxldCBzID0gU3RyaW5nOjpmcm9tKCJIZWxsbyIpOwogICAgbGV0IHdvcmQgPSAmc1suLnMubGVuKCkgLSAyXTsKICAgIHByaW50bG4hKCJ7fSIsIHdvcmQpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action EditorDuplicate</text>
       </register>
     </registers>
     <search>
@@ -5004,9 +5007,9 @@
         <entry>action $SelectAll</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action EditorDuplicate</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
+        <entry>action EditorDuplicate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
