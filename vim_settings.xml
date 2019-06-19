@@ -4333,11 +4333,11 @@
         <mark key="." line="30" column="20" />
         <mark key="^" line="30" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaigns/CampaignsViewModel.ts" timestamp="1560946424146">
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="25" />
-        <mark key="." line="14" column="25" />
-        <mark key="^" line="14" column="25" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaigns/CampaignsViewModel.ts" timestamp="1560948361301">
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="28" column="23" />
+        <mark key="." line="28" column="23" />
+        <mark key="^" line="28" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionChattersChart.tsx" timestamp="1555926430202">
         <mark key="[" line="36" column="0" />
@@ -4916,47 +4916,47 @@
       <jump line="12" column="4" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/videos.controller.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi5yb290U3RvcmUuY29uc29sZS5sb2coJ2xvYWQgZGF0YScpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>field</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>field</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRWaWRlb0ZpbGVNZXRhZGF0YVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I1tkZXJpdmUoRGVidWcpXQo=</text>
+        <text encoding="base64">ICAgIHNldEZpZWxkKGZpZWxkOiBzdHJpbmcpewogICAgICBzZWxmLmZpZWxkID0gZmllbGQ7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi5yb290U3RvcmUuY29uc29sZS5sb2coJ2xvYWQgZGF0YScpOwo=</text>
+        <text encoding="base64">ICAgIGl0ZW1zOiB0eXBlcy5vcHRpb25hbCh0eXBlcy5hcnJheSh0eXBlcy5zdHJpbmcpLCBbXSksCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAgc2VsZi5yb290U3RvcmUuY2FtcGFpZ25zLmdldEFsbCgpOwo=</text>
+        <text encoding="base64">ICAgIGdldCBjb21wYXJlRnVuY3Rpb24oKSB7CiAgICAgIHJldHVybiAoYTogSW5zdGFuY2U8YW55PiwgYjogSW5zdGFuY2U8YW55PikgPT4gewogICAgICAgIHJldHVybiAwOwogICAgICB9OwogICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHNlbGYucm9vdFN0b3JlLmNhbXBhaWducwogICAgICAgIC5nZXRBbGwoKQogICAgICAgIC5zb3J0KHNlbGYuc29ydGVyLmNvbXBhcmVGdW5jdGlvbik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgICB1bmVzY2FwZSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIHRlc3Q6OlRlc3RGbjsK</text>
+        <text encoding="base64">ICAgICAga2sK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">ICAgICAgc2VsZi5yb290U3RvcmUuY29uc29sZS5sb2coJ2xvYWQgZGF0YScpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBzID0gU3RyaW5nOjpmcm9tKCJIZWxsbyIpOwogICAgbGV0IHdvcmQgPSAmc1suLnMubGVuKCkgLSAyXTsKICAgIHByaW50bG4hKCJ7fSIsIHdvcmQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -5008,8 +5008,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
