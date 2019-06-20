@@ -429,11 +429,11 @@
         <mark key="^" line="27" column="46" />
         <mark key="." line="27" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/payment/details/PaymentDetails.tsx" timestamp="1561018333304">
-        <mark key="[" line="53" column="13" />
-        <mark key="]" line="53" column="13" />
-        <mark key="^" line="53" column="13" />
-        <mark key="." line="53" column="13" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/payment/details/PaymentDetails.tsx" timestamp="1561020428244">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="52" column="13" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/domain/channels/ChannelsStore.ts" timestamp="1549464951078">
         <mark key="[" line="12" column="2" />
@@ -3040,10 +3040,10 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561018617589">
+      <file name="/Dummy.txt" timestamp="1561020446417">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="27" />
+        <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/services/__tests__/ChannelsService.test.ts" timestamp="1554451674339">
@@ -4716,11 +4716,8 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/payment/form/PaymentForm.tsx" timestamp="1561018552164">
-        <mark key="[" line="3" column="51" />
-        <mark key="]" line="3" column="51" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/payment/form/PaymentForm.tsx" timestamp="1561020411313">
         <mark key="^" line="3" column="51" />
-        <mark key="." line="3" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventsCreateEditAdvanced.tsx" timestamp="1549627886923">
         <mark key="[" line="78" column="0" />
@@ -4947,7 +4944,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Zml4OiB5b3V0dWJlIGxpbmsgdmFsaWRhdGlvbgo=</text>
+        <text encoding="base64">Zml4OiAxMDAgcGVyY2VudCBjb3Vwb24K</text>
       </register>
       <register name="-" type="4">
         <text>|</text>
@@ -4959,33 +4956,33 @@
         <text encoding="base64">ICAgICAgdGhpcy5pc0ludmFsaWRDb3Vwb24gPSB0cnVlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiB5b3V0dWJlIGxpbmsgdmFsaWRhdGlvbgo=</text>
+        <text encoding="base64">Zml4OiAxMDAgcGVyY2VudCBjb3Vwb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaXNJbnZhbGlkQ291cG9uID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyghaXNOaWwodm0ubmV3UHJpY2UpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5pc0ludmFsaWRDb3Vwb24gPSBmYWxzZTsK</text>
+        <text encoding="base64">Zml4OiB5b3V0dWJlIGxpbmsgdmFsaWRhdGlvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIGRpc2NvdW50IGZpZWxkIHRvIGludm9pY2VzCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaXNJbnZhbGlkQ291cG9uID0gZmFsc2U7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5pc0ludmFsaWRDb3Vwb24gPSBmYWxzZTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZmVhdDogYWRkIGRpc2NvdW50IGZpZWxkIHRvIGludm9pY2VzCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Zml4OiByZXN1bHQgcGF5bWVudCBuZXcgcHJpY2UK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>vies[rowIndex]!.discount
               ? vm.invoices[rowIndex]!.discount.id
               : '--'</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZmVhdDogdGFibGUgY29tcG9uZW50Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">ZmVhdDogdGFibGUgY29tcG9uZW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
