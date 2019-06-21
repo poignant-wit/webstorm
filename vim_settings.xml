@@ -1823,11 +1823,7 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/config.ts" timestamp="1560952701907">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/config.ts" timestamp="1560952701907" />
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/store/base/Model.ts" timestamp="1549618714677">
         <mark key="[" line="138" column="0" />
         <mark key="]" line="138" column="27" />
@@ -4388,11 +4384,11 @@
         <mark key="." line="30" column="20" />
         <mark key="^" line="30" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaigns/CampaignsViewModel.ts" timestamp="1561035216941">
-        <mark key="[" line="27" column="17" />
-        <mark key="]" line="27" column="17" />
-        <mark key="." line="27" column="17" />
-        <mark key="^" line="27" column="17" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaigns/CampaignsViewModel.ts" timestamp="1561110265716">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="15" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionChattersChart.tsx" timestamp="1555926430202">
         <mark key="[" line="36" column="0" />
@@ -4644,6 +4640,12 @@
         <mark key="]" line="0" column="48" />
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaigns/CampaignsPage.tsx" timestamp="1561110199853">
+        <mark key="[" line="23" column="56" />
+        <mark key="]" line="23" column="67" />
+        <mark key="." line="23" column="67" />
+        <mark key="^" line="23" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/header/components/Header.scss" timestamp="1554299028660">
         <mark key="[" line="29" column="25" />
@@ -4967,10 +4969,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Zml4OiBvdmVydmlldyByb3V0ZQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUm9vdFN0b3JlIH0gZnJvbSAnLi4vLi4vc3RvcmUvUm9vdFN0b3JlJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>hre</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVydmlld1w+</text>
@@ -4979,31 +4981,31 @@
         <text encoding="base64">ICAgIDxsaQogICAgICBjbGFzc05hbWU9e2Ake2xpQ2xhc3NOYW1lfSAke2lzQWN0aXZlID8gYWN0aXZlQ2xhc3NOYW1lIDogJyd9YH0KICAgICAgb25DbGljaz17b25DbGlja30KICAgID4KICAgICAgPE5hdkxpbmsKICAgICAgICBpc0FjdGl2ZT17KF8sIHsgcGF0aG5hbWUgfSkgPT4gewogICAgICAgICAgc2V0SXNBY3RpdmUocGF0aG5hbWUgPT09IHJlc3QudG8uc3BsaXQoJz8nKVswXSk7CiAgICAgICAgICByZXR1cm4gaXNBY3RpdmU7CiAgICAgICAgfX0KICAgICAgICB7Li4ucmVzdH0KICAgICAgLz4KICAgIDwvbGk+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiBvdmVydmlldyByb3V0ZQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUm9vdFN0b3JlIH0gZnJvbSAnLi4vLi4vc3RvcmUvUm9vdFN0b3JlJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpeDogaG9tZXBhZ2UK</text>
+        <text encoding="base64">ICAgICAgcm9vdFN0b3JlOiBSb290U3RvcmUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Zml4OiBob21lcGFnZQo=</text>
+        <text encoding="base64">Zml4OiBvdmVydmlldyByb3V0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aXRoUGFyYW1zOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZpeDogaG9tZXBhZ2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aXRsZT0iIgogICAgICAgICAgICAgIGRhdGEtb3JpZ2luYS10aXRsZT0iQW5hbHl0aWNzIgogICAgICAgICAgICAgIGRhdGEtcGxhY2VtZW50PSJyaWdodCIK</text>
+        <text encoding="base64">Zml4OiBob21lcGFnZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIHByb2R1Y3Rpb24gc3RyaXBl0LDQstCy0LAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aXRoUGFyYW1zOiB0cnVlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bW9tZW50LnVuaXgoZGF0ZSkuZm9ybWF0KCdZWVktTU0tREQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aXRsZT0iIgogICAgICAgICAgICAgIGRhdGEtb3JpZ2luYS10aXRsZT0iQW5hbHl0aWNzIgogICAgICAgICAgICAgIGRhdGEtcGxhY2VtZW50PSJyaWdodCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRhYmxlQ2VsbD4KICAgICAgICAgICAgICA8ZGl2Pi0tPC9kaXY+CiAgICAgICAgICAgIDwvVGFibGVDZWxsPgo=</text>
+        <text encoding="base64">ZmVhdDogYWRkIHByb2R1Y3Rpb24gc3RyaXBl0LDQstCy0LAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRhYmxlQ2VsbD4KICAgICAgICAgICAgICA8ZGl2Pi0tPC9kaXY+CiAgICAgICAgICAgIDwvVGFibGVDZWxsPgo=</text>
+        <text encoding="base64">bW9tZW50LnVuaXgoZGF0ZSkuZm9ybWF0KCdZWVktTU0tREQnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -5100,6 +5102,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
