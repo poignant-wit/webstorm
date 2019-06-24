@@ -1486,10 +1486,10 @@
         <mark key="^" line="2" column="76" />
         <mark key="." line="2" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/common/Sorter.ts" timestamp="1561123536108">
-        <mark key="[" line="48" column="23" />
-        <mark key="]" line="48" column="23" />
-        <mark key="." line="48" column="23" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/common/Sorter.ts" timestamp="1561373383307">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/common/CampaignAnalyticsChartError/index.ts" timestamp="1558943656354">
         <mark key="[" line="0" column="17" />
@@ -1660,7 +1660,7 @@
         <mark key="." line="47" column="21" />
         <mark key="^" line="47" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaigns/table/header/cell/HeaderCell.module.scss" timestamp="1561368706935">
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaigns/table/header/cell/HeaderCell.module.scss" timestamp="1561372299661">
         <mark key="[" line="13" column="17" />
         <mark key="]" line="13" column="18" />
         <mark key="." line="13" column="18" />
@@ -4971,46 +4971,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogZGlzY291bnQgdmFsdWUgb24gYmlsbGluZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>loading</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LnByaWNlIHsKICAmOm50aC1sYXN0LWNoaWxkKDIpewogICAgbWFyZ2luLXJpZ2h0OiA1cHg7CiAgICB0ZXh0LWRlY29yYXRpb246IGxpbmUtdGhyb3VnaDsKICB9Cn0K</text>
+        <text encoding="base64">Y29uc3QgY29tcGFyYXRvclN0cmluZyA9IChtdWx0aXBsaWVyOiBudW1iZXIpID0+IChhOiBzdHJpbmcsIGI6IHN0cmluZykgPT4gewogIHJldHVybiBhLmxvY2FsZUNvbXBhcmUoYikgKiBtdWx0aXBsaWVyOwp9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogZGlzY291bnQgdmFsdWUgb24gYmlsbGluZwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8c3Ryb25nPjE1IGFuZCAyMCBtaW51dGVzIDwvc3Ryb25nPgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPEg2PldoeSBvdXIgdmlld3MgYXJlIG5vdCBsaWtlIG90aGVyIGFkcyB2aWV3cy48L0g2Pgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPEg2PldoeSBvdXIgdmlld3MgYXJlIG5vdCBsaWtlIG90aGVyIGFkcyB2aWV3cy48L0g2Pgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Zml4OiB1bmNvbW1lbnQgaW50ZXJjb20K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKAogICAgICAgICAgYVtzZWxmLmZpZWxkXS50b1N0cmluZygpLmxvY2FsZUNvbXBhcmUoYltzZWxmLmZpZWxkXS50b1N0cmluZygpKSAqCiAgICAgICAgICBzb3J0TXVsdGlwbGllcltzZWxmLm9yZGVyXQogICAgICAgICk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBpZihhID4gYil7CiAgICByZXR1cm4gbXUKICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICByZXR1cm4gOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBpZihhID4gYikK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBkaXNjb3VudENlbGxSZW5kZXJlciA9IChyb3dJbmRleDogbnVtYmVyKSA9PiB7CiAgICBjb25zdCBkaXNjb3VudCA9IHZtLmludm9pY2VzW3Jvd0luZGV4XS5kaXNjb3VudDsKICAgIGNvbnN0IGRpc2NvdW50SWQgPSBkaXNjb3VudCA/IGRpc2NvdW50LmlkIDogJy0tJzsKCiAgICByZXR1cm4gKAogICAgICA8Q2VsbCBjbGFzc05hbWU9e3N0eWxlcy5jZWxsfT4KICAgICAgICA8UmVhY3QuRnJhZ21lbnQ+CiAgICAgICAgICA8ZGl2PntkaXNjb3VudElkfTwvZGl2PgogICAgICAgIDwvUmVhY3QuRnJhZ21lbnQ+CiAgICAgIDwvQ2VsbD4KICAgICk7CiAgfTsK</text>
+        <text encoding="base64">ICBhW3NlbGYuZmllbGRdLnRvU3RyaW5nKCkubG9jYWxlQ29tcGFyZShiW3NlbGYuZmllbGRdLnRvU3RyaW5nKCkpICoKICBzb3J0TXVsdGlwbGllcltzZWxmLm9yZGVyXTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8Q29sdW1uIG5hbWU9IkRpc2NvdW50IiBjZWxsUmVuZGVyZXI9e2Rpc2NvdW50Q2VsbFJlbmRlcmVyfSAvPgo=</text>
+        <text encoding="base64">ZmVhdDogZGlzY291bnQgdmFsdWUgb24gYmlsbGluZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICA8c3Ryb25nPjE1IGFuZCAyMCBtaW51dGVzIDwvc3Ryb25nPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action EditorDuplicate</text>
       </register>
     </registers>
     <search>
@@ -5062,9 +5062,9 @@
         <entry>action TypeHierarchy</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>action $Copy</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action $SelectAll</entry>
         <entry>action GotoFile</entry>
+        <entry>action EditorDuplicate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
