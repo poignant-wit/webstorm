@@ -2344,12 +2344,12 @@
         <mark key="^" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/DateRangePicker/DateRangePicker.tsx" timestamp="1561460157523">
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/components/DateRangePicker/DateRangePicker.tsx" timestamp="1561461702546">
         <mark key="'" line="20" column="2" />
-        <mark key="[" line="53" column="35" />
-        <mark key="]" line="53" column="35" />
-        <mark key="^" line="53" column="41" />
-        <mark key="." line="53" column="35" />
+        <mark key="[" line="59" column="38" />
+        <mark key="]" line="59" column="42" />
+        <mark key="." line="59" column="42" />
+        <mark key="^" line="59" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/.plop/index.ts.hbs" timestamp="1560170825700">
         <mark key="[" line="0" column="25" />
@@ -4991,23 +4991,23 @@
       <jump line="20" column="2" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/DateRangePicker/DateRangePicker.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZW5kKSB7CiAgICAgICAgICBjb25zb2xlLmxvZyhlbmQuZm9ybWF0KCkpOwogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbkNoYW5nZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAuaG91cnMoMCkKICAgICAgICAubWludXRlcygwKQogICAgICAgIC5zZWNvbmRzKDApCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RhcnQpIHsKICAgICAgICAgIGNvbnNvbGUubG9nKHN0YXJ0LmZvcm1hdCgpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3RhcnQpIHsKICAgICAgICAgIGNvbnNvbGUubG9nKHN0YXJ0LnVuaXgoKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZW5kKSB7CiAgICAgICAgICBjb25zb2xlLmxvZyhlbmQuZm9ybWF0KCkpOwogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RhcnQpIHsKICAgICAgICAgIGNvbnNvbGUubG9nKHN0YXJ0LnVuaXgoKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -5016,19 +5016,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzdGFydC51bml4KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVmYWN0b3I6IGludm9pY2VzIHRhYmxlCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzdGFydC51bml4KCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGltcG9ydCAifkBibHVlcHJpbnRqcy90YWJsZS9saWIvY3NzL3RhYmxlLmNzcyI7Cg==</text>
+        <text encoding="base64">cmVmYWN0b3I6IGludm9pY2VzIHRhYmxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIGRhdGVzIHNvcnRpbmcK</text>
+        <text encoding="base64">QGltcG9ydCAifkBibHVlcHJpbnRqcy90YWJsZS9saWIvY3NzL3RhYmxlLmNzcyI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGltcG9ydCAifkBibHVlcHJpbnRqcy90YWJsZS9saWIvY3NzL3RhYmxlLmNzcyI7Cg==</text>
+        <text encoding="base64">ZmVhdDogYWRkIGRhdGVzIHNvcnRpbmcK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
