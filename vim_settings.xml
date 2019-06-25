@@ -2350,6 +2350,9 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/hooks/useSessionViewersData.ts" timestamp="1561453419542">
+        <mark key="'" line="117" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/users/UserModel.ts" timestamp="1560328526648">
         <mark key="[" line="6" column="2" />
         <mark key="]" line="6" column="5" />
@@ -3087,6 +3090,9 @@
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/containers/session/SessionViewersContainer.tsx" timestamp="1561453032268">
+        <mark key="'" line="25" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.module.scss" timestamp="1558947424158">
         <mark key="[" line="15" column="0" />
@@ -4919,9 +4925,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/components/CampaignCreationStepper/CampaignCreationStep.module.scss" />
-      <jump line="145" column="11" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/components/CampaignCreationStepSecond/CampaignCreationStepSecond.tsx" />
-      <jump line="41" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/components/CampaignCreationStepSecond/CampaignCreationStepSecond.tsx" />
       <jump line="54" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/components/CampaignCreationStepSecond/CampaignCreationStepSecond.tsx" />
       <jump line="357" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/components/CampaignCreationStepSecond/CampaignCreationStepSecond.tsx" />
       <jump line="227" column="15" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/components/CampaignCreationStepThird/components/CampaignCreationDescriptionForm/CampaignCreationDescriptionForm.tsx" />
@@ -5019,6 +5022,9 @@
       <jump line="23" column="0" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaigns/CampaignsPage.module.scss" />
       <jump line="153" column="11" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/billing/BillingOverviewPage/components/Invoces/Invoices.tsx" />
       <jump line="131" column="19" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/api/campaigns.ts" />
+      <jump line="25" column="6" filename="$USER_HOME$/Documents/developer-portal-frontend/src/containers/session/SessionViewersContainer.tsx" />
+      <jump line="110" column="8" filename="$USER_HOME$/Documents/developer-portal-frontend/src/hooks/useSessionViewersData.ts" />
+      <jump line="117" column="4" filename="$USER_HOME$/Documents/developer-portal-frontend/src/hooks/useSessionViewersData.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5028,7 +5034,7 @@
         <text>Campaigns</text>
       </register>
       <register name="/" type="4">
-        <text>deta</text>
+        <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHtpbnZvaWNlLmRpc2NvdW50ICYmCiAgICAgICAgICAgICAgICAgICAgICAgIGludm9pY2UuZGlzY291bnQuYW1vdW50T2ZmICYmCiAgICAgICAgICAgICAgICAgICAgICAgIGAke2ludm9pY2UuZGlzY291bnQuYW1vdW50T2ZmfWB9Cg==</text>
@@ -5065,9 +5071,9 @@
       </register>
     </registers>
     <search>
-      <last-search>deta</last-search>
+      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern>deta</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>targetAudience</last-substitute>
       <last-dir>1</last-dir>
@@ -5075,8 +5081,6 @@
     </search>
     <history>
       <history-search>
-        <entry>constr</entry>
-        <entry encoding="base64">XDxtZXJnZVw+</entry>
         <entry encoding="base64">XDxBdWRpZW5jZVNpemVcPg==</entry>
         <entry encoding="base64">XDxsb2FkVGFyZ2V0aW5nRGF0YVw+</entry>
         <entry encoding="base64">XDxzaG93RXJyb3JcPg==</entry>
@@ -5095,6 +5099,8 @@
         <entry>loading</entry>
         <entry encoding="base64">XDxsb2FkaW5nSW52b2ljZXNcPg==</entry>
         <entry>deta</entry>
+        <entry encoding="base64">XDxTZXNzaW9uVmlld2Vyc0NoYXJ0V2l0aExvYWRlclw+</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
