@@ -3135,10 +3135,10 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561557400329">
+      <file name="/Dummy.txt" timestamp="1561562729295">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="14" />
+        <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/services/__tests__/ChannelsService.test.ts" timestamp="1554451674339">
@@ -5047,8 +5047,8 @@
       <jump line="12" column="85" filename="$USER_HOME$/Documents/developer-portal-frontend/src/hooks/useSessionViewersData.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Proceed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Zml4OiBpbnZvaWNlcyBwbGFjZWhvbGRlcgo=</text>
       </register>
       <register name="-" type="4">
         <text>Proceed</text>
@@ -5060,31 +5060,31 @@
         <text encoding="base64">LiN7JG5zfS1pbnB1dCB7CiAgYmFja2dyb3VuZDogcmVkOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiBlZGdlIGRhdGVzCg==</text>
+        <text encoding="base64">Zml4OiBpbnZvaWNlcyBwbGFjZWhvbGRlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zml4OiBlZGdlIGRhdGVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhsb2FkaW5nLCBpbml0aWFsTG9hZGluZyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3NldCBsb2FkaW5nIC0tLS0tLS0tLS0tLS0gJyk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLXNldCBEQVRBJyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsb2FkaW5nLCBpbml0aWFsTG9hZGluZyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3NldCBsb2FkaW5nIC0tLS0tLS0tLS0tLS0gJyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLXNldCBEQVRBJyk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnTE9BRElORycsIGxvYWRpbmcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2V0SW5pdGlhbExvYWRpbmcoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnTE9BRElORycsIGxvYWRpbmcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgc2V0SW5pdGlhbExvYWRpbmcoZmFsc2UpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
