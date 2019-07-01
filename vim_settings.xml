@@ -206,6 +206,11 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/description/form/DescriptionForm.tsx" timestamp="1561988016077">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/components/EventCreateEditModal/EventCreateEditModal.tsx" timestamp="1548849233179">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -524,9 +529,9 @@
         <mark key="^" line="79" column="23" />
         <mark key="." line="79" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/targeting/form/TargetingForm.module.scss" timestamp="1561983536261">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/targeting/form/TargetingForm.module.scss" timestamp="1561988028114">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="16" column="1" />
         <mark key="^" line="8" column="1" />
         <mark key="." line="17" column="0" />
       </file>
@@ -3681,9 +3686,9 @@
         <mark key="^" line="45" column="48" />
         <mark key="." line="45" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/targeting/form/TargetingForm.tsx" timestamp="1561983269555">
-        <mark key="[" line="55" column="11" />
-        <mark key="]" line="55" column="11" />
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/targeting/form/TargetingForm.tsx" timestamp="1561987990583">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="57" column="14" />
         <mark key="." line="55" column="11" />
         <mark key="^" line="55" column="11" />
       </file>
@@ -4456,6 +4461,12 @@
         <mark key="." line="2" column="46" />
         <mark key="^" line="2" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/description/form/DescriptionForm.module.scss" timestamp="1561988057396">
+        <mark key="[" line="99" column="1" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+        <mark key="^" line="100" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignTargetingStore.ts" timestamp="1559828903571">
         <mark key="[" line="26" column="14" />
         <mark key="]" line="26" column="14" />
@@ -5056,8 +5067,8 @@
       <jump line="12" column="85" filename="$USER_HOME$/Documents/developer-portal-frontend/src/hooks/useSessionViewersData.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LmxvYWRlciB7CiAgcG9zaXRpb246IHJlbGF0aXZlOwogIGRpc3BsYXk6IGZsZXg7CiAgZmxleDogMTsKICBqdXN0aWZ5LWNvbnRlbnQ6IGZsZXgtZW5kOwogIGFsaWduLWl0ZW1zOiBjZW50ZXI7CiAgbWFyZ2luLWJvdHRvbTogOXB4OwoKICA+IDpsYXN0LWNoaWxkIHsKICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICB9CgogID4gOmZpcnN0LWNoaWxkIHsKICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICB9Cn0K</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
@@ -5066,37 +5077,37 @@
         <text encoding="base64">XDxzZXNzaW9uRGF0YVNjb3BlTG9hZGVkU2VsZWN0b3JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAmOmxhc3QtY2hpbGQgewogICAgcG9zaXRpb246IGFic29sdXRlOwogIH0K</text>
+        <text encoding="base64">LmxvYWRlciB7CiAgcG9zaXRpb246IHJlbGF0aXZlOwogIGRpc3BsYXk6IGZsZXg7CiAgZmxleDogMTsKICBqdXN0aWZ5LWNvbnRlbnQ6IGZsZXgtZW5kOwogIGFsaWduLWl0ZW1zOiBjZW50ZXI7CiAgbWFyZ2luLWJvdHRvbTogOXB4OwoKICA+IDpsYXN0LWNoaWxkIHsKICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICB9CgogID4gOmZpcnN0LWNoaWxkIHsKICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICB9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdydW4gYW5pbWF0aW9uJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7dm0ub3JpZ2luYWxDYW1wYWlnbi5pc1NhdmluZ1N0YXRlICYmIDxTcGlubmVyIHNpemU9ezEyfSAvPn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7dm0ub3JpZ2luYWxDYW1wYWlnbi5pc1NhdmluZ1N0YXRlICYmIDxTcGlubmVyIHNpemU9ezEyfSAvPn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdydW4gYW5pbWF0aW9uJyk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiA5cHg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgUHJvZ3Jlc3NSZXN1bHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiA5cHg7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -5149,8 +5160,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>action $Copy</entry>
         <entry>action $SelectAll</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
