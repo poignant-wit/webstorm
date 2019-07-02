@@ -1610,6 +1610,11 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/channels/ChannelsStore.ts" timestamp="1562062884745">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateChoicePanel/ShareToActivateChoicePanel.scss" timestamp="1549983433047">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="8" column="23" />
@@ -2143,7 +2148,7 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/base/makeCollectionStore.ts" timestamp="1554803371622">
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/base/makeCollectionStore.ts" timestamp="1562062853589">
         <mark key="[" line="21" column="21" />
         <mark key="]" line="21" column="21" />
         <mark key="." line="21" column="21" />
@@ -2508,6 +2513,11 @@
         <mark key="]" line="1" column="5" />
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/channels/ChannelModel.ts" timestamp="1562062756007">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/api/index.ts" timestamp="1549635292586">
         <mark key="[" line="92" column="0" />
@@ -2909,11 +2919,11 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/api/restream/__mocks__/channels.ts" timestamp="1554201262867">
-        <mark key="[" line="14" column="39" />
-        <mark key="]" line="14" column="39" />
-        <mark key="." line="14" column="39" />
-        <mark key="^" line="14" column="39" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/api/restream/__mocks__/channels.ts" timestamp="1562062767639">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="13" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/selectors/index.ts" timestamp="1555567258475">
         <mark key="[" line="3" column="0" />
@@ -3149,19 +3159,16 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/containers/session/SessionViewersContainer.tsx" timestamp="1561557116217">
-        <mark key="'" line="25" column="6" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChatters/CampaignAnalyticsChatters.module.scss" timestamp="1558947424158">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="20" column="1" />
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562060546228">
+      <file name="/Dummy.txt" timestamp="1562062940950">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/services/__tests__/ChannelsService.test.ts" timestamp="1554451674339">
@@ -4084,7 +4091,7 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/RootStore.ts" timestamp="1557810815216">
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/RootStore.ts" timestamp="1562062446216">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="51" />
         <mark key="^" line="11" column="23" />
@@ -5095,10 +5102,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Zml4OiB3YXRjaGVyIGNoYXJ0IGVycm9yCg==</text>
+        <text encoding="base64">Zml4OiB0aXRsZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Portal</text>
+        <text>log</text>
       </register>
       <register name="/" type="4">
         <text>maxDate</text>
@@ -5107,31 +5114,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxCdXR0b24gaWNvbj17J3RyYXNoJ30gZGlzYWJsZWQ9eyFjYW1wYWlnbi5pc0RyYWZ0fSAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiB3YXRjaGVyIGNoYXJ0IGVycm9yCg==</text>
+        <text encoding="base64">Zml4OiB0aXRsZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2hhbmdlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdlcnJvcicsIGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2R1cGxpY2F0ZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsYXN0Q2hhbmdlVGltZXN0YW1wOiAxMDAwMDAwLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJ2R1cGxpY2F0ZScK</text>
+        <text encoding="base64">ICAgIGxhc3RDaGFuZ2VUaW1lc3RhbXA6IHR5cGVzLm51bWJlciwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRpc2FibGVkPXshY2FtcGFpZ24uaXNEcmFmdH0K</text>
+        <text encoding="base64">ICBsYXN0Q2hhbmdlVGltZXN0YW1wOiBudW1iZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8QnV0dG9uIGNsYXNzTmFtZT0iYnAzLXBvcG92ZXItZGlzbWlzcyI+Tm88L0J1dHRvbj4K</text>
+        <text encoding="base64">ICBjb25zb2xlLmFzc2VydChyb290U3RvcmUuY2hhbm5lbHMuZXJyb3IsIHJvb3RTdG9yZS5jaGFubmVscy5lcnJvci5tZXNzYWdlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBIGhvbGQgb2YgJHthY2NvdW50QmFsYW5jZSA+IDAgPyBkdWUgOiB2bS5uZXdQcmljZSB8fCBwcmljZX0gd2lsbCBiZQogICAgICAgIHBsYWNlZCBvbiB5b3VyIGNyZWRpdCBjYXJkIHdoaWxlIHRoZSBjYW1wYWlnbiBpcyBpbiB0aGUgcmV2aWV3IHByb2Nlc3MuCiAgICAgICAgT25jZSB0aGUgY2FtcGFpZ24gaXMgYXBwcm92ZWQsIHRoZSBjaGFyZ2Ugd2lsbCBjb21wbGV0ZTsgb3RoZXJ3aXNlLCB0aGUKICAgICAgICBob2xkIHdpbGwgcmVsZWFzZSwgYW5kIGZ1bmRzIHJldHVybmVkLiBQbGVhc2UgY29udGFjdCBvdXIgc3VwcG9ydCB0ZWFtCiAgICAgICAgaWYgeW91IGhhdmUgYW55IHF1ZXN0aW9ucyBhYm91dCBwYXltZW50LgogICAgICAgIDxiciAvPgo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhnZXRTbmFwc2hvdChyb290U3RvcmUuY2hhbm5lbHMpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcgd2lsbCBzZWUgeW91ciBwcm9tb3Rpb24gYW5kIHRoZSBzZXR0aW5ncyBhdmFpbGFibGUgdG8geW91LicK</text>
+        <text encoding="base64">ICAgIHNlc3Npb24uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlc3Npb24uY2hhbm5lbHMubWFwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
