@@ -1192,12 +1192,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/targeting/audience/TargetingAudience.tsx" timestamp="1562044480637">
-        <mark key="[" line="84" column="73" />
-        <mark key="]" line="84" column="73" />
-        <mark key="^" line="84" column="73" />
-        <mark key="." line="84" column="73" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/docker/start-staging.sh" timestamp="1550072177783">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="4" />
@@ -4749,6 +4743,11 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/_own/strtp/tslint.json" timestamp="1562079412235">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/static-html-webpack-boilerplate-1.1.0/src/js/chart/selectors/index.js" timestamp="1555226630686">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -5123,7 +5122,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdHJ1ZSwKCg==</text>
       </register>
       <register name="-" type="4">
         <text>ChatPage</text>
@@ -5135,34 +5134,34 @@
         <text encoding="base64">ICAgICAgICAgICAgPEF1dGhSb3V0ZUNvbnRhaW5lcgogICAgICAgICAgICAgIGV4YWN0PXt0cnVlfQogICAgICAgICAgICAgIHBhdGg9e3JvdXRlUGF0aC5jaGF0KCc6bWV0cmljcycpfQogICAgICAgICAgICAgIHJlbmRlcj17KCkgPT4gd2l0aExheW91dChDaGF0UGFnZSl9CiAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdHJ1ZSwKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zml4OiB0aXRsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdlcnJvcicsIGUpOwo=</text>
+        <text encoding="base64">Zml4OiB0aXRsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0Q2hhbmdlVGltZXN0YW1wOiAxMDAwMDAwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdlcnJvcicsIGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxhc3RDaGFuZ2VUaW1lc3RhbXA6IHR5cGVzLm51bWJlciwK</text>
+        <text encoding="base64">ICAgICAgICBsYXN0Q2hhbmdlVGltZXN0YW1wOiAxMDAwMDAwLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsYXN0Q2hhbmdlVGltZXN0YW1wOiBudW1iZXI7Cg==</text>
+        <text encoding="base64">ICAgIGxhc3RDaGFuZ2VUaW1lc3RhbXA6IHR5cGVzLm51bWJlciwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmFzc2VydChyb290U3RvcmUuY2hhbm5lbHMuZXJyb3IsIHJvb3RTdG9yZS5jaGFubmVscy5lcnJvci5tZXNzYWdlKTsK</text>
+        <text encoding="base64">ICBsYXN0Q2hhbmdlVGltZXN0YW1wOiBudW1iZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhnZXRTbmFwc2hvdChyb290U3RvcmUuY2hhbm5lbHMpKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmFzc2VydChyb290U3RvcmUuY2hhbm5lbHMuZXJyb3IsIHJvb3RTdG9yZS5jaGFubmVscy5lcnJvci5tZXNzYWdlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb24uCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhnZXRTbmFwc2hvdChyb290U3RvcmUuY2hhbm5lbHMpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -5215,8 +5214,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>action $Copy</entry>
         <entry>action $SelectAll</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
