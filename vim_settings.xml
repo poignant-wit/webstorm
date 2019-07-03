@@ -187,11 +187,11 @@
         <mark key="]" line="27" column="62" />
         <mark key="." line="97" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/pages/OverviewPage/OverviewPageViewModel.ts" timestamp="1562150289267">
-        <mark key="[" line="26" column="9" />
-        <mark key="]" line="26" column="17" />
-        <mark key="^" line="26" column="17" />
-        <mark key="." line="26" column="17" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/pages/OverviewPage/OverviewPageViewModel.ts" timestamp="1562153411952">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="16" column="52" />
+        <mark key="^" line="16" column="52" />
+        <mark key="." line="16" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/dataMappers/dataMapper.ts" timestamp="1555591822316">
         <mark key="[" line="11" column="8" />
@@ -2798,6 +2798,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/base/SimpleDataStore.ts" timestamp="1562153280338" />
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/pages/index.ts" timestamp="1555402713913">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="37" />
@@ -3312,10 +3313,11 @@
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/pages/OverviewPage/OverviewPage.tsx" timestamp="1562149876336">
-        <mark key="]" line="15" column="22" />
-        <mark key="^" line="15" column="22" />
-        <mark key="." line="15" column="22" />
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/pages/OverviewPage/OverviewPage.tsx" timestamp="1562153363026">
+        <mark key="[" line="48" column="23" />
+        <mark key="]" line="48" column="23" />
+        <mark key="^" line="48" column="23" />
+        <mark key="." line="48" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/services/__tests__/ChannelsService.test.ts" timestamp="1554451674339">
         <mark key="[" line="12" column="49" />
@@ -4343,6 +4345,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/store/base/makeSimpleDataStore.ts" timestamp="1562153476258">
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="17" column="14" />
+        <mark key="^" line="17" column="14" />
+        <mark key="." line="17" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/hooks/useUrlSearchUserId.ts" timestamp="1553840298848">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="5" column="18" />
@@ -5283,11 +5291,11 @@
       <jump line="162" column="6" filename="$USER_HOME$/Documents/developer-portal-frontend/src/pages/ChatPage/useChatViewModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>le</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name="-" type="4">
-        <text>le</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RlZENoYW5uZWxcPg==</text>
@@ -5296,31 +5304,31 @@
         <text encoding="base64">ICAgICAgICBzZXRTZWFyY2hQYXJhbXMoeyBbUXVlcnlQYXJhbXMuQ0hBTk5FTF9JRF06IGlkIH0pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAxMHB4IDIwcHggMTRweCAyMHB4OwogIG1pbi13aWR0aDogMzM2cHg7CiAgbWluLWhlaWdodDogMTgwcHg7CiAgbWF4LWhlaWdodDogMTgwcHg7CiAgbWF4LXdpZHRoOiAzMzZweDsKICBiYWNrZ3JvdW5kLWNvbG9yOiAjMjUzODU4Owo=</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAxMHB4IDIwcHggMTRweCAyMHB4OwogIG1pbi13aWR0aDogMzM2cHg7CiAgbWluLWhlaWdodDogMTgwcHg7CiAgbWF4LWhlaWdodDogMTgwcHg7CiAgbWF4LXdpZHRoOiAzMzZweDsKICBiYWNrZ3JvdW5kLWNvbG9yOiAjMjUzODU4Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIElPdmVydmlld1BhZ2VQcm9wcyB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">e2ZpeDogY2hhbm5lbCBtb2RlbH0K</text>
+        <text encoding="base64">aW50ZXJmYWNlIElPdmVydmlld1BhZ2VQcm9wcyB7fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NlbGVjdCcpOwo=</text>
+        <text encoding="base64">e2ZpeDogY2hhbm5lbCBtb2RlbH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdm0ubG9hZENoYW5uZWxzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NlbGVjdCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcy5sZW5ndGgpOwoKICAgIHJldHVybiByZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgdm0ubG9hZENoYW5uZWxzKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYW5uZWxJZCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcy5sZW5ndGgpOwoKICAgIHJldHVybiByZXM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYW5uZWxJZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
