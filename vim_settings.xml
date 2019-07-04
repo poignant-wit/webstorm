@@ -3319,11 +3319,11 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562146446056">
+      <file name="/Dummy.txt" timestamp="1562167931685">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="37" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="37" />
-        <mark key="." line="0" column="37" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/pages/OverviewPage/OverviewPage.tsx" timestamp="1562166305092">
         <mark key="[" line="202" column="25" />
@@ -5298,8 +5298,8 @@
       <jump line="162" column="6" filename="$USER_HOME$/Documents/developer-portal-frontend/src/pages/ChatPage/useChatViewModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmVhdDogb3ZlcnZpZXcgZGF0ZXBpY2tlciBhbmQgY2hhbm5lbHMK</text>
       </register>
       <register name="-" type="4">
         <text>6</text>
@@ -5311,16 +5311,16 @@
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmNhcmR9PgogICAgICAgICAgPE92ZXJ2aWV3Q2FyZAogICAgICAgICAgICB0aXRsZT0iUG9wdWxhciBwaHJhc2VzIgogICAgICAgICAgICB2YWx1ZT17CiAgICAgICAgICAgICAgdm0ucGhyYXNlcy5kYXRhICYmIHZtLnBocmFzZXMuZGF0YS5kYXRhLmxlbmd0aAogICAgICAgICAgICAgICAgPyB2bS5waHJhc2VzLmRhdGEuZGF0YVswXS50ZXh0CiAgICAgICAgICAgICAgICA6ICctLScKICAgICAgICAgICAgfQogICAgICAgICAgICBsb2FkaW5nPXt2bS5waHJhc2VzLmlzTG9hZGluZ1N0YXRlfQogICAgICAgICAgLz4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmbGV4OiAyOwogIGZvbnQtc2l6ZTogMjZweDsK</text>
+        <text encoding="base64">ZmVhdDogb3ZlcnZpZXcgZGF0ZXBpY2tlciBhbmQgY2hhbm5lbHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmbGV4OiAyOwogIGZvbnQtc2l6ZTogMjZweDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEpTT04ucGFyc2Uodm0uZW1vamlzLmRhdGEuZGF0YVswXS5qc29uKS5jb250ZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEpTT04ucGFyc2Uodm0uZW1vamlzLmRhdGEuZGF0YVswXS5qc29uKS5jb250ZW50Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAK</text>
@@ -5329,16 +5329,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGVyY2VudGFnZT17CiAgICAgICAgICAgICAgdm0ucGhyYXNlcy5kYXRhICYmIHZtLnBocmFzZXMuaXNMb2FkZWRTdGF0ZQogICAgICAgICAgICAgICAgPyB2bS52aWV3ZXJzLmRhdGEubWF4Vmlld2Vycy5jb3VudHMucGVyY2VudGFnZQogICAgICAgICAgICAgICAgOiB1bmRlZmluZWQKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>{
   avgViewers: IAnalyticsDataCounts;
   maxViewers: IAnalyticsDataCounts;
 }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaW5pdGlhbEVuZERhdGUgfSBmcm9tICcuLi8uLi9pbml0aWFscyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
