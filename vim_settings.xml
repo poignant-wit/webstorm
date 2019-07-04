@@ -3306,13 +3306,13 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562167931685">
+      <file name="/Dummy.txt" timestamp="1562233996360">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="37" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/pages/OverviewPage/OverviewPage.tsx" timestamp="1562233111587">
+      <file name="$USER_HOME$/Documents/developer-portal-frontend/src/pages/OverviewPage/OverviewPage.tsx" timestamp="1562233889726">
         <mark key="[" line="210" column="60" />
         <mark key="]" line="210" column="66" />
         <mark key="." line="210" column="66" />
@@ -5278,8 +5278,8 @@
       <jump line="162" column="6" filename="$USER_HOME$/Documents/developer-portal-frontend/src/pages/ChatPage/useChatViewModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmVhdDogb3ZlcnZpZXcgZGF0YSBzdG9yZXMK</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -5291,31 +5291,31 @@
         <text encoding="base64">ICAgICAgICAgICAgb25DbGlja0Fycm93PXsoKSA9PiB2bS5nb1RvKHJvdXRlUGF0aC5hdWRpZW5jZSgnYXZlcmFnZS12aWV3ZXJzJykpfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3I9e3ZtLnBocmFzZXMuaXNFcnJvclN0YXRlfQogICAgICAgICAgICBvbkNsaWNrQXJyb3c9eygpID0+IHZtLmdvVG8ocm91dGVQYXRoLmNoYXQoJ2F2ZXJhZ2Utdmlld2VycycpKX0K</text>
+        <text encoding="base64">ZmVhdDogb3ZlcnZpZXcgZGF0YSBzdG9yZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgcm91dGUgPSBSb3V0ZU1vZGVsLmNyZWF0ZSh7CiAgICAgICAgcGF0aG5hbWU6IHBhdGgsCiAgICAgICAgc2VhcmNoOiB3aW5kb3cubG9jYXRpb24uc2VhcmNoLAogICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3I9e3ZtLnBocmFzZXMuaXNFcnJvclN0YXRlfQogICAgICAgICAgICBvbkNsaWNrQXJyb3c9eygpID0+IHZtLmdvVG8ocm91dGVQYXRoLmNoYXQoJ2F2ZXJhZ2Utdmlld2VycycpKX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh3aW5kb3cubG9jYXRpb24uc2VhcmNoLCB3aW5kb3cubG9jYXRpb24ucGF0aG5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgcm91dGUgPSBSb3V0ZU1vZGVsLmNyZWF0ZSh7CiAgICAgICAgcGF0aG5hbWU6IHBhdGgsCiAgICAgICAgc2VhcmNoOiB3aW5kb3cubG9jYXRpb24uc2VhcmNoLAogICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm9vdFN0b3JlLnJvdXRlcy5nCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh3aW5kb3cubG9jYXRpb24uc2VhcmNoLCB3aW5kb3cubG9jYXRpb24ucGF0aG5hbWUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdvVG8ocGF0aDogc3RyaW5nKXsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucm9vdFN0b3JlLnJvdXRlcy5nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24uc2VhcmNoCg==</text>
+        <text encoding="base64">ICAgIGdvVG8ocGF0aDogc3RyaW5nKXsKCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24uc2VhcmNoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRIb3ZlcmVkKGZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRIb3ZlcmVkKGZhbHNlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
