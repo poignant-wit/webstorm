@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="environment" type="PLAIN_TEXT" />
       <mapping pattern="browserslist" type="PLAIN_TEXT" />
+      <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

@@ -1,4 +1,16 @@
-<scheme name="Solarized Light copy" version="142" parent_scheme="Default">
+<scheme name="Solarized Light Operator" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2019-04-23T21:22:11</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2019.1.1.0.0</property>
+    <property name="modified">2019-06-17T16:25:54</property>
+    <property name="originalScheme">Solarized Light copy1</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.5" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Operator Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baeeba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
@@ -780,7 +792,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
