@@ -1482,10 +1482,10 @@
         <mark key="^" line="17" column="13" />
         <mark key="." line="17" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/example/src/App.tsx" timestamp="1562841406679">
-        <mark key="[" line="14" column="51" />
-        <mark key="]" line="14" column="67" />
-        <mark key="." line="14" column="67" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/example/src/App.tsx" timestamp="1562844979147">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/pages/SessionPage/SessionPage.tsx" timestamp="1562595694004">
@@ -5486,8 +5486,8 @@
       <jump line="18" column="6" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/campaigns/images/CampaignImageModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPGJ1dHRvbiBvbkNsaWNrPXsoKSA9PiBzZXRJc0RhcmsoIWlzRGFyayl9PgogICAgICAgIHtpc0Rhcms/ICdMaWdodCB0aGVtZSc6ICdEYXJrIHRoZW1lJ30KICAgICAgPC9idXR0b24+CiAgICAgIDxkaXY+CiAgICAgICAgPElucHV0CiAgICAgICAgLz4KICAgICAgPC9kaXY+CiAgICAgIDxkaXY+CiAgICAgICAgPEJ1dHRvbiB0aXRsZT17CiAgICAgICAgICAnQWRkIENoYW5uZWwnCiAgICAgICAgfQogICAgICAgIC8+CiAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -5499,7 +5499,7 @@
         <text encoding="base64">Y29uc3QgTWVudUl0ZW0gPSAoKSA9PiB7CiAgcmV0dXJuIDxkaXY+TWVudSBpdGVtPC9kaXY+Owp9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGJ1dHRvbiBvbkNsaWNrPXsoKSA9PiBzZXRJc0RhcmsoIWlzRGFyayl9PgogICAgICAgIHtpc0Rhcms/ICdMaWdodCB0aGVtZSc6ICdEYXJrIHRoZW1lJ30KICAgICAgPC9idXR0b24+CiAgICAgIDxkaXY+CiAgICAgICAgPElucHV0CiAgICAgICAgLz4KICAgICAgPC9kaXY+CiAgICAgIDxkaXY+CiAgICAgICAgPEJ1dHRvbiB0aXRsZT17CiAgICAgICAgICAnQWRkIENoYW5uZWwnCiAgICAgICAgfQogICAgICAgIC8+CiAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -5511,19 +5511,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB3aWR0aDogNjBweDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBmbGV4OiAxOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDEwMCU7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB3aWR0aDogNjBweDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBmbGV4OiAxOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBoZWlnaHQ6IDEwMCU7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPE1lbnVJdGVtIC8+CiAgICAgIDxNZW51SXRlbSAvPgogICAgICA8TWVudUl0ZW0gLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
