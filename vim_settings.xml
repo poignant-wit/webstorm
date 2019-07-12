@@ -5621,7 +5621,7 @@
         <text encoding="base64">ICBwYWRkaW5nOiAkcGFkZGluZzsK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -5674,8 +5674,8 @@
         <entry>action $Copy</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action $SelectAll</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
