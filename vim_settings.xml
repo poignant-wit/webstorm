@@ -1038,7 +1038,6 @@
         <mark key="^" line="65" column="52" />
         <mark key="." line="65" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/product-menu-desktop.tsx" timestamp="1562852311968" />
       <file name="$USER_HOME$/Downloads/static-html-webpack-boilerplate-1.1.0/src/js/chart/helpers/domHelpers.js" timestamp="1555044158464">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="27" />
@@ -4638,12 +4637,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChartsViewModel.ts" timestamp="1559744108590">
-        <mark key="[" line="36" column="26" />
-        <mark key="]" line="36" column="30" />
-        <mark key="." line="36" column="30" />
-        <mark key="^" line="36" column="30" />
-      </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChartsViewModel.ts" timestamp="1562919028345" />
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/payment/form/CampaignPaymentFormViewModel.ts" timestamp="1562831871243">
         <mark key="[" line="87" column="35" />
         <mark key="]" line="87" column="48" />
@@ -5537,11 +5531,11 @@
       <jump line="18" column="6" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/campaigns/images/CampaignImageModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcnJvck1lc3NhZ2VcPg==</text>
@@ -5550,31 +5544,31 @@
         <text encoding="base64">LiN7JG5zfS1wcm9kdWN0LW1lbnUtZGVza3RvcC1pdGVtIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogYWRkIHRzbGludAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc05hbWU9e2dldENsYXNzTmFtZVdpdGhOYW1lc3BhY2UoUFJPRFVDVF9NRU5VX0RFU0tUT1BfTE9HTyl9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBpbWd7CiAgICAKICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvYT4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbmFtZT17J3Rlc3QnfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZmVhdDogYWRkIHRzbGludAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjbGFzc05hbWU9e2dldENsYXNzTmFtZVdpdGhOYW1lc3BhY2UoUFJPRFVDVF9NRU5VX0RFU0tUT1BfTE9HTyl9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBpbWd7CiAgICAKICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDwvYT4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgbmFtZT17J3Rlc3QnfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAmIHsKICAgIGJhY2tncm91bmQ6IHJnYmEoMjU1LCAyNTUsIDI1NSwgMC4xKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
