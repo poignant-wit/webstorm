@@ -3524,6 +3524,12 @@
         <mark key="^" line="0" column="45" />
         <mark key="." line="0" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/item/index.ts" timestamp="1562935379386">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
+        <mark key="^" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/offers/components/OffersRegular.tsx" timestamp="1556188793508">
         <mark key="[" line="22" column="24" />
         <mark key="]" line="22" column="31" />
@@ -3583,6 +3589,12 @@
         <mark key="]" line="1" column="21" />
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/product-menu-side.tsx" timestamp="1562935440704">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="24" />
+        <mark key="^" line="29" column="24" />
+        <mark key="." line="29" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/selectors/analyticsStatisticsSelector.ts" timestamp="1552321742185">
         <mark key="[" line="0" column="0" />
@@ -5524,10 +5536,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dvXD4=</text>
@@ -5536,34 +5548,34 @@
         <text encoding="base64">ICAgICAgPGltZyBzcmM9e2xvZ299IGFsdD0ibG9nbyIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPHNwYW4+UmVzPC9zcGFuPgo=</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICIuL1Byb2R1Y3RNZW51U2lkZUl0ZW0ubW9kdWxlLnNjc3MiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgPHNwYW4+UmVzPC9zcGFuPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiByZWQ7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIExPR08K</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kOiByZWQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVgoLSRzaWRlLXdpZHRoLWRlc2t0b3ApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIExPR08K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBIRWxsbyB3b3JsZAo=</text>
+        <text encoding="base64">ICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVgoLSRzaWRlLXdpZHRoLWRlc2t0b3ApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbWcgc3JjPXtsb2dvSWNvbn0gYWx0PSJyZXN0cmVhbSBsb2dvIiAvPgogICAgICAgICAgICAgICAgPHNwYW4+cmVzdHJlYW08L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICBIRWxsbyB3b3JsZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbWcgc3JjPXtsb2dvSWNvbn0gYWx0PSJyZXN0cmVhbSBsb2dvIiAvPgogICAgICAgICAgICAgICAgPHNwYW4+cmVzdHJlYW08L3NwYW4+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAkcGFkZGluZzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action EditorDuplicate</text>
       </register>
     </registers>
     <search>
@@ -5616,8 +5628,8 @@
         <entry>action $Copy</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action $SelectAll</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
+        <entry>action EditorDuplicate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
