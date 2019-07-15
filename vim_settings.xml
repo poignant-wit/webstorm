@@ -1185,9 +1185,9 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/example/package.json" timestamp="1562929829898">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/example/package.json" timestamp="1563202537478">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="47" />
         <mark key="^" line="10" column="49" />
         <mark key="." line="11" column="0" />
       </file>
@@ -1515,11 +1515,11 @@
         <mark key="^" line="17" column="13" />
         <mark key="." line="17" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/example/src/App.tsx" timestamp="1563200229348">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="1" column="45" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/example/src/App.tsx" timestamp="1563202923558">
+        <mark key="[" line="15" column="82" />
+        <mark key="]" line="15" column="98" />
+        <mark key="^" line="15" column="98" />
+        <mark key="." line="15" column="98" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/pages/SessionPage/SessionPage.tsx" timestamp="1562595694004">
         <mark key="[" line="58" column="30" />
@@ -3507,10 +3507,10 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563202242550">
+      <file name="/Dummy.txt" timestamp="1563203013302">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="33" />
+        <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/pages/OverviewPage/OverviewPage.tsx" timestamp="1562595566127">
@@ -3762,11 +3762,11 @@
         <mark key="." line="9" column="26" />
         <mark key="^" line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/layout/layout.tsx" timestamp="1563202210553">
-        <mark key="[" line="55" column="31" />
-        <mark key="]" line="55" column="11" />
-        <mark key="^" line="55" column="11" />
-        <mark key="." line="55" column="11" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/layout/layout.tsx" timestamp="1563202865067">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="27" column="139" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/redux/session/factory/SessionDucksFactory.ts" timestamp="1555513793864">
         <mark key="[" line="1" column="0" />
@@ -5606,43 +5606,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogcHJvZHVjdC1tZW51LXNpZGUgdXNlciBlbWFpbAo=</text>
+        <text encoding="base64">ZmVhdDogaGFuZGxlIG1lbnUgaXRlbXMgY2xpY2sK</text>
       </register>
       <register name="-" type="4">
-        <text>without</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>color</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3dpdGhvdXQgcmVkaXJlY3QnKTsK</text>
+      <register name="0" type="4">
+        <text>link:../node_modules/react-dom</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogcHJvZHVjdC1tZW51LXNpZGUgdXNlciBlbWFpbAo=</text>
+        <text encoding="base64">ZmVhdDogaGFuZGxlIG1lbnUgaXRlbXMgY2xpY2sK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZ29Ub1BhZ2VXaXRoUmVkaXJlY3QgPSAocHJvZHVjdDogUHJvZHVjdERvbWFpbnMpID0+IChyb3V0ZTogc3RyaW5nKSA9PiB7CiAgY29uc29sZS5sb2coJ2hhcmQgcmVkaXJlY3QnLCBgaHR0cHM6OiR7cHJvZHVjdH0ucmVzdHJlYW0uaW8ke3JvdXRlfWApOwogIC8vIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gYGh0dHBzOjoke3Byb2R1Y3R9LnJlc3RyZWFtLmlvJHtyb3V0ZX1gOwp9Owpjb25zdCBnb1RvUGFnZVdpdGhvdXRSZWRpcmVjdCA9IChoaXN0b3J5OiBhbnkpID0+IChyb3V0ZTogc3RyaW5nKSA9PiB7CiAgY29uc29sZS5sb2coJ3dpdGhvdXQgcmVkaXJlY3QnLCBoaXN0b3J5LCByb3V0ZSk7CiAgLy8gaGlzdG9yeS5wdXNoKHJvdXRlKTsKfTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3dpdGggcmVkaXJlY3QnLCByb3V0ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3dpdGhvdXQgcmVkaXJlY3QnLCByb3V0ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBnb1RvV2l0aFJlZGlyZWN0ID0gZ29Ub1BhZ2VXaXRoUmVkaXJlY3QoY3VycmVudFByb2R1Y3QpOwogIGNvbnN0IGdvVG9XaXRob3V0UmVkaXJlY3QgPSBnb1RvUGFnZVdpdGhvdXRSZWRpcmVjdChjdXJyZW50UHJvZHVjdCk7Cg==</text>
+        <text encoding="base64">ZmVhdDogcHJvZHVjdC1tZW51LXNpZGUgdXNlciBlbWFpbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZ29Ub1dpdGhSZWRpcmVjdChyb3V0ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZ29Ub1dpdGhvdXRSZWRpcmVjdChyb3V0ZSk7Cg==</text>
+        <text encoding="base64">Y29uc3QgZ29Ub1BhZ2VXaXRoUmVkaXJlY3QgPSAocHJvZHVjdDogUHJvZHVjdERvbWFpbnMpID0+IChyb3V0ZTogc3RyaW5nKSA9PiB7CiAgY29uc29sZS5sb2coJ2hhcmQgcmVkaXJlY3QnLCBgaHR0cHM6OiR7cHJvZHVjdH0ucmVzdHJlYW0uaW8ke3JvdXRlfWApOwogIC8vIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gYGh0dHBzOjoke3Byb2R1Y3R9LnJlc3RyZWFtLmlvJHtyb3V0ZX1gOwp9Owpjb25zdCBnb1RvUGFnZVdpdGhvdXRSZWRpcmVjdCA9IChoaXN0b3J5OiBhbnkpID0+IChyb3V0ZTogc3RyaW5nKSA9PiB7CiAgY29uc29sZS5sb2coJ3dpdGhvdXQgcmVkaXJlY3QnLCBoaXN0b3J5LCByb3V0ZSk7CiAgLy8gaGlzdG9yeS5wdXNoKHJvdXRlKTsKfTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChwcm9kdWN0ID09PSBjdXJyZW50UHJvZHVjdCkgewogICAgICAgICAgICBnb1RvV2l0aG91dFJlZGlyZWN0KCcvJyk7CiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBnb1RvV2l0aFJlZGlyZWN0KCcvJyk7CiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgICAgIGNvbnNvbGUubG9nKCdjbGljaycpOwogICAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBjb25zdCBnb1RvV2l0aFJlZGlyZWN0ID0gZ29Ub1BhZ2VXaXRoUmVkaXJlY3QoY3VycmVudFByb2R1Y3QpOwogIGNvbnN0IGdvVG9XaXRob3V0UmVkaXJlY3QgPSBnb1RvUGFnZVdpdGhvdXRSZWRpcmVjdChjdXJyZW50UHJvZHVjdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
