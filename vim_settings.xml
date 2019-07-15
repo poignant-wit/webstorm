@@ -255,6 +255,9 @@
         <mark key="^" line="43" column="7" />
         <mark key="." line="56" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/node_modules/@blueprintjs/core/package.json" timestamp="1563204600979">
+        <mark key="'" line="23" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/pages/SessionsPage/table/index.ts" timestamp="1562246974338">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="31" />
@@ -5503,11 +5506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="338" column="6" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" />
-      <jump line="23" column="62" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/targeting/form/TargetingForm.tsx" />
-      <jump line="3" column="4" filename="$USER_HOME$/Documents/restream-marketplace-frontend/Jenkinsfile" />
-      <jump line="9" column="24" filename="$USER_HOME$/Documents/restream-marketplace-frontend/Jenkinsfile" />
-      <jump line="109" column="112" filename="$USER_HOME$/Documents/restream-marketplace-frontend/Jenkinsfile" />
       <jump line="208" column="56" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" />
       <jump line="34" column="12" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" />
       <jump line="313" column="23" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" />
@@ -5603,6 +5601,11 @@
       <jump line="9" column="2" filename="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/item/_product-menu-side-item.scss" />
       <jump line="11" column="25" filename="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/item/_product-menu-side-item.scss" />
       <jump line="18" column="6" filename="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/item/_product-menu-side-item.scss" />
+      <jump line="11" column="10" filename="$USER_HOME$/Documents/restream-marketplace-frontend/node_modules/@blueprintjs/core/package.json" />
+      <jump line="20" column="29" filename="$USER_HOME$/Documents/restream-marketplace-frontend/node_modules/@blueprintjs/core/package.json" />
+      <jump line="21" column="29" filename="$USER_HOME$/Documents/restream-marketplace-frontend/node_modules/@blueprintjs/core/package.json" />
+      <jump line="22" column="32" filename="$USER_HOME$/Documents/restream-marketplace-frontend/node_modules/@blueprintjs/core/package.json" />
+      <jump line="23" column="35" filename="$USER_HOME$/Documents/restream-marketplace-frontend/node_modules/@blueprintjs/core/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5612,7 +5615,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>color</text>
+        <text>src</text>
       </register>
       <register name="0" type="4">
         <text>link:../node_modules/react-dom</text>
@@ -5649,9 +5652,9 @@
       </register>
     </registers>
     <search>
-      <last-search>color</last-search>
+      <last-search>src</last-search>
       <last-offset />
-      <last-pattern>color</last-pattern>
+      <last-pattern>src</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>targetAudience</last-substitute>
       <last-dir>1</last-dir>
@@ -5659,7 +5662,6 @@
     </search>
     <history>
       <history-search>
-        <entry>deta</entry>
         <entry encoding="base64">XDxTZXNzaW9uVmlld2Vyc0NoYXJ0V2l0aExvYWRlclw+</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>set</entry>
@@ -5679,6 +5681,7 @@
         <entry>after</entry>
         <entry>content</entry>
         <entry>color</entry>
+        <entry>src</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
