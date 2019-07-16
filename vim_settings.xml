@@ -3090,6 +3090,12 @@
         <mark key="." line="36" column="6" />
         <mark key="^" line="119" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/campaigns/images/CampaignImageModel.ts" timestamp="1563252039806">
+        <mark key="[" line="92" column="16" />
+        <mark key="]" line="92" column="29" />
+        <mark key="^" line="92" column="29" />
+        <mark key="." line="92" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/Chart/ChartError.module.scss" timestamp="1553598399094">
         <mark key="[" line="17" column="21" />
         <mark key="]" line="18" column="12" />
@@ -4203,7 +4209,8 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/api/campaigns.ts" timestamp="1562828683797">
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/api/campaigns.ts" timestamp="1563252204895">
+        <mark key="'" line="18" column="8" />
         <mark key="[" line="6" column="61" />
         <mark key="]" line="6" column="61" />
         <mark key="^" line="6" column="61" />
@@ -5187,6 +5194,7 @@
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/campaigns/images/CampaignImagesStore.ts" timestamp="1563252223028" />
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaigns/table/CampaignsTable.module.scss" timestamp="1562924087941">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="10" />
@@ -5506,7 +5514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="56" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" />
       <jump line="34" column="12" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" />
       <jump line="313" column="23" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" />
       <jump line="8" column="21" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/payment/CampaignPaymentPageViewModel.ts" />
@@ -5606,6 +5613,7 @@
       <jump line="21" column="29" filename="$USER_HOME$/Documents/restream-marketplace-frontend/node_modules/@blueprintjs/core/package.json" />
       <jump line="22" column="32" filename="$USER_HOME$/Documents/restream-marketplace-frontend/node_modules/@blueprintjs/core/package.json" />
       <jump line="23" column="35" filename="$USER_HOME$/Documents/restream-marketplace-frontend/node_modules/@blueprintjs/core/package.json" />
+      <jump line="18" column="8" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/api/campaigns.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -5615,7 +5623,7 @@
         <text>packagejson</text>
       </register>
       <register name="/" type="4">
-        <text>src</text>
+        <text>images</text>
       </register>
       <register name="0" type="4">
         <text>link:../node_modules/react-dom</text>
@@ -5648,13 +5656,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>src</last-search>
+      <last-search>images</last-search>
       <last-offset />
-      <last-pattern>src</last-pattern>
+      <last-pattern>images</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>targetAudience</last-substitute>
       <last-dir>1</last-dir>
@@ -5662,8 +5670,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTZXNzaW9uVmlld2Vyc0NoYXJ0V2l0aExvYWRlclw+</entry>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>set</entry>
         <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
         <entry encoding="base64">XDxzZXNzaW9uRGF0YVNjb3BlTG9hZGVkU2VsZWN0b3JcPg==</entry>
@@ -5682,6 +5688,8 @@
         <entry>content</entry>
         <entry>color</entry>
         <entry>src</entry>
+        <entry>cover</entry>
+        <entry>images</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -5701,8 +5709,8 @@
         <entry>action $SelectAll</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
         <entry>action ImplementMethods</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
