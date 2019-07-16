@@ -3529,10 +3529,10 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563272334584">
+      <file name="/Dummy.txt" timestamp="1563280081114">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="15" />
+        <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/pages/OverviewPage/OverviewPage.tsx" timestamp="1562595566127">
@@ -5631,7 +5631,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBbbmV3Q2FtcGFpZ25zQ291bnQsIHNldE5ld0NhbXBhaWduc0NvdW50XSA9IFJlYWN0LnVzZVN0YXRlKDApOwogIGNvbnN0IFtzaG93Q2FtcGFpZ25zLCBzZXRTaG93Q2FtcGFpZ25zXSA9IFJlYWN0LnVzZVN0YXRlKGZhbHNlKTsK</text>
+        <text encoding="base64">Zml4OiBudW1iZXIgdG8gYm9vbCBpbiBqc3gK</text>
       </register>
       <register name="-" type="4">
         <text>newCampaignsCount</text>
@@ -5643,31 +5643,31 @@
         <text encoding="base64">ICAgICAgICA8TWVudUl0ZW0KICAgICAgICAgIGFjdGl2ZT17Y3VycmVudFByb2R1Y3QgPT09IFByb2R1Y3REb21haW5zLlNDSEVEVUxFUn0KICAgICAgICAgIGxvZ289e3NjaGVkdWxlcn0KICAgICAgICAgIG9uQ2xpY2s9eygpID0+IG9uQ2xpY2tNZW51SXRlbShQcm9kdWN0RG9tYWlucy5TQ0hFRFVMRVIpfQogICAgICAgIC8+Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Zml4OiBudW1iZXIgdG8gYm9vbCBpbiBqc3gK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICBjb25zdCBbbmV3Q2FtcGFpZ25zQ291bnQsIHNldE5ld0NhbXBhaWduc0NvdW50XSA9IFJlYWN0LnVzZVN0YXRlKDApOwogIGNvbnN0IFtzaG93Q2FtcGFpZ25zLCBzZXRTaG93Q2FtcGFpZ25zXSA9IFJlYWN0LnVzZVN0YXRlKGZhbHNlKTsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ZGF0YSA9PiB7CiAgICAgICAgICBzZXRTaG93Q2FtcGFpZ25zKEJvb2xlYW4oZGF0YS50b3RhbCkpOwogICAgICAgICAgc2V0TmV3Q2FtcGFpZ25zQ291bnQoZGF0YS5uZXcpOwogICAgICAgIH0=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBhIHsKICAgIGNvbG9yOiAjOTdhMGFmOwogIH0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb2xvcjogIzk3YTBhZjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zml4OiBsaW50IGVycm9ycwo=</text>
+        <text encoding="base64">ICBjb2xvcjogIzk3YTBhZjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zml4OiBsYXlvdXQgc2Nyb2xsCg==</text>
+        <text encoding="base64">Zml4OiBsaW50IGVycm9ycwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zml4OiBsYXlvdXQgc2Nyb2xsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIElJbnB1dFByb3BzIHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
