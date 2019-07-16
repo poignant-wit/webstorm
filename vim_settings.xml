@@ -1520,12 +1520,6 @@
         <mark key="^" line="17" column="13" />
         <mark key="." line="17" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/example/src/App.tsx" timestamp="1563269365997">
-        <mark key="[" line="15" column="100" />
-        <mark key="]" line="15" column="130" />
-        <mark key="^" line="15" column="130" />
-        <mark key="." line="15" column="130" />
-      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/pages/SessionPage/SessionPage.tsx" timestamp="1562595694004">
         <mark key="[" line="58" column="30" />
         <mark key="]" line="58" column="33" />
@@ -1915,6 +1909,12 @@
         <mark key="]" line="13" column="18" />
         <mark key="." line="13" column="18" />
         <mark key="^" line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/Jenkinsfile" timestamp="1563270211244">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="50" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/campaigns/analytics/CampaignStatsStore.ts" timestamp="1559734827219">
         <mark key="[" line="3" column="21" />
@@ -3530,7 +3530,7 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563270119743">
+      <file name="/Dummy.txt" timestamp="1563270526441">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -4280,11 +4280,11 @@
         <mark key="." line="35" column="18" />
         <mark key="^" line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/layout/_layout.scss" timestamp="1563183647582">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="7" column="26" />
-        <mark key="." line="7" column="26" />
-        <mark key="^" line="7" column="26" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/layout/_layout.scss" timestamp="1563270490908">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="13" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/containers/chartConfigs/timeLineChartConfig.ts" timestamp="1555926458712">
         <mark key="[" line="32" column="0" />
@@ -5632,52 +5632,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Zml4OiBhZGQgc3JjIHRvIHBhY2thZ2UgZmlsZXMK</text>
+        <text encoding="base64">ZmVhdDogYWRkIEplbmtpbnNmaWxlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>logout</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>images</text>
+        <text>analytics</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8TWVudUl0ZW0KICAgICAgICAgIGFjdGl2ZT17Y3VycmVudFByb2R1Y3QgPT09IFByb2R1Y3REb21haW5zLlNDSEVEVUxFUn0KICAgICAgICAgIGxvZ289e3NjaGVkdWxlcn0KICAgICAgICAgIG9uQ2xpY2s9eygpID0+IG9uQ2xpY2tNZW51SXRlbShQcm9kdWN0RG9tYWlucy5TQ0hFRFVMRVIpfQogICAgICAgIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiBhZGQgc3JjIHRvIHBhY2thZ2UgZmlsZXMK</text>
+        <text encoding="base64">ZmVhdDogYWRkIEplbmtpbnNmaWxlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8TWVudUl0ZW0KICAgICAgICAgIGFjdGl2ZT17Y3VycmVudFByb2R1Y3QgPT09IFByb2R1Y3REb21haW5zLlNDSEVEVUxFUn0KICAgICAgICAgIGxvZ289e3JhZHN9CiAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBvbkNsaWNrTWVudUl0ZW0oUHJvZHVjdERvbWFpbnMuU0NIRURVTEVSKX0KICAgICAgICAgIGJhZGdlPXsyfQogICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ZmVhdDogYWRkIHJhZHMgaWNvbgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGVudW0gUHJvZHVjdHMgewogIEFOQUxZVElDUywKICBTQ0hFRFVMRVIsCn0K</text>
+        <text encoding="base64">ICAgICAgICBzdGFnZSgnRGVwbG95OiBDbG91ZEZyb250JykgewogICAgICAgICAgICB3aGVuIHsgYnJhbmNoICdtYXN0ZXInIH0KICAgICAgICAgICAgc3RlcHMgewogICAgICAgICAgICAgICAgc2NyaXB0IHsKICAgICAgICAgICAgICAgICAgICBkb2NrZXIud2l0aFJlZ2lzdHJ5KCIke2Vjcn0iLCAiJHtlY3JfYXJufSIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZG9ja2VyLmltYWdlKCdpbmZyYTpsYXRlc3QnKS5pbnNpZGUoJy11IHJvb3Q6cm9vdCcpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpdGhBV1MocmVnaW9uOid1cy1lYXN0LTEnLCBjcmVkZW50aWFsczogJ2plbmtpbnMtY2knKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGlyKCdidWlsZCcpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2ggJycnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhd3MgczMgY3AgLiBzMzovL3Jlc3RyZWFtLWNsb3VkZnJvbnQtYW5hbHl0aWNzIC0tcmVjdXJzaXZlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhd3MgczMgc3luYyAuIHMzOi8vcmVzdHJlYW0tY2xvdWRmcm9udC1hbmFseXRpY3MgLS1kZWxldGUgLS1leGFjdC10aW1lc3RhbXAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJycnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Zml4OiBhZGQgc3JjIHRvIHBhY2thZ2UgZmlsZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZlcnRpY2FsLWFsaWduOiBjZW50ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8TWVudUl0ZW0KICAgICAgICAgIGFjdGl2ZT17Y3VycmVudFByb2R1Y3QgPT09IFByb2R1Y3REb21haW5zLlNDSEVEVUxFUn0KICAgICAgICAgIGxvZ289e3JhZHN9CiAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBvbkNsaWNrTWVudUl0ZW0oUHJvZHVjdERvbWFpbnMuU0NIRURVTEVSKX0KICAgICAgICAgIGJhZGdlPXsyfQogICAgICAgIC8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoZWlnaHQ9ezEwfQogICAgICAgIHdpZHRoPXsxMH0KICAgICAgICBzcmM9e3VzZXJzfQogICAgICAgIGFsdD17J2FsdCd9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8aW1nIGhlaWdodD17MjB9IHdpZHRoPXsyMH0gc3JjPXt1c2Vyc30gYWx0PSJ1c2Vycy1pY29uIiAvPiovfQo=</text>
+        <text encoding="base64">ZXhwb3J0IGVudW0gUHJvZHVjdHMgewogIEFOQUxZVElDUywKICBTQ0hFRFVMRVIsCn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJY29uCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
       </register>
     </registers>
     <search>
-      <last-search>images</last-search>
+      <last-search>analytics</last-search>
       <last-offset />
-      <last-pattern>images</last-pattern>
+      <last-pattern>analytics</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>targetAudience</last-substitute>
       <last-dir>1</last-dir>
@@ -5685,8 +5685,6 @@
     </search>
     <history>
       <history-search>
-        <entry>set</entry>
-        <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
         <entry encoding="base64">XDxzZXNzaW9uRGF0YVNjb3BlTG9hZGVkU2VsZWN0b3JcPg==</entry>
         <entry encoding="base64">XDxyZW5kZXJMb2FkZXJcPg==</entry>
         <entry>minDate</entry>
@@ -5705,6 +5703,8 @@
         <entry>src</entry>
         <entry>cover</entry>
         <entry>images</entry>
+        <entry>developers</entry>
+        <entry>analytics</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
