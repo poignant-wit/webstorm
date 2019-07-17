@@ -2705,6 +2705,13 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/components/Menu/Menu.tsx" timestamp="1563341148028">
+        <mark key="'" line="129" column="0" />
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="27" column="7" />
+        <mark key="^" line="27" column="7" />
+        <mark key="." line="27" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/containers/analytics/streamsConaitner/StreamsContainer.tsx" timestamp="1552036343463">
         <mark key="[" line="82" column="10" />
         <mark key="]" line="82" column="25" />
@@ -4150,11 +4157,10 @@
         <mark key="^" line="87" column="58" />
         <mark key="." line="87" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" timestamp="1563339290270">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="24" />
-        <mark key="^" line="10" column="16" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" timestamp="1563341013758">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/components/SessionChart/SessionWatchedMinutesChart.tsx" timestamp="1558947973923">
         <mark key="[" line="42" column="0" />
@@ -4287,6 +4293,12 @@
         <mark key="]" line="2" column="10" />
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/components/Menu/index.ts" timestamp="1563340998661">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/client/socket/SocketProvider.ts" timestamp="1556179387100">
         <mark key="[" line="11" column="28" />
@@ -5564,8 +5576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="12" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" />
-      <jump line="313" column="23" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/creation/CampaignCreationViewModel.ts" />
       <jump line="8" column="21" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/payment/CampaignPaymentPageViewModel.ts" />
       <jump line="80" column="64" filename="$USER_HOME$/Documents/restream-marketplace-frontend/Jenkinsfile" />
       <jump line="56" column="8" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/common/components/RTable/RTable.tsx" />
@@ -5664,10 +5674,12 @@
       <jump line="22" column="32" filename="$USER_HOME$/Documents/restream-marketplace-frontend/node_modules/@blueprintjs/core/package.json" />
       <jump line="23" column="35" filename="$USER_HOME$/Documents/restream-marketplace-frontend/node_modules/@blueprintjs/core/package.json" />
       <jump line="18" column="8" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/api/campaigns.ts" />
+      <jump line="27" column="5" filename="$USER_HOME$/Documents/analytics-frontend/src/components/Menu/Menu.tsx" />
+      <jump line="127" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/components/Menu/Menu.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxNZW51IC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2Pgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -5679,31 +5691,31 @@
         <text encoding="base64">ICBjb2xvcjogd2hpdGU7CiAgYmFja2dyb3VuZC1jb2xvcjogIzE3MkI0RDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxNZW51IC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L0xheW91dD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L1JvdXRlcj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvTWVudT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8Q29ubmVjdGVkUm91dGVyIGhpc3Rvcnk9e2hpc3Rvcnl9Pntyb3V0ZXN9PC9Db25uZWN0ZWRSb3V0ZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxNZW51IC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">ICAgICAgICA8L0xheW91dD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">ICAgICAgICA8L1JvdXRlcj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNlc3Npb25QYWdlID0gd2l0aFJvdXRlcigK</text>
+        <text encoding="base64">ICAgICAgICA8Q29ubmVjdGVkUm91dGVyIGhpc3Rvcnk9e2hpc3Rvcnl9Pntyb3V0ZXN9PC9Db25uZWN0ZWRSb3V0ZXI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZW5kZXI9eygpID0+IHdpdGhMYXlvdXQoU2Vzc2lvbnNQYWdlKX0K</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZW5kZXI9eygpID0+IHdpdGhMYXlvdXQoT3ZlcnZpZXdQYWdlKX0K</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
