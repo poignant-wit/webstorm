@@ -5828,7 +5828,7 @@
         <text encoding="base64">ICAgICAgICAgIHRleHQ9eydBYm91dCBZb3VyIFByb2R1Y3QnfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -5881,8 +5881,8 @@
         <entry>action ImplementMethods</entry>
         <entry>action FileChooser.NewFolder</entry>
         <entry>action $SelectAll</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
