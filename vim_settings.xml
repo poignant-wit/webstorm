@@ -453,6 +453,11 @@
         <mark key="^" line="9" column="9" />
         <mark key="." line="9" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/rads-frontend/src/store/base/makeBaseCollectionStore.ts" timestamp="1563534435493">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/common/components/ROverlay/ROverlay.module.scss" timestamp="1559828555296">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="13" />
@@ -4368,6 +4373,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/bootstrap/BootstrapPageContainer.tsx" timestamp="1563440325796">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/common/components/payment/RCardNumber/RCardNumber.module.scss" timestamp="1558355179741">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="1" column="19" />
@@ -5581,11 +5591,11 @@
         <mark key="^" line="54" column="54" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/rads-frontend/src/store/campaigns/sessions/CampaignSessionsStore.ts" timestamp="1563531458507">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="40" column="33" />
+      <file name="$USER_HOME$/Documents/rads-frontend/src/store/campaigns/sessions/CampaignSessionsStore.ts" timestamp="1563534480211">
+        <mark key="[" line="27" column="39" />
+        <mark key="]" line="27" column="43" />
+        <mark key="." line="27" column="43" />
+        <mark key="^" line="27" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/events/components/EventCreateEditModal/EventCreateEditFormLabel.tsx" timestamp="1548176248748">
         <mark key="[" line="0" column="12" />
@@ -5824,10 +5834,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIEB0cy1pZ25vcmUKICAgICAgICAgIGlmIChpdGVtLmlkKSB7CiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -5836,31 +5846,31 @@
         <text encoding="base64">ICAgICAgICBjb25zdCBlcnJvciA9IG1ha2VFcnJvck1vZGVsKGUpOwogICAgICAgIGNvbnN0IHsgcmVwb3J0ZXJzIH0gPSBnZXRFbnYoc2VsZik7CiAgICAgICAgaWYgKGVycm9yLmlzTm9uSHR0cCkgewogICAgICAgICAgcmVwb3J0ZXJzLmVycm9yUmVwb3J0ZXIuY2FwdHVyZShuZXcgTm9uSHR0cEVycm9yKGUubWVzc2FnZSkpOwogICAgICAgIH0KICAgICAgICBpZiAoZXJyb3IuaXM1MDAgfHwgZXJyb3IuaXM0MDQpIHsKICAgICAgICAgIHJlcG9ydGVycy5lcnJvclJlcG9ydGVyLmNhcHR1cmUoCiAgICAgICAgICAgIG5ldyBIdHRwRXJyb3IoYEh0dHBFcnJvcjogJHtnZXRIdHRwUmVxdWVzdFVybChlKX06ICR7ZS5tZXNzYWdlfWApLAogICAgICAgICAgKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIEB0cy1pZ25vcmUKICAgICAgICAgIGlmIChpdGVtLmlkKSB7CiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQHRzLWlnbm9yZQogICAgICAgICAgICByZXR1cm4gaXRlbS5pZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc3QgcGxhdGZvcm0gPSB2bS5wbGF0Zm9ybUJ5SWQocGxhdGZvcm1JZCk7CiAgICAgICAgICAgICAgICAgIGlmIChwbGF0Zm9ybSkgewogICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbW9kZWwgfSBmcm9tICdtb2J4LXN0YXRlLXRyZWUvZGlzdC90eXBlcy9jb21wbGV4LXR5cGVzL21vZGVsJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmV0dXJuICcnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gcGxhdGZvcm0uaW1hZ2Uuc3ZnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBpdGVtLmlkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdm0uc2Vzc2lvbnMuZGF0YSAmJgogICAgICAgICAgICB2bS5zZXNzaW9ucy5kYXRhLmRhdGEgJiYK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgIAogICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgKHRoaXMuc3RhdHMuZXJyb3IgfHwgdGhpcy5zZXNzaW9ucy5lcnJvciB8fCB0aGlzLmNoYXJ0cy5lcnJvcikgJiYKICAgICAgdGhpcy5zaG93RXJyb3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzZWxmLmNvbGxlY3Rpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc3QgcGxhdGZvcm0gPSB2bS5wbGF0Zm9ybUJ5SWQocGxhdGZvcm1JZCk7CiAgICAgICAgICAgICAgICAgIGlmIChwbGF0Zm9ybSkgewogICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
