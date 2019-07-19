@@ -1145,6 +1145,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="18" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/rads-frontend/src/store/campaigns/CampaignModel.ts" timestamp="1563529316888">
+        <mark key="[" line="78" column="31" />
+        <mark key="]" line="78" column="51" />
+        <mark key="." line="78" column="51" />
+        <mark key="^" line="78" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-web/api/.env.example" timestamp="1551105814060">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="31" />
@@ -1343,6 +1349,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/rads-frontend/src/views/campaign/analytics/sessions/CampaignAnalyticsSessions/CampaignAnalyticsSessions.tsx" timestamp="1563530253066">
+        <mark key="'" line="130" column="39" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="^" line="124" column="41" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/docker/start-staging.sh" timestamp="1550072177783">
         <mark key="[" line="3" column="2" />
@@ -1674,12 +1687,6 @@
         <mark key="^" line="17" column="65" />
         <mark key="." line="17" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/dialog/components/EventsDialogChannels/EventsDialogChannels.scss" timestamp="1563442781093">
-        <mark key="[" line="38" column="20" />
-        <mark key="]" line="38" column="20" />
-        <mark key="^" line="53" column="0" />
-        <mark key="." line="38" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/onboarding/components/OnboardingOffers/OnboardingOffersContentSize.tsx" timestamp="1551334412127">
         <mark key="[" line="23" column="9" />
         <mark key="]" line="23" column="10" />
@@ -1956,6 +1963,7 @@
         <mark key="." line="13" column="18" />
         <mark key="^" line="8" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/rads-frontend/src/store/campaigns/analytics/CampaignAnalyticsStatsStore.ts" timestamp="1563528890392" />
       <file name="$USER_HOME$/Documents/restream-ui-kit/Jenkinsfile" timestamp="1563270211244">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -3457,6 +3465,10 @@
         <mark key="^" line="94" column="0" />
         <mark key="." line="64" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/rads-frontend/src/store/campaigns/images/CampaignImageModel.ts" timestamp="1563529565860">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="138" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/payment/components/index.ts" timestamp="1558093868774">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="0" column="37" />
@@ -4009,6 +4021,10 @@
         <mark key="]" line="4" column="34" />
         <mark key="^" line="47" column="13" />
         <mark key="." line="4" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/rads-frontend/src/store/campaigns/images/CampaignImagesStore.ts" timestamp="1563529512576">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="28" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/routePath.ts" timestamp="1562672424849">
         <mark key="[" line="6" column="34" />
@@ -4856,6 +4872,12 @@
         <mark key="^" line="24" column="8" />
         <mark key="." line="159" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/rads-frontend/src/views/campaign/analytics/CampaignAnalyticsPageViewModel.ts" timestamp="1563530122036">
+        <mark key="[" line="17" column="50" />
+        <mark key="]" line="18" column="85" />
+        <mark key="." line="18" column="85" />
+        <mark key="^" line="18" column="85" />
+      </file>
       <file name="$USER_HOME$/Downloads/static-html-webpack-boilerplate-1.1.0/src/js/chart/helpers/positionHelpers.js" timestamp="1555046266795">
         <mark key="[" line="45" column="24" />
         <mark key="]" line="45" column="24" />
@@ -5270,6 +5292,12 @@
         <mark key="]" line="7" column="34" />
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/rads-frontend/src/store/campaigns/sessions/index.ts" timestamp="1563529289492">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="37" />
+        <mark key="^" line="1" column="37" />
+        <mark key="." line="1" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/README.md" timestamp="1560172201023">
         <mark key="[" line="0" column="2" />
@@ -5687,7 +5715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="85" filename="$USER_HOME$/Documents/developer-portal-frontend/src/hooks/useSessionViewersData.ts" />
       <jump line="39" column="6" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaigns/table/CampaignsTable.tsx" />
       <jump line="78" column="26" filename="$USER_HOME$/Documents/developer-portal-frontend/src/pages/StreamsPage/StreamsPage.tsx" />
       <jump line="19" column="15" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/DateRangePickerDropdown/DateRangePickerDropdown.tsx" />
@@ -5787,55 +5814,56 @@
       <jump line="45" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/reset.scss" />
       <jump line="295" column="13" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/billing/containers/BillingPlanContainer.tsx" />
       <jump line="56" column="42" filename="$USER_HOME$/Documents/rads-frontend/src/views/campaign/creation/components/CampaignCreationStepFirst/CampaignCreationStepFirst.tsx" />
+      <jump line="144" column="39" filename="$USER_HOME$/Documents/rads-frontend/src/views/campaign/analytics/sessions/CampaignAnalyticsSessions/CampaignAnalyticsSessions.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdDogb3B0aW9uYWwgZm9ybSBsYWJlbHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>HELP</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>cancel</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy50aXB9PgogICAgICAgIDxUYXJnZXRpbmdUaXAgLz4KICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICBAY29tcHV0ZWQgcHVibGljIGdldCBzaG93Q2FsbG91dEVycm9yKCkgewogICAgcmV0dXJuICgKICAgICAgKHRoaXMuc3RhdHMuZXJyb3IgfHwgdGhpcy5zZXNzaW9ucy5lcnJvciB8fCB0aGlzLmNoYXJ0cy5lcnJvcikgJiYKICAgICAgdGhpcy5zaG93RXJyb3IKICAgICk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdDogb3B0aW9uYWwgZm9ybSBsYWJlbHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPEljb24gaWNvbj17SWNvbk5hbWVzLkRPQ1VNRU5UX09QRU59IC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc3QgcGxhdGZvcm0gPSB2bS5wbGF0Zm9ybUJ5SWQocGxhdGZvcm1JZCk7CiAgICAgICAgICAgICAgICAgIGlmIChwbGF0Zm9ybSkgewogICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvUkNhcmQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmV0dXJuICcnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGFyZ2V0aW5nSW5zdHJ1Y3Rpb25zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gcGxhdGZvcm0uaW1hZ2Uuc3ZnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGh0dHBzOi8vaW50ZXJjb20uaGVscC9yYWRzLTEzZTdlZTgxYTkxOS9lbi9hcnRpY2xlcy8zMTM3MjU0LXRhcmdldGluZy1wcm8tdGlwcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm0uc2Vzc2lvbnMuZGF0YSAmJgogICAgICAgICAgICB2bS5zZXNzaW9ucy5kYXRhLmRhdGEgJiYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zml4OiBpbWFnZSB1cGxvYWRpbmcgY2F0Y2ggZXJyb3JzCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgIAogICAgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICdDb3ZlciBpbWFnZXMnCg==</text>
+        <text encoding="base64">ICAgICAgKHRoaXMuc3RhdHMuZXJyb3IgfHwgdGhpcy5zZXNzaW9ucy5lcnJvciB8fCB0aGlzLmNoYXJ0cy5lcnJvcikgJiYKICAgICAgdGhpcy5zaG93RXJyb3IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICdHYW1lIFByb21vIFZpZGVvIExpbmsnCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzZWxmLmNvbGxlY3Rpb24pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRleHQ9eydBYm91dCBZb3VyIFByb2R1Y3QnfQo=</text>
+        <text encoding="base64">ICAgICAgLy8geWllbGQgY29uc29sZS5sb2coJ2xvYWQgc2Vzc2lvbnMnKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action EditorDuplicate</text>
       </register>
     </registers>
     <search>
-      <last-search>cancel</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>cancel</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>targetAudience</last-substitute>
       <last-dir>1</last-dir>
@@ -5843,7 +5871,6 @@
     </search>
     <history>
       <history-search>
-        <entry>images</entry>
         <entry>developers</entry>
         <entry>analytics</entry>
         <entry>font</entry>
@@ -5863,6 +5890,7 @@
         <entry>norma</entry>
         <entry>margin</entry>
         <entry>cancel</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -5882,8 +5910,8 @@
         <entry>action ImplementMethods</entry>
         <entry>action FileChooser.NewFolder</entry>
         <entry>action $SelectAll</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
+        <entry>action EditorDuplicate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
