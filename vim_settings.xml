@@ -2951,11 +2951,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="14" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/streamer/payments/balance/PaymentsBalance.tsx" timestamp="1563802247566">
-        <mark key="[" line="40" column="44" />
-        <mark key="]" line="40" column="57" />
-        <mark key="^" line="40" column="57" />
-        <mark key="." line="40" column="57" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/streamer/payments/balance/PaymentsBalance.tsx" timestamp="1563805642986">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="37" column="57" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaigns/CampaignsPage.module.scss" timestamp="1561127348057">
         <mark key="[" line="8" column="16" />
@@ -6139,8 +6139,8 @@
       <jump line="21" column="76" filename="$USER_HOME$/Documents/restream-frontend/src/views/streamer/payments/transactions/PaymentsTransactions.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Earned</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8aW1nIHNyYz17cXVlc3Rpb259IGFsdD0icXVlc3Rpb24gbWFyayIgLz4K</text>
       </register>
       <register name="-" type="4">
         <text>Earned</text>
@@ -6152,34 +6152,34 @@
         <text encoding="base64">ICBAY29tcHV0ZWQgcHVibGljIGdldCBiYWxhbmNlKCkgewogICAgY29uc3QgeyB1c2VyIH0gPSB0aGlzLnJvb3RTdG9yZS5hdXRoOwogICAgaWYgKHVzZXIpIHsKICAgICAgcmV0dXJuIHVzZXIuc3RyZWFtZXIuYmlsbGluZy5iYWxhbmNlLnZhbHVlOwogICAgfQogICAgcmV0dXJuIDA7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMuZGF0ZX0+CiAgICAgICAgICAgICAgICAgIDxkaXY+Tm92ZW1iZXIsIDEwPC9kaXY+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMueWVhcn0+MjAxOTwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICA8dGQ+JDIwPC90ZD4KICAgICAgICAgICAgICA8dGQ+UGF5b3V0PC90ZD4KICAgICAgICAgICAgICA8dGQ+SW4gUHJvZ3Jlc3M8L3RkPgogICAgICAgICAgICA8L3RyPgo=</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIHNyYz17cXVlc3Rpb259IGFsdD0icXVlc3Rpb24gbWFyayIgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMuZGF0ZX0+CiAgICAgICAgICAgICAgICAgIDxkaXY+RGVjZW1iZXIsIDIzPC9kaXY+CiAgICAgICAgICAgICAgICAgIDxkaXY+MjAxOTwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICA8dGQ+dmFsdWU8L3RkPgogICAgICAgICAgICAgIDx0ZD52YWx1ZTwvdGQ+CiAgICAgICAgICAgICAgPHRkPkVhcm5lZDwvdGQ+CiAgICAgICAgICAgIDwvdHI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMuZGF0ZX0+CiAgICAgICAgICAgICAgICAgIDxkaXY+Tm92ZW1iZXIsIDEwPC9kaXY+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMueWVhcn0+MjAxOTwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICA8dGQ+JDIwPC90ZD4KICAgICAgICAgICAgICA8dGQ+UGF5b3V0PC90ZD4KICAgICAgICAgICAgICA8dGQ+SW4gUHJvZ3Jlc3M8L3RkPgogICAgICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPHRyPgogICAgICAgIDx0ZCBjbGFzc05hbWU9e3N0eWxlcy5sb2FkZXJ9PgogICAgICAgICAgPFNwaW5uZXIgdHlwZT17U3Bpbm5lclR5cGUuU05BS0V9IC8+CiAgICAgICAgPC90ZD4KICAgICAgPC90cj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMuZGF0ZX0+CiAgICAgICAgICAgICAgICAgIDxkaXY+RGVjZW1iZXIsIDIzPC9kaXY+CiAgICAgICAgICAgICAgICAgIDxkaXY+MjAxOTwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICA8dGQ+dmFsdWU8L3RkPgogICAgICAgICAgICAgIDx0ZD52YWx1ZTwvdGQ+CiAgICAgICAgICAgICAgPHRkPkVhcm5lZDwvdGQ+CiAgICAgICAgICAgIDwvdHI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPHRyPgogICAgICAgIDx0ZCBjbGFzc05hbWU9e3N0eWxlcy5sb2FkZXJ9PgogICAgICAgICAgPFNwaW5uZXIgdHlwZT17U3Bpbm5lclR5cGUuU05BS0V9IC8+CiAgICAgICAgPC90ZD4KICAgICAgPC90cj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gKAogICAgPHRyPgogICAgICA8dGQgY2xhc3NOYW1lPXtzdHlsZXMubG9hZGVyfT4KICAgICAgICA8U3Bpbm5lciB0eXBlPXtTcGlubmVyVHlwZS5TTkFLRX0gLz4KICAgICAgPC90ZD4KICAgIDwvdHI+CiAgKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICByZXR1cm4gKAogICAgPHRyPgogICAgICA8dGQgY2xhc3NOYW1lPXtzdHlsZXMubG9hZGVyfT4KICAgICAgICA8U3Bpbm5lciB0eXBlPXtTcGlubmVyVHlwZS5TTkFLRX0gLz4KICAgICAgPC90ZD4KICAgIDwvdHI+CiAgKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9KSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvYWQ6IGZsb3coZnVuY3Rpb24qKCkgewogICAgICB5aWVsZCAndGVzdCc7CiAgICAgIGNvbnNvbGUubG9nKCdsb2FkJyk7CiAgICB9KSwK</text>
+        <text encoding="base64">ICB9KSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -6232,8 +6232,8 @@
         <entry>action $SelectAll</entry>
         <entry>action FileChooser.NewFolder</entry>
         <entry>action MethodHierarchy.OverrideMethodAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
