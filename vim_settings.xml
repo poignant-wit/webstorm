@@ -3418,6 +3418,9 @@
         <mark key="." line="19" column="26" />
         <mark key="^" line="19" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/rads-frontend/src/views/campaign/payment/form/CampaignPaymentFormViewModel.ts" timestamp="1563878329296">
+        <mark key="'" line="15" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/streams/StreamsDataStore.ts" timestamp="1553092283233">
         <mark key="[" line="30" column="21" />
         <mark key="]" line="30" column="24" />
@@ -6190,7 +6193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="308" column="47" filename="$USER_HOME$/Documents/developer-portal-frontend/src/components/common/ProductMenu/ProductMenu.tsx" />
       <jump line="18" column="6" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/campaigns/images/CampaignImageModel.ts" />
       <jump line="42" column="10" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChartsViewModel.ts" />
       <jump line="36" column="18" filename="$USER_HOME$/Documents/restream-marketplace-frontend/src/views/campaign/analytics/charts/CampaignAnalyticsChartsViewModel.ts" />
@@ -6290,6 +6292,7 @@
       <jump line="32" column="2" filename="$USER_HOME$/Documents/restream-frontend/src/views/streamer/payments/transactions/PaymentsTransactions.module.scss" />
       <jump line="30" column="42" filename="$USER_HOME$/Documents/restream-frontend/src/views/streamer/payments/transactions/PaymentsTransactions.module.scss" />
       <jump line="14" column="18" filename="$USER_HOME$/Documents/restream-frontend/src/views/streamer/payments/transactions/PaymentsTransactions.module.scss" />
+      <jump line="15" column="21" filename="$USER_HOME$/Documents/rads-frontend/src/views/campaign/payment/form/CampaignPaymentFormViewModel.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -6299,7 +6302,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>not</text>
+        <text encoding="base64">XDxuZXdQcmljZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAY29tcHV0ZWQgcHVibGljIGdldCBzaG93VHJhbnNhY3Rpb25zTG9hZGVyKCkgewogICAgY29uc3QgeyB1c2VyIH0gPSB0aGlzLnJvb3RTdG9yZS5hdXRoOwogICAgaWYgKHVzZXIpIHsKICAgICAgcmV0dXJuIHVzZXIuc3RyZWFtZXIuYmlsbGluZy5wYXltZW50cy5pc0xvYWRpbmdTdGF0ZTsKICAgIH0KICAgIHJldHVybiBmYWxzZTsKICB9Cg==</text>
@@ -6336,9 +6339,9 @@
       </register>
     </registers>
     <search>
-      <last-search>not</last-search>
+      <last-search encoding="base64">XDxuZXdQcmljZVw+</last-search>
       <last-offset />
-      <last-pattern>not</last-pattern>
+      <last-pattern encoding="base64">XDxuZXdQcmljZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>targetAudience</last-substitute>
       <last-dir>1</last-dir>
@@ -6346,7 +6349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fixed</entry>
         <entry>color</entry>
         <entry>64</entry>
         <entry>10px</entry>
@@ -6366,6 +6368,7 @@
         <entry>fill</entry>
         <entry>1.4</entry>
         <entry>not</entry>
+        <entry encoding="base64">XDxuZXdQcmljZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
