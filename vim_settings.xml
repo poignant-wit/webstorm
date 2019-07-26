@@ -2187,11 +2187,11 @@
         <mark key="." line="19" column="13" />
         <mark key="^" line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/popover/_popover.scss" timestamp="1563949285492">
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="9" column="12" />
-        <mark key="." line="9" column="12" />
-        <mark key="^" line="9" column="12" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/popover/_popover.scss" timestamp="1564128257744">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+        <mark key="^" line="10" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/videos/VideoFromLinkDialog.tsx" timestamp="1553172235074">
         <mark key="[" line="74" column="27" />
@@ -3661,11 +3661,11 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/scss/_colors.scss" timestamp="1564127333683">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="9" column="16" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/scss/_colors.scss" timestamp="1564128029353">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
         <mark key="^" line="4" column="5" />
-        <mark key="." line="9" column="16" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/api/restream/__mocks__/channels.ts" timestamp="1562062767639">
         <mark key="[" line="9" column="0" />
@@ -6378,7 +6378,7 @@
         <text encoding="base64">Ly9MaWdodCB0aGVtZSBjb2xvcnMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8kY29sb3ItZGFyay1mZzogI2EwYTliNTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -6387,25 +6387,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JGJveFNoYWRvdzogMCAxMnB4IDMycHggcmdiYSgwLCAwLCAwLCAwLjUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JGFuaW1hdGlvbi1ob3Zlci10aW1lOiAyMDBtczsK</text>
+        <text encoding="base64">JGJveFNoYWRvdzogMCAxMnB4IDMycHggcmdiYSgwLCAwLCAwLCAwLjUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JGJvcmRlci1yYWRpdXM6IDRweDsK</text>
+        <text encoding="base64">JGFuaW1hdGlvbi1ob3Zlci10aW1lOiAyMDBtczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JGNvbG9yLWZvcmVncm91bmQtZGFyazogI2U2ZTZlNjsK</text>
+        <text encoding="base64">JGJvcmRlci1yYWRpdXM6IDRweDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JGNvbG9yLWRhcmstYmctMTogIzA5MWU0MjsKJGNvbG9yLWRhcmQtYmctMjogIzE3MmI0ZDsK</text>
+        <text encoding="base64">JGNvbG9yLWZvcmVncm91bmQtZGFyazogI2U2ZTZlNjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JGRhcmstbW9kZS1jbGFzczogJyN7JG5zfS1kYXJrJzsK</text>
+        <text encoding="base64">JGNvbG9yLWRhcmstYmctMTogIzA5MWU0MjsKJGNvbG9yLWRhcmQtYmctMjogIzE3MmI0ZDsK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -6458,8 +6458,8 @@
         <entry>action MethodHierarchy.OverrideMethodAction</entry>
         <entry>action $SelectAll</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
