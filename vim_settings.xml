@@ -4123,7 +4123,7 @@
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564493053237">
+      <file name="/Dummy.txt" timestamp="1564501609563">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -6554,8 +6554,8 @@
       <jump line="7" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/streamer/payments/StreamerPaymentsViewModel.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>isLoadingState</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">awo=</text>
       </register>
       <register name="-" type="4">
         <text>isLoadingState</text>
@@ -6567,31 +6567,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnNldExvYWRlZFN0YXRlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICB9IGNhdGNoIChlKSB7CiAgICAgIGNvbnNvbGUubG9nKCdlcnJvcicpOwogICAgICAvLyBUT0RPIGNhdGNoIGVycm9yCiAgICB9Cg==</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyB1c2VyIH0gPSB0aGlzLnJvb3RTdG9yZS5hdXRoOwogICAgICBpZiAodXNlcikgewogICAgICAgIHVzZXIuc3RyZWFtZXIuYmlsbGluZy5hY2NvdW50cy5wYXlwYWwubG9hZCgpOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICB9IGNhdGNoIChlKSB7CiAgICAgIGNvbnNvbGUubG9nKCdlcnJvcicpOwogICAgICAvLyBUT0RPIGNhdGNoIGVycm9yCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICB7dm0uc2hvd0Nvbm5lY3RXaXRoUGF5cGFsQnV0dG9uID8gKAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgeyB1c2VyIH0gPSB0aGlzLnJvb3RTdG9yZS5hdXRoOwogICAgICBpZiAodXNlcikgewogICAgICAgIHVzZXIuc3RyZWFtZXIuYmlsbGluZy5hY2NvdW50cy5wYXlwYWwubG9hZCgpOwogICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICB7dm0uc2hvd0Nvbm5lY3RXaXRoUGF5cGFsQnV0dG9uID8gKAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9CaWxsaW5nQWNjb3VudHMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEJpbGxpbmdBY2NvdW50cyA9IHR5cGVzLm1vZGVsKHsKICBwYXlwYWw6IHR5cGVzLm9wdGlvbmFsKEFjY291bnRzUGF5cGFsLCAoKSA9PiBBY2NvdW50c1BheXBhbC5jcmVhdGUoKSksCn0pOwo=</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9CaWxsaW5nQWNjb3VudHMnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVkaXJlY3QnKTsK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEJpbGxpbmdBY2NvdW50cyA9IHR5cGVzLm1vZGVsKHsKICBwYXlwYWw6IHR5cGVzLm9wdGlvbmFsKEFjY291bnRzUGF5cGFsLCAoKSA9PiBBY2NvdW50c1BheXBhbC5jcmVhdGUoKSksCn0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8aDQgY2xhc3NOYW1lPXtzdHlsZXMudGl0bGV9PlBheVBhbDwvaDQ+Ki99Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVkaXJlY3QnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8aDQgY2xhc3NOYW1lPXtzdHlsZXMudGl0bGV9PlBheVBhbDwvaDQ+Ki99Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
