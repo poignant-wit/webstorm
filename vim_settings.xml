@@ -1600,7 +1600,8 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsListItem/EventsListItem.tsx" timestamp="1554294145586">
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsListItem/EventsListItem.tsx" timestamp="1564480864433">
+        <mark key="'" line="76" column="21" />
         <mark key="[" line="135" column="40" />
         <mark key="]" line="135" column="41" />
         <mark key="^" line="491" column="27" />
@@ -2939,9 +2940,9 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/playlists/components/PlaylistModal.tsx" timestamp="1564047364690">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/playlists/components/PlaylistModal.tsx" timestamp="1564480494313">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="61" />
         <mark key="." line="78" column="0" />
         <mark key="^" line="13" column="26" />
       </file>
@@ -5257,6 +5258,12 @@
         <mark key="." line="31" column="8" />
         <mark key="^" line="31" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/videos/components/VideoUploadProgress.tsx" timestamp="1564480530746">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/services/IntercomService.ts" timestamp="1551772790206">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="26" />
@@ -6341,10 +6348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/product-menu-side.tsx" />
-      <jump line="15" column="36" filename="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/product-menu-side.tsx" />
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/product-menu-side.tsx" />
-      <jump line="22" column="0" filename="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/product-menu-side.tsx" />
       <jump line="71" column="0" filename="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/product-menu-side.tsx" />
       <jump line="58" column="42" filename="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/product-menu-side.tsx" />
       <jump line="16" column="32" filename="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/product-menu-side.tsx" />
@@ -6441,55 +6444,59 @@
       <jump line="87" column="44" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/playlists/components/PlaylistModal.tsx" />
       <jump line="96" column="19" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/playlists/components/PlaylistModal.tsx" />
       <jump line="10" column="66" filename="$USER_HOME$/Documents/restream-frontend/src/views/streamer/payments/paypal/connected/PaypalConnected.tsx" />
+      <jump line="229" column="10" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsListItem/EventsListItem.tsx" />
+      <jump line="215" column="16" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsListItem/EventsListItem.tsx" />
+      <jump line="210" column="10" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsListItem/EventsListItem.tsx" />
+      <jump line="76" column="21" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsListItem/EventsListItem.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pwrops</text>
+        <text>close</text>
       </register>
       <register name="-" type="4">
-        <text>pwrops</text>
+        <text>close</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJY29uXD4=</text>
+        <text encoding="base64">XDxyZW5kZXJBY3Rpb25zQnV0dG9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBncmlkLXRlbXBsYXRlLWNvbHVtbnM6IDFmciAxZnI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IEFycm93RG93bndhcmQgZnJvbSAnQG1hdGVyaWFsLXVpL2ljb25zL0Fycm93RG93bndhcmQnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIElQYXlwYWxMb2dvUHJvcHMge30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IEFycm93RG93bndhcmQgZnJvbSAnQG1hdGVyaWFsLXVpL2ljb25zL0Fycm93RG93bndhcmQnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zml4OiBhIHRvIGJ1dHRvbgo=</text>
+        <text encoding="base64">aW50ZXJmYWNlIElQYXlwYWxMb2dvUHJvcHMge30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvKiBmbGV4OiAxOyAqLwo=</text>
+        <text encoding="base64">Zml4OiBhIHRvIGJ1dHRvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvKiB3aWR0aDogMTAwJTsgKi8K</text>
+        <text encoding="base64">ICAvKiBmbGV4OiAxOyAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAvKiB3aWR0aDogMTAwJTsgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGJsdWU7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICA7Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGJsdWU7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICA7Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>action ImplementMethods</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJY29uXD4=</last-search>
+      <last-search encoding="base64">XDxyZW5kZXJBY3Rpb25zQnV0dG9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJY29uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZW5kZXJBY3Rpb25zQnV0dG9uXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>targetAudience</last-substitute>
       <last-dir>1</last-dir>
@@ -6497,8 +6504,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sub</entry>
-        <entry encoding="base64">XDxQcm9kdWN0TWVudVw+</entry>
         <entry>size</entry>
         <entry encoding="base64">XDxMYXlvdXRDb250YWluZXJcPg==</entry>
         <entry>history</entry>
@@ -6517,6 +6522,8 @@
         <entry encoding="base64">XDxwbGF5bGlzdHNBdmFpbGFibGVcPg==</entry>
         <entry>icon</entry>
         <entry encoding="base64">XDxJY29uXD4=</entry>
+        <entry encoding="base64">XDxyZW5kZXJBY3Rpb25zTWVudVw+</entry>
+        <entry encoding="base64">XDxyZW5kZXJBY3Rpb25zQnV0dG9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -6536,8 +6543,8 @@
         <entry>action $SelectAll</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>action EditorDuplicate</entry>
-        <entry>action GotoFile</entry>
         <entry>action ImplementMethods</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
