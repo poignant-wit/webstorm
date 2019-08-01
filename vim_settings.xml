@@ -1751,11 +1751,6 @@
         <mark key="^" line="34" column="32" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/strtp-sdk/src/index.ts" timestamp="1564325492303">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/pages/SessionPage/SessionPage.tsx" timestamp="1563281241379">
         <mark key="[" line="58" column="30" />
         <mark key="]" line="58" column="33" />
@@ -1821,11 +1816,6 @@
         <mark key="]" line="8" column="59" />
         <mark key="." line="8" column="59" />
         <mark key="^" line="8" column="59" />
-      </file>
-      <file name="$USER_HOME$/Documents/_own/strtp-sdk/src/sdk.ts" timestamp="1564318256675">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/.env.development" timestamp="1556012863792">
         <mark key="[" line="3" column="24" />
@@ -2066,6 +2056,9 @@
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/rads-frontend/src/common/components/RPaymentForm/RPaymentFormViewModel.ts" timestamp="1564652311167">
+        <mark key="'" line="25" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/_own/with-typescript/src/views/share/components/ShareToActivateChoicePanel/ShareToActivateChoicePanel.scss" timestamp="1549983433047">
         <mark key="[" line="5" column="29" />
@@ -3555,6 +3548,12 @@
         <mark key="." line="19" column="26" />
         <mark key="^" line="19" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/rads-frontend/src/views/campaign/payment/form/CampaignPaymentFormViewModel.ts" timestamp="1564652387731">
+        <mark key="[" line="41" column="35" />
+        <mark key="]" line="41" column="35" />
+        <mark key="^" line="41" column="35" />
+        <mark key="." line="41" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/developer-portal-frontend/src/analytics/store/streams/StreamsDataStore.ts" timestamp="1553092283233">
         <mark key="[" line="30" column="21" />
         <mark key="]" line="30" column="24" />
@@ -4418,11 +4417,6 @@
         <mark key="]" line="2" column="13" />
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/streamer/payments/StreamerPaymentsViewModel.ts" timestamp="1564495892018">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-marketplace-frontend/src/store/routing/history.ts" timestamp="1558005287817">
         <mark key="[" line="0" column="43" />
@@ -6436,7 +6430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="32" filename="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/product-menu-side.tsx" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/product-menu-side.tsx" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/product-menu-side.tsx" />
       <jump line="72" column="0" filename="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/product-menu-side.tsx" />
@@ -6536,6 +6529,7 @@
       <jump line="76" column="21" filename="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsListItem/EventsListItem.tsx" />
       <jump line="7" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/streamer/payments/StreamerPaymentsViewModel.ts" />
       <jump line="104" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/views/streamer/payments/paypal/PaymentsPaypalViewModel.ts" />
+      <jump line="25" column="21" filename="$USER_HOME$/Documents/rads-frontend/src/common/components/RPaymentForm/RPaymentFormViewModel.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -6545,7 +6539,7 @@
         <text>teo</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXlwYWxVcmxcPg==</text>
+        <text encoding="base64">XDxzaG93UHJvY2Vzc2luZ1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxDYXJkPgogICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmNvbnRhaW5lcn0+CiAgICAgICAgPFBheXBhbExvZ28gLz4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmNvbnRlbnR9Pgo=</text>
@@ -6582,9 +6576,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXlwYWxVcmxcPg==</last-search>
+      <last-search encoding="base64">XDxzaG93UHJvY2Vzc2luZ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXlwYWxVcmxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzaG93UHJvY2Vzc2luZ1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>targetAudience</last-substitute>
       <last-dir>1</last-dir>
@@ -6592,7 +6586,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMYXlvdXRDb250YWluZXJcPg==</entry>
         <entry>history</entry>
         <entry encoding="base64">XDxMb2dvXD4=</entry>
         <entry>logo</entry>
@@ -6612,6 +6605,7 @@
         <entry encoding="base64">XDxyZW5kZXJBY3Rpb25zTWVudVw+</entry>
         <entry encoding="base64">XDxyZW5kZXJBY3Rpb25zQnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxwYXlwYWxVcmxcPg==</entry>
+        <entry encoding="base64">XDxzaG93UHJvY2Vzc2luZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
