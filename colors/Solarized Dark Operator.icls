@@ -4,7 +4,7 @@
     <property name="created">2019-04-23T21:23:51</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-01-20T16:27:12</property>
+    <property name="modified">2020-01-27T14:19:25</property>
     <property name="originalScheme">Solarized Dark My copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -1008,6 +1008,15 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="ELIXIR_ALIAS" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="ELIXIR_CHAR_LIST">
+      <value />
+    </option>
+    <option name="ELIXIR_FUNCTION_CALL">
+      <value />
+    </option>
+    <option name="ELIXIR_MACRO_CALL" baseAttributes="ELIXIR_FUNCTION_CALL" />
+    <option name="ELIXIR_STRUCT" baseAttributes="ELIXIR_MAP" />
     <option name="EL_BACKGROUND">
       <value>
         <option name="BACKGROUND" value="73642" />
