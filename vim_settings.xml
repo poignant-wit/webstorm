@@ -44,8 +44,8 @@
         <entry>action ReformatCode</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>.,.+8action GotoFile</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action $SelectAll</entry>
+        <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
@@ -104,14 +104,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587396030116">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1587449484909">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/elements/icon/Icon.tsx" timestamp="1587468162210">
+        <mark key="[" line="51" column="11" />
+        <mark key="]" line="51" column="19" />
+        <mark key="." line="51" column="18" />
+        <mark key="^" line="51" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/components/stream-setup-form/StreamSetupPopupEmbedForm.tsx" timestamp="1587390576040">
         <mark key="'" line="57" column="13" />
@@ -126,6 +123,47 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="7" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/elements/callout/Callout.tsx" timestamp="1587390843481">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="40" />
+        <mark key="^" line="12" column="40" />
+        <mark key="." line="12" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/elements/select/Select.tsx" timestamp="1587467647073">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/TitlesPage.tsx" timestamp="1587389094472">
+        <mark key="[" line="109" column="43" />
+        <mark key="]" line="109" column="69" />
+        <mark key="." line="109" column="69" />
+        <mark key="^" line="109" column="69" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/components/platform-item/PlatformItem.tsx" timestamp="1587468642552">
+        <mark key="'" line="127" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/components/platform-item/form/Form.tsx" timestamp="1587469000896">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="96" column="15" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587467720574">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/api.ts" timestamp="1587469183983">
+        <mark key="[" line="54" column="40" />
+        <mark key="]" line="54" column="49" />
+        <mark key="^" line="54" column="49" />
+        <mark key="." line="54" column="48" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1587449484909">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/elements/textarea/Textarea.module.scss" timestamp="1587388915637">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -138,59 +176,17 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/elements/callout/Callout.tsx" timestamp="1587390843481">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="40" />
-        <mark key="^" line="12" column="40" />
-        <mark key="." line="12" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/elements/select/Select.tsx" timestamp="1587462955302">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/components/platform-item/header/Header.tsx" timestamp="1587465369462">
         <mark key="[" line="39" column="14" />
         <mark key="]" line="39" column="37" />
         <mark key="^" line="39" column="37" />
         <mark key="." line="39" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/elements/input/Input.module.scss" timestamp="1587388899103">
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="9" column="1" />
-        <mark key="." line="9" column="1" />
-        <mark key="^" line="9" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/TitlesPage.tsx" timestamp="1587389094472">
-        <mark key="[" line="109" column="43" />
-        <mark key="]" line="109" column="69" />
-        <mark key="." line="109" column="69" />
-        <mark key="^" line="109" column="69" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/components/platform-item/PlatformItem.tsx" timestamp="1587466131352">
-        <mark key="'" line="117" column="55" />
-        <mark key="[" line="138" column="49" />
-        <mark key="]" line="138" column="60" />
-        <mark key="." line="138" column="59" />
-        <mark key="^" line="138" column="60" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/elements/button/Button.tsx" timestamp="1587388707972">
-        <mark key="[" line="28" column="60" />
-        <mark key="]" line="28" column="60" />
-        <mark key="^" line="28" column="45" />
-        <mark key="." line="28" column="60" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/elements/icon/Icon.module.scss" timestamp="1587395982083">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="11" />
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/components/platform-item/form/Form.tsx" timestamp="1587466169558">
-        <mark key="[" line="124" column="32" />
-        <mark key="]" line="124" column="50" />
-        <mark key="." line="124" column="49" />
-        <mark key="^" line="124" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/TitlesEmbedPage.tsx" timestamp="1587390523854">
         <mark key="[" line="31" column="4" />
@@ -330,46 +326,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>'test'</text>
+        <text>gwgaameId</text>
       </register>
       <register name="-" type="4">
-        <text>'test'</text>
+        <text>gwgaameId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxsb3V0VGV4dFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUb29sdGlwCiAgICAgICAgICAgIHRvb2x0aXA9ewogICAgICAgICAgICAgICdDdXJyZW50bHkgYXZhaWxhYmxlIG9ubHkgZm9yIFlvdXR1YmUsIEZhY2Vib29rLCBWSywgTGlua2VkaW4sIERMaXZlLCBEYWlseU1vdGlvbicKICAgICAgICAgICAgfQogICAgICAgICAgICBwbGFjZW1lbnQ9InJpZ2h0IgogICAgICAgICAgPgogICAgICAgICAgICA8SWNvbiBzaXplPXsxNn0gaWNvbj17J3F1ZXN0aW9uJ30gaG92ZXJhYmxlPXt0cnVlfSAvPgogICAgICAgICAgPC9Ub29sdGlwPgo=</text>
+        <text encoding="base64">ICAgIGlmICh0eXBlb2YgaW5mby5nYW1lSWQgIT09ICd1bmRlZmluZWQnKSB7CiAgICAgIGZvcm1EYXRhLmFwcGVuZCgnZ2FtZUlkJywgaW5mby5nYW1lSWQpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdDdXJyZW50bHkgYXZhaWxhYmxlIG9ubHkgZm9yIFlvdXR1YmUsIEZhY2Vib29rLCBWSywgTGlua2VkaW4sIERMaXZlLCBEYWlseU1vdGlvbicK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWxlY3RlZEdhbWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgey8qPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5zcGFjZX0gLz4qL30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYW5uZWxHYW1lU3VwcG9ydGVkICYmIGNoYW5uZWwucGxhdGZvcm0gIT09IFBsYXRmb3JtLlRXSVRDSAogICAgICAgICAgICAgICAgICA/IHQoJ3RpdGxlc19hZGRlZF92aWFfYXBpX2dhbWVfaW5wdXRfbGFiZWwnKQogICAgICAgICAgICAgICAgICA6IHQoJ3RpdGxlc19jYXRlZ29yeScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpbml0aWFsR2FtZXM9e2luaXRpYWxHYW1lc30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAuc3BhY2UgewogICAgZmxleC1ncm93OiAxOwogIH0K</text>
+        <text encoding="base64">ICAgIHF1ZXN0aW9uCiAgICBxdWVzdGlvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>fix: outline buttons styles</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1c2VFZmZlY3QsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4gewogICAgc2VsZWN0ZWRHYW1lUmVmLmN1cnJlbnQgPSBzZWxlY3RlZEdhbWU7CiAgfSwgW3NlbGVjdGVkR2FtZV0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
