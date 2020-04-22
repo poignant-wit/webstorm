@@ -189,11 +189,11 @@
         <mark key="]" line="303" column="7" />
         <mark key="." line="303" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587566425000">
+      <file name="/Dummy.txt" timestamp="1587570420483">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="17" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/api.ts" timestamp="1587566335340" />
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/elements/textarea/Textarea.tsx" timestamp="1587570027432">
@@ -326,8 +326,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>styles</text>
+      <register name="&quot;" type="2">
+        <text>fix: handle errors</text>
       </register>
       <register name="-" type="4">
         <text>styles</text>
@@ -339,34 +339,34 @@
         <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL1N0cmVhbVNldHVwRm9ybS5tb2R1bGUuc2Nzcyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmlucHV0IHsKICBiYWNrZ3JvdW5kOiByZ2IoMzcsIDU2LCA4OCk7Cn0K</text>
+        <text>fix: handle errors</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2xhc3NOYW1lPXtzdHlsZXMudGV4dGFyZWF9Cg==</text>
+        <text encoding="base64">LmlucHV0IHsKICBiYWNrZ3JvdW5kOiByZ2IoMzcsIDU2LCA4OCk7Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text>feat: titles golive embed</text>
+        <text encoding="base64">ICAgICAgY2xhc3NOYW1lPXtzdHlsZXMudGV4dGFyZWF9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgcmVzcG9uc2VUb0Vycm9yKGJvZHkpOwo=</text>
+        <text>feat: titles golive embed</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgcmVzcG9uc2VUb0Vycm9yKGJvZHkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbGx5IHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHN1Y2Nlc3NDb3VudCA9IHJlc3VsdHMucmVkdWNlKChhY2MsIGkpID0+IHsKICAgICAgICAgICAgaWYgKGkpIHsKICAgICAgICAgICAgICByZXR1cm4gYWNjICsgMTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gYWNjOwogICAgICAgICAgfSwgMCk7CgogICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgY291bnQ6IHJlc3VsdHMubGVuZ3RoLAogICAgICAgICAgICBzdWNjZXNzOiBzdWNjZXNzQ291bnQsCiAgICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbGx5IHsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
