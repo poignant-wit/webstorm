@@ -18,13 +18,13 @@
         <entry encoding="base64">XDxyZXNwb25zZVRvRXJyb3JcPg==</entry>
         <entry encoding="base64">XDxpc0Vycm9yUmVzcG9uc2VcPg==</entry>
         <entry encoding="base64">XDxjYXRlZ29yaWVzXD4=</entry>
-        <entry encoding="base64">XDxJY29uXD4=</entry>
         <entry encoding="base64">XDxjYWxsb3V0VGV4dFw+</entry>
         <entry encoding="base64">XDxjaGFydFw+</entry>
         <entry encoding="base64">XDxwaWVcPg==</entry>
         <entry encoding="base64">XDx0YWJsZVw+</entry>
         <entry encoding="base64">XDxyZW5kZXJWaWV3ZXJzSGVhZGVyXD4=</entry>
         <entry encoding="base64">XDxjaGFubmVsc1w+</entry>
+        <entry encoding="base64">XDxJY29uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action TypeHierarchy</entry>
@@ -104,12 +104,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1587549964706">
-        <mark key="[" line="35" column="19" />
-        <mark key="]" line="35" column="26" />
-        <mark key="." line="35" column="25" />
-        <mark key="^" line="35" column="26" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/channels-table/channels-table.tsx" timestamp="1587547169994">
         <mark key="'" line="16" column="21" />
       </file>
@@ -132,14 +126,18 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/components/platform-item/PlatformItem.tsx" timestamp="1587551582863">
+        <mark key="'" line="127" column="55" />
+        <mark key="[" line="39" column="31" />
+        <mark key="]" line="39" column="31" />
+        <mark key="." line="39" column="30" />
+        <mark key="^" line="39" column="31" />
+      </file>
       <file name="/Dummy.txt" timestamp="1587547292025">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="17" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1587477368065">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-container/chart-container.module.scss" timestamp="1587541014801">
         <mark key="[" line="42" column="33" />
@@ -174,12 +172,6 @@
         <mark key="." line="50" column="19" />
         <mark key="^" line="50" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-landings/src/page-pricing-individuals/store/PromoCodeStore.ts" timestamp="1587477137150">
-        <mark key="[" line="29" column="57" />
-        <mark key="]" line="29" column="107" />
-        <mark key="." line="29" column="106" />
-        <mark key="^" line="29" column="107" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/SessionPage/SessionPage.tsx" timestamp="1587547403705" />
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/scss/colors.scss" timestamp="1587543347039">
         <mark key="[" line="5" column="9" />
@@ -193,9 +185,15 @@
         <mark key="^" line="25" column="44" />
         <mark key="." line="25" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/components/stream-setup-form/StreamSetupForm.tsx" timestamp="1587551499079">
+        <mark key="'" line="63" column="13" />
+        <mark key="[" line="93" column="56" />
+        <mark key="]" line="93" column="60" />
+        <mark key="^" line="93" column="60" />
+        <mark key="." line="93" column="59" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="7" filename="$USER_HOME$/Documents/analytics-frontend/src/components/common/Portal/Portal.tsx" />
       <jump line="32" column="31" filename="$USER_HOME$/Documents/analytics-frontend/src/pages/AudiencePage/AudienceViewModel.ts" />
       <jump line="13" column="6" filename="$USER_HOME$/Documents/analytics-frontend/src/store/makeRootStore.ts" />
       <jump line="51" column="19" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/chat-aggs-chatters-top/chat-aggs-chatters-top.tsx" />
@@ -289,57 +287,58 @@
       <jump line="87" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
       <jump line="76" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
       <jump line="74" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
-      <jump line="69" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
       <jump line="30" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
+      <jump line="69" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
+      <jump line="63" column="13" filename="$USER_HOME$/Documents/restream-frontend/src/views/titles/components/stream-setup-form/StreamSetupForm.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>(if: $includeViewers)</text>
+        <text>question</text>
       </register>
       <register name="-" type="4">
-        <text>(if: $includeViewers)</text>
+        <text>question</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFubmVsc1w+</text>
+        <text encoding="base64">XDxJY29uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCB7IHByb3BzOiBmb2xsb3dlcnNRdWVyeVByb3BzLCBlcnJvcjogZm9sbG93ZXJzUXVlcnlFcnJvciB9ID0gdXNlUXVlcnk8CiAgICBzZXNzaW9uUGFnZUZvbGxvd2Vyc1F1ZXJ5CiAgPihGT0xMT1dFUlNfUVVFUlksIHsKICAgIHNlc3Npb25JZCwKICAgIGluY2x1ZGU6IHNlbGVjdGVkVGFiID09PSBBZ2dzLkZPTExPV0VSUywKICB9KTsK</text>
+        <text encoding="base64">ICBjb25zdCB7IHByb3BzOiBjaGF0UXVlcnlQcm9wcywgZXJyb3I6IGNoYXRRdWVyeUVycm9yIH0gPSB1c2VRdWVyeTwKICAgIHNlc3Npb25QYWdlQ2hhdFF1ZXJ5CiAgPihDSEFUX1FVRVJZLCB7CiAgICBzZXNzaW9uSWQsCiAgICBpbmNsdWRlOgogICAgICBzZWxlY3RlZFRhYiA9PT0gQWdncy5DSEFUX01FU1NBR0VTIHx8IHNlbGVjdGVkVGFiID09PSBBZ2dzLkNIQVRfVFJFTkRTLAogIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICRpbmNsdWRlVmlld2VyczogQm9vbGVhbiEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLi4uY2hhcnRTZXNzaW9uX2FnZ0NoYXQKICAgICAgICAgICAgLi4uY2hhbm5lbHNUYWJsZV9hZ2dDaGF0CiAgICAgICAgICAgIC4uLmNoYXRBZ2dzQ2hhdHRlcnNUb3BfYWdncwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICRpbmNsdWRlQ2hhdDogQm9vbGVhbiEK</text>
+        <text encoding="base64">ICAgICAgaW5jbHVkZVZpZXdlcnM6IHNlbGVjdGVkVGFiID09PSBBZ2dzLlZJRVdFUlMsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2dzQ2hhdDogYWdncyBAaW5jbHVkZShpZjogJGluY2x1ZGVDaGF0KSB7CiAgICAgICAgICBjaGF0IHsKICAgICAgICAgICAgLi4uY2hhcnRTZXNzaW9uX2FnZ0NoYXQKICAgICAgICAgICAgLi4uY2hhbm5lbHNUYWJsZV9hZ2dDaGF0CiAgICAgICAgICAgIC4uLmNoYXRBZ2dzQ2hhdHRlcnNUb3BfYWdncwogICAgICAgICAgICAuLi5jaGF0QWdnc1BvcHVsYXJQaHJhc2VzX2FnZ3MKICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgc2Vzc2lvblBhZ2VRdWVyeSB9IGZyb20gJ25leHQvcGFnZXMvc2Vzc2lvbi9fX2dlbmVyYXRlZF9fL3Nlc3Npb25QYWdlUXVlcnkuZ3JhcGhxbCc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaW5jbHVkZUNoYXQ6CiAgICAgICAgc2VsZWN0ZWRUYWIgPT09IEFnZ3MuQ0hBVF9NRVNTQUdFUyB8fCBzZWxlY3RlZFRhYiA9PT0gQWdncy5DSEFUX1RSRU5EUywK</text>
+        <text encoding="base64">ICAgICRpbmNsdWRlVmlld2VyczogQm9vbGVhbiEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFnZ3NGb2xsb3dlcnM6IGFnZ3MgewogICAgICAgICAgICAgICAgICAgIHN0cmVhbWluZyB7CiAgICAgICAgICAgICAgICAgICAgICAgIC4uLmNoYXJ0U2Vzc2lvbl9hZ2dGb2xsb3dlcnMKICAgICAgICAgICAgICAgICAgICAgICAgLi4uY2hhbm5lbHNUYWJsZV9hZ2dGb2xsb3dlcnMKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICRpbmNsdWRlQ2hhdDogQm9vbGVhbiEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICRpbmNsdWRlRm9sbG93ZXJzOiBCb29sZWFuIQo=</text>
+        <text encoding="base64">ICAgICAgICBhZ2dzQ2hhdDogYWdncyBAaW5jbHVkZShpZjogJGluY2x1ZGVDaGF0KSB7CiAgICAgICAgICBjaGF0IHsKICAgICAgICAgICAgLi4uY2hhcnRTZXNzaW9uX2FnZ0NoYXQKICAgICAgICAgICAgLi4uY2hhbm5lbHNUYWJsZV9hZ2dDaGF0CiAgICAgICAgICAgIC4uLmNoYXRBZ2dzQ2hhdHRlcnNUb3BfYWdncwogICAgICAgICAgICAuLi5jaGF0QWdnc1BvcHVsYXJQaHJhc2VzX2FnZ3MKICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaW5jbHVkZUZvbGxvd2Vyczogc2VsZWN0ZWRUYWIgPT09IEFnZ3MuRk9MTE9XRVJTLAo=</text>
+        <text encoding="base64">ICAgICAgaW5jbHVkZUNoYXQ6CiAgICAgICAgc2VsZWN0ZWRUYWIgPT09IEFnZ3MuQ0hBVF9NRVNTQUdFUyB8fCBzZWxlY3RlZFRhYiA9PT0gQWdncy5DSEFUX1RSRU5EUywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2dzRm9sbG93ZXJzOiBhZ2dzIEBpbmNsdWRlKGlmOiAkaW5jbHVkZUZvbGxvd2VycykgewogICAgICAgICAgc3RyZWFtaW5nIHsKICAgICAgICAgICAgLi4uY2hhcnRTZXNzaW9uX2FnZ0ZvbGxvd2VycwogICAgICAgICAgICAuLi5jaGFubmVsc1RhYmxlX2FnZ0ZvbGxvd2VycwogICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFnZ3NGb2xsb3dlcnM6IGFnZ3MgewogICAgICAgICAgICAgICAgICAgIHN0cmVhbWluZyB7CiAgICAgICAgICAgICAgICAgICAgICAgIC4uLmNoYXJ0U2Vzc2lvbl9hZ2dGb2xsb3dlcnMKICAgICAgICAgICAgICAgICAgICAgICAgLi4uY2hhbm5lbHNUYWJsZV9hZ2dGb2xsb3dlcnMKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLi4uY2hhcnRTZXNzaW9uX2FnZ1ZpZXdlcnMKICAgICAgICAgICAgLi4uY2hhbm5lbHNUYWJsZV9hZ2dWaWV3ZXJzCiAgICAgICAgICAgIC4uLmNoYXJ0QXZnVmlld2Vyc19hZ2dWaWV3ZXJzCg==</text>
+        <text encoding="base64">ICAgICRpbmNsdWRlRm9sbG93ZXJzOiBCb29sZWFuIQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -348,9 +347,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjaGFubmVsc1w+</last-search>
+      <last-search encoding="base64">XDxJY29uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFubmVsc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxJY29uXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaXJzdElkSW5NZXNzYWdlV29yZDJcPg==</last-substitute>
       <last-dir>1</last-dir>
