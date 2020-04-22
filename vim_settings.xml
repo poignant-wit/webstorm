@@ -132,17 +132,23 @@
         <mark key="." line="131" column="0" />
         <mark key="^" line="127" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/Jenkinsfile" timestamp="1587559226130">
+        <mark key="[" line="50" column="51" />
+        <mark key="]" line="50" column="52" />
+        <mark key="^" line="50" column="39" />
+        <mark key="." line="50" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/actions.ts" timestamp="1587553112692">
         <mark key="[" line="186" column="20" />
         <mark key="]" line="186" column="34" />
         <mark key="." line="186" column="33" />
         <mark key="^" line="186" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587556961983">
+      <file name="/Dummy.txt" timestamp="1587559229205">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="42" />
-        <mark key="^" line="0" column="42" />
-        <mark key="." line="0" column="41" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/channels-table/channel-name.tsx" timestamp="1587546682374">
         <mark key="[" line="29" column="20" />
@@ -179,12 +185,6 @@
         <mark key="]" line="6" column="43" />
         <mark key="." line="6" column="43" />
         <mark key="^" line="13" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-container/chart-container.tsx" timestamp="1587541854962">
-        <mark key="[" line="25" column="19" />
-        <mark key="]" line="25" column="44" />
-        <mark key="^" line="25" column="44" />
-        <mark key="." line="25" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/elements/select/Select.scss" timestamp="1587555567746">
         <mark key="'" line="47" column="5" />
@@ -311,7 +311,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>fix: colors</text>
+        <text>fix: async selector behaviour on menu open</text>
       </register>
       <register name="-" type="4">
         <text>channelData</text>
@@ -323,34 +323,34 @@
         <text encoding="base64">ICAgIHNlbGVjdGVkR2FtZVJlZi5jdXJyZW50ID0gdmFsdWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>fix: colors</text>
+        <text>fix: async selector behaviour on menu open</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdlZmZlY3QnKTsK</text>
+        <text>fix: colors</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYW5uZWwuc3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdlZmZlY3QnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gc2V0U2VsZWN0ZWRHYW1lKHNlbGVjdGVkR2FtZVJlZi5jdXJyZW50KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYW5uZWwuc3RhdGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9uRm9jdXM9eygpID0+IHNldFNlbGVjdGVkR2FtZShudWxsKX0KICAgICAgICAgICAgICAgIC8vIG9uQmx1cj17KCkgPT4gewogICAgICAgICAgICAgICAgLy8gICBzZXRTZWxlY3RlZEdhbWUoc2VsZWN0ZWRHYW1lUmVmLmN1cnJlbnQpOwogICAgICAgICAgICAgICAgLy8gfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gc2V0U2VsZWN0ZWRHYW1lKHNlbGVjdGVkR2FtZVJlZi5jdXJyZW50KTsK</text>
       </register>
       <register name="6" type="2">
-        <text>fix: selected category after update</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9uRm9jdXM9eygpID0+IHNldFNlbGVjdGVkR2FtZShudWxsKX0KICAgICAgICAgICAgICAgIC8vIG9uQmx1cj17KCkgPT4gewogICAgICAgICAgICAgICAgLy8gICBzZXRTZWxlY3RlZEdhbWUoc2VsZWN0ZWRHYW1lUmVmLmN1cnJlbnQpOwogICAgICAgICAgICAgICAgLy8gfX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uTWVudU9wZW49eygpID0+IHsKICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ21lbm8gb3BlbicpOwogICAgICAgICAgICAgICAgfX0K</text>
+        <text>fix: selected category after update</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCB0ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uTWVudU9wZW49eygpID0+IHsKICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ21lbm8gb3BlbicpOwogICAgICAgICAgICAgICAgfX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCB0ZXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
