@@ -104,12 +104,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1587547944854">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="69" column="21" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1587549964706">
+        <mark key="[" line="35" column="19" />
+        <mark key="]" line="35" column="26" />
+        <mark key="." line="35" column="25" />
+        <mark key="^" line="35" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/channels-table/channels-table.tsx" timestamp="1587547169994">
         <mark key="'" line="16" column="21" />
@@ -300,47 +299,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICRpbmNsdWRlRm9sbG93ZXJzOiBCb29sZWFuIQo=</text>
+      <register name="&quot;" type="4">
+        <text>(if: $includeViewers)</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>(if: $includeViewers)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLi4uY2hhcnRTZXNzaW9uX2FnZ0ZvbGxvd2VycwogICAgICAgICAgICAuLi5jaGFubmVsc1RhYmxlX2FnZ0ZvbGxvd2Vycwo=</text>
+        <text encoding="base64">ICBjb25zdCB7IHByb3BzOiBmb2xsb3dlcnNRdWVyeVByb3BzLCBlcnJvcjogZm9sbG93ZXJzUXVlcnlFcnJvciB9ID0gdXNlUXVlcnk8CiAgICBzZXNzaW9uUGFnZUZvbGxvd2Vyc1F1ZXJ5CiAgPihGT0xMT1dFUlNfUVVFUlksIHsKICAgIHNlc3Npb25JZCwKICAgIGluY2x1ZGU6IHNlbGVjdGVkVGFiID09PSBBZ2dzLkZPTExPV0VSUywKICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICRpbmNsdWRlRm9sbG93ZXJzOiBCb29sZWFuIQo=</text>
+        <text encoding="base64">ICAgICRpbmNsdWRlVmlld2VyczogQm9vbGVhbiEK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaW5jbHVkZUZvbGxvd2Vyczogc2VsZWN0ZWRUYWIgPT09IEFnZ3MuRk9MTE9XRVJTLAo=</text>
+        <text encoding="base64">ICAgICRpbmNsdWRlQ2hhdDogQm9vbGVhbiEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2dzRm9sbG93ZXJzOiBhZ2dzIEBpbmNsdWRlKGlmOiAkaW5jbHVkZUZvbGxvd2VycykgewogICAgICAgICAgc3RyZWFtaW5nIHsKICAgICAgICAgICAgLi4uY2hhcnRTZXNzaW9uX2FnZ0ZvbGxvd2VycwogICAgICAgICAgICAuLi5jaGFubmVsc1RhYmxlX2FnZ0ZvbGxvd2VycwogICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhZ2dzQ2hhdDogYWdncyBAaW5jbHVkZShpZjogJGluY2x1ZGVDaGF0KSB7CiAgICAgICAgICBjaGF0IHsKICAgICAgICAgICAgLi4uY2hhcnRTZXNzaW9uX2FnZ0NoYXQKICAgICAgICAgICAgLi4uY2hhbm5lbHNUYWJsZV9hZ2dDaGF0CiAgICAgICAgICAgIC4uLmNoYXRBZ2dzQ2hhdHRlcnNUb3BfYWdncwogICAgICAgICAgICAuLi5jaGF0QWdnc1BvcHVsYXJQaHJhc2VzX2FnZ3MKICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLi4uY2hhcnRTZXNzaW9uX2FnZ1ZpZXdlcnMKICAgICAgICAgICAgLi4uY2hhbm5lbHNUYWJsZV9hZ2dWaWV3ZXJzCiAgICAgICAgICAgIC4uLmNoYXJ0QXZnVmlld2Vyc19hZ2dWaWV3ZXJzCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgaW5jbHVkZUNoYXQ6CiAgICAgICAgc2VsZWN0ZWRUYWIgPT09IEFnZ3MuQ0hBVF9NRVNTQUdFUyB8fCBzZWxlY3RlZFRhYiA9PT0gQWdncy5DSEFUX1RSRU5EUywK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFnZ3NGb2xsb3dlcnM6IGFnZ3MgewogICAgICAgICAgICAgICAgICAgIHN0cmVhbWluZyB7CiAgICAgICAgICAgICAgICAgICAgICAgIC4uLmNoYXJ0U2Vzc2lvbl9hZ2dGb2xsb3dlcnMKICAgICAgICAgICAgICAgICAgICAgICAgLi4uY2hhbm5lbHNUYWJsZV9hZ2dGb2xsb3dlcnMKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaW5jbHVkZVZpZXdlcnM6IHNlbGVjdGVkVGFiID09PSBBZ2dzLlZJRVdFUlMsCg==</text>
+        <text encoding="base64">ICAgICRpbmNsdWRlRm9sbG93ZXJzOiBCb29sZWFuIQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRpbmNsdWRlRm9sbG93ZXJzOiBCb29sZWFuIQogICAgJGluY2x1ZGVDaGF0OiBCb29sZWFuIQo=</text>
+        <text encoding="base64">ICAgICAgaW5jbHVkZUZvbGxvd2Vyczogc2VsZWN0ZWRUYWIgPT09IEFnZ3MuRk9MTE9XRVJTLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZAogICAgICAgIHN0YXJ0VGltZXN0YW1wCiAgICAgICAgZW5kVGltZXN0YW1wCg==</text>
+        <text encoding="base64">ICAgICAgICBhZ2dzRm9sbG93ZXJzOiBhZ2dzIEBpbmNsdWRlKGlmOiAkaW5jbHVkZUZvbGxvd2VycykgewogICAgICAgICAgc3RyZWFtaW5nIHsKICAgICAgICAgICAgLi4uY2hhcnRTZXNzaW9uX2FnZ0ZvbGxvd2VycwogICAgICAgICAgICAuLi5jaGFubmVsc1RhYmxlX2FnZ0ZvbGxvd2VycwogICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2dzRm9sbG93ZXJzOiBhZ2dzIEBpbmNsdWRlKGlmOiAkaW5jbHVkZUZvbGxvd2VycykgewogICAgICAgICAgc3RyZWFtaW5nIHsKICAgICAgICAgICAgLi4uY2hhcnRTZXNzaW9uX2FnZ0ZvbGxvd2VycwogICAgICAgICAgICAuLi5jaGFubmVsc1RhYmxlX2FnZ0ZvbGxvd2VycwogICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBhZ2dzQ2hhdDogYWdncyBAaW5jbHVkZShpZjogJGluY2x1ZGVDaGF0KSB7CiAgICAgICAgICBjaGF0IHsKICAgICAgICAgICAgLi4uY2hhcnRTZXNzaW9uX2FnZ0NoYXQKICAgICAgICAgICAgLi4uY2hhbm5lbHNUYWJsZV9hZ2dDaGF0CiAgICAgICAgICAgIC4uLmNoYXRBZ2dzQ2hhdHRlcnNUb3BfYWdncwogICAgICAgICAgICAuLi5jaGF0QWdnc1BvcHVsYXJQaHJhc2VzX2FnZ3MKICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLi4uY2hhcnRTZXNzaW9uX2FnZ1ZpZXdlcnMKICAgICAgICAgICAgLi4uY2hhbm5lbHNUYWJsZV9hZ2dWaWV3ZXJzCiAgICAgICAgICAgIC4uLmNoYXJ0QXZnVmlld2Vyc19hZ2dWaWV3ZXJzCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
