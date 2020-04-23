@@ -114,11 +114,11 @@
         <mark key="." line="31" column="34" />
         <mark key="^" line="31" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-chatters-top/session-chart-chatters-top.tsx" timestamp="1587658235563">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-chatters-top/session-chart-chatters-top.tsx" timestamp="1587659020885">
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="33" />
         <mark key="^" line="65" column="27" />
-        <mark key="." line="1" column="0" />
+        <mark key="." line="20" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-line/session-chart-line.tsx" timestamp="1587658180924">
         <mark key="[" line="6" column="0" />
@@ -130,6 +130,11 @@
         <mark key="[" line="11" column="13" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-chatters-top/session-chart-chatters-top.module.scss" timestamp="1587659236034">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="/GraphQL.variables.json" timestamp="1587656503770">
         <mark key="[" line="0" column="0" />
@@ -145,11 +150,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="42" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1587658146208">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
-        <mark key="^" line="103" column="48" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1587660017202">
+        <mark key="[" line="326" column="23" />
+        <mark key="]" line="326" column="30" />
+        <mark key="." line="326" column="29" />
+        <mark key="^" line="326" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/useSelectedTargets.ts" timestamp="1587656598767">
         <mark key="[" line="2" column="0" />
@@ -163,18 +168,11 @@
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/files/processVideoFile.ts" timestamp="1587649131223">
-        <mark key="'" line="98" column="14" />
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" timestamp="1587658004915">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="18" column="39" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" timestamp="1587659924194">
+        <mark key="[" line="0" column="42" />
+        <mark key="]" line="0" column="77" />
+        <mark key="." line="0" column="76" />
+        <mark key="^" line="0" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/session-followers-counters.tsx" timestamp="1587656980748">
         <mark key="[" line="9" column="9" />
@@ -204,6 +202,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.module.scss" timestamp="1587660000562">
+        <mark key="[" line="69" column="35" />
+        <mark key="]" line="69" column="37" />
+        <mark key="." line="69" column="36" />
+        <mark key="^" line="69" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -311,11 +315,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY2hhdEFnZ3NDaGF0dGVyc1RvcF9hZ2dzIH0gZnJvbSAnbmV4dC9wYWdlcy9zZXNzaW9uL3Nlc3Npb24tY2hhcnQtY2hhdHRlcnMtdG9wL19fZ2VuZXJhdGVkX18vY2hhdEFnZ3NDaGF0dGVyc1RvcF9hZ2dzLmdyYXBocWwnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGxvYWRUb1MzVVNcPg==</text>
@@ -324,34 +328,34 @@
         <text encoding="base64">ICAgICAgY2FzZSBBZ2dzLkZPTExPV0VSUzoKICAgICAgICByZXR1cm4gKAogICAgICAgICAgPFNlc3Npb25Gb2xsb3dlcnNDb3VudGVyc0ZyYWdtZW50CiAgICAgICAgICAgIHNlbGVjdGVkPXtzZWxlY3RlZENoYW5uZWxzfQogICAgICAgICAgICBhZ2dzPXtwYXRoT3IoCiAgICAgICAgICAgICAgW10sCiAgICAgICAgICAgICAgWyd2aWV3ZXInLCAnc2Vzc2lvbicsICdhZ2dzRm9sbG93ZXJzJywgJ3N0cmVhbWluZyddLAogICAgICAgICAgICAgIGZvbGxvd2Vyc1F1ZXJ5UHJvcHMsCiAgICAgICAgICAgICl9CiAgICAgICAgICAvPgogICAgICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY2hhdEFnZ3NDaGF0dGVyc1RvcF9hZ2dzIH0gZnJvbSAnbmV4dC9wYWdlcy9zZXNzaW9uL3Nlc3Npb24tY2hhcnQtY2hhdHRlcnMtdG9wL19fZ2VuZXJhdGVkX18vY2hhdEFnZ3NDaGF0dGVyc1RvcF9hZ2dzLmdyYXBocWwnOwo=</text>
+        <text encoding="base64">ICAgIDEvLTE7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY2hhcnRTZXNzaW9uX2FnZ0NoYXQgfSBmcm9tICcuL19fZ2VuZXJhdGVkX18vY2hhcnRTZXNzaW9uX2FnZ0NoYXQuZ3JhcGhxbCc7CmltcG9ydCB7IGNoYXJ0U2Vzc2lvbl9hZ2dGb2xsb3dlcnMgfSBmcm9tICcuL19fZ2VuZXJhdGVkX18vY2hhcnRTZXNzaW9uX2FnZ0ZvbGxvd2Vycy5ncmFwaHFsJzsKaW1wb3J0IHsgY2hhcnRTZXNzaW9uX2FnZ1ZpZXdlcnMgfSBmcm9tICcuL19fZ2VuZXJhdGVkX18vY2hhcnRTZXNzaW9uX2FnZ1ZpZXdlcnMuZ3JhcGhxbCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9hZGluZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY2hhdEFnZ3NQb3B1bGFyUGhyYXNlc19hZ2dzIH0gZnJvbSAnLi9fX2dlbmVyYXRlZF9fL2NoYXRBZ2dzUG9wdWxhclBocmFzZXNfYWdncy5ncmFwaHFsJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY2hhcnRBdmdWaWV3ZXJzX2FnZ1ZpZXdlcnMgfSBmcm9tICcuL19fZ2VuZXJhdGVkX18vY2hhcnRBdmdWaWV3ZXJzX2FnZ1ZpZXdlcnMuZ3JhcGhxbCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY2hhdEFnZ3NDaGF0dGVyc1RvcF9hZ2dzIH0gZnJvbSAnbmV4dC9wYWdlcy9zZXNzaW9uL3Nlc3Npb24tY2hhcnQtY2hhdHRlcnMtdG9wL19fZ2VuZXJhdGVkX18vY2hhdEFnZ3NDaGF0dGVyc1RvcF9hZ2dzLmdyYXBocWwnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLi4uY2hhdEFnZ3NQb3B1bGFyUGhyYXNlc19hZ2dzCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY2hhcnRTZXNzaW9uX2FnZ0NoYXQgfSBmcm9tICcuL19fZ2VuZXJhdGVkX18vY2hhcnRTZXNzaW9uX2FnZ0NoYXQuZ3JhcGhxbCc7CmltcG9ydCB7IGNoYXJ0U2Vzc2lvbl9hZ2dGb2xsb3dlcnMgfSBmcm9tICcuL19fZ2VuZXJhdGVkX18vY2hhcnRTZXNzaW9uX2FnZ0ZvbGxvd2Vycy5ncmFwaHFsJzsKaW1wb3J0IHsgY2hhcnRTZXNzaW9uX2FnZ1ZpZXdlcnMgfSBmcm9tICcuL19fZ2VuZXJhdGVkX18vY2hhcnRTZXNzaW9uX2FnZ1ZpZXdlcnMuZ3JhcGhxbCc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLi4uY2hhdEFnZ3NDaGF0dGVyc1RvcF9hZ2dzCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY2hhdEFnZ3NQb3B1bGFyUGhyYXNlc19hZ2dzIH0gZnJvbSAnLi9fX2dlbmVyYXRlZF9fL2NoYXRBZ2dzUG9wdWxhclBocmFzZXNfYWdncy5ncmFwaHFsJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLi4uY2hhbm5lbHNUYWJsZV9hZ2dDaGF0Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY2hhcnRBdmdWaWV3ZXJzX2FnZ1ZpZXdlcnMgfSBmcm9tICcuL19fZ2VuZXJhdGVkX18vY2hhcnRBdmdWaWV3ZXJzX2FnZ1ZpZXdlcnMuZ3JhcGhxbCc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLi4uY2hhcnRTZXNzaW9uX2FnZ0NoYXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLi4uY2hhdEFnZ3NQb3B1bGFyUGhyYXNlc19hZ2dzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLi4uY2hhbm5lbHNUYWJsZV9hZ2dGb2xsb3dlcnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLi4uY2hhdEFnZ3NDaGF0dGVyc1RvcF9hZ2dzCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
