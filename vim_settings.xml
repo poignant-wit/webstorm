@@ -176,11 +176,11 @@
         <mark key="]" line="303" column="7" />
         <mark key="." line="303" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587633415219">
+      <file name="/Dummy.txt" timestamp="1587634508393">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="17" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/api.ts" timestamp="1587566335340" />
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-container/chart-container.module.scss" timestamp="1587631463977">
@@ -317,8 +317,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>$</text>
+      <register name="&quot;" type="2">
+        <text>fix: embed golive colors</text>
       </register>
       <register name="-" type="4">
         <text>$</text>
@@ -330,34 +330,34 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9hZGluZz17bG9hZGluZ30K</text>
       </register>
       <register name="1" type="2">
-        <text>fix: chart popular phrases containersавввшав</text>
+        <text>fix: embed golive colors</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyp7bG9hZGluZyAmJiAoKi99CiAgICAgICAgey8qICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmxvYWRlcn0+Ki99CiAgICAgICAgey8qICAgIDxkaXY+TG9hZGluZy4uLjwvZGl2PiovfQogICAgICAgIHsvKiAgPC9kaXY+Ki99CiAgICAgICAgey8qKX0qL30K</text>
+        <text>fix: chart popular phrases containersавввшав</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmbGV4OiAxOwo=</text>
+        <text encoding="base64">ICAgICAgICB7Lyp7bG9hZGluZyAmJiAoKi99CiAgICAgICAgey8qICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmxvYWRlcn0+Ki99CiAgICAgICAgey8qICAgIDxkaXY+TG9hZGluZy4uLjwvZGl2PiovfQogICAgICAgIHsvKiAgPC9kaXY+Ki99CiAgICAgICAgey8qKX0qL30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7dHJ1ZSAmJiAoCiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmVycm9yfT4KICAgICAgICAgICAgQW4mbmJzcDt1bmtub3duIGVycm9yIG9jY3VycmVkISBQbGVhc2UgY2hlY2sgeW91ciBpbnRlcm5ldAogICAgICAgICAgICBjb25uZWN0aW9uIGFuZCB0cnkgYWdhaW4uIDxiciAvPgogICAgICAgICAgICBJZiZuYnNwO3RoaXMgZXJyb3IgcGVyc2lzdHMsIHBsZWFzZSBjb250YWN0IHN1cHBvcnQuCiAgICAgICAgICA8L2Rpdj4KICAgICAgICApfQo=</text>
+        <text encoding="base64">ICBmbGV4OiAxOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7dHJ1ZSAmJiAoCiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmVycm9yfT4KICAgICAgICAgICAgQW4mbmJzcDt1bmtub3duIGVycm9yIG9jY3VycmVkISBQbGVhc2UgY2hlY2sgeW91ciBpbnRlcm5ldAogICAgICAgICAgICBjb25uZWN0aW9uIGFuZCB0cnkgYWdhaW4uIDxiciAvPgogICAgICAgICAgICBJZiZuYnNwO3RoaXMgZXJyb3IgcGVyc2lzdHMsIHBsZWFzZSBjb250YWN0IHN1cHBvcnQuCiAgICAgICAgICA8L2Rpdj4KICAgICAgICApfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAaW5jbHVkZSBzbSB7CiAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZsZXg6IDM7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBAaW5jbHVkZSBzbSB7CiAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGZsZXg6IDM7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvL2JhY2tncm91bmQ6ICRiZy1jb2xvcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
