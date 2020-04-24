@@ -104,9 +104,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/download/downloadFromUrlHandler.ts" timestamp="1587651563303">
-        <mark key="'" line="63" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/chat-aggs-popular-phrases/chat-aggs-popular-phrases.tsx" timestamp="1587657403228">
         <mark key="'" line="31" column="31" />
         <mark key="[" line="13" column="13" />
@@ -135,9 +132,6 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="/GraphQL.variables.json" timestamp="1587656503770">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/session-viewers-counters.tsx" timestamp="1587656962447">
         <mark key="[" line="69" column="6" />
@@ -180,11 +174,23 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="9" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587656996953">
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/actions.ts" timestamp="1587704836320">
+        <mark key="[" line="164" column="36" />
+        <mark key="]" line="164" column="37" />
+        <mark key="." line="164" column="36" />
+        <mark key="^" line="164" column="37" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587705965126">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="28" />
-        <mark key="^" line="0" column="28" />
-        <mark key="." line="0" column="27" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/api.ts" timestamp="1587705849597">
+        <mark key="[" line="125" column="52" />
+        <mark key="]" line="125" column="66" />
+        <mark key="." line="125" column="65" />
+        <mark key="^" line="125" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/session-chat-counters.tsx" timestamp="1587656787676">
         <mark key="[" line="1" column="0" />
@@ -315,47 +321,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text>fix: more options behaviour</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGxvYWRUb1MzVVNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBBZ2dzLkZPTExPV0VSUzoKICAgICAgICByZXR1cm4gKAogICAgICAgICAgPFNlc3Npb25Gb2xsb3dlcnNDb3VudGVyc0ZyYWdtZW50CiAgICAgICAgICAgIHNlbGVjdGVkPXtzZWxlY3RlZENoYW5uZWxzfQogICAgICAgICAgICBhZ2dzPXtwYXRoT3IoCiAgICAgICAgICAgICAgW10sCiAgICAgICAgICAgICAgWyd2aWV3ZXInLCAnc2Vzc2lvbicsICdhZ2dzRm9sbG93ZXJzJywgJ3N0cmVhbWluZyddLAogICAgICAgICAgICAgIGZvbGxvd2Vyc1F1ZXJ5UHJvcHMsCiAgICAgICAgICAgICl9CiAgICAgICAgICAvPgogICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgcmVzcG9uc2VUb0Vycm9yKHsKICAgICAgICBjb2RlOiByZXNwb25zZS5zdGF0dXMsCiAgICAgICAgZGVzY3JpcHRpb246ICdTb21ldGhpbmcgd2VudCB3cm9uZycsCiAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDEvLTE7Cg==</text>
+        <text>fix: more options behaviour</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9hZGluZwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZXJyb3IgYWN0aW9uJywgZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RydWUnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY2hhdEFnZ3NDaGF0dGVyc1RvcF9hZ2dzIH0gZnJvbSAnbmV4dC9wYWdlcy9zZXNzaW9uL3Nlc3Npb24tY2hhcnQtY2hhdHRlcnMtdG9wL19fZ2VuZXJhdGVkX18vY2hhdEFnZ3NDaGF0dGVyc1RvcF9hZ2dzLmdyYXBocWwnOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFtdOyAvLyBUT0RPIHJlbW92ZSBoYWNrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY2hhcnRTZXNzaW9uX2FnZ0NoYXQgfSBmcm9tICcuL19fZ2VuZXJhdGVkX18vY2hhcnRTZXNzaW9uX2FnZ0NoYXQuZ3JhcGhxbCc7CmltcG9ydCB7IGNoYXJ0U2Vzc2lvbl9hZ2dGb2xsb3dlcnMgfSBmcm9tICcuL19fZ2VuZXJhdGVkX18vY2hhcnRTZXNzaW9uX2FnZ0ZvbGxvd2Vycy5ncmFwaHFsJzsKaW1wb3J0IHsgY2hhcnRTZXNzaW9uX2FnZ1ZpZXdlcnMgfSBmcm9tICcuL19fZ2VuZXJhdGVkX18vY2hhcnRTZXNzaW9uX2FnZ1ZpZXdlcnMuZ3JhcGhxbCc7Cg==</text>
+        <text encoding="base64">ICAgICAgZXJldHVybiBbXTsgLy8gVE9ETyByZW1vdmUgaGFjawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY2hhdEFnZ3NQb3B1bGFyUGhyYXNlc19hZ2dzIH0gZnJvbSAnLi9fX2dlbmVyYXRlZF9fL2NoYXRBZ2dzUG9wdWxhclBocmFzZXNfYWdncy5ncmFwaHFsJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY2hhcnRBdmdWaWV3ZXJzX2FnZ1ZpZXdlcnMgfSBmcm9tICcuL19fZ2VuZXJhdGVkX18vY2hhcnRBdmdWaWV3ZXJzX2FnZ1ZpZXdlcnMuZ3JhcGhxbCc7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBib2R5Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLi4uY2hhdEFnZ3NQb3B1bGFyUGhyYXNlc19hZ2dzCg==</text>
+        <text encoding="base64">ICAgIGlmICghcmVzcG9uc2Uub2sgfHwgYm9keS5lcnJvcikgewogICAgICBjb25zb2xlLmxvZygndHJ1ZScpOwogICAgICByZXR1cm4gW107IC8vIFRPRE8gcmVtb3ZlIGhhY2sKICAgIH0KICAgIGNvbnNvbGUubG9nKCdmYWxzZScpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLi4uY2hhdEFnZ3NDaGF0dGVyc1RvcF9hZ2dzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
