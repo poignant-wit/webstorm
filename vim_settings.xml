@@ -116,11 +116,11 @@
         <mark key="^" line="65" column="27" />
         <mark key="." line="20" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-line/session-chart-line.tsx" timestamp="1587658180924">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="16" column="35" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/selectors.ts" timestamp="1587734015213">
+        <mark key="[" line="54" column="15" />
+        <mark key="]" line="54" column="15" />
+        <mark key="." line="54" column="15" />
+        <mark key="^" line="51" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/test.js" timestamp="1587710524902">
         <mark key="[" line="2" column="20" />
@@ -171,11 +171,11 @@
         <mark key="." line="0" column="76" />
         <mark key="^" line="0" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/actions.ts" timestamp="1587704836320">
-        <mark key="[" line="164" column="36" />
-        <mark key="]" line="164" column="37" />
-        <mark key="." line="164" column="36" />
-        <mark key="^" line="164" column="37" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/actions.ts" timestamp="1587734390637">
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="." line="167" column="0" />
+        <mark key="^" line="208" column="51" />
       </file>
       <file name="/Dummy.txt" timestamp="1587729668697">
         <mark key="[" line="0" column="21" />
@@ -183,14 +183,14 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/api.ts" timestamp="1587733571050">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="^" line="151" column="18" />
+        <mark key="." line="151" column="0" />
+      </file>
       <file name="/GraphQL.result.json" timestamp="1587715440513">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-popular-phrases/session-chart-popular-phrases.tsx" timestamp="1587658167155">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="36" column="27" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/videos.controller.ts" timestamp="1587709488451">
         <mark key="'" line="6" column="9" />
@@ -206,6 +206,14 @@
         <mark key="]" line="69" column="37" />
         <mark key="." line="69" column="36" />
         <mark key="^" line="69" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/components/stream-setup-form/StreamSetupForm.tsx" timestamp="1587731063655">
+        <mark key="e" line="37" column="0" />
+        <mark key="'" line="80" column="25" />
+        <mark key="[" line="59" column="47" />
+        <mark key="]" line="59" column="48" />
+        <mark key="^" line="93" column="60" />
+        <mark key="." line="59" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -314,46 +322,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>fix: json parse errors</text>
+        <text encoding="base64">ICAgICAgICAgICdTb21ldGhpbmcgd2VudCB3cm9uZy4gUGxlYXNlIHJldHJ5JywK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCBib2R5OwoKICAgIHRyeSB7CiAgICAgIGJvZHkgPSBhd2FpdCByZXNwb25zZS5qc29uKCk7CiAgICB9IGNhdGNoIChlKSB7CiAgICAgIHRocm93IHJlc3BvbnNlVG9FcnJvcih7CiAgICAgICAgY29kZTogcmVzcG9uc2Uuc3RhdHVzLAogICAgICAgIGRlc2NyaXB0aW9uOiAnU29tZXRoaW5nIHdlbnQgd3JvbmcuIFBsZWFzZSwgcmV0cnkgbGF0ZXInLAogICAgICB9KTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICdTb21ldGhpbmcgd2VudCB3cm9uZy4gUGxlYXNlIHJldHJ5IGxhdGVyJywK</text>
       </register>
       <register name="1" type="2">
-        <text>fix: json parse errors</text>
+        <text encoding="base64">ICAgICAgICAgICdTb21ldGhpbmcgd2VudCB3cm9uZy4gUGxlYXNlIHJldHJ5JywK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>fix: catch games random error</text>
+        <text encoding="base64">ICAgICAgICAgICdDYW4gbm90IGxvYWQgZGF0YSBmcm9tIHRoZSBBUEkuIFBsZWFzZSByZXRyeScsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGJvZHkgPSBhd2FpdCByZXNwb25zZS5qc29uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICdTb21ldGhpbmcgd2VudCB3cm9uZycsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICghcmVzcG9uc2Uub2sgfHwgYm9keS5lcnJvcikgewogICAgICB0aHJvdyByZXNwb25zZVRvRXJyb3IoYm9keSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgSlNPTi5wYXJzZShib2R5KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBib2R5Owo=</text>
+        <text encoding="base64">ICAgICAgSlNPTi5wYXJzZShib2R5KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgSlNPTi5wYXJzZShib2R5KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGJvZHk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJvZHkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFyZXNwb25zZS5vayB8fCBib2R5LmVycm9yKSB7CiAgICAgICAgdGhyb3cgcmVzcG9uc2VUb0Vycm9yKGJvZHkpOwogICAgICB9Cg==</text>
+        <text>fix: json parse errors</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RoaXMnLCBib2R5KTsK</text>
+        <text>fix: catch games random error</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
