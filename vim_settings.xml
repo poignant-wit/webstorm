@@ -128,6 +128,12 @@
         <mark key="^" line="1" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/Jenkinsfile" timestamp="1587984720278" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/header/session-header.tsx" timestamp="1587985375446">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="58" />
+        <mark key="^" line="14" column="58" />
+        <mark key="." line="14" column="57" />
+      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" timestamp="1587984137385">
         <mark key="[" line="60" column="13" />
         <mark key="]" line="60" column="23" />
@@ -146,12 +152,6 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="37" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-watched-minutes-empty/session-chart-watched-minutes-empty.tsx" timestamp="1587975645191">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="20" column="16" />
-        <mark key="." line="24" column="1" />
-        <mark key="^" line="24" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-chatters-top/session-chart-chatters-top.module.scss" timestamp="1587981009882">
         <mark key="[" line="34" column="0" />
@@ -301,11 +301,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Zml4OiBuZXcgLT4gZm9sbG93ZXJz</text>
+      <register name="&quot;" type="4">
+        <text>ISessionHeaderProps</text>
       </register>
       <register name="-" type="4">
-        <text>CHAT_MESSAGES</text>
+        <text>ISessionHeaderProps</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</text>
