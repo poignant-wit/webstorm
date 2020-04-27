@@ -104,11 +104,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1587970889809">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
-        <mark key="^" line="34" column="69" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1587972451083">
+        <mark key="[" line="186" column="93" />
+        <mark key="]" line="186" column="129" />
+        <mark key="^" line="186" column="129" />
+        <mark key="." line="186" column="128" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/download/downloadFromUrlHandler.ts" timestamp="1587709734725">
         <mark key="'" line="70" column="23" />
@@ -317,17 +317,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgZmV0Y2hQb2xpY3k6ICdzdG9yZS1vbmx5JywKICAgIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>chatQueryError</text>
       </register>
       <register name="-" type="4">
-        <text>{ force: true }</text>
+        <text>chatQueryError</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVudi5yZXRhaW4ob3BlcmF0aW9uKTsK</text>
+        <text encoding="base64">ICBjb25zdCBsb2FkaW5nQ2hhdCA9IHVzZU1lbW8oKCkgPT4gIWNoYXRRdWVyeVByb3BzICYmICFjaGF0UXVlcnlFcnJvciwgWwogICAgY2hhdFF1ZXJ5UHJvcHMsCiAgICBjaGF0UXVlcnlFcnJvciwKICBdKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHsKICAgICAgZmV0Y2hQb2xpY3k6ICdzdG9yZS1vbmx5JywKICAgIH0sCg==</text>
