@@ -110,7 +110,7 @@
         <mark key="^" line="302" column="65" />
         <mark key="." line="215" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-line/chart-line.tsx" timestamp="1587983585265">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-line/chart-line.tsx" timestamp="1587989495503">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="118" column="7" />
         <mark key="." line="87" column="0" />
@@ -128,11 +128,11 @@
         <mark key="^" line="1" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/Jenkinsfile" timestamp="1587984720278" />
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/header/session-header.tsx" timestamp="1587985375446">
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="58" />
-        <mark key="^" line="14" column="58" />
-        <mark key="." line="14" column="57" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/header/session-header.tsx" timestamp="1587989364689">
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="24" />
+        <mark key="^" line="16" column="24" />
+        <mark key="." line="16" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" timestamp="1587984137385">
         <mark key="[" line="60" column="13" />
@@ -301,11 +301,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>ISessionHeaderProps</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICd0ZXN0Jwo=</text>
       </register>
       <register name="-" type="4">
-        <text>ISessionHeaderProps</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</text>
@@ -314,34 +314,34 @@
         <text encoding="base64">ICAgICAgY29uc3QgaWNvbiA9IHBhdGhPcihudWxsLCBbJ3RhcmdldCcsICdwbGF0Zm9ybScsICdpY29uJywgJ3BuZyddLCBzZXJpZXMpOwoKICAgICAgY29uc3QgbmFtZSA9IHNlcmllcy50YXJnZXQuZGlzcGxheU5hbWUgfHwgJ1RvdGFsJzsKCiAgICAgIGlmIChpY29uKSB7CiAgICAgICAgLy8gdHNsaW50OmRpc2FibGUtbmV4dC1saW5lOm1heC1saW5lLWxlbmd0aAogICAgICAgIGxpbmVTZXJpZXMudG9vbHRpcEhUTUwgPSBgPGRpdiBzdHlsZT0iZGlzcGxheTogZmxleDsgZmxleDogMTsgYWxpZ24taXRlbXM6IGNlbnRlcjtqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlciI+PGltZyBzcmM9JHsKICAgICAgICAgIGljb24KICAgICAgICAgIC8vIHRzbGludDpkaXNhYmxlLW5leHQtbGluZTptYXgtbGluZS1sZW5ndGgKICAgICAgICB9IHN0eWxlPSd2ZXJ0aWNhbC1hbGlnbjpib3R0b207IG1hcmdpbi1yaWdodDogMTBweDsgd2lkdGg6MTZweDsgaGVpZ2h0OjE2cHg7Jz48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB4OyBjb2xvcjojMDAwMDAwOyBtYXJnaW4tcmlnaHQ6IDVweCI+JHtuYW1lfTo8L3NwYW4+PHNwYW4gc3R5bGU9J2ZvbnQtc2l6ZToxMnB4OyBjb2xvcjojMDAwMDAwOyc+e3ZhbHVlWS52YWx1ZX08L3NwYW4+PC9kaXY+YDsKICAgICAgfSBlbHNlIHsKICAgICAgICAvLyB0c2xpbnQ6ZGlzYWJsZS1uZXh0LWxpbmU6bWF4LWxpbmUtbGVuZ3RoCiAgICAgICAgbGluZVNlcmllcy50b29sdGlwSFRNTCA9IGA8ZGl2IHN0eWxlPSJkaXNwbGF5OiBmbGV4OyBmbGV4OiAxOyBhbGlnbi1pdGVtczogY2VudGVyO2p1c3RpZnktY29udGVudDogY2VudGVyIj4KICAgICAgICAgPHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTJweDsgY29sb3I6IzAwMDAwMDsgbWFyZ2luLXJpZ2h0OiA1cHgiPiR7bmFtZX06PC9zcGFuPjxzcGFuIHN0eWxlPSdmb250LXNpemU6MTJweDsgY29sb3I6IzAwMDAwMDsnPnt2YWx1ZVkudmFsdWV9PC9zcGFuPjwvZGl2PmA7CiAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4OiBuZXcgLT4gZm9sbG93ZXJz</text>
+        <text encoding="base64">ICAgICd0ZXN0Jwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>feat: table rows</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSAnaHR0cHM6Ly9yZXN0cmVhbS5pby9hbmFseXRpY3Mvc2Vzc2lvbnMnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text>feat: table radio buttonавввав</text>
+        <text encoding="base64">Zml4OiBuZXcgLT4gZm9sbG93ZXJz</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDx0ZD57Y2gubWVzc2FnZXNDb3VudC5kZXNjcmliZS50b3RhbH08L3RkPgo=</text>
+        <text>feat: table rows</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPHRkPk1lc3NhZ2VzPC90ZD4K</text>
+        <text>feat: table radio buttonавввав</text>
       </register>
       <register name="6" type="2">
-        <text>feat: add placeholders</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDx0ZD57Y2gubWVzc2FnZXNDb3VudC5kZXNjcmliZS50b3RhbH08L3RkPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmb250LXdlaWdodDogNTAwOwogIHdpZHRoOiAxNnB4OwogIGhlaWdodDogMTZweDsKICBjb2xvcjogcmdiYSgyNTUsIDI1NSwgMjU1LCAwLjgpOwogIGJhY2tncm91bmQ6IHRyYW5zcGFyZW50Owo=</text>
+        <text encoding="base64">ICAgICAgPHRkPk1lc3NhZ2VzPC90ZD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>feat: add placeholders</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBib3JkZXItcmFkaXVzOiAycHg7Cg==</text>
+        <text encoding="base64">ICBmb250LXdlaWdodDogNTAwOwogIHdpZHRoOiAxNnB4OwogIGhlaWdodDogMTZweDsKICBjb2xvcjogcmdiYSgyNTUsIDI1NSwgMjU1LCAwLjgpOwogIGJhY2tncm91bmQ6IHRyYW5zcGFyZW50Owo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
