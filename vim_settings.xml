@@ -104,11 +104,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1587969335119">
-        <mark key="[" line="35" column="55" />
-        <mark key="]" line="35" column="69" />
-        <mark key="." line="35" column="68" />
-        <mark key="^" line="35" column="69" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1587970889809">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="34" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/download/downloadFromUrlHandler.ts" timestamp="1587709734725">
         <mark key="'" line="70" column="23" />
@@ -145,7 +145,13 @@
         <mark key="." line="69" column="32" />
         <mark key="^" line="68" column="59" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1587966560187">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1587970837849">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="15" column="22" />
+        <mark key="^" line="15" column="22" />
+        <mark key="." line="15" column="21" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1587971148401">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/.env" timestamp="1587709009124">
@@ -188,12 +194,6 @@
         <mark key="[" line="190" column="0" />
         <mark key="]" line="190" column="0" />
         <mark key="." line="190" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.module.scss" timestamp="1587660000562">
-        <mark key="[" line="69" column="35" />
-        <mark key="]" line="69" column="37" />
-        <mark key="." line="69" column="36" />
-        <mark key="^" line="69" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/components/stream-setup-form/useStreamSetupForm.ts" timestamp="1587729588111">
         <mark key="'" line="104" column="4" />
@@ -317,11 +317,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>FOLLOWERS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgZmV0Y2hQb2xpY3k6ICdzdG9yZS1vbmx5JywKICAgIH0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>FOLLOWERS</text>
+        <text>{ force: true }</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</text>
@@ -330,34 +330,34 @@
         <text encoding="base64">ICAgIGVudi5yZXRhaW4ob3BlcmF0aW9uKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgZmV0Y2hQb2xpY3k6ICdzdG9yZS1vbmx5JywKICAgIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBAdHMtaWdub3JlCiAgZW52LnJldGFpbihvcGVyYXRpb24pOwogIHJldHVybiBkYXRhOwo=</text>
+        <text encoding="base64">ICB0cnkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9IGNhdGNoIChlKSB7CiAgICAvLyBjb25zb2xlLmxvZyhlKTsKICAgIGVudi5yZXRhaW4ob3BlcmF0aW9uKTsKICAgIHJldHVybiBlOwogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBkYXRhID0gYXdhaXQgZmV0Y2hRdWVyeShlbnYsIHF1ZXJ5LCB2YXJpYWJsZXMpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">ICAvLyBAdHMtaWdub3JlCiAgZW52LnJldGFpbihvcGVyYXRpb24pOwogIHJldHVybiBkYXRhOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text>fix: default error message</text>
+        <text encoding="base64">ICBjb25zdCBkYXRhID0gYXdhaXQgZmV0Y2hRdWVyeShlbnYsIHF1ZXJ5LCB2YXJpYWJsZXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkZXNjcmlwdGlvbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
