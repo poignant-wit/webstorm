@@ -110,11 +110,11 @@
         <mark key="." line="79" column="27" />
         <mark key="^" line="79" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/ChatOverviewPage/ChatOverviewPage.tsx" timestamp="1588147659260">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="7" />
-        <mark key="." line="53" column="6" />
-        <mark key="^" line="53" column="7" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/ChatOverviewPage/ChatOverviewPage.tsx" timestamp="1588154243971">
+        <mark key="[" line="106" column="43" />
+        <mark key="]" line="106" column="68" />
+        <mark key="." line="106" column="67" />
+        <mark key="^" line="106" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-selector/channels-selector.tsx" timestamp="1588083908152">
         <mark key="[" line="0" column="0" />
@@ -178,6 +178,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/ChatOverviewPage/ChatOverviewPageViewModel.ts" timestamp="1588154209094" />
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-selector/channels-selector-dropdown.tsx" timestamp="1588083854434">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -195,12 +196,6 @@
         <mark key="]" line="6" column="60" />
         <mark key="." line="6" column="60" />
         <mark key="^" line="2" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/components/common/Dropdown/DropdownDefault.tsx" timestamp="1588082836427">
-        <mark key="[" line="13" column="58" />
-        <mark key="]" line="15" column="21" />
-        <mark key="^" line="15" column="21" />
-        <mark key="." line="15" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/.env.development" timestamp="1588145058558">
         <mark key="[" line="4" column="0" />
@@ -314,8 +309,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHNob3dOZXdDaGF0QW5hbHl0aWNzID0gdXNlTWVtbygoKSA9PiB7CiAgICAgIHJldHVybiBmcm9tTnVtYmVyID4gTkVXX0NIQVRfQU5BTFlUSUNTX1RJTUVfQlJFQUtQT0lOVDsKICAgIH0sIFtmcm9tTnVtYmVyXSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -327,13 +322,13 @@
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3I9eyEhcXVlcnlFcnJvcn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNob3dOZXdDaGF0QW5hbHl0aWNzID0gdXNlTWVtbygoKSA9PiB7CiAgICAgIHJldHVybiBmcm9tTnVtYmVyID4gTkVXX0NIQVRfQU5BTFlUSUNTX1RJTUVfQlJFQUtQT0lOVDsKICAgIH0sIFtmcm9tTnVtYmVyXSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
@@ -342,19 +337,19 @@
         <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaW5zcGVjdCB9IGZyb20gInV0aWwiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlcyA9IG1vZHVsZQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgaW5zcGVjdCB9IGZyb20gInV0aWwiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC8+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlcyA9IG1vZHVsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
