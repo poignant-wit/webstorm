@@ -41,11 +41,11 @@
         <entry>action GotoDeclaration</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVHNMaW50RmlsZUZpeEFjdGlvbg==</entry>
         <entry>action FileChooser.NewFolder</entry>
-        <entry>action ReformatCode</entry>
         <entry>.,.+8action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>action $SelectAll</entry>
+        <entry>action ReformatCode</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
@@ -110,11 +110,11 @@
         <mark key="." line="79" column="27" />
         <mark key="^" line="79" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/ChatOverviewPage/ChatOverviewPage.tsx" timestamp="1588145128503">
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="213" column="15" />
-        <mark key="." line="180" column="115" />
-        <mark key="^" line="180" column="116" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/ChatOverviewPage/ChatOverviewPage.tsx" timestamp="1588147659260">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="7" />
+        <mark key="." line="53" column="6" />
+        <mark key="^" line="53" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-selector/channels-selector.tsx" timestamp="1588083908152">
         <mark key="[" line="0" column="0" />
@@ -142,11 +142,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.tsx" timestamp="1588145906221">
-        <mark key="[" line="75" column="12" />
-        <mark key="]" line="75" column="46" />
-        <mark key="." line="75" column="45" />
-        <mark key="^" line="75" column="46" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/components/HigherOrderComponent/withLoader.tsx" timestamp="1588147205155" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.tsx" timestamp="1588147588210">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="32" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="85" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.module.scss" timestamp="1588145978888">
         <mark key="[" line="2" column="29" />
@@ -160,12 +161,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview-messages/chat-overview-messages.tsx" timestamp="1588145263146">
-        <mark key="'" line="38" column="13" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="35" column="4" />
-        <mark key="." line="26" column="44" />
-        <mark key="^" line="26" column="45" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview-messages/chat-overview-messages.tsx" timestamp="1588147755812">
+        <mark key="'" line="55" column="13" />
+        <mark key="[" line="33" column="42" />
+        <mark key="]" line="33" column="43" />
+        <mark key="^" line="33" column="42" />
+        <mark key="." line="33" column="43" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1588140322483">
         <mark key="[" line="0" column="0" />
@@ -176,12 +177,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-popular-phrases/session-chart-popular-phrases.tsx" timestamp="1588081735966">
-        <mark key="'" line="52" column="30" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="75" column="2" />
-        <mark key="^" line="37" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-selector/channels-selector-dropdown.tsx" timestamp="1588083854434">
         <mark key="[" line="1" column="0" />
@@ -195,11 +190,11 @@
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview-chatters/chat-overview-chatters.tsx" timestamp="1588145352930">
-        <mark key="[" line="48" column="21" />
-        <mark key="]" line="48" column="21" />
-        <mark key="." line="48" column="21" />
-        <mark key="^" line="48" column="21" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview-chatters/chat-overview-chatters.tsx" timestamp="1588147674273">
+        <mark key="[" line="6" column="60" />
+        <mark key="]" line="6" column="60" />
+        <mark key="." line="6" column="60" />
+        <mark key="^" line="2" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/components/common/Dropdown/DropdownDefault.tsx" timestamp="1588082836427">
         <mark key="[" line="13" column="58" />
@@ -215,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="2" filename="$USER_HOME$/Documents/restream-frontend/src/views/titles/elements/tabs/Tabs.tsx" />
       <jump line="42" column="18" filename="$USER_HOME$/Documents/restream-frontend/src/views/titles/elements/tabs/Tabs.tsx" />
       <jump line="70" column="2" filename="$USER_HOME$/Documents/restream-frontend/src/views/titles/elements/button/Button.module.scss" />
       <jump line="8" column="19" filename="$USER_HOME$/Documents/restream-frontend/src/views/titles/elements/button/Button.module.scss" />
@@ -315,24 +309,25 @@
       <jump line="66" column="2" filename="$USER_HOME$/Documents/restream-landings/helm/static-pages/values.yaml" />
       <jump line="37" column="9" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview-channels/chat-overview-channels.tsx" />
       <jump line="34" column="13" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview-messages/chat-overview-messages.tsx" />
+      <jump line="32" column="6" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview-chatters/chat-overview-chatters.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>messages</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LmNoYXJ0LW1lc3NhZ2VzIHsKICBncmlkLWNvbHVtbjogMSAvIHNwYW4gMTsKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3I9eyEhcXVlcnlFcnJvcn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -344,22 +339,22 @@
         <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaW5zcGVjdCB9IGZyb20gInV0aWwiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlcyA9IG1vZHVsZQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgaW5zcGVjdCB9IGZyb20gInV0aWwiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC8+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlcyA9IG1vZHVsZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPD4K</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
