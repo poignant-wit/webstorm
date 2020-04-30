@@ -130,12 +130,6 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.module.scss" timestamp="1588145978888">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="3" column="16" />
-        <mark key="." line="3" column="15" />
-        <mark key="^" line="3" column="16" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview-messages/chat-overview-messages.tsx" timestamp="1588160749503">
         <mark key="'" line="74" column="13" />
         <mark key="[" line="34" column="18" />
@@ -156,6 +150,12 @@
         <mark key="^" line="22" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/ChatOverviewPage/ChatOverviewPageViewModel.ts" timestamp="1588154209094" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/session-viewers-counters.tsx" timestamp="1588259148908">
+        <mark key="[" line="90" column="43" />
+        <mark key="]" line="90" column="48" />
+        <mark key="." line="90" column="47" />
+        <mark key="^" line="90" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview-chatters/chat-overview-chatters.tsx" timestamp="1588156649103">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -180,13 +180,13 @@
         <mark key="^" line="50" column="34" />
         <mark key="." line="50" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588243041858">
+      <file name="/Dummy.txt" timestamp="1588244360190">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1588244272800">
+      <file name="/GraphQL.result.json" timestamp="1588258903368">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/adapters/providers/HttpProviderBuilder.ts" timestamp="1588241302165" />
@@ -302,17 +302,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>fix: x-axsrf-token</text>
+      <register name="&quot;" type="4">
+        <text>peakTime</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>peakTime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBjb29raWVzUHJvdmlkZXIgPSBuZXcgQ29va2llc1Byb3ZpZGVyKCk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCB3YXRjaGVkTWludXRlcyA9IHVzZU1lbW8oKCkgPT4gewogICAgaWYgKHNlbGVjdGVkLmluY2x1ZGVzKCcwJykpIHsKICAgICAgY29uc3QgdG90YWwgPSBhZ2dzLmZpbmQoKGFnZykgPT4gewogICAgICAgIHJldHVybiBhZ2cudGFyZ2V0Py5fX3R5cGVuYW1lID09PSAnVG90YWwnOwogICAgICB9KTsKICAgICAgcmV0dXJuIHRvdGFsPy52aWV3ZXJzPy5kZXNjcmliZT8ud2F0Y2hlZE1pbnV0ZXMgfHwgMDsKICAgIH0KCiAgICBjb25zdCBjb3VudGVycyA9IHNlbGVjdGVkVGFyZ2V0cy5tYXAoCiAgICAgICh0KSA9PiB0LnZpZXdlcnM/LmRlc2NyaWJlPy53YXRjaGVkTWludXRlcyB8fCAwLAogICAgKTsKCiAgICByZXR1cm4gY291bnRlcnMubGVuZ3RoID8gc3VtKGNvdW50ZXJzKSA6IDA7CiAgfSwgW2FnZ3MsIHNlbGVjdGVkLCBzZWxlY3RlZFRhcmdldHNdKTsK</text>
       </register>
       <register name="1" type="2">
         <text>fix: x-axsrf-token</text>
