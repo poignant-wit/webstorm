@@ -115,17 +115,13 @@
         <mark key="." line="102" column="0" />
         <mark key="^" line="99" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-selector/channels-selector.tsx" timestamp="1588083908152">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-landings/helm/static-pages/values.yaml" timestamp="1588141419963">
         <mark key="[" line="109" column="12" />
         <mark key="]" line="110" column="14" />
         <mark key="." line="110" column="13" />
         <mark key="^" line="110" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/chat-analytics/app/web-socket.service.ts" timestamp="1588235641901" />
       <file name="$USER_HOME$/Documents/analytics-frontend/src/components/Menu/Menu.module.scss" timestamp="1588162439679">
         <mark key="[" line="12" column="12" />
         <mark key="]" line="12" column="17" />
@@ -142,11 +138,6 @@
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" timestamp="1588083886509">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/components/HigherOrderComponent/withLoader.tsx" timestamp="1588147205155" />
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.tsx" timestamp="1588156617209">
         <mark key="^" line="82" column="31" />
@@ -157,11 +148,11 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588162454589">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="17" />
+      <file name="/Dummy.txt" timestamp="1588235674554">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview-messages/chat-overview-messages.tsx" timestamp="1588160749503">
         <mark key="'" line="74" column="13" />
@@ -170,7 +161,8 @@
         <mark key="^" line="61" column="34" />
         <mark key="." line="34" column="18" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1588140322483">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1588235497412" />
+      <file name="/GraphQL.result.json" timestamp="1588235589840">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview-channels/chat-overview-channels.tsx" timestamp="1588141874322">
@@ -193,7 +185,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/.env.development" timestamp="1588145058558">
+      <file name="$USER_HOME$/Documents/analytics-frontend/.env.development" timestamp="1588235454845">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="1" />
         <mark key="." line="4" column="0" />
@@ -305,11 +297,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>feat: total messages counter</text>
+      <register name="&quot;" type="4">
+        <text>feat</text>
       </register>
       <register name="-" type="4">
-        <text>scroll</text>
+        <text>feat</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</text>
@@ -318,34 +310,34 @@
         <text encoding="base64">ICAgICAgICBpZiAoYWdnLnRhcmdldD8uX190eXBlbmFtZSA9PT0gJ1RvdGFsJykgewogICAgICAgICAgcmV0dXJuIGFnZy50YXJnZXQuaWQgPT09IGlkCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text>feat: total messages counter</text>
+        <text>fix: es off</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>fix: lint errors</text>
+        <text>fix: safari markup</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYWdnLnRhcmdldD8uX190eXBlbmFtZSA9PT0gJ0NoYW5uZWwnKSB7CiAgICAgICAgICByZXR1cm4gYWdnLnRhcmdldC5pZCA9PT0gaWQ7CiAgICAgICAgfQo=</text>
+        <text>feat: total messages counter</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2cudGFyZ2V0Lgo=</text>
+        <text>fix: lint errors</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPENoYXJ0Q291bnQgdG90YWw9ezEwMH0gLz4K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYWdnLnRhcmdldD8uX190eXBlbmFtZSA9PT0gJ0NoYW5uZWwnKSB7CiAgICAgICAgICByZXR1cm4gYWdnLnRhcmdldC5pZCA9PT0gaWQ7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lCg==</text>
+        <text encoding="base64">ICAgICAgICBhZ2cudGFyZ2V0Lgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNob3dOZXdDaGF0QW5hbHl0aWNzID0gdXNlTWVtbygoKSA9PiB7CiAgICAgIHJldHVybiBmcm9tTnVtYmVyID4gTkVXX0NIQVRfQU5BTFlUSUNTX1RJTUVfQlJFQUtQT0lOVDsKICAgIH0sIFtmcm9tTnVtYmVyXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgPENoYXJ0Q291bnQgdG90YWw9ezEwMH0gLz4K</text>
       </register>
       <register name="8" type="2">
-        <text>feat: chat overview from new api</text>
+        <text encoding="base64">ICAgICAgLy8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHN0eWxlcyBmcm9tICcuL0NoYXRPdmVydmlld01lc3NhZ2VzLm1vZHVsZS5zY3NzJzsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNob3dOZXdDaGF0QW5hbHl0aWNzID0gdXNlTWVtbygoKSA9PiB7CiAgICAgIHJldHVybiBmcm9tTnVtYmVyID4gTkVXX0NIQVRfQU5BTFlUSUNTX1RJTUVfQlJFQUtQT0lOVDsKICAgIH0sIFtmcm9tTnVtYmVyXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
