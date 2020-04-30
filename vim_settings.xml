@@ -115,7 +115,7 @@
         <mark key="." line="102" column="0" />
         <mark key="^" line="99" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/chat-analytics/app/web-socket.service.ts" timestamp="1588235641901" />
+      <file name="$USER_HOME$/Documents/chat-analytics/app/web-socket.service.ts" timestamp="1588244285750" />
       <file name="$USER_HOME$/Documents/analytics-frontend/src/components/Menu/Menu.module.scss" timestamp="1588162439679">
         <mark key="[" line="12" column="12" />
         <mark key="]" line="12" column="17" />
@@ -168,19 +168,25 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" timestamp="1588243018047">
+        <mark key="[" line="61" column="14" />
+        <mark key="]" line="60" column="23" />
+        <mark key="^" line="60" column="23" />
+        <mark key="." line="60" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/session-followers-counters.tsx" timestamp="1588242988104">
         <mark key="[" line="50" column="32" />
         <mark key="]" line="50" column="34" />
         <mark key="^" line="50" column="34" />
         <mark key="." line="50" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588241438425">
+      <file name="/Dummy.txt" timestamp="1588243041858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="17" />
+        <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1588240254771">
+      <file name="/GraphQL.result.json" timestamp="1588244272800">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/adapters/providers/HttpProviderBuilder.ts" timestamp="1588241302165" />
@@ -297,7 +303,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5oZWFkZXJzWyd4LWF4c3JmLXRva2VuJ10gPSB0aGlzLmNvb2tpZXNQcm92aWRlci5nZXQoCiAgICAgICdhY2Nlc3NYc3JmVG9rZW4nLAogICAgKTsK</text>
+        <text>fix: x-axsrf-token</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -309,34 +315,34 @@
         <text encoding="base64">ICBjb25zdCBjb29raWVzUHJvdmlkZXIgPSBuZXcgQ29va2llc1Byb3ZpZGVyKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5oZWFkZXJzWyd4LWF4c3JmLXRva2VuJ10gPSB0aGlzLmNvb2tpZXNQcm92aWRlci5nZXQoCiAgICAgICdhY2Nlc3NYc3JmVG9rZW4nLAogICAgKTsK</text>
+        <text>fix: x-axsrf-token</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgY29va2llc1Byb3ZpZGVyID0gQ28K</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5oZWFkZXJzWyd4LWF4c3JmLXRva2VuJ10gPSB0aGlzLmNvb2tpZXNQcm92aWRlci5nZXQoCiAgICAgICdhY2Nlc3NYc3JmVG9rZW4nLAogICAgKTsK</text>
       </register>
       <register name="3" type="2">
-        <text>chore: switch env</text>
+        <text encoding="base64">Y29uc3QgY29va2llc1Byb3ZpZGVyID0gQ28K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcS5mZXRjaE9wdHMuaGVhZGVyc1sndXNlci1pZCddID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ3VzZXItaWQnKSB8fCAnJzsgLy8gVE9ETyByZW1vdmUgYWZ0ZXIgUUEK</text>
+        <text>chore: switch env</text>
       </register>
       <register name="5" type="2">
-        <text>fix: remove debug user-id</text>
+        <text encoding="base64">ICAgIHJlcS5mZXRjaE9wdHMuaGVhZGVyc1sndXNlci1pZCddID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ3VzZXItaWQnKSB8fCAnJzsgLy8gVE9ETyByZW1vdmUgYWZ0ZXIgUUEK</text>
       </register>
       <register name="6" type="2">
-        <text>fix: es off</text>
+        <text>fix: remove debug user-id</text>
       </register>
       <register name="7" type="2">
-        <text>fix: safari markup</text>
+        <text>fix: es off</text>
       </register>
       <register name="8" type="2">
-        <text>feat: total messages counter</text>
+        <text>fix: safari markup</text>
       </register>
       <register name="9" type="2">
-        <text>fix: lint errors</text>
+        <text>feat: total messages counter</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
