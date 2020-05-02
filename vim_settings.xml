@@ -19,12 +19,12 @@
         <entry encoding="base64">XDxidXR0b25cPg==</entry>
         <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
         <entry encoding="base64">XDxlcnJvclw+</entry>
-        <entry encoding="base64">XDxtb21lbnRcPg==</entry>
         <entry encoding="base64">XDxwcm9jZXNzVmlkZW9GaWxlXD4=</entry>
         <entry encoding="base64">XDx1cGxvYWRUb1MzXD4=</entry>
         <entry encoding="base64">XDx1cGxvYWRUb1MzVVNcPg==</entry>
         <entry encoding="base64">XDxTdHJlYW1TZXR1cEZvcm1cPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</entry>
+        <entry encoding="base64">XDxtb21lbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action TypeHierarchy</entry>
@@ -104,16 +104,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1588415080772">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1588415365210">
         <mark key="[" line="39" column="15" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
+        <mark key="]" line="43" column="1" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="43" column="1" />
       </file>
       <file name="/Dummy.txt" timestamp="1588259390187">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-line/chart-line.tsx" timestamp="1588418110078">
+        <mark key="'" line="6" column="20" />
+        <mark key="[" line="94" column="30" />
+        <mark key="]" line="94" column="31" />
+        <mark key="." line="94" column="31" />
+        <mark key="^" line="94" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview-messages/chat-overview-messages.tsx" timestamp="1588160749503">
         <mark key="'" line="74" column="13" />
@@ -164,9 +172,6 @@
         <mark key="." line="90" column="47" />
         <mark key="^" line="90" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.tsx" timestamp="1588156617209">
-        <mark key="^" line="82" column="31" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" timestamp="1588243018047">
         <mark key="[" line="61" column="14" />
         <mark key="]" line="60" column="23" />
@@ -197,9 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="18" filename="$USER_HOME$/Documents/restream-frontend/src/views/titles/elements/tabs/Tabs.tsx" />
-      <jump line="70" column="2" filename="$USER_HOME$/Documents/restream-frontend/src/views/titles/elements/button/Button.module.scss" />
-      <jump line="8" column="19" filename="$USER_HOME$/Documents/restream-frontend/src/views/titles/elements/button/Button.module.scss" />
       <jump line="18" column="2" filename="$USER_HOME$/Documents/restream-frontend/src/views/titles/elements/button/Button.module.scss" />
       <jump line="59" column="19" filename="$USER_HOME$/Documents/restream-frontend/src/views/titles/elements/button/Button.module.scss" />
       <jump line="15" column="16" filename="$USER_HOME$/Documents/restream-frontend/src/views/titles/components/stream-title/StreamTitle.module.scss" />
@@ -297,18 +299,21 @@
       <jump line="37" column="9" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview-channels/chat-overview-channels.tsx" />
       <jump line="34" column="13" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview-messages/chat-overview-messages.tsx" />
       <jump line="32" column="6" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview-chatters/chat-overview-chatters.tsx" />
+      <jump line="96" column="20" filename="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-line/chart-line.tsx" />
+      <jump line="135" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-line/chart-line.tsx" />
+      <jump line="6" column="20" filename="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-line/chart-line.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>module</text>
       </register>
       <register name="-" type="4">
-        <text>peakTime</text>
+        <text>module</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</text>
+        <text encoding="base64">XDxtb21lbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCB3YXRjaGVkTWludXRlcyA9IHVzZU1lbW8oKCkgPT4gewogICAgaWYgKHNlbGVjdGVkLmluY2x1ZGVzKCcwJykpIHsKICAgICAgY29uc3QgdG90YWwgPSBhZ2dzLmZpbmQoKGFnZykgPT4gewogICAgICAgIHJldHVybiBhZ2cudGFyZ2V0Py5fX3R5cGVuYW1lID09PSAnVG90YWwnOwogICAgICB9KTsKICAgICAgcmV0dXJuIHRvdGFsPy52aWV3ZXJzPy5kZXNjcmliZT8ud2F0Y2hlZE1pbnV0ZXMgfHwgMDsKICAgIH0KCiAgICBjb25zdCBjb3VudGVycyA9IHNlbGVjdGVkVGFyZ2V0cy5tYXAoCiAgICAgICh0KSA9PiB0LnZpZXdlcnM/LmRlc2NyaWJlPy53YXRjaGVkTWludXRlcyB8fCAwLAogICAgKTsKCiAgICByZXR1cm4gY291bnRlcnMubGVuZ3RoID8gc3VtKGNvdW50ZXJzKSA6IDA7CiAgfSwgW2FnZ3MsIHNlbGVjdGVkLCBzZWxlY3RlZFRhcmdldHNdKTsK</text>
@@ -350,9 +355,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</last-search>
+      <last-search encoding="base64">XDxtb21lbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtb21lbnRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaXJzdElkSW5NZXNzYWdlV29yZDJcPg==</last-substitute>
       <last-dir>1</last-dir>
