@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxJY29uXD4=</entry>
         <entry encoding="base64">XDxfX29wdGlvblw+</entry>
         <entry encoding="base64">XDxzZXRTZWxlY3RlZEdhbWVcPg==</entry>
         <entry encoding="base64">XDxkaXNhYmxlSW5wdXRcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxuZXh0TWludXRlXD4=</entry>
         <entry encoding="base64">XDxyZWRpc0Nvbm5lY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxkb2NrZXJJbWFnZVw+</entry>
+        <entry encoding="base64">XDxTQ1lMTEFfQUREUkVTU1w+</entry>
       </history-search>
       <history-cmd>
         <entry>action $Copy</entry>
@@ -117,12 +117,11 @@
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/Jenkinsfile" timestamp="1588597589727">
+      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/Jenkinsfile" timestamp="1588608982369">
         <mark key="'" line="48" column="24" />
-        <mark key="[" line="81" column="84" />
-        <mark key="]" line="81" column="93" />
-        <mark key="^" line="81" column="93" />
-        <mark key="." line="81" column="92" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/old-chat-analytics-migrator/templates/deployment.yaml" timestamp="1588600218090">
         <mark key="[" line="49" column="0" />
@@ -136,19 +135,16 @@
         <mark key="." line="12" column="37" />
         <mark key="^" line="12" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" timestamp="1588243018047">
-        <mark key="[" line="61" column="14" />
-        <mark key="]" line="60" column="23" />
-        <mark key="^" line="60" column="23" />
-        <mark key="." line="60" column="22" />
+      <file name="$USER_HOME$/Documents/restream-frontend/Jenkinsfile" timestamp="1588608962429">
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="228" />
       </file>
-      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" timestamp="1588601505809">
-        <mark key="'" line="86" column="33" />
-        <mark key="i" line="155" column="18" />
-        <mark key="[" line="190" column="98" />
-        <mark key="]" line="190" column="103" />
-        <mark key="^" line="190" column="103" />
-        <mark key="." line="190" column="102" />
+      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" timestamp="1588607982033">
+        <mark key="'" line="44" column="16" />
+        <mark key="[" line="73" column="45" />
+        <mark key="]" line="73" column="54" />
+        <mark key="." line="73" column="53" />
+        <mark key="^" line="73" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/.npmrc" timestamp="1588601309458">
         <mark key="[" line="0" column="0" />
@@ -156,11 +152,11 @@
         <mark key="^" line="1" column="39" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588606131894">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="5" />
+      <file name="/Dummy.txt" timestamp="1588609688943">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1588596383234">
         <mark key="[" line="0" column="0" />
@@ -177,11 +173,11 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/old-chat-analytics-migrator/values.yaml" timestamp="1588601708611">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="16" />
-        <mark key="^" line="21" column="16" />
-        <mark key="." line="21" column="15" />
+      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/old-chat-analytics-migrator/values.yaml" timestamp="1588610317698">
+        <mark key="[" line="94" column="46" />
+        <mark key="]" line="94" column="55" />
+        <mark key="^" line="94" column="55" />
+        <mark key="." line="94" column="54" />
       </file>
       <file name="/GraphQL.variables.json" timestamp="1588413999928">
         <mark key="[" line="0" column="0" />
@@ -195,7 +191,6 @@
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/scss/colors.scss" timestamp="1588596225070" />
     </filemarks>
     <jumps>
-      <jump line="19" column="9" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.module.scss" />
       <jump line="60" column="11" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.module.scss" />
       <jump line="23" column="3" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.module.scss" />
       <jump line="73" column="1" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.module.scss" />
@@ -295,51 +290,52 @@
       <jump line="47" column="24" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/Jenkinsfile" />
       <jump line="48" column="24" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/Jenkinsfile" />
       <jump line="97" column="17" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/old-chat-analytics-migrator/values.yaml" />
+      <jump line="44" column="16" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>helm</text>
+        <text>R</text>
       </register>
       <register name="-" type="4">
-        <text>helm</text>
+        <text>R</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb2NrZXJJbWFnZVw+</text>
+        <text encoding="base64">XDxTQ1lMTEFfQUREUkVTU1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VydmljZU1vbml0b3Jpbmc6CiAgZW5hYmxlZDogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbG0zIC0ta3ViZWNvbmZpZyBjb25maWcgLS1rdWJlLWNvbnRleHQgZWtzX3FhLWV1IHVwZ3JhZGUgLS1pbnN0YWxsIC0tc2V0IGltYWdlLnRhZz0ke2N1cnJlbnRCdWlsZC5kaXNwbGF5TmFtZX0saW5ncmVzcy5ob3N0c1swXS5ob3N0PSR7ZnFkbn0gJHtzZXJ2aWNlTmFtZX0tJHticmFuY2hOYW1lfSAtZiB2YWx1ZXMueWFtbCAuCg==</text>
       </register>
       <register name="1" type="2">
-        <text>fix: remove probes</text>
+        <text encoding="base64">ICAgIHZhbHVlOiAiZGF0YWNlbnRlcjEiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9yZWdpc3RyeS5ucG1qcy5vcmcvOl9hdXRoVG9rZW49NGIzMjZhNWMtMGIyMS00NWJkLWExYWEtYjJkMjkxNGI3YTA3Cg==</text>
+        <text>fix: scylla pass</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxpdmVuZXNzUHJvYmU6CiAgICAgICAgICAgIGh0dHBHZXQ6CiAgICAgICAgICAgICAgcGF0aDogL2hlYWx0aC9hbGl2ZQogICAgICAgICAgICAgIHBvcnQ6IGhlYWx0aAogICAgICAgICAgcmVhZGluZXNzUHJvYmU6CiAgICAgICAgICAgIGh0dHBHZXQ6CiAgICAgICAgICAgICAgcGF0aDogL2hlYWx0aC9yZWFkeQogICAgICAgICAgICAgIHBvcnQ6IGhlYWx0aAo=</text>
+        <text>fix: generate name</text>
       </register>
       <register name="4" type="2">
-        <text>feat: migrate chat dataаввав</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbG0zIC0ta3ViZWNvbmZpZyBjb25maWcgLS1rdWJlLWNvbnRleHQgZWtzX3FhLWV1IHVwZ3JhZGUgLS1pbnN0YWxsIC0tc2V0IGltYWdlLnRhZz0ke2N1cnJlbnRCdWlsZC5kaXNwbGF5TmFtZX0saW5ncmVzcy5ob3N0c1swXS5ob3N0PSR7ZnFkbn0gJHtzZXJ2aWNlTmFtZX0tJHticmFuY2hOYW1lfSAtZiB2YWx1ZXMueWFtbCAuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbG0zIC0ta3ViZWNvbmZpZyBjb25maWcgLS1rdWJlLWNvbnRleHQgZWtzX3FhLWV1IGluc3RhbGwgLS1nZW5lcmF0ZS1uYW1lIC0tZHJ5LXJ1biAtLWRlYnVnIC1mIHZhbHVlcy55YW1sIC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbHVlOiByZXN0cmVhbV9yZWFkX29ubHkK</text>
+        <text>fix: helm chart</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdhcm4K</text>
+        <text>fix: remove service.yaml</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IE5BVFNfQ0xVU1RFUl9JRAogICAgdmFsdWU6IG5hdHMtc3RyZWFtaW5nCiAgLSBuYW1lOiBOQVRTX1VSTAogICAgdmFsdWU6IG5hdHM6Ly9zdHJlYW1pbmctbmF0cy1jbGllbnQuZGVmYXVsdC5zdmMuY2x1c3Rlci5sb2NhbDo0MjIyCiAgLSBuYW1lOiBXRUJTT0NLRVRfSE9TVAogICAgdmFsdWU6ICIwLjAuMC4wIgogIC0gbmFtZTogV0VCU09DS0VUX1BPUlQKICAgIHZhbHVlOiAiODAiCiAgLSBuYW1lOiBIRUFMVEhDSEVDS19IT1NUCiAgICB2YWx1ZTogIjAuMC4wLjAiCiAgLSBuYW1lOiBIRUFMVEhDSEVDS19QT1JUCiAgICB2YWx1ZTogIjgxIgogIC0gbmFtZTogTUVUUklDU19IT1NUCiAgICB2YWx1ZTogIjAuMC4wLjAiCiAgLSBuYW1lOiBNRVRSSUNTX1BPUlQKICAgIHZhbHVlOiAiODIiCiAgLSBuYW1lOiBQVUJMSUNfQVBJX1dFQlNPQ0tFVF9IT1NUCiAgICB2YWx1ZTogIjAuMC4wLjAiCiAgLSBuYW1lOiBQVUJMSUNfQVBJX1dFQlNPQ0tFVF9QT1JUCiAgICB2YWx1ZTogIjg0IgogIC0gbmFtZTogSldFX1NFQ1JFVAogICAgdmFsdWU6IHZhdWx0OnNlY3JldC9kYXRhL3N0cmVhbWluZy9zdGF0dXNlcyNKV0VfU0VDUkVUCg==</text>
+        <text>fix: remove probes</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9yZWdpc3RyeS5ucG1qcy5vcmcvOl9hdXRoVG9rZW49NGIzMjZhNWMtMGIyMS00NWJkLWExYWEtYjJkMjkxNGI3YTA3Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -348,9 +344,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkb2NrZXJJbWFnZVw+</last-search>
+      <last-search encoding="base64">XDxTQ1lMTEFfQUREUkVTU1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb2NrZXJJbWFnZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxTQ1lMTEFfQUREUkVTU1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaXJzdElkSW5NZXNzYWdlV29yZDJcPg==</last-substitute>
       <last-dir>1</last-dir>
