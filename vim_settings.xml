@@ -165,6 +165,12 @@
       <file name="/GraphQL.variables.json" timestamp="1588413999928">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/package.json" timestamp="1588581313773">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="37" />
+        <mark key="^" line="12" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/session-viewers-counters.tsx" timestamp="1588259148908">
         <mark key="[" line="90" column="43" />
         <mark key="]" line="90" column="48" />
@@ -177,6 +183,7 @@
         <mark key="^" line="60" column="23" />
         <mark key="." line="60" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" timestamp="1588582057181" />
       <file name="$USER_HOME$/Documents/analytics-frontend/src/main.tsx" timestamp="1588241386424">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="48" />
@@ -306,17 +313,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>feat: session views</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>module</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb21lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCB3YXRjaGVkTWludXRlcyA9IHVzZU1lbW8oKCkgPT4gewogICAgaWYgKHNlbGVjdGVkLmluY2x1ZGVzKCcwJykpIHsKICAgICAgY29uc3QgdG90YWwgPSBhZ2dzLmZpbmQoKGFnZykgPT4gewogICAgICAgIHJldHVybiBhZ2cudGFyZ2V0Py5fX3R5cGVuYW1lID09PSAnVG90YWwnOwogICAgICB9KTsKICAgICAgcmV0dXJuIHRvdGFsPy52aWV3ZXJzPy5kZXNjcmliZT8ud2F0Y2hlZE1pbnV0ZXMgfHwgMDsKICAgIH0KCiAgICBjb25zdCBjb3VudGVycyA9IHNlbGVjdGVkVGFyZ2V0cy5tYXAoCiAgICAgICh0KSA9PiB0LnZpZXdlcnM/LmRlc2NyaWJlPy53YXRjaGVkTWludXRlcyB8fCAwLAogICAgKTsKCiAgICByZXR1cm4gY291bnRlcnMubGVuZ3RoID8gc3VtKGNvdW50ZXJzKSA6IDA7CiAgfSwgW2FnZ3MsIHNlbGVjdGVkLCBzZWxlY3RlZFRhcmdldHNdKTsK</text>
+        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlIGRpc3QvaW5kZXguanMiCg==</text>
       </register>
       <register name="1" type="2">
         <text>feat: session views</text>
