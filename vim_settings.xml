@@ -110,18 +110,17 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="43" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588259390187">
+      <file name="/Dummy.txt" timestamp="1588418178934">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-line/chart-line.tsx" timestamp="1588418110078">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-line/chart-line.tsx" timestamp="1588418140075">
         <mark key="'" line="6" column="20" />
-        <mark key="[" line="94" column="30" />
-        <mark key="]" line="94" column="31" />
-        <mark key="." line="94" column="31" />
-        <mark key="^" line="94" column="49" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview-messages/chat-overview-messages.tsx" timestamp="1588160749503">
         <mark key="'" line="74" column="13" />
@@ -306,8 +305,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>module</text>
+      <register name="&quot;" type="2">
+        <text>feat: session views</text>
       </register>
       <register name="-" type="4">
         <text>module</text>
@@ -319,34 +318,34 @@
         <text encoding="base64">ICBjb25zdCB3YXRjaGVkTWludXRlcyA9IHVzZU1lbW8oKCkgPT4gewogICAgaWYgKHNlbGVjdGVkLmluY2x1ZGVzKCcwJykpIHsKICAgICAgY29uc3QgdG90YWwgPSBhZ2dzLmZpbmQoKGFnZykgPT4gewogICAgICAgIHJldHVybiBhZ2cudGFyZ2V0Py5fX3R5cGVuYW1lID09PSAnVG90YWwnOwogICAgICB9KTsKICAgICAgcmV0dXJuIHRvdGFsPy52aWV3ZXJzPy5kZXNjcmliZT8ud2F0Y2hlZE1pbnV0ZXMgfHwgMDsKICAgIH0KCiAgICBjb25zdCBjb3VudGVycyA9IHNlbGVjdGVkVGFyZ2V0cy5tYXAoCiAgICAgICh0KSA9PiB0LnZpZXdlcnM/LmRlc2NyaWJlPy53YXRjaGVkTWludXRlcyB8fCAwLAogICAgKTsKCiAgICByZXR1cm4gY291bnRlcnMubGVuZ3RoID8gc3VtKGNvdW50ZXJzKSA6IDA7CiAgfSwgW2FnZ3MsIHNlbGVjdGVkLCBzZWxlY3RlZFRhcmdldHNdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text>feat: session views</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIFNpbGVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobW9tZW50KCcyMDIwLTA0LTAxJykudG9EYXRlKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text>fix: followers typo</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>fix: x-axsrf-token</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5oZWFkZXJzWyd4LWF4c3JmLXRva2VuJ10gPSB0aGlzLmNvb2tpZXNQcm92aWRlci5nZXQoCiAgICAgICdhY2Nlc3NYc3JmVG9rZW4nLAogICAgKTsK</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgY29va2llc1Byb3ZpZGVyID0gQ28K</text>
+        <text>fix: followers typo</text>
       </register>
       <register name="8" type="2">
-        <text>chore: switch env</text>
+        <text>fix: x-axsrf-token</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcS5mZXRjaE9wdHMuaGVhZGVyc1sndXNlci1pZCddID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ3VzZXItaWQnKSB8fCAnJzsgLy8gVE9ETyByZW1vdmUgYWZ0ZXIgUUEK</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5oZWFkZXJzWyd4LWF4c3JmLXRva2VuJ10gPSB0aGlzLmNvb2tpZXNQcm92aWRlci5nZXQoCiAgICAgICdhY2Nlc3NYc3JmVG9rZW4nLAogICAgKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
