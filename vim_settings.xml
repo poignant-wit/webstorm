@@ -183,7 +183,12 @@
         <mark key="^" line="60" column="23" />
         <mark key="." line="60" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" timestamp="1588582057181" />
+      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" timestamp="1588584079397">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="74" column="60" />
+      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/main.tsx" timestamp="1588241386424">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="48" />
@@ -313,47 +318,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2NhbERhdGFDZW50ZXI6IHByb2Nlc3MuZW52LlNDWUxMQV9EQVRBQ0VOVEVSLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb21lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlIGRpc3QvaW5kZXguanMiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaG9zdDogcHJvY2Vzcy5lbnYuTVlTUUxfSE9TVCwK</text>
       </register>
       <register name="1" type="2">
-        <text>feat: session views</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbERhdGFDZW50ZXI6IHByb2Nlc3MuZW52LlNDWUxMQV9EQVRBQ0VOVEVSLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFNpbGVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9ydDogMTIzNDYsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobW9tZW50KCcyMDIwLTA0LTAxJykudG9EYXRlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9ydDogMTIzNDYsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text>feat: session views</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIFNpbGVudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobW9tZW50KCcyMDIwLTA0LTAxJykudG9EYXRlKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text>fix: followers typo</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>fix: x-axsrf-token</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5oZWFkZXJzWyd4LWF4c3JmLXRva2VuJ10gPSB0aGlzLmNvb2tpZXNQcm92aWRlci5nZXQoCiAgICAgICdhY2Nlc3NYc3JmVG9rZW4nLAogICAgKTsK</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
