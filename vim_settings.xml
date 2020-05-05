@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfX29wdGlvblw+</entry>
-        <entry encoding="base64">XDxzZXRTZWxlY3RlZEdhbWVcPg==</entry>
-        <entry encoding="base64">XDxkaXNhYmxlSW5wdXRcPg==</entry>
         <entry encoding="base64">XDxyZWFkeVw+</entry>
         <entry encoding="base64">XDxidXR0b25cPg==</entry>
         <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxyZWRpc0Nvbm5lY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxkb2NrZXJJbWFnZVw+</entry>
         <entry encoding="base64">XDxTQ1lMTEFfQUREUkVTU1w+</entry>
+        <entry encoding="base64">XDxTd2l0Y2hcPg==</entry>
+        <entry encoding="base64">XDxwcm9wT3JcPg==</entry>
+        <entry encoding="base64">XDxWYWx1ZVR5cGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action $Copy</entry>
@@ -104,98 +104,103 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1588415365210">
-        <mark key="[" line="39" column="15" />
-        <mark key="]" line="43" column="1" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="1" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/store/errors.ts" timestamp="1588674603404">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588667064463">
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/index.ts" timestamp="1588674794345">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="44" />
+        <mark key="^" line="1" column="44" />
+        <mark key="." line="1" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/titles-form.tsx" timestamp="1588677229550">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/rollup.config.js" timestamp="1588677146346">
+        <mark key="[" line="31" column="28" />
+        <mark key="]" line="31" column="29" />
+        <mark key="." line="31" column="28" />
+        <mark key="^" line="31" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/store/titles-form.module.scss" timestamp="1588675742015">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/components/stream-setup-form/useStreamSetupForm.ts" timestamp="1588674967060">
+        <mark key="'" line="17" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/TitlesPage.tsx" timestamp="1588674809668">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/components/stream-setup-form/StreamSetupForm.tsx" timestamp="1588675172492">
+        <mark key="[" line="110" column="15" />
+        <mark key="]" line="110" column="35" />
+        <mark key="." line="110" column="34" />
+        <mark key="^" line="110" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/custom.d.ts" timestamp="1588676607796">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588674025049">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="16" />
+        <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-line/chart-line.tsx" timestamp="1588418140075">
-        <mark key="'" line="6" column="20" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/Jenkinsfile" timestamp="1588608982369">
-        <mark key="'" line="48" column="24" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1588669963563">
+      <file name="/GraphQL.result.json" timestamp="1588676256747">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/old-chat-analytics-migrator/templates/deployment.yaml" timestamp="1588600218090">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/index.tsx" timestamp="1588673438733">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="22" />
+        <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/Dockerfile" timestamp="1588601331217">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="23" />
-        <mark key="^" line="5" column="24" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/package.json" timestamp="1588675497703">
+        <mark key="[" line="19" column="22" />
+        <mark key="]" line="19" column="22" />
+        <mark key="." line="19" column="22" />
+        <mark key="^" line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/tsconfig.json" timestamp="1588585567221">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="27" />
-        <mark key="." line="14" column="26" />
-        <mark key="^" line="14" column="27" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/store/store.tsx" timestamp="1588673774207">
+        <mark key="[" line="45" column="25" />
+        <mark key="]" line="45" column="31" />
+        <mark key="^" line="45" column="31" />
+        <mark key="." line="45" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/old-chat-analytics-migrator/values.yaml" timestamp="1588663386150">
-        <mark key="[" line="92" column="46" />
-        <mark key="]" line="92" column="55" />
-        <mark key="^" line="92" column="55" />
-        <mark key="." line="92" column="54" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/store/actions.ts" timestamp="1588673838276">
+        <mark key="'" line="10" column="9" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1588413999928">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/package.json" timestamp="1588581313773">
-        <mark key="[" line="12" column="36" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="37" />
-        <mark key="^" line="12" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/session-viewers-counters.tsx" timestamp="1588259148908">
-        <mark key="[" line="90" column="43" />
-        <mark key="]" line="90" column="48" />
-        <mark key="." line="90" column="47" />
-        <mark key="^" line="90" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/Jenkinsfile" timestamp="1588608962429">
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="228" />
-      </file>
-      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" timestamp="1588667025434">
-        <mark key="'" line="44" column="16" />
-        <mark key="[" line="218" column="81" />
-        <mark key="]" line="218" column="82" />
-        <mark key="." line="218" column="82" />
-        <mark key="^" line="218" column="81" />
-      </file>
-      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/.npmrc" timestamp="1588601309458">
+      <file name="$USER_HOME$/Documents/restream-ui-kit/build/index.css" timestamp="1588676446493" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/components/stream-setup-form/index.ts" timestamp="1588675057370">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="1" column="39" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/titles-form.module.scss" timestamp="1588676459455">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/example/src/App.tsx" timestamp="1588674746901">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="33" column="27" />
+        <mark key="." line="32" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="11" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.module.scss" />
-      <jump line="23" column="3" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.module.scss" />
-      <jump line="73" column="1" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.module.scss" />
-      <jump line="201" column="27" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
-      <jump line="108" column="23" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/chart-section/chart-session.tsx" />
-      <jump line="42" column="6" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/channels-table/channels-table.tsx" />
-      <jump line="125" column="23" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/channels-table/channels-table.tsx" />
-      <jump line="126" column="10" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/channels-table/channels-table.tsx" />
       <jump line="2" column="56" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/channels-table/channels-table.tsx" />
       <jump line="16" column="21" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/channels-table/channels-table.tsx" />
       <jump line="32" column="11" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
@@ -288,51 +293,59 @@
       <jump line="48" column="24" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/Jenkinsfile" />
       <jump line="97" column="17" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/old-chat-analytics-migrator/values.yaml" />
       <jump line="44" column="16" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
+      <jump line="14" column="2" filename="$USER_HOME$/Documents/restream-ui-kit/example/src/App.tsx" />
+      <jump line="165" column="21" filename="$USER_HOME$/Documents/restream-ui-kit/src/titles/store/actions.ts" />
+      <jump line="166" column="28" filename="$USER_HOME$/Documents/restream-ui-kit/src/titles/store/actions.ts" />
+      <jump line="207" column="21" filename="$USER_HOME$/Documents/restream-ui-kit/src/titles/store/actions.ts" />
+      <jump line="208" column="28" filename="$USER_HOME$/Documents/restream-ui-kit/src/titles/store/actions.ts" />
+      <jump line="10" column="9" filename="$USER_HOME$/Documents/restream-ui-kit/src/titles/store/actions.ts" />
+      <jump line="1" column="9" filename="$USER_HOME$/Documents/restream-ui-kit/src/titles/components/stream-setup-form/useStreamSetupForm.ts" />
+      <jump line="17" column="35" filename="$USER_HOME$/Documents/restream-ui-kit/src/titles/components/stream-setup-form/useStreamSetupForm.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>fix: change user</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL3RpdGxlcy1mb3JtLm1vZHVsZS5zY3NzJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>currentDate</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTQ1lMTEFfQUREUkVTU1w+</text>
+        <text encoding="base64">XDxWYWx1ZVR5cGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoYE1lc3NhZ2VzIGRvbmUgZm9yIGhvdXIgJHtmb3JtYXREYXRlKGN1cnJlbnREYXRlKX1gKTsK</text>
+        <text encoding="base64">ICAgICAgZXh0cmFjdDogdHJ1ZSwKICAgICAgd3JpdGVEZWZpbml0aW9uczogdHJ1ZSwKICAgICAgbW9kdWxlczogdHJ1ZSwKICAgICAgbmFtZWRFeHBvcnRzOiB0cnVlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text>fix: change user</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL3RpdGxlcy1mb3JtLm1vZHVsZS5zY3NzJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsb2dnZXIuZGVidWcoYGluaXRpYWwgc3RhdGUgJHtzdGF0ZS5uZXh0TWludXRlfWApOwo=</text>
+        <text encoding="base64">ICByZXR1cm4gPGRpdj50ZXN0PC9kaXY+Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmRlYnVnKGBNZXNzYWdlcyBkb25lIGZvciBtaW51dGUgJHtzdGF0ZS5uZXh0TWludXRlfWApOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdHlsZXMuaGhoaGgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc3RhdGVOZXh0TWludXRlID0gc3RhdGUubmV4dE1pbnV0ZSArIDYwMDAwOwo=</text>
+        <text encoding="base64">ICAgICAgdXNlOiBbJ3Nhc3MnXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgZXh0cmFjdDogdHJ1ZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYGApOwo=</text>
+        <text encoding="base64">ICAvLyBMb2NhbGUKICBjb25zdCB7IHQgfSA9IHVzZVRyYW5zbGF0aW9uKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcHJldiA9IGF3YWl0IHJlZGlzQ29ubmVjdGlvbi5nZXQoUkVESVNfS0VZKTsgLy8gZXhwIDEwIGRheXMK</text>
+        <text encoding="base64">aW1wb3J0IHsgdXNlVHJhbnNsYXRpb24gfSBmcm9tICdyZWFjdC1pMThuZXh0JzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJldik7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHsgU3RyZWFtU2V0dXBFbWJlZEdvTGl2ZUZvcm0gfSBmcm9tICcuL1N0cmVhbVNldHVwRW1iZWRHb0xpdmVGb3JtJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgciA9IGF3YWl0IHJlZGlzQ29ubmVjdGlvbi5nZXQoUkVESVNfS0VZKTsgLy8gZXhwIDEwIGRheXMK</text>
+        <text encoding="base64">ZXhwb3J0IHsgU3RyZWFtU2V0dXBQb3B1cEVtYmVkRm9ybSB9IGZyb20gJy4vU3RyZWFtU2V0dXBQb3B1cEVtYmVkRm9ybSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -341,9 +354,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTQ1lMTEFfQUREUkVTU1w+</last-search>
+      <last-search encoding="base64">XDxWYWx1ZVR5cGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTQ1lMTEFfQUREUkVTU1w+</last-pattern>
+      <last-pattern encoding="base64">XDxWYWx1ZVR5cGVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaXJzdElkSW5NZXNzYWdlV29yZDJcPg==</last-substitute>
       <last-dir>1</last-dir>
