@@ -152,11 +152,11 @@
         <mark key="^" line="1" column="39" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588609688943">
+      <file name="/Dummy.txt" timestamp="1588610339614">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="14" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1588596383234">
         <mark key="[" line="0" column="0" />
@@ -295,8 +295,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>R</text>
+      <register name="&quot;" type="2">
+        <text>fix: datacenter</text>
       </register>
       <register name="-" type="4">
         <text>R</text>
@@ -308,34 +308,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbG0zIC0ta3ViZWNvbmZpZyBjb25maWcgLS1rdWJlLWNvbnRleHQgZWtzX3FhLWV1IHVwZ3JhZGUgLS1pbnN0YWxsIC0tc2V0IGltYWdlLnRhZz0ke2N1cnJlbnRCdWlsZC5kaXNwbGF5TmFtZX0saW5ncmVzcy5ob3N0c1swXS5ob3N0PSR7ZnFkbn0gJHtzZXJ2aWNlTmFtZX0tJHticmFuY2hOYW1lfSAtZiB2YWx1ZXMueWFtbCAuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbHVlOiAiZGF0YWNlbnRlcjEiCg==</text>
+        <text>fix: datacenter</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>fix: scylla pass</text>
+        <text encoding="base64">ICAgIHZhbHVlOiAiZGF0YWNlbnRlcjEiCg==</text>
       </register>
       <register name="3" type="2">
-        <text>fix: generate name</text>
+        <text>fix: scylla pass</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbG0zIC0ta3ViZWNvbmZpZyBjb25maWcgLS1rdWJlLWNvbnRleHQgZWtzX3FhLWV1IHVwZ3JhZGUgLS1pbnN0YWxsIC0tc2V0IGltYWdlLnRhZz0ke2N1cnJlbnRCdWlsZC5kaXNwbGF5TmFtZX0saW5ncmVzcy5ob3N0c1swXS5ob3N0PSR7ZnFkbn0gJHtzZXJ2aWNlTmFtZX0tJHticmFuY2hOYW1lfSAtZiB2YWx1ZXMueWFtbCAuCg==</text>
+        <text>fix: generate name</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbG0zIC0ta3ViZWNvbmZpZyBjb25maWcgLS1rdWJlLWNvbnRleHQgZWtzX3FhLWV1IGluc3RhbGwgLS1nZW5lcmF0ZS1uYW1lIC0tZHJ5LXJ1biAtLWRlYnVnIC1mIHZhbHVlcy55YW1sIC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbG0zIC0ta3ViZWNvbmZpZyBjb25maWcgLS1rdWJlLWNvbnRleHQgZWtzX3FhLWV1IHVwZ3JhZGUgLS1pbnN0YWxsIC0tc2V0IGltYWdlLnRhZz0ke2N1cnJlbnRCdWlsZC5kaXNwbGF5TmFtZX0saW5ncmVzcy5ob3N0c1swXS5ob3N0PSR7ZnFkbn0gJHtzZXJ2aWNlTmFtZX0tJHticmFuY2hOYW1lfSAtZiB2YWx1ZXMueWFtbCAuCg==</text>
       </register>
       <register name="6" type="2">
-        <text>fix: helm chart</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbG0zIC0ta3ViZWNvbmZpZyBjb25maWcgLS1rdWJlLWNvbnRleHQgZWtzX3FhLWV1IGluc3RhbGwgLS1nZW5lcmF0ZS1uYW1lIC0tZHJ5LXJ1biAtLWRlYnVnIC1mIHZhbHVlcy55YW1sIC4K</text>
       </register>
       <register name="7" type="2">
-        <text>fix: remove service.yaml</text>
+        <text>fix: helm chart</text>
       </register>
       <register name="8" type="2">
-        <text>fix: remove probes</text>
+        <text>fix: remove service.yaml</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9yZWdpc3RyeS5ucG1qcy5vcmcvOl9hdXRoVG9rZW49NGIzMjZhNWMtMGIyMS00NWJkLWExYWEtYjJkMjkxNGI3YTA3Cg==</text>
+        <text>fix: remove probes</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
