@@ -110,7 +110,12 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="43" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/old-chat-analytics-migrator/templates/tests/test-connection.yaml" timestamp="1588596436045" />
+      <file name="/Dummy.txt" timestamp="1588667064463">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-line/chart-line.tsx" timestamp="1588418140075">
         <mark key="'" line="6" column="20" />
         <mark key="[" line="94" column="0" />
@@ -123,43 +128,13 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1588666472075">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/old-chat-analytics-migrator/templates/deployment.yaml" timestamp="1588600218090">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/node_modules/@types/ioredis/index.d.ts" timestamp="1588590660334" />
-      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/package.json" timestamp="1588581313773">
-        <mark key="[" line="12" column="36" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="37" />
-        <mark key="^" line="12" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/Jenkinsfile" timestamp="1588608962429">
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="228" />
-      </file>
-      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" timestamp="1588664278377">
-        <mark key="'" line="44" column="16" />
-        <mark key="[" line="194" column="48" />
-        <mark key="]" line="194" column="56" />
-        <mark key="." line="194" column="55" />
-        <mark key="^" line="194" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/.npmrc" timestamp="1588601309458">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="1" column="39" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588610339614">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="15" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1588596383234">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/Dockerfile" timestamp="1588601331217">
         <mark key="[" line="4" column="0" />
@@ -182,13 +157,35 @@
       <file name="/GraphQL.variables.json" timestamp="1588413999928">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/package.json" timestamp="1588581313773">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="37" />
+        <mark key="^" line="12" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/session-viewers-counters.tsx" timestamp="1588259148908">
         <mark key="[" line="90" column="43" />
         <mark key="]" line="90" column="48" />
         <mark key="." line="90" column="47" />
         <mark key="^" line="90" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/scss/colors.scss" timestamp="1588596225070" />
+      <file name="$USER_HOME$/Documents/restream-frontend/Jenkinsfile" timestamp="1588608962429">
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="228" />
+      </file>
+      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" timestamp="1588667025434">
+        <mark key="'" line="44" column="16" />
+        <mark key="[" line="218" column="81" />
+        <mark key="]" line="218" column="82" />
+        <mark key="." line="218" column="82" />
+        <mark key="^" line="218" column="81" />
+      </file>
+      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/.npmrc" timestamp="1588601309458">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="39" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="60" column="11" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.module.scss" />
@@ -295,47 +292,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>nextMinute</text>
+      <register name="&quot;" type="2">
+        <text>fix: change user</text>
       </register>
       <register name="-" type="4">
-        <text>nextMinute</text>
+        <text>currentDate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTQ1lMTEFfQUREUkVTU1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmRlYnVnKGBNZXNzYWdlcyBkb25lIGZvciBtaW51dGUgJHtzdGF0ZS5uZXh0TWludXRlfWApOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoYE1lc3NhZ2VzIGRvbmUgZm9yIGhvdXIgJHtmb3JtYXREYXRlKGN1cnJlbnREYXRlKX1gKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc3RhdGVOZXh0TWludXRlID0gc3RhdGUubmV4dE1pbnV0ZSArIDYwMDAwOwo=</text>
+        <text>fix: change user</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBsb2dnZXIuZGVidWcoYGluaXRpYWwgc3RhdGUgJHtzdGF0ZS5uZXh0TWludXRlfWApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYGApOwo=</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmRlYnVnKGBNZXNzYWdlcyBkb25lIGZvciBtaW51dGUgJHtzdGF0ZS5uZXh0TWludXRlfWApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcHJldiA9IGF3YWl0IHJlZGlzQ29ubmVjdGlvbi5nZXQoUkVESVNfS0VZKTsgLy8gZXhwIDEwIGRheXMK</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc3RhdGVOZXh0TWludXRlID0gc3RhdGUubmV4dE1pbnV0ZSArIDYwMDAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJldik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgciA9IGF3YWl0IHJlZGlzQ29ubmVjdGlvbi5nZXQoUkVESVNfS0VZKTsgLy8gZXhwIDEwIGRheXMK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYGApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocik7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcHJldiA9IGF3YWl0IHJlZGlzQ29ubmVjdGlvbi5nZXQoUkVESVNfS0VZKTsgLy8gZXhwIDEwIGRheXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocik7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJldik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgciA9IGF3YWl0IHJlZGlzQ29ubmVjdGlvbi5nZXQoUkVESVNfS0VZKTsgLy8gZXhwIDEwIGRheXMK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
