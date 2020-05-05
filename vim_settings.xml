@@ -139,12 +139,12 @@
         <mark key="[" line="168" column="0" />
         <mark key="]" line="168" column="228" />
       </file>
-      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" timestamp="1588607982033">
+      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" timestamp="1588664278377">
         <mark key="'" line="44" column="16" />
-        <mark key="[" line="73" column="45" />
-        <mark key="]" line="73" column="54" />
-        <mark key="." line="73" column="53" />
-        <mark key="^" line="73" column="54" />
+        <mark key="[" line="194" column="48" />
+        <mark key="]" line="194" column="56" />
+        <mark key="." line="194" column="55" />
+        <mark key="^" line="194" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/.npmrc" timestamp="1588601309458">
         <mark key="[" line="0" column="0" />
@@ -173,11 +173,11 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/old-chat-analytics-migrator/values.yaml" timestamp="1588610317698">
-        <mark key="[" line="94" column="46" />
-        <mark key="]" line="94" column="55" />
-        <mark key="^" line="94" column="55" />
-        <mark key="." line="94" column="54" />
+      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/old-chat-analytics-migrator/values.yaml" timestamp="1588663386150">
+        <mark key="[" line="92" column="46" />
+        <mark key="]" line="92" column="55" />
+        <mark key="^" line="92" column="55" />
+        <mark key="." line="92" column="54" />
       </file>
       <file name="/GraphQL.variables.json" timestamp="1588413999928">
         <mark key="[" line="0" column="0" />
@@ -295,47 +295,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>fix: datacenter</text>
+      <register name="&quot;" type="4">
+        <text>nextMinute</text>
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text>nextMinute</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTQ1lMTEFfQUREUkVTU1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbG0zIC0ta3ViZWNvbmZpZyBjb25maWcgLS1rdWJlLWNvbnRleHQgZWtzX3FhLWV1IHVwZ3JhZGUgLS1pbnN0YWxsIC0tc2V0IGltYWdlLnRhZz0ke2N1cnJlbnRCdWlsZC5kaXNwbGF5TmFtZX0saW5ncmVzcy5ob3N0c1swXS5ob3N0PSR7ZnFkbn0gJHtzZXJ2aWNlTmFtZX0tJHticmFuY2hOYW1lfSAtZiB2YWx1ZXMueWFtbCAuCg==</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmRlYnVnKGBNZXNzYWdlcyBkb25lIGZvciBtaW51dGUgJHtzdGF0ZS5uZXh0TWludXRlfWApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text>fix: datacenter</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc3RhdGVOZXh0TWludXRlID0gc3RhdGUubmV4dE1pbnV0ZSArIDYwMDAwOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbHVlOiAiZGF0YWNlbnRlcjEiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text>fix: scylla pass</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYGApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text>fix: generate name</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcHJldiA9IGF3YWl0IHJlZGlzQ29ubmVjdGlvbi5nZXQoUkVESVNfS0VZKTsgLy8gZXhwIDEwIGRheXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbG0zIC0ta3ViZWNvbmZpZyBjb25maWcgLS1rdWJlLWNvbnRleHQgZWtzX3FhLWV1IHVwZ3JhZGUgLS1pbnN0YWxsIC0tc2V0IGltYWdlLnRhZz0ke2N1cnJlbnRCdWlsZC5kaXNwbGF5TmFtZX0saW5ncmVzcy5ob3N0c1swXS5ob3N0PSR7ZnFkbn0gJHtzZXJ2aWNlTmFtZX0tJHticmFuY2hOYW1lfSAtZiB2YWx1ZXMueWFtbCAuCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJldik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbG0zIC0ta3ViZWNvbmZpZyBjb25maWcgLS1rdWJlLWNvbnRleHQgZWtzX3FhLWV1IGluc3RhbGwgLS1nZW5lcmF0ZS1uYW1lIC0tZHJ5LXJ1biAtLWRlYnVnIC1mIHZhbHVlcy55YW1sIC4K</text>
+        <text encoding="base64">ICAgICAgY29uc3QgciA9IGF3YWl0IHJlZGlzQ29ubmVjdGlvbi5nZXQoUkVESVNfS0VZKTsgLy8gZXhwIDEwIGRheXMK</text>
       </register>
       <register name="7" type="2">
-        <text>fix: helm chart</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>fix: remove service.yaml</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>fix: remove probes</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
