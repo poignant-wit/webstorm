@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWFkeVw+</entry>
-        <entry encoding="base64">XDxidXR0b25cPg==</entry>
-        <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
         <entry encoding="base64">XDxlcnJvclw+</entry>
         <entry encoding="base64">XDxwcm9jZXNzVmlkZW9GaWxlXD4=</entry>
         <entry encoding="base64">XDx1cGxvYWRUb1MzXD4=</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxTd2l0Y2hcPg==</entry>
         <entry encoding="base64">XDxwcm9wT3JcPg==</entry>
         <entry encoding="base64">XDxWYWx1ZVR5cGVcPg==</entry>
+        <entry encoding="base64">XDx0XD4=</entry>
+        <entry encoding="base64">XDxhbmFseXRpY3NcPg==</entry>
+        <entry encoding="base64">XDxpY29uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action $Copy</entry>
@@ -42,10 +42,10 @@
         <entry>action FileChooser.NewFolder</entry>
         <entry>.,.+8action GotoFile</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action $SelectAll</entry>
         <entry>action ReformatCode</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action $SelectAll</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
@@ -104,110 +104,110 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/store/errors.ts" timestamp="1588674603404">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/elements/tooltip/Tooltip.tsx" timestamp="1588679672685">
+        <mark key="[" line="50" column="23" />
+        <mark key="]" line="50" column="29" />
+        <mark key="^" line="50" column="29" />
+        <mark key="." line="50" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/index.ts" timestamp="1588674794345">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="44" />
-        <mark key="^" line="1" column="44" />
-        <mark key="." line="1" column="43" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/item/product-menu-side-item.tsx" timestamp="1588680445976">
+        <mark key="'" line="21" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/elements/button/Button.tsx" timestamp="1588679018096">
+        <mark key="[" line="46" column="27" />
+        <mark key="]" line="46" column="33" />
+        <mark key="^" line="46" column="33" />
+        <mark key="." line="46" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/titles-form.tsx" timestamp="1588677229550">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/elements/select/Select.tsx" timestamp="1588678724839">
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="26" column="32" />
+        <mark key="." line="26" column="31" />
+        <mark key="^" line="26" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/elements/icon/Icon.tsx" timestamp="1588679340897">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/elements/toast/toast.ts" timestamp="1588679767387" />
       <file name="$USER_HOME$/Documents/restream-ui-kit/rollup.config.js" timestamp="1588677146346">
         <mark key="[" line="31" column="28" />
         <mark key="]" line="31" column="29" />
         <mark key="." line="31" column="28" />
         <mark key="^" line="31" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/store/titles-form.module.scss" timestamp="1588675742015">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="16" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/elements/form-label/FormLabel.tsx" timestamp="1588678774880">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="32" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/TitlesPage.tsx" timestamp="1588680339115">
+        <mark key="'" line="85" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/product-menu-side.tsx" timestamp="1588680429504">
+        <mark key="'" line="16" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/elements/form-input/FormInput.tsx" timestamp="1588678945483">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="32" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/custom.d.ts" timestamp="1588680121934">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="35" />
         <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="15" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/components/stream-setup-form/useStreamSetupForm.ts" timestamp="1588674967060">
-        <mark key="'" line="17" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/TitlesPage.tsx" timestamp="1588674809668">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/components/stream-setup-form/StreamSetupForm.tsx" timestamp="1588675172492">
-        <mark key="[" line="110" column="15" />
-        <mark key="]" line="110" column="35" />
-        <mark key="." line="110" column="34" />
-        <mark key="^" line="110" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/custom.d.ts" timestamp="1588676607796">
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588674025049">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1588676256747">
+      <file name="/GraphQL.result.json" timestamp="1588677405258">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/index.tsx" timestamp="1588673438733">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="22" />
-        <mark key="^" line="8" column="23" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/elements/switch/Switch.tsx" timestamp="1588679583225">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+        <mark key="." line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/package.json" timestamp="1588675497703">
-        <mark key="[" line="19" column="22" />
-        <mark key="]" line="19" column="22" />
-        <mark key="." line="19" column="22" />
-        <mark key="^" line="19" column="23" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/elements/textarea/Textarea.tsx" timestamp="1588679609408">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="29" />
+        <mark key="^" line="11" column="29" />
+        <mark key="." line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/store/store.tsx" timestamp="1588673774207">
-        <mark key="[" line="45" column="25" />
-        <mark key="]" line="45" column="31" />
-        <mark key="^" line="45" column="31" />
-        <mark key="." line="45" column="30" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/elements/input-label/InputLabel.tsx" timestamp="1588679191922">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/store/actions.ts" timestamp="1588673838276">
-        <mark key="'" line="10" column="9" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/elements/loader/Loader.tsx" timestamp="1588680479517">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/build/index.css" timestamp="1588676446493" />
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/components/stream-setup-form/index.ts" timestamp="1588675057370">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/elements/block/Block.tsx" timestamp="1588678916133">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/titles-form.module.scss" timestamp="1588676459455">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="5" />
-        <mark key="^" line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/example/src/App.tsx" timestamp="1588674746901">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="33" column="27" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/elements/input/Input.tsx" timestamp="1588679379970">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="11" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="56" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/channels-table/channels-table.tsx" />
-      <jump line="16" column="21" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/channels-table/channels-table.tsx" />
-      <jump line="32" column="11" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
-      <jump line="247" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
-      <jump line="196" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
-      <jump line="182" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
-      <jump line="138" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
       <jump line="132" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
       <jump line="122" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
       <jump line="118" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
@@ -301,51 +301,58 @@
       <jump line="10" column="9" filename="$USER_HOME$/Documents/restream-ui-kit/src/titles/store/actions.ts" />
       <jump line="1" column="9" filename="$USER_HOME$/Documents/restream-ui-kit/src/titles/components/stream-setup-form/useStreamSetupForm.ts" />
       <jump line="17" column="35" filename="$USER_HOME$/Documents/restream-ui-kit/src/titles/components/stream-setup-form/useStreamSetupForm.ts" />
+      <jump line="85" column="10" filename="$USER_HOME$/Documents/restream-frontend/src/views/titles/TitlesPage.tsx" />
+      <jump line="16" column="30" filename="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/product-menu-side.tsx" />
+      <jump line="63" column="24" filename="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/item/product-menu-side-item.tsx" />
+      <jump line="67" column="22" filename="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/item/product-menu-side-item.tsx" />
+      <jump line="70" column="45" filename="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/item/product-menu-side-item.tsx" />
+      <jump line="13" column="2" filename="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/item/product-menu-side-item.tsx" />
+      <jump line="21" column="2" filename="$USER_HOME$/Documents/restream-ui-kit/src/product-menu/side/item/product-menu-side-item.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL3RpdGxlcy1mb3JtLm1vZHVsZS5zY3NzJzsK</text>
+      <register name="&quot;" type="4">
+        <text>LoaderImage</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>LoaderImage</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxWYWx1ZVR5cGVcPg==</text>
+        <text encoding="base64">XDxpY29uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXh0cmFjdDogdHJ1ZSwKICAgICAgd3JpdGVEZWZpbml0aW9uczogdHJ1ZSwKICAgICAgbW9kdWxlczogdHJ1ZSwKICAgICAgbmFtZWRFeHBvcnRzOiB0cnVlLAo=</text>
+        <text encoding="base64">ZGVjbGFyZSBtb2R1bGUgJyouc2Nzcyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL3RpdGxlcy1mb3JtLm1vZHVsZS5zY3NzJzsK</text>
+        <text encoding="base64">ICBleHBvcnQgY29uc3QgUmVhY3RDb21wb25lbnQ6IGFueTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gPGRpdj50ZXN0PC9kaXY+Owo=</text>
+        <text encoding="base64">ZGVjbGFyZSBtb2R1bGUg4oCYKi5zdmfigJkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdHlsZXMuaGhoaGgpOwo=</text>
+        <text encoding="base64">UmVhY3QuRgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdXNlOiBbJ3Nhc3MnXQo=</text>
+        <text encoding="base64">UmVhY3QuRgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZXh0cmFjdDogdHJ1ZSwK</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL3RpdGxlcy1mb3JtLm1vZHVsZS5zY3NzJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBMb2NhbGUKICBjb25zdCB7IHQgfSA9IHVzZVRyYW5zbGF0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gPGRpdj50ZXN0PC9kaXY+Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlVHJhbnNsYXRpb24gfSBmcm9tICdyZWFjdC1pMThuZXh0JzsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdHlsZXMuaGhoaGgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgU3RyZWFtU2V0dXBFbWJlZEdvTGl2ZUZvcm0gfSBmcm9tICcuL1N0cmVhbVNldHVwRW1iZWRHb0xpdmVGb3JtJzsK</text>
+        <text encoding="base64">ICAgICAgdXNlOiBbJ3Nhc3MnXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgU3RyZWFtU2V0dXBQb3B1cEVtYmVkRm9ybSB9IGZyb20gJy4vU3RyZWFtU2V0dXBQb3B1cEVtYmVkRm9ybSc7Cg==</text>
+        <text encoding="base64">ICAgICAgZXh0cmFjdDogdHJ1ZSwK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -354,9 +361,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxWYWx1ZVR5cGVcPg==</last-search>
+      <last-search encoding="base64">XDxpY29uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxWYWx1ZVR5cGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpY29uXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaXJzdElkSW5NZXNzYWdlV29yZDJcPg==</last-substitute>
       <last-dir>1</last-dir>
