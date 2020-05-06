@@ -45,8 +45,8 @@
         <entry>action ReformatCode</entry>
         <entry>action EditorDuplicate</entry>
         <entry>action $SelectAll</entry>
-        <entry>action GotoFile</entry>
         <entry>action TypeHierarchy</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -104,24 +104,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588686797343">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="11" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/elements/button/button.module.scss" timestamp="1588754001255">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="38" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1588749495711">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/TitlesEmbedPage.tsx" timestamp="1588684136917">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="35" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/elements/textarea/Textarea.module.scss" timestamp="1588684372319">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="25" column="1" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/block/Block.tsx" timestamp="1588752844165">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/components/stream-setup-form/stream-setup-form.module.scss" timestamp="1588752146856">
         <mark key="[" line="18" column="2" />
@@ -135,24 +127,11 @@
         <mark key="^" line="0" column="45" />
         <mark key="." line="0" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/elements/switch/SwitchTest.tsx" timestamp="1588683210371">
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="14" column="41" />
-        <mark key="^" line="14" column="41" />
-        <mark key="." line="14" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/elements/switch/Switch.tsx" timestamp="1588683042824">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="27" />
-        <mark key="^" line="9" column="27" />
-        <mark key="." line="9" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/scss/colors.scss" timestamp="1588751723025" />
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/elements/textarea/Textarea.tsx" timestamp="1588684328240">
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="19" column="36" />
-        <mark key="." line="19" column="35" />
-        <mark key="^" line="19" column="36" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/tabs/tabs.tsx" timestamp="1588753291678">
+        <mark key="[" line="57" column="7" />
+        <mark key="]" line="57" column="7" />
+        <mark key="^" line="57" column="9" />
+        <mark key="." line="57" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/titles-form.tsx" timestamp="1588684564097">
         <mark key="[" line="2" column="0" />
@@ -165,12 +144,6 @@
         <mark key="." line="23" column="43" />
         <mark key="^" line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/elements/select/Select.scss" timestamp="1588751797463">
-        <mark key="[" line="17" column="35" />
-        <mark key="]" line="18" column="21" />
-        <mark key="^" line="18" column="21" />
-        <mark key="." line="18" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/components/stream-setup-form/stream-setup-form.tsx" timestamp="1588752485393">
         <mark key="'" line="41" column="2" />
         <mark key="[" line="125" column="43" />
@@ -178,34 +151,47 @@
         <mark key="." line="126" column="53" />
         <mark key="^" line="126" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/Jenkinsfile" timestamp="1588753735059" />
       <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/components/stream-setup-form/useStreamSetupForm.ts" timestamp="1588750549710">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="14" column="94" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/elements/input/Input.module.scss" timestamp="1588684385395">
-        <mark key="[" line="22" column="1" />
-        <mark key="]" line="22" column="6" />
-        <mark key="^" line="22" column="6" />
-        <mark key="." line="22" column="5" />
+      <file name="$USER_HOME$/Documents/restream-frontend/Jenkinsfile" timestamp="1588753718040" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/components/stream-setup-form/StreamSetupForm.tsx" timestamp="1588684803204">
+        <mark key="[" line="117" column="15" />
+        <mark key="]" line="117" column="27" />
+        <mark key="." line="117" column="26" />
+        <mark key="^" line="117" column="27" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588753747734">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="16" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1588753701731">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/scss/colors.scss" timestamp="1588751723025" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/elements/select/Select.scss" timestamp="1588751797463">
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="18" column="21" />
+        <mark key="^" line="18" column="21" />
+        <mark key="." line="18" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/callout/Callout.tsx" timestamp="1588752905863">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="28" />
+        <mark key="^" line="11" column="28" />
+        <mark key="." line="11" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/restream-ui-kit/example/src/App.tsx" timestamp="1588751353133">
         <mark key="[" line="131" column="74" />
         <mark key="]" line="132" column="53" />
         <mark key="." line="132" column="52" />
         <mark key="^" line="132" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/TitlesPage.tsx" timestamp="1588683553295">
-        <mark key="'" line="97" column="8" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-ui-kit/src/titles/components/stream-setup-form/StreamSetupForm.tsx" timestamp="1588684803204">
-        <mark key="[" line="117" column="15" />
-        <mark key="]" line="117" column="27" />
-        <mark key="." line="117" column="26" />
-        <mark key="^" line="117" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -314,49 +300,49 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcy5jbGFzc05hbWUgfHwgJ3Rlc2cnKTsK</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNsaXA6IHBhZGRpbmctYm94Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>props</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnYW1lSW5wdXRQbGFjZWhvbGRlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzZWxlY3RDbGFzc05hbWU/OiBzdHJpbmc7Cg==</text>
+        <text>Callout.tsx</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcy5jbGFzc05hbWUgfHwgJ3Rlc2cnKTsK</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNsaXA6IHBhZGRpbmctYm94Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzZWxlY3RDbGFzc05hbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZXNjcmlwdGlvblRvb2x0aXA6IHN0cmlpOwo=</text>
+        <text encoding="base64">LmJ1dHRvbjpkaXNhYmxlZCB7CiAgY3Vyc29yOiBkZWZhdWx0OwogIG9wYWNpdHk6IDAuNzsKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text>refactor: remove platform item</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtyaWdodEJ1dHRvbiAmJiA8ZGl2PntyaWdodEJ1dHRvbn08L2Rpdj59Cg==</text>
+        <text>refactor: move elements</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICAgIHR5cGU9eydzdWJtaXQnfQogICAgICAgICAgICAgIGRpc2FibGVkPXtkaXNhYmxlQnV0dG9ufQogICAgICAgICAgICAgIG9uQ2xpY2s9e2hhbmRsZVN1Ym1pdH0KICAgICAgICAgICAgICBsb2FkaW5nPXtzaG93QnV0dG9uTG9hZGVyfQogICAgICAgICAgICA+CiAgICAgICAgICAgICAge3N1Ym1pdEJ1dHRvblRpdGxlfQogICAgICAgICAgICA8L0J1dHRvbj4K</text>
+        <text>feat: stream-setup-form</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text>feat: titles elements/components</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3JpZ2h0QnV0dG9uICYmIDxkaXY+e3JpZ2h0QnV0dG9ufTwvZGl2Pn0K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcy5jbGFzc05hbWUgfHwgJ3Rlc2cnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiLi4vLi4vc3JjL3RpdGxlcy9lbGVtZW50cy9idXR0b24vQnV0dG9uIjsK</text>
+        <text encoding="base64">ICBzZWxlY3RDbGFzc05hbWUK</text>
       </register>
       <register name=":" type="4">
-        <text>action TypeHierarchy</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
   </component>
