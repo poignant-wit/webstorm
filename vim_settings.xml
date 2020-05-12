@@ -104,12 +104,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1589291366770">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1589295456188">
         <mark key="'" line="37" column="46" />
-        <mark key="[" line="108" column="19" />
-        <mark key="]" line="108" column="23" />
-        <mark key="^" line="108" column="23" />
-        <mark key="." line="108" column="22" />
+        <mark key="[" line="222" column="48" />
+        <mark key="]" line="222" column="77" />
+        <mark key="^" line="222" column="77" />
+        <mark key="." line="222" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-chatters-top/session-chart-chatters-top.tsx" timestamp="1589288964216">
         <mark key="'" line="82" column="27" />
@@ -169,10 +169,11 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1589294365909">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="43" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1589295039665">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="32" />
+        <mark key="." line="20" column="31" />
+        <mark key="^" line="20" column="32" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1589287342562">
         <mark key="[" line="0" column="0" />
@@ -333,11 +334,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3JlbGF5LXJ1bnRpbWUnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>userToken</text>
       </register>
       <register name="-" type="4">
-        <text>withAbsintheSocket.create(socket)</text>
+        <text>userToken</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJpYWJsZXNcPg==</text>
