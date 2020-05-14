@@ -45,8 +45,8 @@
         <entry>action ReformatCode</entry>
         <entry>action $SelectAll</entry>
         <entry>action TypeHierarchy</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -104,12 +104,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1589452273566">
-        <mark key="'" line="478" column="24" />
-        <mark key="[" line="116" column="52" />
-        <mark key="]" line="117" column="26" />
-        <mark key="." line="117" column="25" />
-        <mark key="^" line="117" column="26" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1589460110440">
+        <mark key="'" line="368" column="24" />
+        <mark key="[" line="214" column="15" />
+        <mark key="]" line="214" column="15" />
+        <mark key="^" line="350" column="35" />
+        <mark key="." line="214" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-chatters-top/session-chart-chatters-top.tsx" timestamp="1589288964216">
         <mark key="'" line="82" column="27" />
@@ -137,6 +137,7 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/node_modules/@types/relay-runtime/lib/subscription/requestSubscription.d.ts" timestamp="1589454786231" />
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/channel-name.tsx" timestamp="1589375169162">
         <mark key="'" line="60" column="8" />
         <mark key="[" line="19" column="18" />
@@ -144,11 +145,11 @@
         <mark key="^" line="19" column="19" />
         <mark key="." line="19" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589448102419">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="0" column="27" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="27" />
+      <file name="/Dummy.txt" timestamp="1589459507858">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview-messages/chat-overview-messages.tsx" timestamp="1589288825909">
         <mark key="'" line="94" column="25" />
@@ -157,20 +158,14 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1589296303757">
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="22" column="17" />
-        <mark key="^" line="22" column="17" />
-        <mark key="." line="22" column="16" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1589459319396">
+        <mark key="[" line="80" column="15" />
+        <mark key="]" line="80" column="16" />
+        <mark key="^" line="80" column="16" />
+        <mark key="." line="80" column="15" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1589363476009">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/session-chat-counters.tsx" timestamp="1589288199135">
-        <mark key="[" line="51" column="43" />
-        <mark key="]" line="51" column="54" />
-        <mark key="." line="51" column="53" />
-        <mark key="^" line="51" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview-channels/chat-overview-channels.tsx" timestamp="1589288313065">
         <mark key="[" line="42" column="44" />
@@ -321,49 +316,49 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>getValue</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>getValue</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RlZENoYW5uZWxzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYWdncmVnYXRpb25FeGlzdGluZy5zZXRWYWx1ZShzdGF0dXMsICdzdGF0dXMnKTsK</text>
+        <text encoding="base64">ICBjb25zdCBsb2FkaW5nID0gdXNlTWVtbygoKSA9PiAhZGF0YVF1ZXJ5UHJvcHMgJiYgIWRhdGFRdWVyeUVycm9yLCBbCiAgICBkYXRhUXVlcnlQcm9wcywKICAgIGRhdGFRdWVyeUVycm9yLAogIF0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3RvcmUuc2V0Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgc2Vzc2lvblBhZ2VDaGF0UXVlcnkgfSBmcm9tICduZXh0L3BhZ2VzL3Nlc3Npb24vX19nZW5lcmF0ZWRfXy9zZXNzaW9uUGFnZUNoYXRRdWVyeS5ncmFwaHFsJzsKLy8gaW1wb3J0IHsgc2Vzc2lvblBhZ2VWaWV3ZXJzUXVlcnkgfSBmcm9tICduZXh0L3BhZ2VzL3Nlc3Npb24vX19nZW5lcmF0ZWRfXy9zZXNzaW9uUGFnZVZpZXdlcnNRdWVyeS5ncmFwaHFsJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YS5nZXREYXRhKCkpOwo=</text>
+        <text encoding="base64">ICBDb25uZWN0aW9uSGFuZGxlciwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaWQpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgc2Vzc2lvblBhZ2VGb2xsb3dlcnNRdWVyeSB9IGZyb20gJy4vX19nZW5lcmF0ZWRfXy9zZXNzaW9uUGFnZUZvbGxvd2Vyc1F1ZXJ5LmdyYXBocWwnOwppbXBvcnQgeyBzZXNzaW9uUGFnZVBvcHVsYXJQaHJhc2VzUXVlcnkgfSBmcm9tICcuL19fZ2VuZXJhdGVkX18vc2Vzc2lvblBhZ2VQb3B1bGFyUGhyYXNlc1F1ZXJ5LmdyYXBocWwnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZvciBlYWNoJywgc2VyaWVzKTsK</text>
+        <text encoding="base64">ICAvLyBjb25zdCB7IHByb3BzOiB2aWV3ZXJzUXVlcnlQcm9wcywgZXJyb3I6IHZpZXdlcnNRdWVyeUVycm9yIH0gPSB1c2VRdWVyeTwKICAvLyAgIHNlc3Npb25QYWdlVmlld2Vyc1F1ZXJ5CiAgLy8gPihWSUVXRVJTX1FVRVJZLCB7CiAgLy8gICBzZXNzaW9uSWQsCiAgLy8gfSk7CiAgLy8KICAvLyBjb25zdCB7IHByb3BzOiBmb2xsb3dlcnNRdWVyeVByb3BzLCBlcnJvcjogZm9sbG93ZXJzUXVlcnlFcnJvciB9ID0gdXNlUXVlcnk8CiAgLy8gICBzZXNzaW9uUGFnZUZvbGxvd2Vyc1F1ZXJ5CiAgLy8gPihGT0xMT1dFUlNfUVVFUlksIHsKICAvLyAgIHNlc3Npb25JZCwKICAvLyAgIGluY2x1ZGU6IHNlbGVjdGVkVGFiID09PSBBZ2dzLkZPTExPV0VSUywKICAvLyB9KTsKICAvLwogIC8vIGNvbnN0IHsgcHJvcHM6IGNoYXRRdWVyeVByb3BzLCBlcnJvcjogY2hhdFF1ZXJ5RXJyb3IgfSA9IHVzZVF1ZXJ5PAogIC8vICAgc2Vzc2lvblBhZ2VDaGF0UXVlcnkKICAvLyA+KENIQVRfUVVFUlksIHsKICAvLyAgIHNlc3Npb25JZCwKICAvLyAgIGluY2x1ZGU6CiAgLy8gICAgIHNlbGVjdGVkVGFiID09PSBBZ2dzLkNIQVRfTUVTU0FHRVMgfHwgc2VsZWN0ZWRUYWIgPT09IEFnZ3MuQ0hBVF9UUkVORFMsCiAgLy8gfSk7CiAgLy8KICAvLyBjb25zdCB7CiAgLy8gICBwcm9wczogcG9wdWxhclBocmFzZXNRdWVyeVByb3BzLAogIC8vICAgZXJyb3I6IHBvcHVsYXJQaHJhc2VzUXVlcnlFcnJvciwKICAvLyB9ID0gdXNlUXVlcnk8c2Vzc2lvblBhZ2VQb3B1bGFyUGhyYXNlc1F1ZXJ5PihQT1BVTEFSX1BIUkFTRVNfUVVFUlksIHsKICAvLyAgIHNlc3Npb25JZCwKICAvLyAgIGluY2x1ZGU6IHNlbGVjdGVkVGFiID09PSBBZ2dzLkNIQVRfVFJFTkRTLAogIC8vIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZvciBlYWNoJywgc2VyaWVzKTsK</text>
+        <text encoding="base64">ICAvLyB1c2VFZmZlY3QoKCkgPT4gewogIC8vICAgcHJlZmV0Y2hRdWVyeShlbnZpcm9ubWVudCwgRk9MTE9XRVJTX1FVRVJZLCB7CiAgLy8gICAgIHNlc3Npb25JZCwKICAvLyAgICAgaW5jbHVkZTogdHJ1ZSwKICAvLyAgIH0pOwogIC8vICAgcHJlZmV0Y2hRdWVyeShlbnZpcm9ubWVudCwgQ0hBVF9RVUVSWSwgewogIC8vICAgICBzZXNzaW9uSWQsCiAgLy8gICAgIGluY2x1ZGU6IHRydWUsCiAgLy8gICB9KTsKICAvLyAgIHByZWZldGNoUXVlcnkoZW52aXJvbm1lbnQsIFBPUFVMQVJfUEhSQVNFU19RVUVSWSwgewogIC8vICAgICBzZXNzaW9uSWQsCiAgLy8gICAgIGluY2x1ZGU6IHRydWUsCiAgLy8gICB9KTsKICAvLyB9LCBbc2Vzc2lvbklkXSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgcm9vdEZpZWxkID0gc3RvcmUuZ2V0Um9vdEZpZWxkKCdhZ2dyZWdhdGlvblByb2dyZXNzJyk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhUXVlcnlQcm9wcyk7CgogIC8vIGNvbnN0IGxvYWRpbmdGb2xsb3dlcnMgPSB1c2VNZW1vKAogIC8vICAgKCkgPT4KICAvLyAgICAgIWZvbGxvd2Vyc1F1ZXJ5UHJvcHMgJiYKICAvLyAgICAgIWZvbGxvd2Vyc1F1ZXJ5RXJyb3IgJiYKICAvLyAgICAgc2VsZWN0ZWRUYWIgPT09IEFnZ3MuRk9MTE9XRVJTLAogIC8vICAgW2ZvbGxvd2Vyc1F1ZXJ5UHJvcHMsIGZvbGxvd2Vyc1F1ZXJ5RXJyb3IsIHNlbGVjdGVkVGFiXSwKICAvLyApOwogIC8vCiAgLy8gY29uc3QgbG9hZGluZ0NoYXQgPSB1c2VNZW1vKAogIC8vICAgKCkgPT4KICAvLyAgICAgIWNoYXRRdWVyeVByb3BzICYmCiAgLy8gICAgICFjaGF0UXVlcnlFcnJvciAmJgogIC8vICAgICAoc2VsZWN0ZWRUYWIgPT09IEFnZ3MuQ0hBVF9NRVNTQUdFUyB8fCBzZWxlY3RlZFRhYiA9PT0gQWdncy5DSEFUX1RSRU5EUyksCiAgLy8gICBbY2hhdFF1ZXJ5UHJvcHMsIGNoYXRRdWVyeUVycm9yLCBzZWxlY3RlZFRhYl0sCiAgLy8gKTsKICAvLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAvLyBjb25zdCBsb2FkaW5nUGhyYXNlcyA9IHVzZU1lbW8oCiAgLy8gICAoKSA9PgogIC8vICAgICAhcG9wdWxhclBocmFzZXNRdWVyeVByb3BzICYmCiAgLy8gICAgICFwb3B1bGFyUGhyYXNlc1F1ZXJ5RXJyb3IgJiYKICAvLyAgICAgc2VsZWN0ZWRUYWIgPT09IEFnZ3MuQ0hBVF9UUkVORFMsCiAgLy8gICBbcG9wdWxhclBocmFzZXNRdWVyeVByb3BzLCBwb3B1bGFyUGhyYXNlc1F1ZXJ5RXJyb3IsIHNlbGVjdGVkVGFiXSwKICAvLyApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text>feat: add subscriptions client</text>
+        <text encoding="base64">ICAgIC8vIHN3aXRjaCAoc2VsZWN0ZWRUYWIpIHsKICAgIC8vICAgY2FzZSBBZ2dzLlZJRVdFUlM6CiAgICAvLyAgICAgcmV0dXJuIHZpZXdlcnNRdWVyeVByb3BzLnZpZXdlci5zZXNzaW9uLnZpZXdlcnM7CiAgICAvLyAgIGNhc2UgQWdncy5GT0xMT1dFUlM6CiAgICAvLyAgICAgcmV0dXJuIHZpZXdlcnNRdWVyeVByb3BzLnZpZXdlci5zZXNzaW9uLmZvbGxvd2VyczsKICAgIC8vICAgY2FzZSBBZ2dzLkNIQVRfTUVTU0FHRVM6CiAgICAvLyAgICAgcmV0dXJuIHZpZXdlcnNRdWVyeVByb3BzLnZpZXdlci5zZXNzaW9uLm1lc3NhZ2VzOwogICAgLy8gICBkZWZhdWx0OgogICAgLy8gICAgIHJldHVybiB2aWV3ZXJzUXVlcnlQcm9wcy52aWV3ZXIuc2Vzc2lvbi52aWV3ZXJzOwogICAgLy8gfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWdncyB9IGZyb20gJ25leHQvcGFnZXMvc2Vzc2lvbi90eXBlcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZ2dyZWdhdGlvbnMobWV0cmljOiAkbWV0cmljKSB7CiAgICAgICAgICBpZAogICAgICAgICAgcHJvZ3Jlc3MKICAgICAgICAgIHN0YXR1cwogICAgICAgICAgLi4uc2Vzc2lvbkNoYW5uZWxzVGFibGVfYWdncmVnYXRpb25zCiAgICAgICAgICAuLi5zZXNzaW9uQ2hhcnRMaW5lX2FnZ3JlZ2F0aW9ucwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
   </component>
