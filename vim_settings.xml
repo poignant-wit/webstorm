@@ -104,18 +104,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1589447956611">
-        <mark key="'" line="426" column="24" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="95" column="5" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="267" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-line/chart-line.tsx" timestamp="1589432025844">
-        <mark key="[" line="86" column="28" />
-        <mark key="]" line="86" column="36" />
-        <mark key="^" line="86" column="36" />
-        <mark key="." line="86" column="35" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1589452273566">
+        <mark key="'" line="478" column="24" />
+        <mark key="[" line="116" column="52" />
+        <mark key="]" line="117" column="26" />
+        <mark key="." line="117" column="25" />
+        <mark key="^" line="117" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-chatters-top/session-chart-chatters-top.tsx" timestamp="1589288964216">
         <mark key="'" line="82" column="27" />
@@ -327,46 +321,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>getValue</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>getValue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RlZENoYW5uZWxzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLnNlc3Npb25DaGFubmVsc1RhYmxlX2FnZ3JlZ2F0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgYWdncmVnYXRpb25FeGlzdGluZy5zZXRWYWx1ZShzdGF0dXMsICdzdGF0dXMnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text>feat: add subscriptions client</text>
+        <text encoding="base64">ICAgICAgc3RvcmUuc2V0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWdncyB9IGZyb20gJ25leHQvcGFnZXMvc2Vzc2lvbi90eXBlcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YS5nZXREYXRhKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2Vzc2lvbkNoYXJ0TGluZV9hZ2dDaGF0IH0gZnJvbSAnLi9fX2dlbmVyYXRlZF9fL3Nlc3Npb25DaGFydExpbmVfYWdnQ2hhdC5ncmFwaHFsJzsKaW1wb3J0IHsgc2Vzc2lvbkNoYXJ0TGluZV9hZ2dGb2xsb3dlcnMgfSBmcm9tICcuL19fZ2VuZXJhdGVkX18vc2Vzc2lvbkNoYXJ0TGluZV9hZ2dGb2xsb3dlcnMuZ3JhcGhxbCc7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBAdHMtaWdub3JlCiAgLy8gQHRzLWlnbm9yZQogIGFnZ0NoYXQ6IGdyYXBocWxgCiAgICBmcmFnbWVudCBzZXNzaW9uQ2hhcnRMaW5lX2FnZ0NoYXQgb24gQWdncmVnYXRpb24gQHJlbGF5KHBsdXJhbDogdHJ1ZSkgewogICAgICB0YXJnZXQgewogICAgICAgIF9fdHlwZW5hbWUKICAgICAgICAjICAgICAgICAuLi4gb24gQ2hhbm5lbCB7CiAgICAgICAgIyAgICAgICAgICBpZAogICAgICAgICMgICAgICAgICAgZGlzcGxheU5hbWUKICAgICAgICAjICAgICAgICAgIHBsYXRmb3JtIHsKICAgICAgICAjICAgICAgICAgICAgbmFtZQogICAgICAgICMgICAgICAgICAgICBpY29uIHsKICAgICAgICAjICAgICAgICAgICAgICBwbmcKICAgICAgICAjICAgICAgICAgICAgfQogICAgICAgICMgICAgICAgICAgfQogICAgICAgICMgICAgICAgIH0KICAgICAgICAjICAgICAgICAuLi4gb24gVG90YWwgewogICAgICAgICMgICAgICAgICAgaWQKICAgICAgICAjICAgICAgICAgIG5hbWUKICAgICAgICAjICAgICAgICB9CiAgICAgIH0KICAgICAgIyAgICAgIG1lc3NhZ2VzQ291bnQgewogICAgICAjICAgICAgICBncmFwaCB7CiAgICAgICMgICAgICAgICAgZGF0ZQogICAgICAjICAgICAgICAgIGNvdW50CiAgICAgICMgICAgICAgIH0KICAgICAgIyAgICAgIH0KICAgIH0KICBgLAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZvciBlYWNoJywgc2VyaWVzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhZ2dGb2xsb3dlcnM6IGdyYXBocWxgCiAgICBmcmFnbWVudCBzZXNzaW9uQ2hhcnRMaW5lX2FnZ0ZvbGxvd2VycyBvbiBBZ2dyZWdhdGlvbiBAcmVsYXkocGx1cmFsOiB0cnVlKSB7CiAgICAgIHRhcmdldCB7CiAgICAgICAgX190eXBlbmFtZQogICAgICAgICMgICAgICAgIC4uLiBvbiBDaGFubmVsIHsKICAgICAgICAjICAgICAgICAgIGlkCiAgICAgICAgIyAgICAgICAgICBkaXNwbGF5TmFtZQogICAgICAgICMgICAgICAgICAgcGxhdGZvcm0gewogICAgICAgICMgICAgICAgICAgICBuYW1lCiAgICAgICAgIyAgICAgICAgICAgIGljb24gewogICAgICAgICMgICAgICAgICAgICAgIHBuZwogICAgICAgICMgICAgICAgICAgICB9CiAgICAgICAgIyAgICAgICAgICB9CiAgICAgICAgIyAgICAgICAgfQogICAgICAgICMgICAgICAgIC4uLiBvbiBUb3RhbCB7CiAgICAgICAgIyAgICAgICAgICBpZAogICAgICAgICMgICAgICAgICAgbmFtZQogICAgICAgICMgICAgICAgIH0KICAgICAgfQogICAgICAjICAgICAgZm9sbG93ZXJzIHsKICAgICAgIyAgICAgICAgZ3JhcGggewogICAgICAjICAgICAgICAgIGRhdGUKICAgICAgIyAgICAgICAgICBjb3VudAogICAgICAjICAgICAgICB9CiAgICAgICMgICAgICB9CiAgICB9CiAgYCwK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZvciBlYWNoJywgc2VyaWVzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzZWxlY3RlZEFnZzogQWdnczsK</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgcm9vdEZpZWxkID0gc3RvcmUuZ2V0Um9vdEZpZWxkKCdhZ2dyZWdhdGlvblByb2dyZXNzJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhZ2dGb2xsb3dlcnM6IHNlc3Npb25DaGFydExpbmVfYWdnRm9sbG93ZXJzOwogIGFnZ0NoYXQ6IHNlc3Npb25DaGFydExpbmVfYWdnQ2hhdDsK</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZWxlY3RlZEFnZywK</text>
+        <text>feat: add subscriptions client</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhZ2dGb2xsb3dlcnMsCiAgYWdnQ2hhdCwK</text>
+        <text encoding="base64">aW1wb3J0IHsgQWdncyB9IGZyb20gJ25leHQvcGFnZXMvc2Vzc2lvbi90eXBlcyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
