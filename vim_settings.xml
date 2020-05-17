@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxTd2l0Y2hcPg==</entry>
-        <entry encoding="base64">XDxwcm9wT3JcPg==</entry>
         <entry encoding="base64">XDxWYWx1ZVR5cGVcPg==</entry>
         <entry encoding="base64">XDx0XD4=</entry>
         <entry encoding="base64">XDxhbmFseXRpY3NcPg==</entry>
@@ -19,12 +17,14 @@
         <entry encoding="base64">XDxncmFwaHFsXD4=</entry>
         <entry encoding="base64">XDx2YXJpYWJsZXNcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVPblNlbGVjdENoYW5uZWxcPg==</entry>
-        <entry encoding="base64">XDxzZWxlY3RlZENoYW5uZWxzXD4=</entry>
         <entry encoding="base64">XDxDaGF0T3ZlcnZpZXdcPg==</entry>
         <entry encoding="base64">XDxmcm9tVGltZVw+</entry>
         <entry encoding="base64">XDxEYXRlUmFuZ2VcPg==</entry>
         <entry encoding="base64">XDxvbkNoYW5nZVNlbGVjdGVkXD4=</entry>
+        <entry encoding="base64">XDx2aWV3ZXJzTGF5b3V0XD4=</entry>
         <entry encoding="base64">XDxhZ2dyZWdhdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxzZWxlY3RlZENoYW5uZWxzXD4=</entry>
+        <entry encoding="base64">XDxwcm9jZXNzaW5nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action $Copy</entry>
@@ -45,8 +45,8 @@
         <entry>action ReformatCode</entry>
         <entry>action $SelectAll</entry>
         <entry>action TypeHierarchy</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
+        <entry>action EditorDuplicate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -111,12 +111,11 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1589734513534">
-        <mark key="'" line="62" column="8" />
-        <mark key="[" line="379" column="0" />
-        <mark key="]" line="379" column="0" />
-        <mark key="^" line="66" column="54" />
-        <mark key="." line="379" column="0" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1589738924548">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="167" column="18" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1589544018449">
         <mark key="[" line="0" column="0" />
@@ -191,11 +190,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" timestamp="1589736043265">
-        <mark key="[" line="153" column="11" />
-        <mark key="]" line="153" column="27" />
-        <mark key="." line="153" column="26" />
-        <mark key="^" line="153" column="27" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" timestamp="1589738535340">
+        <mark key="'" line="81" column="2" />
+        <mark key="[" line="240" column="26" />
+        <mark key="]" line="240" column="28" />
+        <mark key="." line="240" column="27" />
+        <mark key="^" line="240" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-table/channels-table.tsx" timestamp="1589543433964">
         <mark key="'" line="101" column="6" />
@@ -204,31 +204,19 @@
         <mark key="." line="170" column="59" />
         <mark key="^" line="170" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/components/DateRangePicker/DateRangePicker.scss" timestamp="1589525567816">
-        <mark key="[" line="111" column="39" />
-        <mark key="]" line="112" column="17" />
-        <mark key="." line="112" column="16" />
-        <mark key="^" line="112" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-watched-minutes/session-chart-watched-minutes.tsx" timestamp="1589734476383">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
         <mark key="^" line="29" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/channel-name.tsx" timestamp="1589737829445">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="36" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
-      <jump line="102" column="4" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
-      <jump line="122" column="0" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
-      <jump line="135" column="0" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
-      <jump line="140" column="0" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
-      <jump line="150" column="0" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
-      <jump line="152" column="0" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
-      <jump line="162" column="0" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
-      <jump line="167" column="0" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
-      <jump line="177" column="0" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
-      <jump line="107" column="14" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
       <jump line="189" column="52" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
       <jump line="192" column="16" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
       <jump line="12" column="19" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
@@ -318,62 +306,73 @@
       <jump line="29" column="8" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.tsx" />
       <jump line="71" column="8" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.tsx" />
       <jump line="72" column="37" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.tsx" />
+      <jump line="208" column="19" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" />
+      <jump line="18" column="2" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" />
+      <jump line="81" column="2" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" />
+      <jump line="428" column="32" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
+      <jump line="253" column="21" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
+      <jump line="255" column="31" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
+      <jump line="430" column="32" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
+      <jump line="241" column="9" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
+      <jump line="371" column="34" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
+      <jump line="263" column="8" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
+      <jump line="274" column="41" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>CHAT_TRENDS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0IHsgRGF0YUNvbnRhaW5lciB9IGZyb20gJ25leHQvY29tcG9uZW50cy9kYXRhLWNvbnRhaW5lci9kYXRhLWNvbnRhaW5lcic7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>CHAT_TRENDS</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZ2dyZWdhdGlvbnNcPg==</text>
+        <text encoding="base64">XDxwcm9jZXNzaW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBjaGF0TWVzc2FnZXNMYXlvdXQgPSB1c2VNZW1vKCgpID0+IHsKICAgIHJldHVybiBmYWxzZTsKICB9LCBbdHlwZW5hbWVdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAge2NoYXRNZXNzYWdlc0xheW91dCAmJgogICAgICAgICAgICAgICAgICAgIGFnZ3JlZ2F0aW9uLnN0YXRlLmRhdGEgJiYKICAgICAgICAgICAgICAgICAgICBhZ2dyZWdhdGlvbi5zdGF0ZS5kYXRhLl9fdHlwZW5hbWUgPT09CiAgICAgICAgICAgICAgICAgICAgICAnQWdncmVnYXRpb25EYXRhQ2hhdE1lc3NhZ2VzJyAmJiAoCiAgICAgICAgICAgICAgICAgICAgICA8PgogICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e2FnZ3JlZ2F0aW9uLnN0YXRlLmRhdGEuZGVzY3JpYmUuc3VtfTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57YWdncmVnYXRpb24uc3RhdGUuZGF0YS5kZXNjcmliZS5zdW19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgIDwvPgogICAgICAgICAgICAgICAgICAgICl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0eXBlbmFtZSA9PT0gJ0FnZ3JlZ2F0aW9uRGF0YVN0cmVhbWluZ0ZvbGxvd2Vycyc7Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgRGF0YUNvbnRhaW5lciB9IGZyb20gJ25leHQvY29tcG9uZW50cy9kYXRhLWNvbnRhaW5lci9kYXRhLWNvbnRhaW5lcic7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBmb2xsb3dlcnNMYXlvdXQgPSB1c2VNZW1vKCgpID0+IHsKICAgIHJldHVybiB0eXBlbmFtZSA9PT0gJ0FnZ3JlZ2F0aW9uRGF0YVN0cmVhbWluZ0ZvbGxvd2Vycyc7Cg==</text>
+        <text encoding="base64">Ly8gLy8gQHRzLWlnbm9yZQovLyBjb25zdCBWSUVXRVJTX1FVRVJZID0gZ3JhcGhxbGAKLy8gICBxdWVyeSBzZXNzaW9uUGFnZVZpZXdlcnNRdWVyeSgkc2Vzc2lvbklkOiBJbnQhKSB7Ci8vICAgICB2aWV3ZXIgewovLyAgICAgICBzZXNzaW9uKGlkOiAkc2Vzc2lvbklkKSB7Ci8vICAgICAgICAgaWQKLy8gICAgICAgICBzdGFydFRpbWVzdGFtcAovLyAgICAgICAgIGVuZFRpbWVzdGFtcAovLyAgICAgICAgIGFnZ3NWaWV3ZXJzOiBhZ2dzIHsKLy8gICAgICAgICAgIHN0cmVhbWluZyB7Ci8vICAgICAgICAgICAgIC4uLnNlc3Npb25DaGFubmVsc1RhYmxlX2FnZ1ZpZXdlcnMKLy8gICAgICAgICAgICAgLi4uc2Vzc2lvbkNoYXJ0TGluZV9hZ2dWaWV3ZXJzCi8vICAgICAgICAgICAgIC4uLnNlc3Npb25DaGFydFdhdGNoZWRNaW51dGVzX2FnZ1ZpZXdlcnMKLy8gICAgICAgICAgICAgLi4uc2Vzc2lvblZpZXdlcnNDb3VudGVyc19hZ2dzCi8vCi8vICAgICAgICAgICAgIHRhcmdldCB7Ci8vICAgICAgICAgICAgICAgX190eXBlbmFtZQovLyAgICAgICAgICAgICAgIC4uLiBvbiBUb3RhbCB7Ci8vICAgICAgICAgICAgICAgICBpZAovLyAgICAgICAgICAgICAgICAgbmFtZQovLyAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgfQovLyAgICAgICAgICAgICB2aWV3ZXJzIHsKLy8gICAgICAgICAgICAgICBkZXNjcmliZSB7Ci8vICAgICAgICAgICAgICAgICB3YXRjaGVkTWludXRlcwovLyAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgfQovLyAgICAgICAgICAgfQovLyAgICAgICAgIH0KLy8gICAgICAgfQovLyAgICAgfQovLyAgIH0KLy8gYDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB7CiAgICAKICB9Cg==</text>
+        <text encoding="base64">Ly8gLy8gQHRzLWlnbm9yZQovLyBjb25zdCBGT0xMT1dFUlNfUVVFUlkgPSBncmFwaHFsYAovLyAgIHF1ZXJ5IHNlc3Npb25QYWdlRm9sbG93ZXJzUXVlcnkoJHNlc3Npb25JZDogSW50ISwgJGluY2x1ZGU6IEJvb2xlYW4hKSB7Ci8vICAgICB2aWV3ZXIgQGluY2x1ZGUoaWY6ICRpbmNsdWRlKSB7Ci8vICAgICAgIHNlc3Npb24oaWQ6ICRzZXNzaW9uSWQpIHsKLy8gICAgICAgICBhZ2dzRm9sbG93ZXJzOiBhZ2dzIHsKLy8gICAgICAgICAgIHN0cmVhbWluZyB7Ci8vICAgICAgICAgICAgIC4uLnNlc3Npb25DaGFydExpbmVfYWdnRm9sbG93ZXJzCi8vICAgICAgICAgICAgIC4uLnNlc3Npb25DaGFubmVsc1RhYmxlX2FnZ0ZvbGxvd2VycwovLyAgICAgICAgICAgICAuLi5zZXNzaW9uRm9sbG93ZXJzQ291bnRlcnNfYWdncwovLyAgICAgICAgICAgfQovLyAgICAgICAgIH0KLy8gICAgICAgfQovLyAgICAgfQovLyAgIH0KLy8gYDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0eXBlbmFtZSk7Cg==</text>
+        <text encoding="base64">Ly8gLy8gQHRzLWlnbm9yZQovLyBjb25zdCBDSEFUX1FVRVJZID0gZ3JhcGhxbGAKLy8gICBxdWVyeSBzZXNzaW9uUGFnZUNoYXRRdWVyeSgkc2Vzc2lvbklkOiBJbnQhLCAkaW5jbHVkZTogQm9vbGVhbiEpIHsKLy8gICAgIHZpZXdlciBAaW5jbHVkZShpZjogJGluY2x1ZGUpIHsKLy8gICAgICAgc2Vzc2lvbihpZDogJHNlc3Npb25JZCkgewovLyAgICAgICAgIGFnZ3NDaGF0OiBhZ2dzIHsKLy8gICAgICAgICAgIGNoYXQgewovLyAgICAgICAgICAgICAuLi5zZXNzaW9uQ2hhcnRMaW5lX2FnZ0NoYXQKLy8gICAgICAgICAgICAgLi4uc2Vzc2lvbkNoYW5uZWxzVGFibGVfYWdnQ2hhdAovLyAgICAgICAgICAgICAuLi5zZXNzaW9uQ2hhcnRDaGF0dGVyc1RvcF9hZ2dzCi8vICAgICAgICAgICAgIC4uLnNlc3Npb25DaGF0Q291bnRlcnNfYWdncwovLyAgICAgICAgICAgICB0YXJnZXQgewovLyAgICAgICAgICAgICAgIF9fdHlwZW5hbWUKLy8gICAgICAgICAgICAgICAuLi4gb24gVG90YWwgewovLyAgICAgICAgICAgICAgICAgaWQKLy8gICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgY2hhdHRlcnNUb3AgewovLyAgICAgICAgICAgICAgIHVuaXF1ZSB7Ci8vICAgICAgICAgICAgICAgICBjb3VudAovLyAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgfQovLyAgICAgICAgICAgfQovLyAgICAgICAgIH0KLy8gICAgICAgfQovLyAgICAgfQovLyAgIH0KLy8gYDsKLy8KLy8gQHRzLWlnbm9yZQovLyBjb25zdCBQT1BVTEFSX1BIUkFTRVNfUVVFUlkgPSBncmFwaHFsYAovLyAgIHF1ZXJ5IHNlc3Npb25QYWdlUG9wdWxhclBocmFzZXNRdWVyeSgkc2Vzc2lvbklkOiBJbnQhLCAkaW5jbHVkZTogQm9vbGVhbiEpIHsKLy8gICAgIHZpZXdlciBAaW5jbHVkZShpZjogJGluY2x1ZGUpIHsKLy8gICAgICAgc2Vzc2lvbihpZDogJHNlc3Npb25JZCkgewovLyAgICAgICAgIGFnZ3NDaGF0OiBhZ2dzIHsKLy8gICAgICAgICAgIGNoYXQgewovLyAgICAgICAgICAgICAuLi5zZXNzaW9uQ2hhcnRQb3B1bGFyUGhyYXNlc19hZ2dzCi8vICAgICAgICAgICB9Ci8vICAgICAgICAgfQovLyAgICAgICB9Ci8vICAgICB9Ci8vICAgfQovLyBgOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAgICBmb2xsb3dlcnMgewogICAgICAgICMgICAgICAgICAgZGVzY3JpYmUgewogICAgICAgICMgICAgICAgICAgICBsYXN0CiAgICAgICAgIyAgICAgICAgICAgIHJhdGUKICAgICAgICAjICAgICAgICAgICAgZGlmZgogICAgICAgICMgICAgICAgICAgfQogICAgICAgICMgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2VsZWN0ZWRBZ2dyZWdhdGlvbnMgPSBhZ2dyZWdhdGlvbnMuZmlsdGVyKChhKSA9PiB7CiAgICAgICAgaWYgKGEpIHsKICAgICAgICAgIHJldHVybiAoc2VsZWN0ZWRDaGFubmVsc1tzZWxlY3RlZFRhYl0gfHwgW10pLmluY2x1ZGVzKGEuaWQpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgIH0pOwogICAgICByZXR1cm4gc2VsZWN0ZWRBZ2dyZWdhdGlvbnMKICAgICAgICAubWFwKChhKSA9PiBhLnN0YXR1cykKICAgICAgICAuZXZlcnkoKHN0YXR1cykgPT4gc3RhdHVzID09PSAncHJvY2Vzc2luZycpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgICAgICAgICAgLi4uY2hhbm5lbE5hbWVfdGFyZ2V0CiAgICAgICAgICAjICAgICAgICAgIC4uLiBvbiBDaGFubmVsIHsKICAgICAgICAgICMgICAgICAgICAgICBpZAogICAgICAgICAgIyAgICAgICAgICAgIGRpc3BsYXlOYW1lCiAgICAgICAgICAjICAgICAgICAgICAgcGxhdGZvcm0gewogICAgICAgICAgIyAgICAgICAgICAgICAgaWNvbiB7CiAgICAgICAgICAjICAgICAgICAgICAgICAgIHBuZwogICAgICAgICAgIyAgICAgICAgICAgICAgfQogICAgICAgICAgIyAgICAgICAgICAgIH0KICAgICAgICAgICMgICAgICAgICAgfQogICAgICAgICAgIyAgICAgICAgICAuLi4gb24gVG90YWwgewogICAgICAgICAgIyAgICAgICAgICAgIGlkCiAgICAgICAgICAjICAgICAgICAgICAgbmFtZQogICAgICAgICAgIyAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmICghZGF0YVF1ZXJ5UHJvcHMpIHsKICAgICAgcmV0dXJuIFtdOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEB0cy1pZ25vcmUK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsb2FkaW5nKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkaXNwbGF5TmFtZQo=</text>
+        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gQHRzLW5vY2hlY2sK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIEB0cy1pZ25vcmUK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action EditorDuplicate</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhZ2dyZWdhdGlvbnNcPg==</last-search>
+      <last-search encoding="base64">XDxwcm9jZXNzaW5nXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZ2dyZWdhdGlvbnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9jZXNzaW5nXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaXJzdElkSW5NZXNzYWdlV29yZDJcPg==</last-substitute>
       <last-dir>1</last-dir>
