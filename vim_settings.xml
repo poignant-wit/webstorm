@@ -123,7 +123,7 @@
         <mark key="." line="76" column="22" />
         <mark key="^" line="100" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589876419139">
+      <file name="/Dummy.txt" timestamp="1589987946626">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -135,11 +135,10 @@
         <mark key="." line="35" column="55" />
         <mark key="^" line="35" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1589986369481">
-        <mark key="[" line="52" column="15" />
-        <mark key="]" line="52" column="23" />
-        <mark key="^" line="52" column="23" />
-        <mark key="." line="52" column="22" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1589987943932">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1589984182629" />
       <file name="/GraphQL.result.json" timestamp="1589981549215">
@@ -308,11 +307,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLi4uc2Vzc2lvbkNoYW5uZWxzVGFibGVfYWdncmVnYXRpb25zCg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>aggregationProgress</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFTkRfVElNRVNUQU1QXD4=</text>
@@ -321,34 +320,34 @@
         <text encoding="base64">Ly8gQHRzLWlnbm9yZQpjb25zdCBzdWJzY3JpcHRpb24gPSBncmFwaHFsYAogIHN1YnNjcmlwdGlvbiBzZXNzaW9uUGFnZVN1YnNjcmlwdGlvbiB7CiAgICBhZ2dyZWdhdGlvblByb2dyZXNzIHsKICAgICAgaWQKICAgICAgLi4uc2Vzc2lvbkNoYXJ0TGluZV9hZ2dyZWdhdGlvbnMKICAgICAgLi4uc2Vzc2lvbkNoYW5uZWxzVGFibGVfYWdncmVnYXRpb25zCiAgICB9CiAgfQpgOwoKY29uc3QgdmFyaWFibGVzID0ge307CgpyZXF1ZXN0U3Vic2NyaXB0aW9uKAogIGVudmlyb25tZW50LCAvLyBzZWUgRW52aXJvbm1lbnQgZG9jcwogIHsKICAgIHN1YnNjcmlwdGlvbiwKICAgIHZhcmlhYmxlcywKICAgIG9uRXJyb3I6IChlcnJvcikgPT4gY29uc29sZS5lcnJvcihlcnJvciksCiAgfSwKKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBhZ2dyZWdhdGlvbnMgPSB1c2VNZW1vKCgpID0+IHsKICAvLyAgIHJldHVybiBxdWVyeVByb3BzPy52aWV3ZXI/LnVzZXI/LmFnZ3JlZ2F0aW9ucyB8fCBbXTsKICAvLyB9LCBbcXVlcnlQcm9wcywgc2VsZWN0ZWRUYWJdKTsK</text>
+        <text encoding="base64">ICAgICAgLi4uc2Vzc2lvbkNoYW5uZWxzVGFibGVfYWdncmVnYXRpb25zCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>feat: batch insert</text>
+        <text encoding="base64">ICAgICAgLi4uc2Vzc2lvbkNoYXJ0TGluZV9hZ2dyZWdhdGlvbnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBxdWVyeTogZm9sbG93ZXJzSW5zZXJ0LAo=</text>
+        <text encoding="base64">ICAvLyBjb25zdCBhZ2dyZWdhdGlvbnMgPSB1c2VNZW1vKCgpID0+IHsKICAvLyAgIHJldHVybiBxdWVyeVByb3BzPy52aWV3ZXI/LnVzZXI/LmFnZ3JlZ2F0aW9ucyB8fCBbXTsKICAvLyB9LCBbcXVlcnlQcm9wcywgc2VsZWN0ZWRUYWJdKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50OiBmb2xsb3dlcnMsCg==</text>
+        <text>feat: batch insert</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBxdWVyeTogdmlld2Vyc0luc2VydCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBxdWVyeTogZm9sbG93ZXJzSW5zZXJ0LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50OiB2aWV3ZXJzLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50OiBmb2xsb3dlcnMsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtzcGxpdEV2ZXJ5fSBmcm9tICJyYW1kYSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBxdWVyeTogdmlld2Vyc0luc2VydCwK</text>
       </register>
       <register name="8" type="2">
-        <text>fix: log message</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50OiB2aWV3ZXJzLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtzcGxpdEV2ZXJ5fSBmcm9tICJyYW1kYSI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
