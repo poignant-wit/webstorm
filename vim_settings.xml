@@ -135,8 +135,11 @@
         <mark key="." line="35" column="55" />
         <mark key="^" line="35" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1589994631653">
-        <mark key="[" line="56" column="12" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1589999953176">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="128" column="28" />
+        <mark key="^" line="128" column="28" />
+        <mark key="." line="128" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1589984182629" />
       <file name="/GraphQL.result.json" timestamp="1589981549215">
@@ -191,12 +194,11 @@
         <mark key="]" line="161" column="12" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" timestamp="1589994271891">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" timestamp="1589999675498">
         <mark key="'" line="107" column="8" />
-        <mark key="[" line="312" column="15" />
-        <mark key="]" line="313" column="14" />
-        <mark key="^" line="313" column="14" />
-        <mark key="." line="313" column="13" />
+        <mark key="[" line="341" column="0" />
+        <mark key="]" line="341" column="0" />
+        <mark key="." line="341" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" timestamp="1589796170744">
         <mark key="'" line="220" column="16" />
@@ -311,11 +313,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>processing</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGFnZ3JlZ2F0aW9ucyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>processing</text>
+        <text>aggregations</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFTkRfVElNRVNUQU1QXD4=</text>
@@ -324,12 +326,21 @@
         <text encoding="base64">Ly8gQHRzLWlnbm9yZQpjb25zdCBzdWJzY3JpcHRpb24gPSBncmFwaHFsYAogIHN1YnNjcmlwdGlvbiBzZXNzaW9uUGFnZVN1YnNjcmlwdGlvbiB7CiAgICBhZ2dyZWdhdGlvblByb2dyZXNzIHsKICAgICAgaWQKICAgICAgLi4uc2Vzc2lvbkNoYXJ0TGluZV9hZ2dyZWdhdGlvbnMKICAgICAgLi4uc2Vzc2lvbkNoYW5uZWxzVGFibGVfYWdncmVnYXRpb25zCiAgICB9CiAgfQpgOwoKY29uc3QgdmFyaWFibGVzID0ge307CgpyZXF1ZXN0U3Vic2NyaXB0aW9uKAogIGVudmlyb25tZW50LCAvLyBzZWUgRW52aXJvbm1lbnQgZG9jcwogIHsKICAgIHN1YnNjcmlwdGlvbiwKICAgIHZhcmlhYmxlcywKICAgIG9uRXJyb3I6IChlcnJvcikgPT4gY29uc29sZS5lcnJvcihlcnJvciksCiAgfSwKKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGF0YSAK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGFnZ3JlZ2F0aW9ucyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9jZXNzaW5nKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZnJhZ21lbnQgc2Vzc2lvbkNoYW5uZWxzVGFibGVfc3RhdGUgb24gQWdncmVnYXRpb25TdGF0ZSB7CiAgICAgICAgc3RhdHVzCiAgICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZGF0YSAK</text>
+      </register>
+      <register name="5" type="4">
         <text>{
         __typename
         ... on AggregationDataStreamingViewers {
@@ -356,26 +367,17 @@
         }
       }</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgLi4uc2Vzc2lvbkNoYW5uZWxzVGFibGVfYWdncmVnYXRpb25zCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgLi4uc2Vzc2lvbkNoYXJ0TGluZV9hZ2dyZWdhdGlvbnMK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAvLyBjb25zdCBhZ2dyZWdhdGlvbnMgPSB1c2VNZW1vKCgpID0+IHsKICAvLyAgIHJldHVybiBxdWVyeVByb3BzPy52aWV3ZXI/LnVzZXI/LmFnZ3JlZ2F0aW9ucyB8fCBbXTsKICAvLyB9LCBbcXVlcnlQcm9wcywgc2VsZWN0ZWRUYWJdKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text>feat: batch insert</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBxdWVyeTogZm9sbG93ZXJzSW5zZXJ0LAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50OiBmb2xsb3dlcnMsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBxdWVyeTogdmlld2Vyc0luc2VydCwK</text>
+        <text>feat: batch insert</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
