@@ -104,10 +104,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1589749591311">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1589983584823">
         <mark key="'" line="172" column="10" />
-        <mark key="[" line="328" column="41" />
-        <mark key="]" line="328" column="41" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="107" column="2" />
         <mark key="." line="328" column="41" />
         <mark key="^" line="328" column="78" />
       </file>
@@ -135,12 +135,13 @@
         <mark key="." line="35" column="55" />
         <mark key="^" line="35" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1589750063362">
-        <mark key="[" line="47" column="25" />
-        <mark key="]" line="47" column="32" />
-        <mark key="^" line="47" column="32" />
-        <mark key="." line="47" column="31" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1589983634962">
+        <mark key="[" line="52" column="15" />
+        <mark key="]" line="52" column="23" />
+        <mark key="^" line="52" column="23" />
+        <mark key="." line="52" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1589984182629" />
       <file name="/GraphQL.result.json" timestamp="1589981549215">
         <mark key="[" line="0" column="0" />
       </file>
@@ -187,12 +188,12 @@
         <mark key="]" line="161" column="12" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" timestamp="1589749476229">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" timestamp="1589983426117">
         <mark key="'" line="107" column="8" />
-        <mark key="[" line="209" column="38" />
-        <mark key="]" line="209" column="54" />
-        <mark key="^" line="209" column="54" />
-        <mark key="." line="209" column="53" />
+        <mark key="[" line="21" column="71" />
+        <mark key="]" line="21" column="72" />
+        <mark key="^" line="21" column="72" />
+        <mark key="." line="21" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" timestamp="1589796170744">
         <mark key="'" line="220" column="16" />
@@ -307,44 +308,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>feat: batch insert</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFTkRfVElNRVNUQU1QXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0UHJldmlvdXNIb3VyID0gKHNlYzogbnVtYmVyKSA9PiBzZWMgLSAzNjAwOwo=</text>
+        <text encoding="base64">Ly8gQHRzLWlnbm9yZQpjb25zdCBzdWJzY3JpcHRpb24gPSBncmFwaHFsYAogIHN1YnNjcmlwdGlvbiBzZXNzaW9uUGFnZVN1YnNjcmlwdGlvbiB7CiAgICBhZ2dyZWdhdGlvblByb2dyZXNzIHsKICAgICAgaWQKICAgICAgLi4uc2Vzc2lvbkNoYXJ0TGluZV9hZ2dyZWdhdGlvbnMKICAgICAgLi4uc2Vzc2lvbkNoYW5uZWxzVGFibGVfYWdncmVnYXRpb25zCiAgICB9CiAgfQpgOwoKY29uc3QgdmFyaWFibGVzID0ge307CgpyZXF1ZXN0U3Vic2NyaXB0aW9uKAogIGVudmlyb25tZW50LCAvLyBzZWUgRW52aXJvbm1lbnQgZG9jcwogIHsKICAgIHN1YnNjcmlwdGlvbiwKICAgIHZhcmlhYmxlcywKICAgIG9uRXJyb3I6IChlcnJvcikgPT4gY29uc29sZS5lcnJvcihlcnJvciksCiAgfSwKKTsK</text>
       </register>
       <register name="1" type="2">
-        <text>feat: batch insert</text>
+        <text encoding="base64">ICAvLyBjb25zdCBhZ2dyZWdhdGlvbnMgPSB1c2VNZW1vKCgpID0+IHsKICAvLyAgIHJldHVybiBxdWVyeVByb3BzPy52aWV3ZXI/LnVzZXI/LmFnZ3JlZ2F0aW9ucyB8fCBbXTsKICAvLyB9LCBbcXVlcnlQcm9wcywgc2VsZWN0ZWRUYWJdKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBxdWVyeTogZm9sbG93ZXJzSW5zZXJ0LAo=</text>
+        <text>feat: batch insert</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50OiBmb2xsb3dlcnMsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBxdWVyeTogZm9sbG93ZXJzSW5zZXJ0LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBxdWVyeTogdmlld2Vyc0luc2VydCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50OiBmb2xsb3dlcnMsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50OiB2aWV3ZXJzLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBxdWVyeTogdmlld2Vyc0luc2VydCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtzcGxpdEV2ZXJ5fSBmcm9tICJyYW1kYSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50OiB2aWV3ZXJzLAo=</text>
       </register>
       <register name="7" type="2">
-        <text>fix: log message</text>
+        <text encoding="base64">aW1wb3J0IHtzcGxpdEV2ZXJ5fSBmcm9tICJyYW1kYSI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>fix: log message</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
