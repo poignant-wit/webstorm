@@ -123,11 +123,11 @@
         <mark key="." line="76" column="22" />
         <mark key="^" line="100" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589987946626">
+      <file name="/Dummy.txt" timestamp="1590004302274">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="8" />
+        <mark key="]" line="0" column="44" />
+        <mark key="^" line="0" column="44" />
+        <mark key="." line="0" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/old-streaming-data-migrator/Dockerfile" timestamp="1589796627943">
         <mark key="[" line="35" column="55" />
@@ -314,7 +314,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGFnZ3JlZ2F0aW9ucyk7Cg==</text>
+        <text>feat: use selected aggregation ids on session page</text>
       </register>
       <register name="-" type="4">
         <text>aggregations</text>
@@ -326,21 +326,24 @@
         <text encoding="base64">Ly8gQHRzLWlnbm9yZQpjb25zdCBzdWJzY3JpcHRpb24gPSBncmFwaHFsYAogIHN1YnNjcmlwdGlvbiBzZXNzaW9uUGFnZVN1YnNjcmlwdGlvbiB7CiAgICBhZ2dyZWdhdGlvblByb2dyZXNzIHsKICAgICAgaWQKICAgICAgLi4uc2Vzc2lvbkNoYXJ0TGluZV9hZ2dyZWdhdGlvbnMKICAgICAgLi4uc2Vzc2lvbkNoYW5uZWxzVGFibGVfYWdncmVnYXRpb25zCiAgICB9CiAgfQpgOwoKY29uc3QgdmFyaWFibGVzID0ge307CgpyZXF1ZXN0U3Vic2NyaXB0aW9uKAogIGVudmlyb25tZW50LCAvLyBzZWUgRW52aXJvbm1lbnQgZG9jcwogIHsKICAgIHN1YnNjcmlwdGlvbiwKICAgIHZhcmlhYmxlcywKICAgIG9uRXJyb3I6IChlcnJvcikgPT4gY29uc29sZS5lcnJvcihlcnJvciksCiAgfSwKKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGFnZ3JlZ2F0aW9ucyk7Cg==</text>
+        <text>feat: use selected aggregation ids on session page</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9jZXNzaW5nKTsK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGFnZ3JlZ2F0aW9ucyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZnJhZ21lbnQgc2Vzc2lvbkNoYW5uZWxzVGFibGVfc3RhdGUgb24gQWdncmVnYXRpb25TdGF0ZSB7CiAgICAgICAgc3RhdHVzCiAgICAgIH0K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9jZXNzaW5nKTsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZnJhZ21lbnQgc2Vzc2lvbkNoYW5uZWxzVGFibGVfc3RhdGUgb24gQWdncmVnYXRpb25TdGF0ZSB7CiAgICAgICAgc3RhdHVzCiAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgZGF0YSAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>{
         __typename
         ... on AggregationDataStreamingViewers {
@@ -367,17 +370,14 @@
         }
       }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgLi4uc2Vzc2lvbkNoYW5uZWxzVGFibGVfYWdncmVnYXRpb25zCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgLi4uc2Vzc2lvbkNoYXJ0TGluZV9hZ2dyZWdhdGlvbnMK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBhZ2dyZWdhdGlvbnMgPSB1c2VNZW1vKCgpID0+IHsKICAvLyAgIHJldHVybiBxdWVyeVByb3BzPy52aWV3ZXI/LnVzZXI/LmFnZ3JlZ2F0aW9ucyB8fCBbXTsKICAvLyB9LCBbcXVlcnlQcm9wcywgc2VsZWN0ZWRUYWJdKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text>feat: batch insert</text>
+        <text encoding="base64">ICAvLyBjb25zdCBhZ2dyZWdhdGlvbnMgPSB1c2VNZW1vKCgpID0+IHsKICAvLyAgIHJldHVybiBxdWVyeVByb3BzPy52aWV3ZXI/LnVzZXI/LmFnZ3JlZ2F0aW9ucyB8fCBbXTsKICAvLyB9LCBbcXVlcnlQcm9wcywgc2VsZWN0ZWRUYWJdKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
