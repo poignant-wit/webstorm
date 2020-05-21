@@ -141,13 +141,6 @@
         <mark key="." line="195" column="38" />
         <mark key="^" line="195" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" timestamp="1589796170744">
-        <mark key="'" line="220" column="16" />
-        <mark key="[" line="14" column="32" />
-        <mark key="]" line="14" column="33" />
-        <mark key="^" line="14" column="32" />
-        <mark key="." line="14" column="33" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/session-followers-counters.tsx" timestamp="1590038804658">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="26" column="45" />
@@ -175,7 +168,7 @@
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1590045887307">
         <mark key="^" line="90" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1589984182629" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1590063901856" />
       <file name="/GraphQL.result.json" timestamp="1589981549215">
         <mark key="[" line="0" column="0" />
       </file>
@@ -200,7 +193,13 @@
         <mark key="^" line="72" column="35" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/.env.development" timestamp="1590046609515">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/config.ts" timestamp="1590064164112">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="55" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="40" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/.env.development" timestamp="1590063545067">
         <mark key="[" line="6" column="49" />
         <mark key="]" line="6" column="50" />
         <mark key="." line="6" column="50" />
@@ -312,46 +311,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBbc2VsZWN0ZWQsIHNldFNlbGVjdGVkXSA9IHVzZVN0YXRlKCcwJyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgeyBSRUFDVF9BUFBfQU5BTFlUSUNTX0FQSV9IT1NULCBSRUFDVF9BUFBfQU5BTFlUSUNTX0FQSV9XU19IT1NUIH0gPSBjb25maWc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGF0dGVyc1VuaXF1ZUJ5SWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRhdGU6IG1vbWVudChpLmRhdGUpLnRvRGF0ZSgpLAo=</text>
+        <text encoding="base64">ICBwdWJsaWMgcmVhZG9ubHkgUkVBQ1RfQVBQX0FOQUxZVElDU19BUElfSE9TVDogc3RyaW5nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBbc2VsZWN0ZWQsIHNldFNlbGVjdGVkXSA9IHVzZVN0YXRlKCcwJyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgeyBSRUFDVF9BUFBfQU5BTFlUSUNTX0FQSV9IT1NULCBSRUFDVF9BUFBfQU5BTFlUSUNTX0FQSV9XU19IT1NUIH0gPSBjb25maWc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcGF0aE9yIH0gZnJvbSAncmFtZGEnOwo=</text>
+        <text encoding="base64">ICBjb25zdCBbc2VsZWN0ZWQsIHNldFNlbGVjdGVkXSA9IHVzZVN0YXRlKCcwJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBDaGFubmVsc1RhYmxlLAogIENoYW5uZWxzVGFibGVGcmFnbWVudCwKfSBmcm9tICduZXh0L2NvbXBvbmVudHMvY2hhbm5lbHMtdGFibGUvY2hhbm5lbHMtdGFibGUnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgcGF0aE9yIH0gZnJvbSAncmFtZGEnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text>fix: session page chat counters</text>
+        <text encoding="base64">aW1wb3J0IHsKICBDaGFubmVsc1RhYmxlLAogIENoYW5uZWxzVGFibGVGcmFnbWVudCwKfSBmcm9tICduZXh0L2NvbXBvbmVudHMvY2hhbm5lbHMtdGFibGUvY2hhbm5lbHMtdGFibGUnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3QgZHJvcFNoYWRvd0ZpbHRlciA9IG5ldyBhbTRjb3JlLkRyb3BTaGFkb3dGaWx0ZXIoKTsKICAgICAgLy8gZHJvcFNoYWRvd0ZpbHRlci5ub25TY2FsaW5nID0gdHJ1ZTsKICAgICAgLy8gZHJvcFNoYWRvd0ZpbHRlci5maWx0ZXJVbml0cyA9ICd1c2VyU3BhY2VPblVzZSc7CiAgICAgIC8vIGxpbmVTZXJpZXMuZmlsdGVycy5wdXNoKGRyb3BTaGFkb3dGaWx0ZXIpOwo=</text>
+        <text>fix: session page chat counters</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhpLmRhdGUpOwogICAgICAgIC8vIGNvbnNvbGUubG9nKG1vbWVudChpLmRhdGUpLnRvRGF0ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc3QgZHJvcFNoYWRvd0ZpbHRlciA9IG5ldyBhbTRjb3JlLkRyb3BTaGFkb3dGaWx0ZXIoKTsKICAgICAgLy8gZHJvcFNoYWRvd0ZpbHRlci5ub25TY2FsaW5nID0gdHJ1ZTsKICAgICAgLy8gZHJvcFNoYWRvd0ZpbHRlci5maWx0ZXJVbml0cyA9ICd1c2VyU3BhY2VPblVzZSc7CiAgICAgIC8vIGxpbmVTZXJpZXMuZmlsdGVycy5wdXNoKGRyb3BTaGFkb3dGaWx0ZXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaS5kYXRlKGkuZGF0ZSkudG9EYXRlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhpLmRhdGUpOwogICAgICAgIC8vIGNvbnNvbGUubG9nKG1vbWVudChpLmRhdGUpLnRvRGF0ZSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhZ2dyZWdhdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaS5kYXRlKGkuZGF0ZSkudG9EYXRlKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlc2NyaWJlIHsKICAgICAgICAgICAgc3VtCiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhZ2dyZWdhdGlvbnMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
