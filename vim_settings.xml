@@ -14,7 +14,6 @@
         <entry encoding="base64">XDxvbkNoYW5nZVNlbGVjdGVkXD4=</entry>
         <entry encoding="base64">XDx2aWV3ZXJzTGF5b3V0XD4=</entry>
         <entry encoding="base64">XDxwcm9jZXNzaW5nXD4=</entry>
-        <entry encoding="base64">XDxjaGF0dGVyc1VuaXF1ZUJ5SWRcPg==</entry>
         <entry encoding="base64">XDxhZ2dyZWdhdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxzZWxlY3RlZENoYW5uZWxzXD4=</entry>
         <entry encoding="base64">XDxzZWxlY3RlZEFnZ3JlZ2F0aW9uc1w+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxFTkRfVElNRVNUQU1QXD4=</entry>
         <entry encoding="base64">XDxzZXNzaW9uQ2hhdENvdW50ZXJzX2FnZ3JlZ2F0aW9uc0NoYXR0ZXJzXD4=</entry>
         <entry encoding="base64">XDxsb2dcPg==</entry>
+        <entry encoding="base64">XDxjaGF0dGVyc1VuaXF1ZUJ5SWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action $Copy</entry>
@@ -126,11 +126,11 @@
         <mark key="." line="35" column="55" />
         <mark key="^" line="35" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1590002635385">
-        <mark key="[" line="95" column="38" />
-        <mark key="]" line="95" column="42" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1590044614362">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="126" column="21" />
         <mark key="^" line="95" column="42" />
-        <mark key="." line="95" column="41" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1589984182629" />
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/useSelectedTargets.ts" timestamp="1590038615281">
@@ -186,18 +186,18 @@
         <mark key="^" line="72" column="35" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.tsx" timestamp="1590040840608">
-        <mark key="'" line="128" column="26" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="4" />
-        <mark key="." line="149" column="39" />
-        <mark key="^" line="149" column="4" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.tsx" timestamp="1590044636025">
+        <mark key="'" line="175" column="26" />
+        <mark key="[" line="169" column="26" />
+        <mark key="]" line="169" column="40" />
+        <mark key="." line="169" column="39" />
+        <mark key="^" line="169" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" timestamp="1590035664493">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" timestamp="1590044352784">
         <mark key="'" line="107" column="8" />
-        <mark key="[" line="316" column="0" />
-        <mark key="]" line="325" column="13" />
-        <mark key="." line="341" column="0" />
+        <mark key="]" line="195" column="39" />
+        <mark key="." line="195" column="38" />
+        <mark key="^" line="195" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" timestamp="1589796170744">
         <mark key="'" line="220" column="16" />
@@ -280,7 +280,6 @@
       <jump line="263" column="8" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
       <jump line="274" column="41" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
       <jump line="262" column="8" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" />
-      <jump line="107" column="8" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" />
       <jump line="79" column="8" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.tsx" />
       <jump line="80" column="37" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.tsx" />
       <jump line="89" column="4" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.tsx" />
@@ -314,55 +313,52 @@
       <jump line="13" column="24" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/session-chat-counters.tsx" />
       <jump line="92" column="15" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/session-chat-counters.tsx" />
       <jump line="55" column="12" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/session-chat-counters.tsx" />
+      <jump line="107" column="8" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICBxdWVyeVByb3BzPy52aWV3ZXI/LnVzZXI/LmNoYXR0ZXJzVW5pcXVlIHx8IFtd</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zdCBwcm9jZXNzaW5nID0gdXNlTWVtbygoKSA9PiB7CiAgICByZXR1cm4gISFhZ2dyZWdhdGlvbnMuZmluZCgoYSkgPT4gYS5zdGF0ZS5zdGF0dXMgPT09ICdwcm9jZXNzaW5nJyk7CiAgfSwgW2FnZ3JlZ2F0aW9uc10pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICBxdWVyeVByb3BzPy52aWV3ZXI/LnVzZXI/LmNoYXR0ZXJzVW5pcXVlIHx8IFtd</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dcPg==</text>
+        <text encoding="base64">XDxjaGF0dGVyc1VuaXF1ZUJ5SWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvdW50ZXJzID0gc2VsZWN0ZWRBZ2dyZWdhdGlvbnNNZXNzYWdlcy5tYXAoCiAgICAgIChhZ2dyZWdhdGlvbikgPT4gYWdncmVnYXRpb24/LnN0YXRlLmRhdGE/LmRlc2NyaWJlPy5zdW0gfHwgMCwKICAgICk7CgogICAgcmV0dXJuIGNvdW50ZXJzLmxlbmd0aCA/IHN1bShjb3VudGVycykgOiAwOwo=</text>
+        <text encoding="base64">ICBjb25zdCBwcm9jZXNzaW5nID0gdXNlTWVtbygoKSA9PiB7CiAgICByZXR1cm4gISFhZ2dyZWdhdGlvbnMuZmluZCgoYSkgPT4gYS5zdGF0ZS5zdGF0dXMgPT09ICdwcm9jZXNzaW5nJyk7CiAgfSwgW2FnZ3JlZ2F0aW9uc10pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjaGF0dGVyc1VuaXF1ZTogYWdncmVnYXRpb25zKAogICAgICAgICAgbWV0cmljOiBDSEFUX0NIQVRURVJTX1VOSVFVRQogICAgICAgICAgZnJvbVRpbWU6ICRmcm9tCiAgICAgICAgICB0aWxsVGltZTogJHRpbGwKICAgICAgICApIHsKICAgICAgICAgIGlkCiAgICAgICAgICAuLi5zZXNzaW9uQ2hhbm5lbHNUYWJsZV9hZ2dyZWdhdGlvbnNDaGF0dGVycwogICAgICAgICAgLi4uc2Vzc2lvbkNoYW5uZWxzVGFibGVfYWdncmVnYXRpb25zQ2hhdHRlcnMKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhZ2dyZWdhdGlvbnMpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>fix: session followers counters</text>
+        <text encoding="base64">ICAgICAgICAgIGRlc2NyaWJlIHsKICAgICAgICAgICAgc3VtCiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhZ2dyZWdhdGlvbnNDaGF0dGVycyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVhbgogICAgICAgICAgICBtaW51dGVzCiAgICAgICAgICAgIG1heCB7CiAgICAgICAgICAgICAgdGltZQogICAgICAgICAgICAgIGNvdW50CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPENoYXJ0Q291bnRlciB0aXRsZT17J2NoYXR0ZXJzJ30gdmFsdWU9ezB9IC8+Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhZ2tncmVnYXRpb25zKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPENoYXJ0Q291bnRlciB0aXRsZT17J21lc3NhZ2VzJ30gdmFsdWU9ezB9IC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGF0dGVyc1VuaXF1ZTogYWdncmVnYXRpb25zKAogICAgICAgICAgbWV0cmljOiBDSEFUX0NIQVRURVJTX1VOSVFVRQogICAgICAgICAgZnJvbVRpbWU6ICRmcm9tCiAgICAgICAgICB0aWxsVGltZTogJHRpbGwKICAgICAgICApIHsKICAgICAgICAgIGlkCiAgICAgICAgICAuLi5zZXNzaW9uQ2hhbm5lbHNUYWJsZV9hZ2dyZWdhdGlvbnNDaGF0dGVycwogICAgICAgICAgLi4uc2Vzc2lvbkNoYW5uZWxzVGFibGVfYWdncmVnYXRpb25zQ2hhdHRlcnMKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvdW50ZXJzID0gc2VsZWN0ZWRUYXJnZXRzLm1hcCgKICAgICAgKHQpID0+IHQ/LmNoYXR0ZXJzVG9wPy51bmlxdWU/LmNvdW50IHx8IDAsCiAgICApOwoKICAgIHJldHVybiBjb3VudGVycy5sZW5ndGggPyBzdW0oY291bnRlcnMpIDogMDsK</text>
+        <text>fix: session followers counters</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBzZWxlY3RlZFRhcmdldHMgPSB1c2VTZWxlY3RlZFRhcmdldHMoYWdncmVnYXRpb25zTWVzc2FnZXMsIHNlbGVjdGVkKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhZ2dyZWdhdGlvbnNDaGF0dGVycyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyByZXR1cm4gPGRpdj5TZXNzaW9uPC9kaXY+Owo=</text>
+        <text encoding="base64">ICAgICAgPENoYXJ0Q291bnRlciB0aXRsZT17J2NoYXR0ZXJzJ30gdmFsdWU9ezB9IC8+Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>pathOr(
-              [],
-              ['viewer', 'session', 'aggsChat', 'chat'],
-              dataQueryProps,
-            )</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgPENoYXJ0Q291bnRlciB0aXRsZT17J21lc3NhZ2VzJ30gdmFsdWU9ezB9IC8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -371,9 +367,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxsb2dcPg==</last-search>
+      <last-search encoding="base64">XDxjaGF0dGVyc1VuaXF1ZUJ5SWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjaGF0dGVyc1VuaXF1ZUJ5SWRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaXJzdElkSW5NZXNzYWdlV29yZDJcPg==</last-substitute>
       <last-dir>1</last-dir>
