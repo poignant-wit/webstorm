@@ -104,11 +104,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1590038790478">
-        <mark key="'" line="237" column="18" />
-        <mark key="^" line="79" column="55" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590045904340">
+      <file name="/Dummy.txt" timestamp="1590151412376">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="^" line="0" column="32" />
@@ -127,12 +123,6 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/useSelectedTargets.ts" timestamp="1590038615281">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="9" column="46" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1590045887307">
         <mark key="^" line="90" column="42" />
       </file>
@@ -143,8 +133,14 @@
         <mark key="^" line="37" column="75" />
         <mark key="." line="37" column="74" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1590125427655">
+      <file name="/GraphQL.result.json" timestamp="1590151247097">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/old-monitor-data-migrator/src/index.ts" timestamp="1590152156095">
+        <mark key="[" line="179" column="20" />
+        <mark key="]" line="179" column="32" />
+        <mark key="^" line="179" column="32" />
+        <mark key="." line="179" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-line/session-chart-line.tsx" timestamp="1590045639457">
         <mark key="[" line="44" column="23" />
@@ -157,6 +153,13 @@
         <mark key="]" line="9" column="52" />
         <mark key="^" line="9" column="52" />
         <mark key="." line="9" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/old-monitor-data-migrator/package.json" timestamp="1590151558323" />
+      <file name="$USER_HOME$/Documents/old-monitor-data-migrator/Dockerfile" timestamp="1590151382227">
+        <mark key="[" line="35" column="32" />
+        <mark key="]" line="35" column="39" />
+        <mark key="." line="35" column="38" />
+        <mark key="^" line="35" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/loader/dots-loader.module.scss" timestamp="1590086390680">
         <mark key="[" line="1" column="9" />
@@ -307,16 +310,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>streamingData</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>streamingData</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGF0dGVyc1VuaXF1ZUJ5SWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0Ym9keSA+IHRyID4gdGQ6Zmlyc3QtY2hpbGQgewogICAgY29sb3I6ICRmZy1jb2xvcjsKICAgIHBhZGRpbmc6ICRncmlkLWJhc2UtdmFsdWUgKiAyICRncmlkLWJhc2UtdmFsdWUgKiAyOwoKICAgIEBpbmNsdWRlIHNtIHsKICAgICAgcGFkZGluZzogJGdyaWQtYmFzZS12YWx1ZSAkZ3JpZC1iYXNlLXZhbHVlICogMjsKICAgIH0KCiAgICBhbGlnbi1pdGVtczogY2VudGVyOwogICAganVzdGlmeS1jb250ZW50OiBmbGV4LWVuZDsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzdHJlYW1pbmdEYXRhID0gYXdhaXQgaW5mbHV4Q29ubmVjdGlvbi5xdWVyeShgCiAgICAgICAgICAgIFNFTEVDVCAqCiAgICAgICAgICAgIEZST00gInJlc3RyZWFtX3Byb2QiLiJhdXRvZ2VuIi4ic3RyZWFtU3RhdHMiCiAgICAgICAgICAgIFdIRVJFIHRpbWUgPj0gJHtmcm9tfSBBTkQgdGltZSA8ICR7dW50aWx9IEFORCAic2VydmljZUlkIiAhPSAnNDcnIEFORCAidXNlcklkIiA9ICcke3VzZXJJZH0nYCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7YWdncmVnYXRpb24uc3RhdGUuZGF0YS5kZXNjcmliZS5tZWFufQo=</text>
