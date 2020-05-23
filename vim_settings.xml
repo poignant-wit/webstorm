@@ -104,11 +104,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590155406126">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="14" />
+      <file name="/Dummy.txt" timestamp="1590155734371">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="13" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-line/chart-line.tsx" timestamp="1590045611099">
         <mark key="^" line="68" column="35" />
@@ -136,12 +136,12 @@
       <file name="/GraphQL.result.json" timestamp="1590151247097">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/old-monitor-data-migrator/src/index.ts" timestamp="1590155286970">
+      <file name="$USER_HOME$/Documents/old-monitor-data-migrator/src/index.ts" timestamp="1590155755060">
         <mark key="'" line="202" column="0" />
-        <mark key="[" line="234" column="21" />
-        <mark key="]" line="234" column="44" />
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="38" />
         <mark key="^" line="234" column="44" />
-        <mark key="." line="234" column="43" />
+        <mark key="." line="223" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-line/session-chart-line.tsx" timestamp="1590045639457">
         <mark key="[" line="44" column="23" />
@@ -310,8 +310,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>incoming</text>
+      <register name="&quot;" type="2">
+        <text>feat: outgoing data</text>
       </register>
       <register name="-" type="4">
         <text>incoming</text>
@@ -323,31 +323,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJpdHJhdGU6IGticHMsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vICJ1c2VyX2lkIiAgICAgICAgSU5ULAogICAgLy8gImNoYW5uZWxfaWQiICAgICBJTlQsCiAgICAvLyAiZGF0ZSIgICAgICAgICAgIERBVEUsCiAgICAvLyAidGltZXN0YW1wIiAgICAgIFRJTUVTVEFNUCwKICAgIC8vICJwbGF0Zm9ybV9pZCIgICAgSU5ULAogICAgLy8gImJpdHJhdGUiICAgICAgICBGTE9BVCwKICAgIC8vICJidWZmZXJlZF9ieXRlcyIgSU5UCg==</text>
+        <text>feat: outgoing data</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYW5uZWxfaWQ6IGNoYW5uZWxJZCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGU6IG5ldyBEYXRlKHRpbWVzdGFtcCksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGU6IG5ldyBEYXRlKHRpbWVzdGFtcCksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICJ1c2VyX2lkIiAgICAgICAgICAgSU5ULAogICAgLy8gImRhdGUiICAgICAgICAgICAgICBEQVRFLAogICAgLy8gInRpbWVzdGFtcCIgICAgICAgICBUSU1FU1RBTVAsCiAgICAvLyAiYml0cmF0ZV90b3RhbCIgICAgIElOVCwKICAgIC8vICJiaXRyYXRlX2F1ZGlvIiAgICAgSU5ULAogICAgLy8gImJpdHJhdGVfdmlkZW8iICAgICBJTlQsCiAgICAvLyAiZnBzIiAgICAgICAgICAgICAgIEZMT0FULAogICAgLy8gImtleWZyYW1lX2ludGVydmFsIiBGTE9BVAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZwcywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpdHJhdGVfdG90YWw6IGJ5dGVzSW5SYXRlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICJ1c2VyX2lkIiAgICAgICAgSU5ULAogICAgLy8gImNoYW5uZWxfaWQiICAgICBJTlQsCiAgICAvLyAiZGF0ZSIgICAgICAgICAgIERBVEUsCiAgICAvLyAidGltZXN0YW1wIiAgICAgIFRJTUVTVEFNUCwKICAgIC8vICJwbGF0Zm9ybV9pZCIgICAgSU5ULAogICAgLy8gImJpdHJhdGUiICAgICAgICBGTE9BVCwKICAgIC8vICJidWZmZXJlZF9ieXRlcyIgSU5UCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
