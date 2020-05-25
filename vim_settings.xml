@@ -122,14 +122,17 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/aggregation-title/aggregation-title-state/aggregation-title-state.tsx" timestamp="1590344313474">
-        <mark key="'" line="22" column="21" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audiience-page.module.scss" timestamp="1590352511149">
         <mark key="[" line="7" column="14" />
         <mark key="]" line="8" column="38" />
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/developer-portal/src/containers/AuthRouteContainer/AuthRouteContainer.tsx" timestamp="1590424916887">
+        <mark key="[" line="46" column="25" />
+        <mark key="]" line="46" column="25" />
+        <mark key="^" line="46" column="31" />
+        <mark key="." line="46" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/.env.production" timestamp="1590396673373">
         <mark key="[" line="7" column="32" />
@@ -158,13 +161,6 @@
         <mark key="]" line="6" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/components/charts/heatMapInitialState.ts" timestamp="1590351291871" />
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.tsx" timestamp="1590344573850">
-        <mark key="'" line="204" column="21" />
-        <mark key="[" line="6" column="36" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/components/charts/LineMultipleChart.module.scss" timestamp="1590350522062">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="10" />
@@ -184,7 +180,7 @@
         <mark key="'" line="25" column="12" />
         <mark key="[" line="99" column="9" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1590393593770">
+      <file name="/GraphQL.result.json" timestamp="1590424543429">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/old-monitor-data-migrator/src/index.ts" timestamp="1590383476354">
@@ -193,6 +189,12 @@
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-pie/chart-pie.tsx" timestamp="1590350076566">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="19" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/developer-portal/src/components/Layout/Header/Header.tsx" timestamp="1590424698709">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+        <mark key="^" line="16" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/session-channels-table.module.scss" timestamp="1590352224509">
         <mark key="[" line="72" column="0" />
@@ -307,10 +309,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0aWFsRGF0YVw+</text>
