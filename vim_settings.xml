@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxEYXRlUmFuZ2VcPg==</entry>
         <entry encoding="base64">XDxvbkNoYW5nZVNlbGVjdGVkXD4=</entry>
         <entry encoding="base64">XDx2aWV3ZXJzTGF5b3V0XD4=</entry>
         <entry encoding="base64">XDxwcm9jZXNzaW5nXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxlcnJvclw+</entry>
         <entry encoding="base64">XDxBZ2dyZWdhdGlvblRpdGxlRnJhZ21lbnRcPg==</entry>
         <entry encoding="base64">XDxpbml0aWFsRGF0YVw+</entry>
+        <entry encoding="base64">XDxhdWRpZW5jZVBhZ2VIZWF0bWFwUXVlcnlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action $Copy</entry>
@@ -126,9 +126,12 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1590354321829">
-        <mark key="'" line="25" column="12" />
-        <mark key="[" line="99" column="9" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1590500785810">
+        <mark key="'" line="23" column="9" />
+        <mark key="[" line="168" column="18" />
+        <mark key="]" line="168" column="19" />
+        <mark key="^" line="168" column="19" />
+        <mark key="." line="168" column="18" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1590499477189">
         <mark key="[" line="0" column="0" />
@@ -162,10 +165,6 @@
         <mark key="]" line="88" column="3" />
         <mark key="^" line="58" column="12" />
         <mark key="." line="58" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-pie/chart-pie.tsx" timestamp="1590350076566">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="19" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/developer-portal/src/components/Layout/Header/Header.tsx" timestamp="1590424698709">
         <mark key="[" line="16" column="40" />
@@ -203,8 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="429" column="31" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
-      <jump line="441" column="31" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
       <jump line="406" column="24" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
       <jump line="2" column="9" filename="$USER_HOME$/Documents/analytics-frontend/src/pages/ChatOverviewPage/ChatOverviewPage.tsx" />
       <jump line="16" column="10" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.module.scss" />
@@ -303,6 +300,8 @@
       <jump line="31" column="20" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-line/session-chart-line.tsx" />
       <jump line="4" column="29" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audiience-page.module.scss" />
       <jump line="24" column="12" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
+      <jump line="162" column="4" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
+      <jump line="23" column="9" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -314,7 +313,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbml0aWFsRGF0YVw+</text>
+        <text encoding="base64">XDxhdWRpZW5jZVBhZ2VIZWF0bWFwUXVlcnlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UkVBQ1RfQVBQX0FOQUxZVElDU19BUElfSE9TVD1odHRwczovL2ZlYXQtcGh4LnFhLmV1LnJlc3RyZWFtLmlvCg==</text>
@@ -356,9 +355,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpbml0aWFsRGF0YVw+</last-search>
+      <last-search encoding="base64">XDxhdWRpZW5jZVBhZ2VIZWF0bWFwUXVlcnlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbml0aWFsRGF0YVw+</last-pattern>
+      <last-pattern encoding="base64">XDxhdWRpZW5jZVBhZ2VIZWF0bWFwUXVlcnlcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaXJzdElkSW5NZXNzYWdlV29yZDJcPg==</last-substitute>
       <last-dir>1</last-dir>
