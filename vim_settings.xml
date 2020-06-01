@@ -104,12 +104,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/AppViewModel.ts" timestamp="1590855051818">
-        <mark key="[" line="63" column="17" />
-        <mark key="]" line="63" column="17" />
-        <mark key="^" line="16" column="47" />
-        <mark key="." line="63" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/ChatOverviewPage/ChatOverviewPage.tsx" timestamp="1590989409581">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="77" column="7" />
@@ -168,11 +162,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1591004067172">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1591007634704">
         <mark key="'" line="4" column="9" />
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="180" column="14" />
-        <mark key="." line="104" column="0" />
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="0" />
+        <mark key="." line="185" column="0" />
+        <mark key="^" line="194" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1590995524795">
         <mark key="'" line="45" column="6" />
@@ -207,6 +202,12 @@
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/hooks/useSelectedAggregationIds.ts" timestamp="1591006799147">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="66" />
+        <mark key="." line="14" column="65" />
+        <mark key="^" line="14" column="66" />
       </file>
     </filemarks>
     <jumps>
@@ -315,46 +316,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>style: lint errorsаввв</text>
+        <text encoding="base64">ICAgICAgdXNlcklkLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>toast</text>
+        <text>{ ...selectedAggregations, [selectedTab]: [] }</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaGFydEhlYXRtYXBGcmFnbWVudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi90b2FzdCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VySWQ6IHVuZGVmaW5lZCwK</text>
       </register>
       <register name="1" type="2">
-        <text>style: lint errorsаввв</text>
+        <text encoding="base64">ICAgICAgdXNlcklkLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxFcnJvckljb24gLz47Cg==</text>
+        <text>style: lint errorsаввв</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8VG9vbHRpcD4KICAgIHRlc3QKICA8L1Rvb2x0aXA+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>fix: heatmap selector</text>
+        <text encoding="base64">ICAgIDxFcnJvckljb24gLz47Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm91dGVDb21wb25lbnRQcm9wcyB9IGZyb20gJ3JlYWN0LXJvdXRlcic7Cg==</text>
+        <text encoding="base64">ICA8VG9vbHRpcD4KICAgIHRlc3QKICA8L1Rvb2x0aXA+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHBhdGg9e3JvdXRlUGF0aC5hdWRpZW5jZSgnd2F0Y2hlZC1taW51dGVzJyl9Cg==</text>
+        <text>fix: heatmap selector</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Um91dGUKICAgICAgICAgICAgICAgICAgICAgIGV4YWN0PXt0cnVlfQogICAgICAgICAgICAgICAgICAgICAgcGF0aD17cm91dGVQYXRoLmNoYXQoJycpfQogICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50PXtDaGF0T3ZlcnZpZXd9CiAgICAgICAgICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">aW1wb3J0IHsgUm91dGVDb21wb25lbnRQcm9wcyB9IGZyb20gJ3JlYWN0LXJvdXRlcic7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlc2NyaWJlIHsgbWVhbgogICAgICAgICAgICBtaW51dGVzCiAgICAgICAgICAgIG1heCB7CiAgICAgICAgICAgICAgdGltZQogICAgICAgICAgICAgIGNvdW50CiAgICAgICAgICAgIH0KICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHBhdGg9e3JvdXRlUGF0aC5hdWRpZW5jZSgnd2F0Y2hlZC1taW51dGVzJyl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
