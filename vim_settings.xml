@@ -104,10 +104,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-line/chart-line.tsx" timestamp="1591012050101">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="8" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-line/chart-line.tsx" timestamp="1591012142474">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/ChatOverviewPage/ChatOverviewPage.tsx" timestamp="1590989409581">
         <mark key="[" line="75" column="0" />
@@ -146,7 +146,7 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591006358219">
+      <file name="/Dummy.txt" timestamp="1591013992997">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="22" />
@@ -197,11 +197,11 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/hooks/useSelectedAggregationIds.ts" timestamp="1591010604776">
-        <mark key="[" line="15" column="69" />
-        <mark key="]" line="16" column="40" />
-        <mark key="." line="16" column="39" />
-        <mark key="^" line="16" column="40" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/hooks/useSelectedAggregationIds.ts" timestamp="1591013874937">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="26" column="51" />
       </file>
     </filemarks>
     <jumps>
@@ -310,46 +310,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text>fix: auto select total</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>tr</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzaW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzZWxlY3RlZCBzaG93Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgcHJvY2Vzc2luZ1JlZi5jdXJyZW50ID0gdHJ1ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text>fix: auto select total</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ25ldyBkYXRhIHNlcmllcycpOwo=</text>
+        <text encoding="base64">ICAgIC8vIGVzbGludAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZWxlY3RlZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGlzc29jKHNlbGVjdGVkVGFiLCBzZWxlY3RlZEFnZ3JlZ2F0aW9ucykpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsKICAgICAgc2VsZWN0ZWRBZ2dyZWdhdGlvbnMsCiAgICAgIHNlbGVjdEFnZ3JlZ2F0aW9uLAogICAgfSA9IHVzZVNlbGVjdGVkQWdncmVnYXRpb25JZHMoYWdncmVnYXRpb25zLCBzZWxlY3RlZFRhYiwgcHJvY2Vzc2luZyB8fCBsb2FkaW5nKTsK</text>
+        <text>feat: chat menu tabs</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsZWFyLAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnY2hhcnQnLCBzZWxlY3RlZENoYW5uZWxzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBjbGVhciA9ICgpID0+IHsKICAgIGNvbnNvbGUubG9nKCdjbGVhcicpOwogICAgc2V0U2VsZWN0ZWRDaGFubmVscyhkaXNzb2Moc2VsZWN0ZWRUYWIsIHNlbGVjdGVkQWdncmVnYXRpb25zKSk7CiAgICBjb25zb2xlLmxvZyhzZWxlY3RlZEFnZ3JlZ2F0aW9ucyk7CiAgfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2V0U2VsZWN0ZWRDaGFubmVscyhkaXNzb2MpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbGVjdGVkQWdncmVnYXRpb25zKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKCFzZWxlY3RlZEFnZ3JlZ2F0aW9uc1tzZWxlY3RlZFRhYl0gJiYgYWdncmVnYXRpb25zLmxlbmd0aCkgewogICAgICBjb25zdCB0b3RhbCA9IHBhdGhPcignLTEnLCBbMCwgJ2lkJ10sIGFnZ3JlZ2F0aW9ucyk7CiAgICAgIHNldFNlbGVjdGVkQ2hhbm5lbHMoeyAuLi5zZWxlY3RlZEFnZ3JlZ2F0aW9ucywgW3NlbGVjdGVkVGFiXTogW3RvdGFsXSB9KTsKICAgIH0KICB9LCBbYWdncmVnYXRpb25zLCBzZWxlY3RlZFRhYiwgc2VsZWN0ZWRBZ2dyZWdhdGlvbnNdKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduZXcgZGF0YSBzZXJpZXMnLCBkYXRhU2VyaWVzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2xlYXIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2hpZGUnLCBrZXkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
