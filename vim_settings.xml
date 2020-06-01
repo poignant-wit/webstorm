@@ -104,11 +104,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1590853972638">
-        <mark key="'" line="90" column="24" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="47" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/AppViewModel.ts" timestamp="1590855051818">
         <mark key="[" line="63" column="17" />
         <mark key="]" line="63" column="17" />
@@ -133,10 +128,10 @@
         <mark key="^" line="148" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-table/aggregation-title/aggregation-title-state/aggregation-title-state.tsx" timestamp="1591005324745">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="15" />
-        <mark key="^" line="4" column="16" />
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/store/auth/AuthStore.ts" timestamp="1590995479243" />
       <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/AudiencePage/AudiencePage.tsx" timestamp="1590989353594">
@@ -156,22 +151,17 @@
         <mark key="^" line="20" column="4" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/api/subscriptions.ts" timestamp="1590843323850">
-        <mark key="]" line="1" column="46" />
-        <mark key="^" line="1" column="46" />
-        <mark key="." line="1" column="45" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.module.scss" timestamp="1590995804006">
         <mark key="[" line="22" column="1" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591004146244">
+      <file name="/Dummy.txt" timestamp="1591006358219">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="19" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/containers/TeamUsersDropdown/TeamUsersDropdown.module.scss" timestamp="1590993104241">
         <mark key="[" line="3" column="0" />
@@ -191,8 +181,14 @@
         <mark key="^" line="59" column="77" />
         <mark key="." line="59" column="76" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1590847330701">
+      <file name="/GraphQL.result.json" timestamp="1591005488267">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/index.tsx" timestamp="1591006124372">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="24" />
+        <mark key="." line="11" column="23" />
+        <mark key="^" line="11" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/components/Menu/Menu.tsx" timestamp="1591003640371">
         <mark key="[" line="81" column="33" />
@@ -205,6 +201,12 @@
         <mark key="]" line="1" column="34" />
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/tooltip/index.ts" timestamp="1591006217276">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="23" />
+        <mark key="^" line="0" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -313,46 +315,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>style: lint errorsаввв</text>
       </register>
       <register name="-" type="4">
-        <text>tooltip</text>
+        <text>toast</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaGFydEhlYXRtYXBGcmFnbWVudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTGF5b3V0LCBQcm9kdWN0RG9tYWlucyB9IGZyb20gJ0ByZXN0cmVhbS91aS1raXQvYnVpbGQnOwo=</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi90b2FzdCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>style: lint errorsаввв</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxFcnJvckljb24gLz47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8VG9vbHRpcD4KICAgIHRlc3QKICA8L1Rvb2x0aXA+Cg==</text>
+        <text encoding="base64">ICAgIDxFcnJvckljb24gLz47Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>fix: heatmap selector</text>
+        <text encoding="base64">ICA8VG9vbHRpcD4KICAgIHRlc3QKICA8L1Rvb2x0aXA+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm91dGVDb21wb25lbnRQcm9wcyB9IGZyb20gJ3JlYWN0LXJvdXRlcic7Cg==</text>
+        <text>fix: heatmap selector</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHBhdGg9e3JvdXRlUGF0aC5hdWRpZW5jZSgnd2F0Y2hlZC1taW51dGVzJyl9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUm91dGVDb21wb25lbnRQcm9wcyB9IGZyb20gJ3JlYWN0LXJvdXRlcic7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Um91dGUKICAgICAgICAgICAgICAgICAgICAgIGV4YWN0PXt0cnVlfQogICAgICAgICAgICAgICAgICAgICAgcGF0aD17cm91dGVQYXRoLmNoYXQoJycpfQogICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50PXtDaGF0T3ZlcnZpZXd9CiAgICAgICAgICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHBhdGg9e3JvdXRlUGF0aC5hdWRpZW5jZSgnd2F0Y2hlZC1taW51dGVzJyl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlc2NyaWJlIHsgbWVhbgogICAgICAgICAgICBtaW51dGVzCiAgICAgICAgICAgIG1heCB7CiAgICAgICAgICAgICAgdGltZQogICAgICAgICAgICAgIGNvdW50CiAgICAgICAgICAgIH0KICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Um91dGUKICAgICAgICAgICAgICAgICAgICAgIGV4YWN0PXt0cnVlfQogICAgICAgICAgICAgICAgICAgICAgcGF0aD17cm91dGVQYXRoLmNoYXQoJycpfQogICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50PXtDaGF0T3ZlcnZpZXd9CiAgICAgICAgICAgICAgICAgICAgLz4K</text>
       </register>
       <register name="9" type="2">
-        <text>feat: watched minutes</text>
+        <text encoding="base64">ICAgICAgICAgIGRlc2NyaWJlIHsgbWVhbgogICAgICAgICAgICBtaW51dGVzCiAgICAgICAgICAgIG1heCB7CiAgICAgICAgICAgICAgdGltZQogICAgICAgICAgICAgIGNvdW50CiAgICAgICAgICAgIH0KICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
