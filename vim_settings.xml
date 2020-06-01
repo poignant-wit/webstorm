@@ -109,10 +109,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/download/downloadFromUrlHandler.ts" timestamp="1590841107611">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="90" column="19" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/AppViewModel.ts" timestamp="1590855051818">
         <mark key="[" line="63" column="17" />
         <mark key="]" line="63" column="17" />
@@ -171,23 +167,23 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590989848996">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="24" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1590995928963">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/containers/TeamUsersDropdown/TeamUsersDropdown.module.scss" timestamp="1590993104241">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1590995859292">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1591001965258">
         <mark key="'" line="4" column="9" />
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="170" column="18" />
-        <mark key="." line="252" column="42" />
-        <mark key="^" line="252" column="42" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="^" line="105" column="48" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1590995524795">
         <mark key="'" line="45" column="6" />
@@ -198,6 +194,12 @@
       </file>
       <file name="/GraphQL.result.json" timestamp="1590847330701">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/utils/clearMetricPart.ts" timestamp="1591001445322">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="34" />
+        <mark key="^" line="1" column="34" />
+        <mark key="." line="1" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -305,47 +307,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>undefined</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRlc2NyaWJlIHsgbWVhbgogICAgICAgICAgICBtaW51dGVzCiAgICAgICAgICAgIG1heCB7CiAgICAgICAgICAgICAgdGltZQogICAgICAgICAgICAgIGNvdW50CiAgICAgICAgICAgIH0KICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>undefined</text>
+        <text>AggregationDataStreamingViewers</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaGFydEhlYXRtYXBGcmFnbWVudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgc2VhcmNoUGFyYW1zIH0gPSB1c2VVcmxTZWFyY2hQYXJhbXMoewogICAgICBzZWFyY2g6IGxvY2F0aW9uLnNlYXJjaCwKICAgIH0pOwoKICAgIGNvbnN0IHVzZXJJZCA9IHNlYXJjaFBhcmFtcy5nZXQoUXVlcnlQYXJhbXMuVVNFUl9JRCkKICAgICAgPyBwYXJzZUludChzZWFyY2hQYXJhbXMuZ2V0KFF1ZXJ5UGFyYW1zLlVTRVJfSUQpISwgdW5kZWZpbmVkKQogICAgICA6IHVuZGVmaW5lZDsK</text>
+        <text encoding="base64">ICAgICAgICAuLi4gb24gQWdncmVnYXRpb25EYXRhU3RyZWFtaW5nVmlld2VycyB7CiAgICAgICAgICBncmFwaCB7CiAgICAgICAgICAgIGRhdGUKICAgICAgICAgICAgY291bnQKICAgICAgICAgIH0KICAgICAgICAgIGRlc2NyaWJlIHsKICAgICAgICAgICAgbWVhbgogICAgICAgICAgICBtaW51dGVzCiAgICAgICAgICAgIG1heCB7CiAgICAgICAgICAgICAgdGltZQogICAgICAgICAgICAgIGNvdW50CiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8RGF0ZVJhbmdlUGlja2VyRHJvcGRvd24KICAgICAgICAgIGZyb209e2Zyb21OdW1iZXJ9CiAgICAgICAgICB0aWxsPXt0aWxsTnVtYmVyfQogICAgICAgICAgb25DaGFuZ2U9e2NoYW5nZURhdGVzfQogICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlc2NyaWJlIHsgbWVhbgogICAgICAgICAgICBtaW51dGVzCiAgICAgICAgICAgIG1heCB7CiAgICAgICAgICAgICAgdGltZQogICAgICAgICAgICAgIGNvdW50CiAgICAgICAgICAgIH0KICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGdldFRva2VuKGVudmlyb25tZW50KS50aGVuKCh0b2tlbikgPT4gewogICAgLy8gICB2bS5sb2FkSW5pdGlhbERhdGEoKTsKICAgIC8vIH0pOwo=</text>
+        <text>feat: watched minutes</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCdzdWJzY3JpcHRpb25Ub2tlbicsIHRva2VuKTsK</text>
+        <text encoding="base64">ICAgICAgICA8RGF0ZVJhbmdlUGlja2VyRHJvcGRvd24KICAgICAgICAgIGZyb209e2Zyb21OdW1iZXJ9CiAgICAgICAgICB0aWxsPXt0aWxsTnVtYmVyfQogICAgICAgICAgb25DaGFuZ2U9e2NoYW5nZURhdGVzfQogICAgICAgIC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdm0uc2V0TG9hZGluZ1Rva2VuKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgIC8vIGdldFRva2VuKGVudmlyb25tZW50KS50aGVuKCh0b2tlbikgPT4gewogICAgLy8gICB2bS5sb2FkSW5pdGlhbERhdGEoKTsKICAgIC8vIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCdzdWJzY3JpcHRpb25Ub2tlbicsIHRva2VuKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdm0uc2V0TG9hZGluZ1Rva2VuKGZhbHNlKTsKICAgICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ3N1YnNjcmlwdGlvblRva2VuJywgdG9rZW4pOwo=</text>
+        <text encoding="base64">ICAgICAgdm0uc2V0TG9hZGluZ1Rva2VuKGZhbHNlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdm0uc2V0TG9hZGluZ1Rva2VuKGZhbHNlKTsKICAgICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ3N1YnNjcmlwdGlvblRva2VuJywgdG9rZW4pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
