@@ -125,11 +125,12 @@
         <mark key="." line="84" column="47" />
         <mark key="^" line="84" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" timestamp="1590995700535">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" timestamp="1591004022265">
         <mark key="'" line="4" column="7" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+        <mark key="[" line="154" column="44" />
+        <mark key="]" line="154" column="44" />
+        <mark key="." line="154" column="44" />
+        <mark key="^" line="148" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/.env" timestamp="1590841303233" />
       <file name="$USER_HOME$/Documents/analytics-frontend/src/store/auth/AuthStore.ts" timestamp="1590995479243" />
@@ -144,22 +145,15 @@
         <mark key="." line="30" column="14" />
         <mark key="^" line="26" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.tsx" timestamp="1590995874423">
-        <mark key="[" line="124" column="14" />
-        <mark key="]" line="124" column="20" />
-        <mark key="." line="124" column="19" />
-        <mark key="^" line="124" column="20" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.tsx" timestamp="1591004072809">
+        <mark key="]" line="20" column="4" />
+        <mark key="^" line="20" column="4" />
+        <mark key="." line="20" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/api/subscriptions.ts" timestamp="1590843323850">
         <mark key="]" line="1" column="46" />
         <mark key="^" line="1" column="46" />
         <mark key="." line="1" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/handlers/videos/middlewares/checkSubscriptionMiddleware.ts" timestamp="1590841163607">
-        <mark key="[" line="4" column="77" />
-        <mark key="]" line="4" column="77" />
-        <mark key="." line="4" column="77" />
-        <mark key="^" line="4" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.module.scss" timestamp="1590995804006">
         <mark key="[" line="22" column="1" />
@@ -167,23 +161,22 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590995928963">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="13" />
+      <file name="/Dummy.txt" timestamp="1591003296280">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/containers/TeamUsersDropdown/TeamUsersDropdown.module.scss" timestamp="1590993104241">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1591001965258">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1591004067172">
         <mark key="'" line="4" column="9" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="^" line="105" column="48" />
-        <mark key="." line="110" column="0" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="180" column="14" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1590995524795">
         <mark key="'" line="45" column="6" />
@@ -194,6 +187,12 @@
       </file>
       <file name="/GraphQL.result.json" timestamp="1590847330701">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/components/Menu/Menu.tsx" timestamp="1591003640371">
+        <mark key="[" line="81" column="33" />
+        <mark key="]" line="81" column="41" />
+        <mark key="." line="81" column="40" />
+        <mark key="^" line="81" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/utils/clearMetricPart.ts" timestamp="1591001445322">
         <mark key="[" line="1" column="33" />
@@ -308,46 +307,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlc2NyaWJlIHsgbWVhbgogICAgICAgICAgICBtaW51dGVzCiAgICAgICAgICAgIG1heCB7CiAgICAgICAgICAgICAgdGltZQogICAgICAgICAgICAgIGNvdW50CiAgICAgICAgICAgIH0KICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHVzZUVmZmVjdCgoKSA9PiB7CiAgICAgIHNldFNlbGVjdGVkVGFiKHRhYik7CiAgICB9LCBbdGFiXSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>AggregationDataStreamingViewers</text>
+        <text>messages</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaGFydEhlYXRtYXBGcmFnbWVudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAuLi4gb24gQWdncmVnYXRpb25EYXRhU3RyZWFtaW5nVmlld2VycyB7CiAgICAgICAgICBncmFwaCB7CiAgICAgICAgICAgIGRhdGUKICAgICAgICAgICAgY291bnQKICAgICAgICAgIH0KICAgICAgICAgIGRlc2NyaWJlIHsKICAgICAgICAgICAgbWVhbgogICAgICAgICAgICBtaW51dGVzCiAgICAgICAgICAgIG1heCB7CiAgICAgICAgICAgICAgdGltZQogICAgICAgICAgICAgIGNvdW50CiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHVzZUVmZmVjdCgoKSA9PiB7CiAgICAgIHNldFNlbGVjdGVkVGFiKHRhYik7CiAgICB9LCBbdGFiXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlc2NyaWJlIHsgbWVhbgogICAgICAgICAgICBtaW51dGVzCiAgICAgICAgICAgIG1heCB7CiAgICAgICAgICAgICAgdGltZQogICAgICAgICAgICAgIGNvdW50CiAgICAgICAgICAgIH0KICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHBhdGg9e3JvdXRlUGF0aC5hdWRpZW5jZSgnd2F0Y2hlZC1taW51dGVzJyl9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>feat: watched minutes</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Um91dGUKICAgICAgICAgICAgICAgICAgICAgIGV4YWN0PXt0cnVlfQogICAgICAgICAgICAgICAgICAgICAgcGF0aD17cm91dGVQYXRoLmNoYXQoJycpfQogICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50PXtDaGF0T3ZlcnZpZXd9CiAgICAgICAgICAgICAgICAgICAgLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8RGF0ZVJhbmdlUGlja2VyRHJvcGRvd24KICAgICAgICAgIGZyb209e2Zyb21OdW1iZXJ9CiAgICAgICAgICB0aWxsPXt0aWxsTnVtYmVyfQogICAgICAgICAgb25DaGFuZ2U9e2NoYW5nZURhdGVzfQogICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlc2NyaWJlIHsgbWVhbgogICAgICAgICAgICBtaW51dGVzCiAgICAgICAgICAgIG1heCB7CiAgICAgICAgICAgICAgdGltZQogICAgICAgICAgICAgIGNvdW50CiAgICAgICAgICAgIH0KICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGdldFRva2VuKGVudmlyb25tZW50KS50aGVuKCh0b2tlbikgPT4gewogICAgLy8gICB2bS5sb2FkSW5pdGlhbERhdGEoKTsKICAgIC8vIH0pOwo=</text>
+        <text>feat: watched minutes</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCdzdWJzY3JpcHRpb25Ub2tlbicsIHRva2VuKTsK</text>
+        <text encoding="base64">ICAgICAgICA8RGF0ZVJhbmdlUGlja2VyRHJvcGRvd24KICAgICAgICAgIGZyb209e2Zyb21OdW1iZXJ9CiAgICAgICAgICB0aWxsPXt0aWxsTnVtYmVyfQogICAgICAgICAgb25DaGFuZ2U9e2NoYW5nZURhdGVzfQogICAgICAgIC8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdm0uc2V0TG9hZGluZ1Rva2VuKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgIC8vIGdldFRva2VuKGVudmlyb25tZW50KS50aGVuKCh0b2tlbikgPT4gewogICAgLy8gICB2bS5sb2FkSW5pdGlhbERhdGEoKTsKICAgIC8vIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCdzdWJzY3JpcHRpb25Ub2tlbicsIHRva2VuKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdm0uc2V0TG9hZGluZ1Rva2VuKGZhbHNlKTsKICAgICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ3N1YnNjcmlwdGlvblRva2VuJywgdG9rZW4pOwo=</text>
+        <text encoding="base64">ICAgICAgdm0uc2V0TG9hZGluZ1Rva2VuKGZhbHNlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
