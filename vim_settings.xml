@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXNzaW9uQ2hhdENvdW50ZXJzX2FnZ3JlZ2F0aW9uc0NoYXR0ZXJzXD4=</entry>
-        <entry encoding="base64">XDxsb2dcPg==</entry>
         <entry encoding="base64">XDxjaGF0dGVyc1VuaXF1ZUJ5SWRcPg==</entry>
         <entry encoding="base64">XDxieXRlc0luQXVkaW9SYXRlXD4=</entry>
         <entry encoding="base64">XDxjaGFubmVsTmFtZV90YXJnZXRcPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
         <entry encoding="base64">XDxncmFwaHFsXD4=</entry>
         <entry encoding="base64">XDxjb29raWVzUHJvdmlkZXJcPg==</entry>
+        <entry encoding="base64">XDx0ZWFtXD4=</entry>
+        <entry encoding="base64">XDxDaGFydEhlYXRtYXBGcmFnbWVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
@@ -119,24 +119,28 @@
         <mark key="^" line="16" column="47" />
         <mark key="." line="63" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/ChatOverviewPage/ChatOverviewPage.tsx" timestamp="1590989409581">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="77" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-line/session-chart-line.tsx" timestamp="1590986793944">
         <mark key="[" line="84" column="19" />
         <mark key="]" line="84" column="48" />
         <mark key="." line="84" column="47" />
         <mark key="^" line="84" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" timestamp="1590987526009">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" timestamp="1590989839779">
         <mark key="'" line="4" column="7" />
-        <mark key="[" line="116" column="56" />
-        <mark key="]" line="116" column="63" />
+        <mark key="[" line="24" column="9" />
+        <mark key="]" line="24" column="9" />
         <mark key="^" line="116" column="63" />
-        <mark key="." line="116" column="62" />
+        <mark key="." line="24" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/.env" timestamp="1590841303233" />
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-table/aggregation-title/aggregation-title-state/aggregation-title-state.tsx" timestamp="1590757505507">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/AudiencePage/AudiencePage.tsx" timestamp="1590989353594">
+        <mark key="'" line="213" column="11" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="135" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.tsx" timestamp="1590757777199">
         <mark key="[" line="123" column="16" />
@@ -147,11 +151,6 @@
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-table/channels-table.tsx" timestamp="1590757593850">
         <mark key="'" line="124" column="8" />
         <mark key="^" line="158" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/session-followers-counters.tsx" timestamp="1590757544090">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="9" />
-        <mark key="." line="8" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/api/subscriptions.ts" timestamp="1590843323850">
         <mark key="]" line="1" column="46" />
@@ -164,11 +163,18 @@
         <mark key="." line="4" column="77" />
         <mark key="^" line="4" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590913837435">
+      <file name="/Dummy.txt" timestamp="1590989848996">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="9" />
+        <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1590989827391">
+        <mark key="'" line="4" column="9" />
+        <mark key="[" line="164" column="24" />
+        <mark key="]" line="164" column="24" />
+        <mark key="^" line="194" column="14" />
+        <mark key="." line="164" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1590913687519">
         <mark key="'" line="45" column="6" />
@@ -194,12 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="37" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.tsx" />
-      <jump line="89" column="4" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.tsx" />
-      <jump line="133" column="26" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.tsx" />
-      <jump line="320" column="58" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
-      <jump line="328" column="58" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
-      <jump line="172" column="10" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
       <jump line="12" column="6" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
       <jump line="170" column="0" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
       <jump line="174" column="0" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
@@ -294,51 +294,57 @@
       <jump line="3" column="7" filename="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" />
       <jump line="72" column="8" filename="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" />
       <jump line="60" column="6" filename="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" />
+      <jump line="104" column="14" filename="$USER_HOME$/Documents/analytics-frontend/src/pages/AudiencePage/AudiencePage.tsx" />
+      <jump line="133" column="37" filename="$USER_HOME$/Documents/analytics-frontend/src/pages/AudiencePage/AudiencePage.tsx" />
+      <jump line="137" column="14" filename="$USER_HOME$/Documents/analytics-frontend/src/pages/AudiencePage/AudiencePage.tsx" />
+      <jump line="153" column="12" filename="$USER_HOME$/Documents/analytics-frontend/src/pages/AudiencePage/AudiencePage.tsx" />
+      <jump line="213" column="11" filename="$USER_HOME$/Documents/analytics-frontend/src/pages/AudiencePage/AudiencePage.tsx" />
+      <jump line="4" column="9" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>viewers</text>
+      <register name="&quot;" type="2">
+        <text>feat: subscription token</text>
       </register>
       <register name="-" type="4">
-        <text>viewers</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb29raWVzUHJvdmlkZXJcPg==</text>
+        <text encoding="base64">XDxDaGFydEhlYXRtYXBGcmFnbWVudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Um91dGUKICAgICAgICAgICAgICAgICAgICAgIGV4YWN0PXt0cnVlfQogICAgICAgICAgICAgICAgICAgICAgcGF0aD17cm91dGVQYXRoLmF1ZGllbmNlKCdtYXgtdmlld2VycycpfQogICAgICAgICAgICAgICAgICAgICAgcmVuZGVyPXsoeyBsb2NhdGlvbiB9KSA9PiAoCiAgICAgICAgICAgICAgICAgICAgICAgIDxBdWRpZW5jZU5leHQKICAgICAgICAgICAgICAgICAgICAgICAgICBsb2NhdGlvbj17bG9jYXRpb259CiAgICAgICAgICAgICAgICAgICAgICAgICAgdGFiPXtBdWRpZW5jZVRhYnMuTUFYX1ZJRVdFUlN9CiAgICAgICAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgc2VhcmNoUGFyYW1zLCBzZXRTZWFyY2hQYXJhbXMgfSA9IHVzZVVybFNlYXJjaFBhcmFtcyh7CiAgICAgIHNlYXJjaDogcHJvcHMubG9jYXRpb24uc2VhcmNoLAogICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgd2Vla2RheQogICAgICAgICAgICAgICAgICBob3VyCg==</text>
+        <text>feat: subscription token</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>fix: lint</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnUmVzcG9uc2UgcmVjZWl2ZWQgZnJvbSBzZXJ2ZXIuJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgd2Vla2RheQogICAgICAgICAgICAgICAgICBob3VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG9rZW4pOwo=</text>
+        <text>fix: lint</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Lyo8Um91dGUqL30KICAgICAgICAgICAgICAgICAgICB7LyogIGV4YWN0PXt0cnVlfSovfQogICAgICAgICAgICAgICAgICAgIHsvKiAgcGF0aD17cm91dGVQYXRoLmF1ZGllbmNlKCdhdmVyYWdlLXZpZXdlcnMnKX0qL30KICAgICAgICAgICAgICAgICAgICB7LyogIGNvbXBvbmVudD17QXVkaWVuY2VOZXh0fSovfQogICAgICAgICAgICAgICAgICAgIHsvKi8+Ki99CiAgICAgICAgICAgICAgICAgICAgey8qPFJvdXRlKi99CiAgICAgICAgICAgICAgICAgICAgey8qICBleGFjdD17dHJ1ZX0qL30KICAgICAgICAgICAgICAgICAgICB7LyogIHBhdGg9e3JvdXRlUGF0aC5hdWRpZW5jZSgnbWF4LXZpZXdlcnMnKX0qL30KICAgICAgICAgICAgICAgICAgICB7LyogIGNvbXBvbmVudD17QXVkaWVuY2VOZXh0fSovfQogICAgICAgICAgICAgICAgICAgIHsvKi8+Ki99Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnUmVzcG9uc2UgcmVjZWl2ZWQgZnJvbSBzZXJ2ZXIuJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Lyo8Um91dGUqL30KICAgICAgICAgICAgICAgICAgICB7LyogIGV4YWN0PXt0cnVlfSovfQogICAgICAgICAgICAgICAgICAgIHsvKiAgcGF0aD17cm91dGVQYXRoLmF1ZGllbmNlKCdtYXgtdmlld2VycycpfSovfQogICAgICAgICAgICAgICAgICAgIHsvKiAgcmVuZGVyPXsoKSA9PiA8QXVkaWVuY2UgbWV0cmljPXsnbWF4LXZpZXdlcnMnfSAvPn0qL30KICAgICAgICAgICAgICAgICAgICB7LyovPiovfQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG9rZW4pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB1c2VNdXRhdGlvbiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Lyo8Um91dGUqL30KICAgICAgICAgICAgICAgICAgICB7LyogIGV4YWN0PXt0cnVlfSovfQogICAgICAgICAgICAgICAgICAgIHsvKiAgcGF0aD17cm91dGVQYXRoLmF1ZGllbmNlKCdhdmVyYWdlLXZpZXdlcnMnKX0qL30KICAgICAgICAgICAgICAgICAgICB7LyogIGNvbXBvbmVudD17QXVkaWVuY2VOZXh0fSovfQogICAgICAgICAgICAgICAgICAgIHsvKi8+Ki99CiAgICAgICAgICAgICAgICAgICAgey8qPFJvdXRlKi99CiAgICAgICAgICAgICAgICAgICAgey8qICBleGFjdD17dHJ1ZX0qL30KICAgICAgICAgICAgICAgICAgICB7LyogIHBhdGg9e3JvdXRlUGF0aC5hdWRpZW5jZSgnbWF4LXZpZXdlcnMnKX0qL30KICAgICAgICAgICAgICAgICAgICB7LyogIGNvbXBvbmVudD17QXVkaWVuY2VOZXh0fSovfQogICAgICAgICAgICAgICAgICAgIHsvKi8+Ki99Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgU3Vic2NyaXB0aW9uQ2xpZW50IH0gZnJvbSAnc3Vic2NyaXB0aW9ucy10cmFuc3BvcnQtd3MnOwovLwovLyBjb25zdCB3cyA9IG5ldyBXZWJTb2NrZXQoJ3dzOi8vbG9jYWxob3N0OjQ0NDQvc29ja2V0Jyk7Ci8vIHdzLm9ub3BlbiA9IGNvbnNvbGUubG9nOwovLwovLyBjb25zdCBjbGllbnQgPSBuZXcgU3Vic2NyaXB0aW9uQ2xpZW50KCd3czovL2xvY2FsaG9zdDo0NDQ0L3NvY2tldCcsIHsKLy8gICByZWNvbm5lY3Q6IHRydWUsCi8vICAgY29ubmVjdGlvblBhcmFtczogewovLyAgICAgaGVhZGVyczogewovLyAgICAgICAndXNlci1pZCc6ICcxODY4MzgnLAovLyAgICAgfSwKLy8gICB9LAovLyB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Lyo8Um91dGUqL30KICAgICAgICAgICAgICAgICAgICB7LyogIGV4YWN0PXt0cnVlfSovfQogICAgICAgICAgICAgICAgICAgIHsvKiAgcGF0aD17cm91dGVQYXRoLmF1ZGllbmNlKCdtYXgtdmlld2VycycpfSovfQogICAgICAgICAgICAgICAgICAgIHsvKiAgcmVuZGVyPXsoKSA9PiA8QXVkaWVuY2UgbWV0cmljPXsnbWF4LXZpZXdlcnMnfSAvPn0qL30KICAgICAgICAgICAgICAgICAgICB7LyovPiovfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gY29uc3Qgc3Vic2NyaWJlRm4gPSAob3BlcmF0aW9uOiBhbnksIHZhcmlhYmxlczogYW55KSA9PiB7Ci8vICAgY29uc3QgcXVlcnkgPSBvcGVyYXRpb24udGV4dDsKLy8gICAvLyBpZiAoIXF1ZXJ5KSB7Ci8vICAgLy8gICByZXR1cm47Ci8vICAgLy8gfQovLyAgIGNvbnN0IHJlcXVlc3QgPSBjbGllbnQucmVxdWVzdCh7IHF1ZXJ5LCB2YXJpYWJsZXMgfSk7Ci8vICAgcmV0dXJuIHsKLy8gICAgIHN1YnNjcmliZTogKG9ic2VydmVyOiBhbnkpID0+IHsKLy8gICAgICAgY29uc3Qgc3Vic2NyaXB0aW9uID0gcmVxdWVzdC5zdWJzY3JpYmUob2JzZXJ2ZXIpOwovLyAgICAgICBvYnNlcnZlci5zdGFydChzdWJzY3JpcHRpb24pOwovLyAgICAgfSwKLy8gICAgIGRpc3Bvc2U6ICgpID0+IHsKLy8gICAgICAgY2xpZW50LnVuc3Vic2NyaWJlQWxsKCk7Ci8vICAgICAgIGNsaWVudC5jbG9zZSgpOwovLyAgICAgfSwKLy8gICB9OwovLyB9Owo=</text>
+        <text encoding="base64">ICB1c2VNdXRhdGlvbiwK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -347,9 +353,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb29raWVzUHJvdmlkZXJcPg==</last-search>
+      <last-search encoding="base64">XDxDaGFydEhlYXRtYXBGcmFnbWVudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb29raWVzUHJvdmlkZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxDaGFydEhlYXRtYXBGcmFnbWVudFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaXJzdElkSW5NZXNzYWdlV29yZDJcPg==</last-substitute>
       <last-dir>1</last-dir>
