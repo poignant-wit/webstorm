@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxlcnJvclw+</entry>
-        <entry encoding="base64">XDxBZ2dyZWdhdGlvblRpdGxlRnJhZ21lbnRcPg==</entry>
         <entry encoding="base64">XDxpbml0aWFsRGF0YVw+</entry>
         <entry encoding="base64">XDxhdWRpZW5jZVBhZ2VIZWF0bWFwUXVlcnlcPg==</entry>
         <entry encoding="base64">XDxRdWV1ZUNsaWVudFw+</entry>
@@ -24,7 +22,9 @@
         <entry encoding="base64">XDxwcm9jZXNzaW5nXD4=</entry>
         <entry encoding="base64">XDxhdWRpZW5jZVJhbmdlTGF5b3V0XD4=</entry>
         <entry encoding="base64">XDxBVURJRU5DRV9BR0dSRUdBVElPTlNfSEVBVE1BUF9RVUVSWVw+</entry>
+        <entry encoding="base64">XDxsb2FkaW5nR3JhcGhcPg==</entry>
         <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
+        <entry encoding="base64">XDxsb2FkaW5nSGVhdG1hcFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
@@ -164,11 +164,12 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1591177801787">
-        <mark key="[" line="12" column="64" />
-        <mark key="]" line="12" column="71" />
-        <mark key="^" line="12" column="71" />
-        <mark key="." line="12" column="70" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1591179127397">
+        <mark key="'" line="189" column="11" />
+        <mark key="[" line="295" column="14" />
+        <mark key="]" line="295" column="14" />
+        <mark key="^" line="291" column="85" />
+        <mark key="." line="295" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1591163368467">
         <mark key="'" line="45" column="6" />
@@ -217,14 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="41" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
-      <jump line="207" column="43" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
-      <jump line="208" column="38" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
-      <jump line="215" column="49" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
-      <jump line="217" column="16" filename="$USER_HOME$/Documents/old-chat-analytics-migrator/src/index.ts" />
-      <jump line="18" column="6" filename="$USER_HOME$/Documents/old-streaming-data-migrator/src/index.ts" />
-      <jump line="14" column="6" filename="$USER_HOME$/Documents/old-streaming-data-migrator/src/index.ts" />
-      <jump line="226" column="18" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
       <jump line="52" column="19" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/session-chat-counters.tsx" />
       <jump line="13" column="24" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/session-chat-counters.tsx" />
       <jump line="92" column="15" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/session-chat-counters.tsx" />
@@ -303,7 +296,6 @@
       <jump line="153" column="12" filename="$USER_HOME$/Documents/analytics-frontend/src/pages/AudiencePage/AudiencePage.tsx" />
       <jump line="213" column="11" filename="$USER_HOME$/Documents/analytics-frontend/src/pages/AudiencePage/AudiencePage.tsx" />
       <jump line="4" column="9" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
-      <jump line="210" column="10" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
       <jump line="211" column="60" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
       <jump line="215" column="67" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
       <jump line="157" column="39" filename="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-table/channels-table.tsx" />
@@ -313,55 +305,64 @@
       <jump line="56" column="6" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
       <jump line="305" column="21" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
       <jump line="324" column="23" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
-      <jump line="229" column="10" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
       <jump line="240" column="20" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
       <jump line="2" column="22" filename="$USER_HOME$/Documents/analytics-frontend/src/next/hooks/useAggregationsProgress.ts" />
       <jump line="23" column="4" filename="$USER_HOME$/Documents/analytics-frontend/src/next/hooks/aggregationsHooks.ts" />
+      <jump line="278" column="21" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
+      <jump line="292" column="21" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
+      <jump line="311" column="23" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
+      <jump line="231" column="10" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
+      <jump line="210" column="10" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
+      <jump line="221" column="18" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
+      <jump line="242" column="6" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
+      <jump line="229" column="10" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
+      <jump line="276" column="12" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
+      <jump line="189" column="11" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkaW5nXD4=</text>
+        <text encoding="base64">XDxsb2FkaW5nSGVhdG1hcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHByb2dyZXNzR3JhcGggPSB1c2VBZ2dyZWdhdGlvbnNQcm9ncmVzcyhhZ2dyZWdhdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxvYWRpbmdJbml0aWFsR3JhcGggPSB1c2VNZW1vKCgpID0+IHsKICAgICAgcmV0dXJuICFxdWVyeUdyYXBoUHJvcHMgJiYgIXF1ZXJ5R3JhcGhFcnJvcjsKICAgIH0sIFtxdWVyeUdyYXBoUHJvcHNdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHByb2Nlc3NpbmdIZWF0bWFwID0gdXNlTWVtbygoKSA9PiB7CiAgICAgIHJldHVybiAhIWFnZ3JlZ2F0aW9uc0hlYXRtYXAuZmluZCgoYSkgPT4gYS5zdGF0ZS5zdGF0dXMgPT09ICdwcm9jZXNzaW5nJyk7CiAgICB9LCBbYWdncmVnYXRpb25zSGVhdG1hcF0pOwo=</text>
+        <text encoding="base64">ICAgIHVzZUVmZmVjdCgoKSA9PiB7CiAgICAgIAogICAgfSwgW2xvYWRpbmdHcmFwaCwgbG9hZGluZ0luaXRpYWxIZWF0bWFwLCBxdWVdKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgcHJvY2Vzc2luZ0hlYXRtYXAgPSB1c2VNZW1vKCgpID0+IHsKICByZXR1cm4gISFhZ2dyZWdhdGlvbnNIZWF0bWFwLmZpbmQoKGEpID0+IGEuc3RhdGUuc3RhdHVzID09PSAncHJvY2Vzc2luZycpOwp9LCBbYWdncmVnYXRpb25zSGVhdG1hcF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY291bnRlcnM9e3JlbmRlckNoYXJ0Q291bnRlcnMoKX0KICAgICAgICAgICAgY291bnRlcnM9e251bGx9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBwcm9ncmVzc0hlYXRtYXAgPSB1c2VNZW1vKCgpID0+IHsKICAgIHJldHVybiAoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBzZXRTZWxlY3RlZENoYW5uZWxzKFsnMCddKTsK</text>
       </register>
       <register name="4" type="2">
-        <text>feat: heatmap</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxvYWRpbmcgPSB1c2VNZW1vKCgpID0+ICFxdWVyeUdyYXBoUHJvcHMgJiYgIXF1ZXJ5R3JhcGhFcnJvciwgWwogICAgICBxdWVyeUdyYXBoUHJvcHMsCiAgICAgIHF1ZXJ5R3JhcGhFcnJvciwKICAgIF0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text>feat: gql types</text>
+        <text encoding="base64">ICAgIGNvbnN0IHByb2Nlc3NpbmdHcmFwaCA9IHVzZU1lbW8oKCkgPT4gewogICAgICByZXR1cm4gISFhZ2dyZWdhdGlvbnMuZmluZCgoYSkgPT4gYS5zdGF0ZS5zdGF0dXMgPT09ICdwcm9jZXNzaW5nJyk7CiAgICB9LCBbYWdncmVnYXRpb25zXSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuICEhYWdncmVnYXRpb25zLmZpbmQoKGEpID0+IGEuc3RhdGUuc3RhdHVzID09PSAncHJvY2Vzc2luZycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY291bnRlcnM9e251bGx9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxvYWRpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY291bnRlcnM9e3JlbmRlckNoYXJ0Q291bnRlcnMoKX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFnZ3JlZ2F0aW9uc0hlYXRtYXAgPSB1c2VNZW1vKCgpID0+IHsKICAgICAgcmV0dXJuIHF1ZXJ5SGVhdG1hcFByb3BzPy52aWV3ZXI/LnVzZXI/LmFnZ3JlZ2F0aW9ucyB8fCBbXTsKICAgIH0sIFtxdWVyeUhlYXRtYXBQcm9wc10pOwo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHByb2Nlc3NpbmdIZWF0bWFwID0gdXNlTWVtbygoKSA9PiB7CiAgICAvLyAgIHJldHVybiAhIWFnZ3JlZ2F0aW9uc0hlYXRtYXAuZmluZCgoYSkgPT4gYS5zdGF0ZS5zdGF0dXMgPT09ICdwcm9jZXNzaW5nJyk7CiAgICAvLyB9LCBbYWdncmVnYXRpb25zSGVhdG1hcF0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgcHJvcHM6IHF1ZXJ5SGVhdG1hcFByb3BzIH0gPSB1c2VRdWVyeTxhdWRpZW5jZVBhZ2VIZWF0bWFwUXVlcnk+KAogICAgICBBVURJRU5DRV9BR0dSRUdBVElPTlNfSEVBVE1BUF9RVUVSWSwKICAgICAgewogICAgICAgIHVzZXJJZCwKICAgICAgICBtZXRyaWM6IHRhYkhlYXRtYXBNZXRyaWNbc2VsZWN0ZWRUYWJdIGFzIE1ldHJpYywKICAgICAgICBmcm9tOiBmcm9tTnVtYmVyLAogICAgICAgIHRpbGw6IHRpbGxOdW1iZXIsCiAgICAgICAgaW5jbHVkZTogdHJ1ZSwKICAgICAgfSwKICAgICk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHByb2dyZXNzR3JhcGggPSB1c2VNZW1vKCgpID0+IHsKICAgIC8vICAgcmV0dXJuICgKICAgIC8vICAgICBhZ2dyZWdhdGlvbnMucmVkdWNlKAogICAgLy8gICAgICAgKGFjYywgYWdncmVnYXRpb24pID0+IGFjYyArIGFnZ3JlZ2F0aW9uLnN0YXRlLnByb2dyZXNzLAogICAgLy8gICAgICAgMCwKICAgIC8vICAgICApIC8gKGFnZ3JlZ2F0aW9ucy5sZW5ndGggfHwgMSkKICAgIC8vICAgKTsKICAgIC8vIH0sIFthZ2dyZWdhdGlvbnNdKTsKCiAgICAvLyBjb25zdCBwcm9ncmVzc0hlYXRtYXAgPSB1c2VNZW1vKCgpID0+IHsKICAgIC8vICAgcmV0dXJuICgKICAgIC8vICAgICBhZ2dyZWdhdGlvbnNIZWF0bWFwLnJlZHVjZSgKICAgIC8vICAgICAgIChhY2MsIGFnZ3JlZ2F0aW9uKSA9PiBhY2MgKyBhZ2dyZWdhdGlvbi5zdGF0ZS5wcm9ncmVzcywKICAgIC8vICAgICAgIDAsCiAgICAvLyAgICAgKSAvIChhZ2dyZWdhdGlvbnNIZWF0bWFwLmxlbmd0aCB8fCAxKQogICAgLy8gICApOwogICAgLy8gfSwgW2FnZ3JlZ2F0aW9uc0hlYXRtYXBdKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -370,9 +371,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxsb2FkaW5nXD4=</last-search>
+      <last-search encoding="base64">XDxsb2FkaW5nSGVhdG1hcFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkaW5nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkaW5nSGVhdG1hcFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaXJzdElkSW5NZXNzYWdlV29yZDJcPg==</last-substitute>
       <last-dir>1</last-dir>
