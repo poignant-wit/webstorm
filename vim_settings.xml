@@ -110,16 +110,17 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591018487617">
+      <file name="/Dummy.txt" timestamp="1591176597277">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="27" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="26" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-line/chart-line.tsx" timestamp="1591012142474">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-line/chart-line.tsx" timestamp="1591176376413">
+        <mark key="[" line="68" column="22" />
+        <mark key="]" line="68" column="22" />
+        <mark key="." line="68" column="21" />
+        <mark key="^" line="68" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1591168631455">
         <mark key="'" line="240" column="20" />
@@ -321,8 +322,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>processing</text>
+      <register name="&quot;" type="2">
+        <text>feat: gql types</text>
       </register>
       <register name="-" type="4">
         <text>processing</text>
@@ -334,34 +335,34 @@
         <text encoding="base64">ICAgIGNvbnN0IHByb2Nlc3NpbmcgPSB1c2VNZW1vKCgpID0+IHsKICAgICAgcmV0dXJuICEhYWdncmVnYXRpb25zLmZpbmQoKGEpID0+IGEuc3RhdGUuc3RhdHVzID09PSAncHJvY2Vzc2luZycpOwogICAgfSwgW2FnZ3JlZ2F0aW9uc10pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuICEhYWdncmVnYXRpb25zLmZpbmQoKGEpID0+IGEuc3RhdGUuc3RhdHVzID09PSAncHJvY2Vzc2luZycpOwo=</text>
+        <text>feat: gql types</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxvYWRpbmcK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICEhYWdncmVnYXRpb25zLmZpbmQoKGEpID0+IGEuc3RhdGUuc3RhdHVzID09PSAncHJvY2Vzc2luZycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFnZ3JlZ2F0aW9uc0hlYXRtYXAgPSB1c2VNZW1vKCgpID0+IHsKICAgICAgcmV0dXJuIHF1ZXJ5SGVhdG1hcFByb3BzPy52aWV3ZXI/LnVzZXI/LmFnZ3JlZ2F0aW9ucyB8fCBbXTsKICAgIH0sIFtxdWVyeUhlYXRtYXBQcm9wc10pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxvYWRpbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgcHJvcHM6IHF1ZXJ5SGVhdG1hcFByb3BzIH0gPSB1c2VRdWVyeTxhdWRpZW5jZVBhZ2VIZWF0bWFwUXVlcnk+KAogICAgICBBVURJRU5DRV9BR0dSRUdBVElPTlNfSEVBVE1BUF9RVUVSWSwKICAgICAgewogICAgICAgIHVzZXJJZCwKICAgICAgICBtZXRyaWM6IHRhYkhlYXRtYXBNZXRyaWNbc2VsZWN0ZWRUYWJdIGFzIE1ldHJpYywKICAgICAgICBmcm9tOiBmcm9tTnVtYmVyLAogICAgICAgIHRpbGw6IHRpbGxOdW1iZXIsCiAgICAgICAgaW5jbHVkZTogdHJ1ZSwKICAgICAgfSwKICAgICk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFnZ3JlZ2F0aW9uc0hlYXRtYXAgPSB1c2VNZW1vKCgpID0+IHsKICAgICAgcmV0dXJuIHF1ZXJ5SGVhdG1hcFByb3BzPy52aWV3ZXI/LnVzZXI/LmFnZ3JlZ2F0aW9ucyB8fCBbXTsKICAgIH0sIFtxdWVyeUhlYXRtYXBQcm9wc10pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudDogMTAsCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgcHJvcHM6IHF1ZXJ5SGVhdG1hcFByb3BzIH0gPSB1c2VRdWVyeTxhdWRpZW5jZVBhZ2VIZWF0bWFwUXVlcnk+KAogICAgICBBVURJRU5DRV9BR0dSRUdBVElPTlNfSEVBVE1BUF9RVUVSWSwKICAgICAgewogICAgICAgIHVzZXJJZCwKICAgICAgICBtZXRyaWM6IHRhYkhlYXRtYXBNZXRyaWNbc2VsZWN0ZWRUYWJdIGFzIE1ldHJpYywKICAgICAgICBmcm9tOiBmcm9tTnVtYmVyLAogICAgICAgIHRpbGw6IHRpbGxOdW1iZXIsCiAgICAgICAgaW5jbHVkZTogdHJ1ZSwKICAgICAgfSwKICAgICk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhU2VyaWVzKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb3VudDogMTAsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhU2VyaWVzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChhLmhvdXIgPiBiLmhvdXIpIHsKICAgICAgICAgICAgcmV0dXJuIDE7CiAgICAgICAgICB9CiAgICAgICAgICBpZiAoYS5ob3VyIDwgYi5ob3VyKSB7CiAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICAgIH0KICAgICAgICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhU2VyaWVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChhLmhvdXIgPiBiLmhvdXIpIHsKICAgICAgICAgICAgcmV0dXJuIDE7CiAgICAgICAgICB9CiAgICAgICAgICBpZiAoYS5ob3VyIDwgYi5ob3VyKSB7CiAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICAgIH0KICAgICAgICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
