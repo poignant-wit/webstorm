@@ -162,11 +162,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591262685366">
+      <file name="/Dummy.txt" timestamp="1591263087237">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="17" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1591253978933">
         <mark key="'" line="11" column="2" />
@@ -191,12 +191,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/session-viewers-counters.tsx" timestamp="1591263071078">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/session-viewers-counters.tsx" timestamp="1591264412680">
         <mark key="'" line="93" column="0" />
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="15" />
-        <mark key="^" line="103" column="48" />
-        <mark key="." line="10" column="15" />
+        <mark key="[" line="42" column="9" />
+        <mark key="]" line="43" column="20" />
+        <mark key="^" line="43" column="20" />
+        <mark key="." line="43" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-watched-minutes/session-chart-watched-minutes.tsx" timestamp="1591197368533">
         <mark key="[" line="40" column="0" />
@@ -308,8 +308,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -321,67 +321,34 @@
         <text encoding="base64">ICAgICAgcmV0dXJuIHN0cmVhbXMucmVkdWNlKChhY2MsIGFnZ3JlZ2F0aW9uKSA9PiBhY2MgKyBhZ2dyZWdhdGlvbi52aWV3cywgMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>fix: page bottom padding</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh2aWV3cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFubmVsSWRzLmluY2x1ZGVzKHN0cmVhbS5jaGFubmVsLmlkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2b25zZAo=</text>
+        <text>fix: session views</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWxlY3RlZEFnZ3JlZ2F0aW9uSWRzLCBjaGFubmVsSWRzKTsK</text>
+        <text>fix: page bottom padding</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWQK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh2aWV3cyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0IAo=</text>
+        <text encoding="base64">ICB2b25zZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUgCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWxlY3RlZEFnZ3JlZ2F0aW9uSWRzLCBjaGFubmVsSWRzKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-                data {
-                    ... on AggregationDataStreamingViewers {
-                        describe {
-                            max {
-                                time
-                                count
-                            }
-                            mean
-                            minutes
-                        }
-                    }
-                }
-            }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWQK</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-                __typename
-                ... on AggregationTargetTotal {
-                    id
-                }
-                ... on AggregationTargetChannelStreaming {
-                    channel {
-                        id
-                        displayName
-                        platform {
-                            name
-                            icon {
-                                png
-                            }
-                        }
-                    }
-                }
-                ... on AggregationTargetChannelChat {
-                    id
-                }
-            }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0IAo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
