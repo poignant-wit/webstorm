@@ -123,11 +123,6 @@
         <mark key="." line="17" column="25" />
         <mark key="^" line="17" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/useSelectedTargets.ts" timestamp="1591164982379">
-        <mark key="]" line="0" column="30" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="29" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-heatmap/chart-heatmap.tsx" timestamp="1591199358580">
         <mark key="[" line="122" column="20" />
         <mark key="]" line="122" column="20" />
@@ -140,10 +135,10 @@
         <mark key="." line="16" column="6" />
         <mark key="^" line="16" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audiience-page.module.scss" timestamp="1591167679885">
-        <mark key="[" line="43" column="25" />
-        <mark key="]" line="43" column="26" />
-        <mark key="." line="43" column="26" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audiience-page.module.scss" timestamp="1591256709707">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="8" column="38" />
         <mark key="^" line="26" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/hooks/useAggregationsProgress.ts" timestamp="1591177522866">
@@ -164,11 +159,18 @@
         <mark key="^" line="252" column="39" />
         <mark key="." line="252" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591253616114">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="30" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="29" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.module.scss" timestamp="1591256720780">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="24" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591254228828">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1591253978933">
         <mark key="'" line="11" column="2" />
@@ -209,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="9" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/channel-name/channel-name.tsx" />
       <jump line="43" column="13" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/channel-name/aggregation-title.tsx" />
       <jump line="42" column="22" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/aggregation-title/aggregation-title.tsx" />
       <jump line="33" column="21" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-channels-table/aggregation-title/aggregation-title-state/aggregation-title-state.tsx" />
@@ -309,12 +310,13 @@
       <jump line="250" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-table/channels-table.tsx" />
       <jump line="2" column="20" filename="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-table/channels-table.tsx" />
       <jump line="5" column="23" filename="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-table/channels-table.tsx" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.module.scss" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>'Messages'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwYWRkaW5nLWJvdHRvbTogJGdyaWQtYmFzZS12YWx1ZSAqIDQ7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>'Messages'</text>
@@ -323,37 +325,37 @@
         <text encoding="base64">XDxtb21lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgdGFiTWV0cmljID0gewogIFtDaGF0T3ZlcnZpZXdUYWIuTUVTU0FHRVNdOiAnQ0hBVF9NRVNTQUdFU19DT1VOVCcsCiAgW0NoYXRPdmVydmlld1RhYi5DSEFUVEVSU106ICdDSEFUX0NIQVRURVJTX0NPVU5UJywKfTsK</text>
+        <text encoding="base64">ICBwYWRkaW5nLWJvdHRvbTogJGdyaWQtYmFzZS12YWx1ZSAqIDQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvYWRpbmdHcmFwaCB8fAogICAgICAgICAgICAgICAgbG9hZGluZ0luaXRpYWxIZWF0bWFwIHx8CiAgICAgICAgICAgICAgICBwcm9jZXNzaW5nSGVhdG1hcCB8fAogICAgICAgICAgICAgICAgIXF1ZXJ5SGVhdG1hcFByb3BzCg==</text>
+        <text>fix: session viewers peak timeавввав</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvYWRpbmdHcmFwaCB8fAogICAgICAgICAgICAgICAgbG9hZGluZ0luaXRpYWxIZWF0bWFwIHx8CiAgICAgICAgICAgICAgICBwcm9jZXNzaW5nSGVhdG1hcCB8fAogICAgICAgICAgICAgICAgIXF1ZXJ5SGVhdG1hcFByb3BzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW4gZXJyb3Igb2NjdXJyZWQuIFBsZWFzZSB0cnkgcmVmcmVzaGluZyB0aGUgcGFnZQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text>fix: session select aggregations</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBtb21lbnQoIGFnZ3JlZ2F0aW9uLnN0YXRlLmRhdGE/LmRlc2NyaWJlPy5tYXgudGltZSkuZm9ybWF0KCdoaDptbTpzcycpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7Lyp7YWdncmVnYXRpb24uc3RhdGUuZGF0YS5kZXNjcmliZS5tYXguY291bnR9Ki99dAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQW4gZXJyb3Igb2NjdXJyZWQuIFBsZWFzZSB0cnkgcmVmcmVzaGluZyB0aGUgcGFnZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text>fix: session select aggregations</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBtb21lbnQoIGFnZ3JlZ2F0aW9uLnN0YXRlLmRhdGE/LmRlc2NyaWJlPy5tYXgudGltZSkuZm9ybWF0KCdoaDptbTpzcycpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7Lyp7YWdncmVnYXRpb24uc3RhdGUuZGF0YS5kZXNjcmliZS5tYXguY291bnR9Ki99dAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxFcnJvckljb24gLz47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>fix: heatmap viewers</text>
+        <text encoding="base64">ICAgIDxFcnJvckljb24gLz47Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
