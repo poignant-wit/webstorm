@@ -162,11 +162,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591264452584">
+      <file name="/Dummy.txt" timestamp="1591267252527">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="28" />
-        <mark key="^" line="0" column="28" />
-        <mark key="." line="0" column="27" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1591266620478">
         <mark key="'" line="11" column="2" />
@@ -308,8 +308,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>CHAT_MESSAGES_RANGE</text>
+      <register name="&quot;" type="2">
+        <text>fix: stream channel nullable</text>
       </register>
       <register name="-" type="4">
         <text>CHAT_MESSAGES_RANGE</text>
@@ -321,34 +321,34 @@
         <text encoding="base64">ICBjb25zdCBjaGF0TWVzc2FnZXNSYW5nZUxheW91dCA9IHVzZU1lbW8oKCkgPT4gewogICAgcmV0dXJuIGxheW91dCA9PT0gQ2hhbm5lbHNUYWJsZUxheW91dC5DSEFUX01FU1NBR0VTX1JBTkdFOwogIH0sIFtsYXlvdXRdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBjaGF0TWVzc2FnZXNSYW5nZUxheW91dCA9IHVzZU1lbW8oKCkgPT4gewogICAgcmV0dXJuIGxheW91dCA9PT0gQ2hhbm5lbHNUYWJsZUxheW91dC5DSEFUX01FU1NBR0VTX1JBTkdFOwogIH0sIFtsYXlvdXRdKTsK</text>
+        <text>fix: stream channel nullable</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgY29uc3QgY2hhdE1lc3NhZ2VzUmFuZ2VMYXlvdXQgPSB1c2VNZW1vKCgpID0+IHsK</text>
+        <text encoding="base64">ICBjb25zdCBjaGF0TWVzc2FnZXNSYW5nZUxheW91dCA9IHVzZU1lbW8oKCkgPT4gewogICAgcmV0dXJuIGxheW91dCA9PT0gQ2hhbm5lbHNUYWJsZUxheW91dC5DSEFUX01FU1NBR0VTX1JBTkdFOwogIH0sIFtsYXlvdXRdKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFtzdHlsZXNbJ3RhYmxlX19hdWRpZW5jZS1yYW5nZSddXTogd2F0Y2hlZE1pbnV0ZXNSYW5nZUxheW91dCwK</text>
+        <text encoding="base64">CiAgY29uc3QgY2hhdE1lc3NhZ2VzUmFuZ2VMYXlvdXQgPSB1c2VNZW1vKCgpID0+IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxheW91dCA9PT0gQ2hhbm5lbHNUYWJsZUxheW91dC5BVURJRU5DRV9BVkdfUkFOR0UgJiYK</text>
+        <text encoding="base64">ICAgIC8vIFtzdHlsZXNbJ3RhYmxlX19hdWRpZW5jZS1yYW5nZSddXTogd2F0Y2hlZE1pbnV0ZXNSYW5nZUxheW91dCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7YWdncmVnYXRpb24uc3RhdGUuZGF0YT8uX190eXBlbmFtZSA9PT0KICAgICAgICAgICAgICAgICAgICAgICAgICAnQWdncmVnYXRpb25EYXRhU3RyZWFtaW5nVmlld2VycycgJiYKICAgICAgICAgICAgICAgICAgICAgICAgICBsYXlvdXQgPT09IENoYW5uZWxzVGFibGVMYXlvdXQuQVVESUVOQ0VfTUFYX1JBTkdFICYmCiAgICAgICAgICAgICAgICAgICAgICAgICAgYWdncmVnYXRpb24uc3RhdGUuZGF0YT8uZGVzY3JpYmU/Lm1heC5jb3VudH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxheW91dCA9PT0gQ2hhbm5lbHNUYWJsZUxheW91dC5BVURJRU5DRV9BVkdfUkFOR0UgJiYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGF5b3V0ID09PSBDaGFubmVsc1RhYmxlTGF5b3V0LkFVRElFTkNFX01BWF9SQU5HRQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7YWdncmVnYXRpb24uc3RhdGUuZGF0YT8uX190eXBlbmFtZSA9PT0KICAgICAgICAgICAgICAgICAgICAgICAgICAnQWdncmVnYXRpb25EYXRhU3RyZWFtaW5nVmlld2VycycgJiYKICAgICAgICAgICAgICAgICAgICAgICAgICBsYXlvdXQgPT09IENoYW5uZWxzVGFibGVMYXlvdXQuQVVESUVOQ0VfTUFYX1JBTkdFICYmCiAgICAgICAgICAgICAgICAgICAgICAgICAgYWdncmVnYXRpb24uc3RhdGUuZGF0YT8uZGVzY3JpYmU/Lm1heC5jb3VudH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBBVURJRU5DRV9NQVhfUkFOR0UsCiAgV0FUQ0hFRF9NSU5VVEVTX1JBTkdFLAo=</text>
+        <text encoding="base64">ICAgICAgbGF5b3V0ID09PSBDaGFubmVsc1RhYmxlTGF5b3V0LkFVRElFTkNFX01BWF9SQU5HRQo=</text>
       </register>
       <register name="8" type="2">
-        <text>fix: lint</text>
+        <text encoding="base64">ICBBVURJRU5DRV9NQVhfUkFOR0UsCiAgV0FUQ0hFRF9NSU5VVEVTX1JBTkdFLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text>fix: lint</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
