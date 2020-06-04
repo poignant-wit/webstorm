@@ -152,11 +152,11 @@
         <mark key="." line="277" column="68" />
         <mark key="^" line="277" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591199522522">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="19" />
+      <file name="/Dummy.txt" timestamp="1591251433769">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1591200392515">
         <mark key="'" line="11" column="2" />
@@ -312,8 +312,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text>fix: heatmap viewers</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -325,34 +325,34 @@
         <text encoding="base64">ICAgIHlBeGlzLnJlbmRlcmVyLmZpeGVkV2lkdGhHcmlkID0gdHJ1ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdGVkVGFiICE9PSBBZ2dzLkNIQVRfVFJFTkRTLAo=</text>
+        <text>fix: heatmap viewers</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>fix: progress bar styles</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWxlY3RlZEFnZ3JlZ2F0aW9ucywgYWdncmVnYXRpb25zKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFtsb2FkaW5nSGVhdG1hcCwgc2V0TG9hZGluZ0hlYXRtYXBdID0gdXNlU3RhdGUodHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgIHNlbGVjdGVkVGFiICE9PSBBZ2dzLkNIQVRfVFJFTkRTLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGxhY2Vob2xkZXIgfSBmcm9tICduZXh0L2NvbXBvbmVudHMvcGxhY2Vob2xkZXIvUGxhY2Vob2xkZXInOwo=</text>
+        <text>fix: progress bar styles</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAoIWRhdGFTZXJpZXMubGVuZ3RoKSB7CiAgICByZXR1cm4gPFBsYWNlaG9sZGVyIHRleHQ9eydObyBkYXRhJ30gLz47CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhU2VyaWVzKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IFtsb2FkaW5nSGVhdG1hcCwgc2V0TG9hZGluZ0hlYXRtYXBdID0gdXNlU3RhdGUodHJ1ZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBQbGFjZWhvbGRlciB0ZXh0PXsnTm8gZGF0YSd9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUGxhY2Vob2xkZXIgfSBmcm9tICduZXh0L2NvbXBvbmVudHMvcGxhY2Vob2xkZXIvUGxhY2Vob2xkZXInOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyBjb3VudGVycz17bnVsbH0K</text>
+        <text encoding="base64">ICBpZiAoIWRhdGFTZXJpZXMubGVuZ3RoKSB7CiAgICByZXR1cm4gPFBsYWNlaG9sZGVyIHRleHQ9eydObyBkYXRhJ30gLz47CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
