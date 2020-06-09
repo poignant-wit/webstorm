@@ -104,76 +104,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/elements/icon/error-icon.module.scss" timestamp="1591339354792">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-block/overview-block.module.scss" timestamp="1591340679055">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="15" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.tsx" timestamp="1591602651800">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="0" column="145" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/OverviewPage/card/OverviewCard.tsx" timestamp="1591340719207">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="40" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1591630338211">
-        <mark key="^" line="46" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/OverviewPage/card/OverviewCard.module.scss" timestamp="1591340531246">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/scss/colors.scss" timestamp="1591339304261">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="21" />
-        <mark key="^" line="9" column="21" />
-        <mark key="." line="9" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-page.module.scss" timestamp="1591340379987">
-        <mark key="d" line="8" column="35" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="12" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-heatmap/chart-heatmap.tsx" timestamp="1591339555444">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="^" line="120" column="29" />
-        <mark key="." line="75" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" timestamp="1591609286679">
-        <mark key="'" line="258" column="41" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-table/aggregation-title/aggregation-title-state/aggregation-title-state.tsx" timestamp="1591338691733">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="58" />
-        <mark key="." line="16" column="6" />
-        <mark key="^" line="16" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/OverviewPage/OverviewPage.tsx" timestamp="1591340967428">
-        <mark key="[" line="274" column="0" />
-        <mark key="]" line="274" column="79" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-block/overview-block.tsx" timestamp="1591340862288">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="9" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/package.json" timestamp="1591600449773" />
       <file name="/Dummy.txt" timestamp="1591630373954">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="44" />
@@ -186,15 +116,87 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1591630338211">
+        <mark key="^" line="46" column="28" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1591696100935">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/chart-heatmap/chart-heatmap.tsx" timestamp="1591339555444">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="120" column="29" />
+        <mark key="." line="75" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-page.tsx" timestamp="1591613742484">
         <mark key="[" line="328" column="23" />
         <mark key="]" line="328" column="24" />
         <mark key="." line="328" column="23" />
         <mark key="^" line="328" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" timestamp="1591609286679">
+        <mark key="'" line="258" column="41" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/tabs/tabs.module.scss" timestamp="1591339840471">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/elements/icon/error-icon.module.scss" timestamp="1591339354792">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-table/aggregation-title/aggregation-title-state/aggregation-title-state.tsx" timestamp="1591338691733">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="58" />
+        <mark key="." line="16" column="6" />
+        <mark key="^" line="16" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-block/overview-block.module.scss" timestamp="1591340679055">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="15" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/OverviewPage/card/OverviewCard.module.scss" timestamp="1591340531246">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/OverviewPage/OverviewPage.tsx" timestamp="1591340967428">
+        <mark key="[" line="274" column="0" />
+        <mark key="]" line="274" column="79" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.tsx" timestamp="1591602651800">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="0" column="145" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/scss/colors.scss" timestamp="1591339304261">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-block/overview-block.tsx" timestamp="1591340862288">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="9" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-page.module.scss" timestamp="1591340379987">
+        <mark key="d" line="8" column="35" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="12" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/OverviewPage/card/OverviewCard.tsx" timestamp="1591340719207">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="40" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/components/common/Dropdown/DropdownDefault.tsx" timestamp="1591339550737">
         <mark key="[" line="14" column="0" />
