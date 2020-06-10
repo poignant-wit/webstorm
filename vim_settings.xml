@@ -111,7 +111,11 @@
         <mark key="^" line="263" column="54" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/AuthStore.ts" timestamp="1591720858428" />
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/store/AuthStore.ts" timestamp="1591776256902">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" timestamp="1591609286679">
         <mark key="'" line="258" column="41" />
         <mark key="[" line="78" column="0" />
@@ -171,7 +175,7 @@
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1591630338211">
         <mark key="^" line="46" column="28" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1591767546713">
+      <file name="/GraphQL.result.json" timestamp="1591776182379">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-page.tsx" timestamp="1591613742484">
@@ -181,10 +185,7 @@
         <mark key="^" line="328" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/hooks/aggregations-hooks.ts" timestamp="1591710750151" />
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/OverviewPage/card/OverviewCard.module.scss" timestamp="1591340531246">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="57" column="0" />
-      </file>
+      <file name="/AuthStore.ts" timestamp="1591776247169" />
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-table/channels-table.module.scss" timestamp="1591710322301">
         <mark key="[" line="131" column="40" />
         <mark key="]" line="132" column="21" />
@@ -302,8 +303,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>eu</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBgJHt3aW5kb3cubG9jYXRpb24uaHJlZn1gLAo=</text>
       </register>
       <register name="-" type="4">
         <text>eu</text>
@@ -312,10 +313,10 @@
         <text encoding="base64">XDx1c2VRdWVyeVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UkVBQ1RfQVBQX0FOQUxZVElDU19BUElfV1NfSE9TVD13c3M6Ly9mZWF0LXBoeC5xYS5ldS5yZXN0cmVhbS5pbwo=</text>
+        <text encoding="base64">ICAgICAgICBgJHt3aW5kb3cubG9jYXRpb24ucGF0aG5hbWV9JHt3aW5kb3cubG9jYXRpb24uc2VhcmNofWAsCg==</text>
       </register>
       <register name="1" type="2">
-        <text>fix: chat trends</text>
+        <text encoding="base64">ICAgICAgICBgJHt3aW5kb3cubG9jYXRpb24uaHJlZn1gLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -324,25 +325,25 @@
         <text>fix: chat trends</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgU3Bpbm5lciB9IGZyb20gJ2NvbXBvbmVudHMvY29tbW9uJzsKLy8gaW1wb3J0IHsgU3Bpbm5lclR5cGUgfSBmcm9tICdjb21wb25lbnRzL2NvbW1vbi9TcGlubmVyJzsKLy8gaW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwovLyB0c2xpbnQ6ZGlzYWJsZS1uZXh0LWxpbmU6bWF4LWxpbmUtbGVuZ3RoCg==</text>
+        <text>fix: chat trends</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcGF0aE9yIH0gZnJvbSAncmFtZGEnOwo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgU3Bpbm5lciB9IGZyb20gJ2NvbXBvbmVudHMvY29tbW9uJzsKLy8gaW1wb3J0IHsgU3Bpbm5lclR5cGUgfSBmcm9tICdjb21wb25lbnRzL2NvbW1vbi9TcGlubmVyJzsKLy8gaW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwovLyB0c2xpbnQ6ZGlzYWJsZS1uZXh0LWxpbmU6bWF4LWxpbmUtbGVuZ3RoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgcGF0aE9yIH0gZnJvbSAncmFtZGEnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBAdHMtaWdub3JlCiAgLy8gY29uc3QgaGFuZGxlT25DaGFuZ2VTZWxlY3RlZCA9IChjaGFubmVscykgPT4gewogIC8vICAgc2V0U2VsZWN0ZWRDaGFubmVscyh7IC4uLnNlbGVjdGVkQ2hhbm5lbHMsIFtzZWxlY3RlZFRhYl06IGNoYW5uZWxzIH0pOwogIC8vIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgey8qPHRkPnthZ2dyZWdhdGlvbi5jaGF0dGVyc1RvcC51bmlxdWUuY291bnR9PC90ZD4qL30gey8qPHRkPntjaGF0dGVyc1VuaXF1ZUJ5SWQoYWdncmVnYXRpb24uaWQpfTwvdGQ+Ki99Cg==</text>
+        <text encoding="base64">ICAvLyBAdHMtaWdub3JlCiAgLy8gY29uc3QgaGFuZGxlT25DaGFuZ2VTZWxlY3RlZCA9IChjaGFubmVscykgPT4gewogIC8vICAgc2V0U2VsZWN0ZWRDaGFubmVscyh7IC4uLnNlbGVjdGVkQ2hhbm5lbHMsIFtzZWxlY3RlZFRhYl06IGNoYW5uZWxzIH0pOwogIC8vIH07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhhZ2dyZWdhdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgey8qPHRkPnthZ2dyZWdhdGlvbi5jaGF0dGVyc1RvcC51bmlxdWUuY291bnR9PC90ZD4qL30gey8qPHRkPntjaGF0dGVyc1VuaXF1ZUJ5SWQoYWdncmVnYXRpb24uaWQpfTwvdGQ+Ki99Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLnNlc3Npb25DaGFydENoYXR0ZXJzVG9wX2FnZ3JlZ2F0aW9ucwogICAgICAgICAgLi4uc2Vzc2lvbkNoYXRDb3VudGVyc19hZ2dyZWdhdGlvbnNDaGF0dGVycwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhhZ2dyZWdhdGlvbik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
