@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdWRpZW5jZVJhbmdlTGF5b3V0XD4=</entry>
         <entry encoding="base64">XDxBVURJRU5DRV9BR0dSRUdBVElPTlNfSEVBVE1BUF9RVUVSWVw+</entry>
         <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
         <entry encoding="base64">XDxsb2FkaW5nSGVhdG1hcFw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxhZ2dyZWdhdGlvbnNDaGF0dGVyc1w+</entry>
         <entry encoding="base64">XDxjaGF0dGVyc1VuaXF1ZUJ5SWRcPg==</entry>
         <entry encoding="base64">XDx1c2VRdWVyeVw+</entry>
+        <entry encoding="base64">XDxwdWdUZW1wbGF0ZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
@@ -104,82 +104,76 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/_own/_madox/front/src/sources/pug/includes/_header_transparent.pug" timestamp="1591850987932" />
-      <file name="$USER_HOME$/Documents/_own/_madox/front/src/sources/pug/pages/clients-page.pug" timestamp="1591857797799" />
-      <file name="$USER_HOME$/Documents/_own/_madox/front/src/sources/scss/custom/base/_variables.scss" timestamp="1591858632974">
-        <mark key="[" line="102" column="46" />
-        <mark key="]" line="102" column="46" />
-        <mark key="^" line="102" column="46" />
-        <mark key="." line="102" column="46" />
+      <file name="$USER_HOME$/Documents/_own/_madox/ukyo/src/pug/configs/_skeleton.pug" timestamp="1591867136351">
+        <mark key="[" line="48" column="20" />
+        <mark key="]" line="48" column="20" />
+        <mark key="^" line="48" column="27" />
+        <mark key="." line="48" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/_madox/front/package.json" timestamp="1591860955771">
-        <mark key="[" line="24" column="3" />
-        <mark key="]" line="35" column="3" />
-        <mark key="^" line="35" column="3" />
-        <mark key="." line="35" column="2" />
+      <file name="$USER_HOME$/Documents/_own/_madox/ukyo/src/js/core.min.js" timestamp="1591867008212">
+        <mark key="[" line="153" column="537" />
+        <mark key="]" line="153" column="544" />
+        <mark key="." line="153" column="544" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/_madox/front/src/sources/scss/fonts/_mdi.scss" timestamp="1591858733290" />
-      <file name="$USER_HOME$/Documents/_own/_madox/front/src/sources/pug/_config.pug" timestamp="1591851485607">
-        <mark key="[" line="27" column="34" />
-        <mark key="]" line="27" column="34" />
-        <mark key="^" line="27" column="35" />
-        <mark key="." line="27" column="34" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/.env.production" timestamp="1591868407064">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="64" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/_madox/front/src/pug/index.pug" timestamp="1591860453679">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="11" />
-        <mark key="^" line="1" column="11" />
-        <mark key="." line="1" column="10" />
+      <file name="$USER_HOME$/Documents/_own/_madox/ukyo/src/scss/app.scss" timestamp="1591867662857">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/_madox/front/src/sources/scss/custom/plugins/_lightgallery.scss" timestamp="1591859439304">
-        <mark key="[" line="1508" column="18" />
-        <mark key="]" line="1508" column="21" />
-        <mark key="." line="1508" column="20" />
-        <mark key="^" line="1508" column="21" />
+      <file name="$USER_HOME$/Documents/_own/_madox/ukyo/src/js/app.js" timestamp="1591866809496">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/_madox/front/src/sources/pug/_skeleton.pug" timestamp="1591858056086">
-        <mark key="[" line="23" column="55" />
-        <mark key="]" line="23" column="60" />
-        <mark key="^" line="23" column="60" />
-        <mark key="." line="23" column="59" />
+      <file name="$USER_HOME$/Documents/_own/_madox/ukyo/.gitignore" timestamp="1591867713428">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="5" />
+        <mark key="^" line="177" column="5" />
+        <mark key="." line="177" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/_madox/front/src/sources/pug/_functions.pug" timestamp="1591857905701" />
-      <file name="$USER_HOME$/Documents/_own/_madox/front/src/sources/scss/custom/helpers/_helpers.scss" timestamp="1591858402063">
-        <mark key="[" line="297" column="26" />
-        <mark key="]" line="297" column="37" />
-        <mark key="." line="297" column="36" />
-        <mark key="^" line="297" column="37" />
+      <file name="$USER_HOME$/Documents/_own/_madox/ukyo/webpack/webpack.common.js" timestamp="1591867114106">
+        <mark key="'" line="16" column="41" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/_madox/front/src/sources/pug/_mixins.pug" timestamp="1591851573598">
-        <mark key="[" line="89" column="19" />
-        <mark key="]" line="89" column="20" />
-        <mark key="." line="89" column="19" />
-        <mark key="^" line="89" column="20" />
+      <file name="/GraphQL.result.json" timestamp="1591868391342">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/_madox/front/src/sources/scss/fonts/_font-awesome.scss" timestamp="1591860102752">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="7" column="335" />
-        <mark key="^" line="7" column="335" />
-        <mark key="." line="7" column="334" />
+      <file name="$USER_HOME$/Documents/_own/_madox/ukyo/src/pug/includes/_header_transparent.pug" timestamp="1591866764463" />
+      <file name="$USER_HOME$/Documents/_own/_madox/ukyo/public/index.html" timestamp="1591867613177">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/_madox/front/src/sources/pug/includes/_main-content.pug" timestamp="1591850994164" />
-      <file name="$USER_HOME$/Documents/_own/_madox/front/src/sources/pug/includes/_header_centered.pug" timestamp="1591859111209">
-        <mark key="[" line="21" column="45" />
-        <mark key="]" line="21" column="57" />
-        <mark key="^" line="21" column="57" />
-        <mark key="." line="21" column="56" />
+      <file name="$USER_HOME$/Documents/_own/_madox/ukyo/package.json" timestamp="1591867763488">
+        <mark key="[" line="13" column="33" />
+        <mark key="]" line="13" column="33" />
+        <mark key="." line="13" column="33" />
+        <mark key="^" line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/_madox/front/src/sources/scss/fonts/_glyphicons.scss" timestamp="1591859143369" />
-      <file name="$USER_HOME$/Documents/_own/_madox/front/src/sources/pug/includes/_header_default.pug" timestamp="1591858468482">
-        <mark key="[" line="23" column="45" />
-        <mark key="]" line="23" column="57" />
-        <mark key="^" line="23" column="57" />
-        <mark key="." line="23" column="56" />
+      <file name="$USER_HOME$/Documents/_own/_madox/ukyo/src/js/script.js" timestamp="1591866533478" />
+      <file name="$USER_HOME$/Documents/_own/_madox/ukyo/src/pug/configs/_config.pug" timestamp="1591868186705">
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="18" column="25" />
+        <mark key="^" line="19" column="31" />
       </file>
+      <file name="/Dummy.txt" timestamp="1591868477571">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/_own/_madox/ukyo/src/pug/includes/_header_default.pug" timestamp="1591866568086" />
     </filemarks>
     <jumps>
-      <jump line="205" column="42" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
-      <jump line="147" column="5" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
       <jump line="152" column="14" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
       <jump line="27" column="27" filename="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" />
       <jump line="90" column="24" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
@@ -278,51 +272,57 @@
       <jump line="21" column="9" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
       <jump line="332" column="29" filename="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-table/channels-table.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/_own/_madox/front/src/index.pug" />
+      <jump line="14" column="6" filename="$USER_HOME$/Documents/_own/_madox/ukyo/webpack/webpack.common.js" />
+      <jump line="16" column="41" filename="$USER_HOME$/Documents/_own/_madox/ukyo/webpack/webpack.common.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text>Revert &quot;fix: remove debug&quot;
+
+This reverts commit a3755510</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>home</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VRdWVyeVw+</text>
+        <text encoding="base64">XDxwdWdUZW1wbGF0ZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlsaW5rKCByZWw9J3N0eWxlc2hlZXQnLCBocmVmPScuLi8uLi9zY3NzL2N1c3RvbS9zdHlsZS5zY3NzJyApCg==</text>
+        <text encoding="base64">UkVBQ1RfQVBQX0FOQUxZVElDU19BUElfV1NfSE9TVD13c3M6Ly9mZWF0LXBoeC5xYS5ldS5yZXN0cmVhbS5pbwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ago=</text>
+        <text>Revert &quot;fix: remove debug&quot;
+
+This reverts commit a3755510</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSJpbmRleC5jc3MiCg==</text>
+        <text encoding="base64">CQkJCQl7IHRpdGxlOiAnRm9ybXMnfSwKCQkJCQl7IHRpdGxlOiAnQnV0dG9ucyd9LAoJCQkJCXsgdGl0bGU6ICdHcmlkJ30sCgkJCQkJeyB0aXRsZTogJ0ljb25zJ30sCgkJCQkJeyB0aXRsZTogJ1RhYmxlcyd9LAoJCQkJCXsgdGl0bGU6ICdQcm9ncmVzcyBCYXJzJ30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJwYXJjZWwgYnVpbGQgPHlvdXIgZW50cnkgZmlsZT4iCg==</text>
+        <text>fix: ini</text>
       </register>
       <register name="4" type="2">
-        <text>fix: chat trends channels table</text>
+        <text encoding="base64">ICAia2V5d29yZHMiOiBbCiAgICAid2VicGFjayA0IiwKICAgICJib2lsZXJwbGF0ZSIsCiAgICAic2NzcyIsCiAgICAicHVnIiwKICAgICJiYWJlbCIKICBdLAo=</text>
       </register>
       <register name="5" type="2">
-        <text>feat: dialog warning callout video size</text>
+        <text encoding="base64">Ym9keSB7CiAgLy9iYWNrZ3JvdW5kLWNvbG9yOiAkcHJpbWFyeTsKICBiYWNrZ3JvdW5kOiBibHVlOwp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBgJHt3aW5kb3cubG9jYXRpb24uaHJlZn1gLAo=</text>
+        <text encoding="base64">ICAgICAgJ2pxdWVyeScK</text>
       </register>
       <register name="7" type="2">
-        <text>fix: chat trends</text>
+        <text encoding="base64">ICAgICAgcGF0aC5qb2luKHBhdGhzLmRpclNyY0pzLCAnY29yZS5taW4nKSwKICAgICAgcGF0aC5qb2luKHBhdGhzLmRpclNyY0pzLCAnc2NyaXB0JyksCg==</text>
       </register>
       <register name="8" type="2">
-        <text>fix: chat trends</text>
+        <text encoding="base64">Ly8gaW1wb3J0ICdqcXVlcnknOwovLyBpbXBvcnQgJy4vY29yZS5taW4uanMnOwovLyBpbXBvcnQgJy4vc2NyaXB0JzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgU3Bpbm5lciB9IGZyb20gJ2NvbXBvbmVudHMvY29tbW9uJzsKLy8gaW1wb3J0IHsgU3Bpbm5lclR5cGUgfSBmcm9tICdjb21wb25lbnRzL2NvbW1vbi9TcGlubmVyJzsKLy8gaW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwovLyB0c2xpbnQ6ZGlzYWJsZS1uZXh0LWxpbmU6bWF4LWxpbmUtbGVuZ3RoCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ0hpLCBteSBuYW1lIGlzIFVreW8hJyk7IC8vIGVzbGludC1kaXNhYmxlLWxpbmUgbm8tY29uc29sZQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -331,9 +331,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx1c2VRdWVyeVw+</last-search>
+      <last-search encoding="base64">XDxwdWdUZW1wbGF0ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VRdWVyeVw+</last-pattern>
+      <last-pattern encoding="base64">XDxwdWdUZW1wbGF0ZXNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1c2VTZWxlY3RlZEFnZ3JlZ2F0aW9uSWRzXD4=</last-substitute>
       <last-dir>1</last-dir>
