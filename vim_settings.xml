@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
         <entry encoding="base64">XDxsb2FkaW5nSGVhdG1hcFw+</entry>
         <entry encoding="base64">XDxsb2FkaW5nSW5pdGlhbEhlYXRtYXBcPg==</entry>
         <entry encoding="base64">XDxzZWxlY3RlZEFnZ3JlZ2F0aW9uc1w+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDx1c2VRdWVyeVw+</entry>
         <entry encoding="base64">XDxwdWdUZW1wbGF0ZXNcPg==</entry>
         <entry encoding="base64">XDxlbW9qaXNcPg==</entry>
+        <entry encoding="base64">XDxBbmFseXRpY3NDaGF0VHJlbmRzRGF0YVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
@@ -104,6 +104,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/analytics/store/AnalyticsStore.ts" timestamp="1592245050495">
+        <mark key="'" line="55" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/_own/_madox/ukyo/src/pug/index.pug" timestamp="1591880857057">
         <mark key="[" line="10" column="61" />
         <mark key="]" line="10" column="61" />
@@ -189,13 +192,6 @@
         <mark key="^" line="39" column="59" />
         <mark key="." line="39" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/_own/_madox/ukyo/src/scss/custom/plugins/_rd-navbar.scss" timestamp="1591879674992">
-        <mark key="'" line="1244" column="0" />
-        <mark key="[" line="235" column="10" />
-        <mark key="]" line="235" column="12" />
-        <mark key="^" line="235" column="12" />
-        <mark key="." line="235" column="11" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/OverviewPage/OverviewPageViewModel.ts" timestamp="1592218392904">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -216,8 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="20" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
-      <jump line="2" column="22" filename="$USER_HOME$/Documents/analytics-frontend/src/next/hooks/useAggregationsProgress.ts" />
       <jump line="23" column="4" filename="$USER_HOME$/Documents/analytics-frontend/src/next/hooks/aggregationsHooks.ts" />
       <jump line="278" column="21" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
       <jump line="311" column="23" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" />
@@ -316,6 +310,8 @@
       <jump line="48" column="25" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview-chatters/chat-overview-chatters.tsx" />
       <jump line="68" column="9" filename="$USER_HOME$/Documents/analytics-frontend/src/pages/OverviewPage/OverviewPageViewModel.ts" />
       <jump line="43" column="9" filename="$USER_HOME$/Documents/analytics-frontend/src/pages/OverviewPage/OverviewPageViewModel.ts" />
+      <jump line="17" column="2" filename="$USER_HOME$/Documents/analytics-frontend/src/analytics/store/AnalyticsStore.ts" />
+      <jump line="55" column="28" filename="$USER_HOME$/Documents/analytics-frontend/src/analytics/store/AnalyticsStore.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,7 +323,7 @@
         <text>export</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbW9qaXNcPg==</text>
+        <text encoding="base64">XDxBbmFseXRpY3NDaGF0VHJlbmRzRGF0YVw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PHNlY3Rpb24gY2xhc3M9InNlY3Rpb24gc2VjdGlvbi1zbSB0ZXh0LWNlbnRlciBzZWN0aW9uLWJvcmRlciI+CiAgICAgICAgPGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICAgICAgICAgIDxoMSBjbGFzcz0iZm9udC13ZWlnaHQtYm9sZCI+T3VyIEZhbnRhc3RpYyBUZWFtPC9oMT4KICAgICAgICAgIDxwIGNsYXNzPSJsZWFkIj5IaWdobHkgZXhwZXJpZW5jZWQgcHJvZmVzc2lvbmFscyBpbiB3ZWIgZGVzaWduLjwvcD4KICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyByb3ctNTAiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtNiBjb2wtbGctMyI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idGh1bWJuYWlsIHRodW1ibmFpbC0zIj48aW1nIHNyYz0iaW1hZ2VzL2Fib3V0X2ltZzEuanBnIiBhbHQ9IiIvPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2FwdGlvbiBtYXJnaW4tMSI+CiAgICAgICAgICAgICAgICAgIDxoNj48YSBocmVmPSJ0ZWFtLW1lbWJlci1wcm9maWxlLmh0bWwiPkplbm5pZmVyIFJvZ2VyczwvYT48L2g2PgogICAgICAgICAgICAgICAgICA8cCBjbGFzcz0ic21hbGwgdGV4dC1saWdodC1jbHIgdGV4dC11cHBlcmNhc2UiPndlYi1kZXNpZ25lcjwvcD4KICAgICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJsaXN0LWlubGluZSBsaXN0LWlubGluZSBsaXN0LWlubGluZS0zIj4KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgY2xhc3M9Imljb24gZmEtZmFjZWJvb2stc3F1YXJlIGljb24teHhzIiBocmVmPSIjIj48L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgY2xhc3M9Imljb24gZmEtdHdpdHRlci1zcXVhcmUgaWNvbi14eHMiIGhyZWY9IiMiPjwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgIDxsaT48YSBjbGFzcz0iaWNvbiBmYS1nb29nbGUtcGx1cy1zcXVhcmUgaWNvbi14eHMiIGhyZWY9IiMiPjwvYT48L2xpPgogICAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtNiBjb2wtbGctMyI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idGh1bWJuYWlsIHRodW1ibmFpbC0zIj48aW1nIHNyYz0iaW1hZ2VzL2Fib3V0X2ltZzIuanBnIiBhbHQ9IiIvPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2FwdGlvbiBtYXJnaW4tMSI+CiAgICAgICAgICAgICAgICAgIDxoNj48YSBocmVmPSJ0ZWFtLW1lbWJlci1wcm9maWxlLmh0bWwiPkthdGhyeW4gSG9sbWVzPC9hPjwvaDY+CiAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJzbWFsbCB0ZXh0LWxpZ2h0LWNsciB0ZXh0LXVwcGVyY2FzZSI+d2ViLWRlc2lnbmVyPC9wPgogICAgICAgICAgICAgICAgICA8dWwgY2xhc3M9Imxpc3QtaW5saW5lIGxpc3QtaW5saW5lIGxpc3QtaW5saW5lLTMiPgogICAgICAgICAgICAgICAgICAgIDxsaT48YSBjbGFzcz0iaWNvbiBmYS1mYWNlYm9vay1zcXVhcmUgaWNvbi14eHMiIGhyZWY9IiMiPjwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgIDxsaT48YSBjbGFzcz0iaWNvbiBmYS10d2l0dGVyLXNxdWFyZSBpY29uLXh4cyIgaHJlZj0iIyI+PC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGNsYXNzPSJpY29uIGZhLWdvb2dsZS1wbHVzLXNxdWFyZSBpY29uLXh4cyIgaHJlZj0iIyI+PC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC02IGNvbC1sZy0zIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0aHVtYm5haWwgdGh1bWJuYWlsLTMiPjxpbWcgc3JjPSJpbWFnZXMvYWJvdXRfaW1nMy5qcGciIGFsdD0iIi8+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjYXB0aW9uIG1hcmdpbi0xIj4KICAgICAgICAgICAgICAgICAgPGg2PjxhIGhyZWY9InRlYW0tbWVtYmVyLXByb2ZpbGUuaHRtbCI+R3JlZ29yeSBIYXllczwvYT48L2g2PgogICAgICAgICAgICAgICAgICA8cCBjbGFzcz0ic21hbGwgdGV4dC1saWdodC1jbHIgdGV4dC11cHBlcmNhc2UiPndlYi1kZXNpZ25lcjwvcD4KICAgICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJsaXN0LWlubGluZSBsaXN0LWlubGluZSBsaXN0LWlubGluZS0zIj4KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgY2xhc3M9Imljb24gZmEtZmFjZWJvb2stc3F1YXJlIGljb24teHhzIiBocmVmPSIjIj48L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgY2xhc3M9Imljb24gZmEtdHdpdHRlci1zcXVhcmUgaWNvbi14eHMiIGhyZWY9IiMiPjwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgIDxsaT48YSBjbGFzcz0iaWNvbiBmYS1nb29nbGUtcGx1cy1zcXVhcmUgaWNvbi14eHMiIGhyZWY9IiMiPjwvYT48L2xpPgogICAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtNiBjb2wtbGctMyI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idGh1bWJuYWlsIHRodW1ibmFpbC0zIj48aW1nIHNyYz0iaW1hZ2VzL2Fib3V0X2ltZzQuanBnIiBhbHQ9IiIvPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2FwdGlvbiBtYXJnaW4tMSI+CiAgICAgICAgICAgICAgICAgIDxoNj48YSBocmVmPSJ0ZWFtLW1lbWJlci1wcm9maWxlLmh0bWwiPlJpY2hhcmQgUGF0dGVyc29uPC9hPjwvaDY+CiAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJzbWFsbCB0ZXh0LWxpZ2h0LWNsciB0ZXh0LXVwcGVyY2FzZSI+d2ViLWRlc2lnbmVyPC9wPgogICAgICAgICAgICAgICAgICA8dWwgY2xhc3M9Imxpc3QtaW5saW5lIGxpc3QtaW5saW5lIGxpc3QtaW5saW5lLTMiPgogICAgICAgICAgICAgICAgICAgIDxsaT48YSBjbGFzcz0iaWNvbiBmYS1mYWNlYm9vay1zcXVhcmUgaWNvbi14eHMiIGhyZWY9IiMiPjwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgIDxsaT48YSBjbGFzcz0iaWNvbiBmYS10d2l0dGVyLXNxdWFyZSBpY29uLXh4cyIgaHJlZj0iIyI+PC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGNsYXNzPSJpY29uIGZhLWdvb2dsZS1wbHVzLXNxdWFyZSBpY29uLXh4cyIgaHJlZj0iIyI+PC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9zZWN0aW9uPg==</text>
@@ -369,9 +365,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxlbW9qaXNcPg==</last-search>
+      <last-search encoding="base64">XDxBbmFseXRpY3NDaGF0VHJlbmRzRGF0YVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbW9qaXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxBbmFseXRpY3NDaGF0VHJlbmRzRGF0YVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1c2VTZWxlY3RlZEFnZ3JlZ2F0aW9uSWRzXD4=</last-substitute>
       <last-dir>1</last-dir>
