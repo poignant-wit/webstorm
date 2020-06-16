@@ -1,5 +1,5 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="TsLintFileFixAction">
+  <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
 </keymap>
