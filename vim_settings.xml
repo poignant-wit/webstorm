@@ -104,17 +104,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/AppViewModel.ts" timestamp="1592320631137">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/AppViewModel.ts" timestamp="1592322108166">
         <mark key="[" line="47" column="32" />
         <mark key="]" line="47" column="43" />
         <mark key="^" line="47" column="43" />
         <mark key="." line="47" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/.prettierrc" timestamp="1592313817945">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="13" />
-        <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/reporters/analytics/types.ts" timestamp="1592314978445">
         <mark key="[" line="1" column="49" />
@@ -128,20 +122,17 @@
         <mark key="." line="3" column="50" />
         <mark key="^" line="3" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/components/Menu/Menu.tsx" timestamp="1592318671030">
-        <mark key="[" line="79" column="67" />
-        <mark key="]" line="79" column="72" />
-        <mark key="^" line="79" column="72" />
-        <mark key="." line="79" column="71" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/components/Menu/Menu.tsx" timestamp="1592323004022">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="24" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/containers/chartConfigs/timeHeatChartConfig.ts" timestamp="1592314388439">
         <mark key="[" line="46" column="40" />
         <mark key="]" line="46" column="43" />
         <mark key="." line="46" column="42" />
         <mark key="^" line="46" column="43" />
-      </file>
-      <file name="/GraphQL.variables.json" timestamp="1592313521600">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/store/users/Users.ts" timestamp="1592315570951">
         <mark key="[" line="0" column="9" />
@@ -171,11 +162,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" timestamp="1592320002679">
-        <mark key="[" line="168" column="14" />
-        <mark key="]" line="168" column="28" />
-        <mark key="." line="168" column="27" />
-        <mark key="^" line="168" column="28" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" timestamp="1592323472227">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="^" line="176" column="36" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1592315694023">
         <mark key="[" line="0" column="0" />
@@ -183,11 +174,23 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1592321738212">
+        <mark key="[" line="109" column="19" />
+        <mark key="]" line="109" column="33" />
+        <mark key="^" line="109" column="33" />
+        <mark key="." line="109" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/store/channels/ChannelModel.ts" timestamp="1592314894257">
         <mark key="[" line="37" column="18" />
         <mark key="]" line="37" column="32" />
         <mark key="." line="37" column="31" />
         <mark key="^" line="37" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/hooks/useUrlSearchDates.ts" timestamp="1592321419734">
+        <mark key="[" line="23" column="17" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="19" />
+        <mark key="^" line="23" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-page.tsx" timestamp="1592319029413">
         <mark key="[" line="231" column="19" />
@@ -209,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/session-viewers-counters.tsx" />
       <jump line="170" column="41" filename="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" />
       <jump line="14" column="9" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-page.tsx" />
       <jump line="79" column="34" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-page.tsx" />
@@ -309,51 +311,52 @@
       <jump line="81" column="9" filename="$USER_HOME$/Documents/analytics-frontend/src/api/restream/analytics.ts" />
       <jump line="82" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/api/restream/analytics.ts" />
       <jump line="60" column="15" filename="$USER_HOME$/Documents/analytics-frontend/src/api/restream/analytics.ts" />
+      <jump line="182" column="23" filename="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>chore: add eslint</text>
+        <text encoding="base64">ICAgICAgey8qPExheW91dCovfQogICAgICB7LyogIHVzZXJFbWFpbD17dm0udXNlckVtYWlsfSovfQogICAgICB7LyogIGN1cnJlbnRQcm9kdWN0PXtQcm9kdWN0RG9tYWlucy5BTkFMWVRJQ1N9Ki99CiAgICAgIHsvKiAgaGlzdG9yeT17aGlzdG9yeX0qL30KICAgICAgey8qICBhcGlIb3N0PXtjb25maWcuUkVBQ1RfQVBQX1JFU1RSRUFNX1dFQl9IT1NUfSovfQogICAgICB7Lyo+Ki99CiAgICAgIHsvKiAgPGRpdiBjbGFzc05hbWU9Im92ZXJsYXkiIC8+Ki99Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>about</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWRpZW5jZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PHNlY3Rpb24gY2xhc3M9InNlY3Rpb24gc2VjdGlvbi1zbSB0ZXh0LWNlbnRlciBzZWN0aW9uLWJvcmRlciI+CiAgICAgICAgPGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICAgICAgICAgIDxoMSBjbGFzcz0iZm9udC13ZWlnaHQtYm9sZCI+T3VyIEZhbnRhc3RpYyBUZWFtPC9oMT4KICAgICAgICAgIDxwIGNsYXNzPSJsZWFkIj5IaWdobHkgZXhwZXJpZW5jZWQgcHJvZmVzc2lvbmFscyBpbiB3ZWIgZGVzaWduLjwvcD4KICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyByb3ctNTAiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtNiBjb2wtbGctMyI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idGh1bWJuYWlsIHRodW1ibmFpbC0zIj48aW1nIHNyYz0iaW1hZ2VzL2Fib3V0X2ltZzEuanBnIiBhbHQ9IiIvPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2FwdGlvbiBtYXJnaW4tMSI+CiAgICAgICAgICAgICAgICAgIDxoNj48YSBocmVmPSJ0ZWFtLW1lbWJlci1wcm9maWxlLmh0bWwiPkplbm5pZmVyIFJvZ2VyczwvYT48L2g2PgogICAgICAgICAgICAgICAgICA8cCBjbGFzcz0ic21hbGwgdGV4dC1saWdodC1jbHIgdGV4dC11cHBlcmNhc2UiPndlYi1kZXNpZ25lcjwvcD4KICAgICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJsaXN0LWlubGluZSBsaXN0LWlubGluZSBsaXN0LWlubGluZS0zIj4KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgY2xhc3M9Imljb24gZmEtZmFjZWJvb2stc3F1YXJlIGljb24teHhzIiBocmVmPSIjIj48L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgY2xhc3M9Imljb24gZmEtdHdpdHRlci1zcXVhcmUgaWNvbi14eHMiIGhyZWY9IiMiPjwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgIDxsaT48YSBjbGFzcz0iaWNvbiBmYS1nb29nbGUtcGx1cy1zcXVhcmUgaWNvbi14eHMiIGhyZWY9IiMiPjwvYT48L2xpPgogICAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtNiBjb2wtbGctMyI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idGh1bWJuYWlsIHRodW1ibmFpbC0zIj48aW1nIHNyYz0iaW1hZ2VzL2Fib3V0X2ltZzIuanBnIiBhbHQ9IiIvPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2FwdGlvbiBtYXJnaW4tMSI+CiAgICAgICAgICAgICAgICAgIDxoNj48YSBocmVmPSJ0ZWFtLW1lbWJlci1wcm9maWxlLmh0bWwiPkthdGhyeW4gSG9sbWVzPC9hPjwvaDY+CiAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJzbWFsbCB0ZXh0LWxpZ2h0LWNsciB0ZXh0LXVwcGVyY2FzZSI+d2ViLWRlc2lnbmVyPC9wPgogICAgICAgICAgICAgICAgICA8dWwgY2xhc3M9Imxpc3QtaW5saW5lIGxpc3QtaW5saW5lIGxpc3QtaW5saW5lLTMiPgogICAgICAgICAgICAgICAgICAgIDxsaT48YSBjbGFzcz0iaWNvbiBmYS1mYWNlYm9vay1zcXVhcmUgaWNvbi14eHMiIGhyZWY9IiMiPjwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgIDxsaT48YSBjbGFzcz0iaWNvbiBmYS10d2l0dGVyLXNxdWFyZSBpY29uLXh4cyIgaHJlZj0iIyI+PC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGNsYXNzPSJpY29uIGZhLWdvb2dsZS1wbHVzLXNxdWFyZSBpY29uLXh4cyIgaHJlZj0iIyI+PC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC02IGNvbC1sZy0zIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0aHVtYm5haWwgdGh1bWJuYWlsLTMiPjxpbWcgc3JjPSJpbWFnZXMvYWJvdXRfaW1nMy5qcGciIGFsdD0iIi8+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjYXB0aW9uIG1hcmdpbi0xIj4KICAgICAgICAgICAgICAgICAgPGg2PjxhIGhyZWY9InRlYW0tbWVtYmVyLXByb2ZpbGUuaHRtbCI+R3JlZ29yeSBIYXllczwvYT48L2g2PgogICAgICAgICAgICAgICAgICA8cCBjbGFzcz0ic21hbGwgdGV4dC1saWdodC1jbHIgdGV4dC11cHBlcmNhc2UiPndlYi1kZXNpZ25lcjwvcD4KICAgICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJsaXN0LWlubGluZSBsaXN0LWlubGluZSBsaXN0LWlubGluZS0zIj4KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgY2xhc3M9Imljb24gZmEtZmFjZWJvb2stc3F1YXJlIGljb24teHhzIiBocmVmPSIjIj48L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICA8bGk+PGEgY2xhc3M9Imljb24gZmEtdHdpdHRlci1zcXVhcmUgaWNvbi14eHMiIGhyZWY9IiMiPjwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgIDxsaT48YSBjbGFzcz0iaWNvbiBmYS1nb29nbGUtcGx1cy1zcXVhcmUgaWNvbi14eHMiIGhyZWY9IiMiPjwvYT48L2xpPgogICAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtNiBjb2wtbGctMyI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idGh1bWJuYWlsIHRodW1ibmFpbC0zIj48aW1nIHNyYz0iaW1hZ2VzL2Fib3V0X2ltZzQuanBnIiBhbHQ9IiIvPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2FwdGlvbiBtYXJnaW4tMSI+CiAgICAgICAgICAgICAgICAgIDxoNj48YSBocmVmPSJ0ZWFtLW1lbWJlci1wcm9maWxlLmh0bWwiPlJpY2hhcmQgUGF0dGVyc29uPC9hPjwvaDY+CiAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJzbWFsbCB0ZXh0LWxpZ2h0LWNsciB0ZXh0LXVwcGVyY2FzZSI+d2ViLWRlc2lnbmVyPC9wPgogICAgICAgICAgICAgICAgICA8dWwgY2xhc3M9Imxpc3QtaW5saW5lIGxpc3QtaW5saW5lIGxpc3QtaW5saW5lLTMiPgogICAgICAgICAgICAgICAgICAgIDxsaT48YSBjbGFzcz0iaWNvbiBmYS1mYWNlYm9vay1zcXVhcmUgaWNvbi14eHMiIGhyZWY9IiMiPjwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgIDxsaT48YSBjbGFzcz0iaWNvbiBmYS10d2l0dGVyLXNxdWFyZSBpY29uLXh4cyIgaHJlZj0iIyI+PC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGNsYXNzPSJpY29uIGZhLWdvb2dsZS1wbHVzLXNxdWFyZSBpY29uLXh4cyIgaHJlZj0iIyI+PC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9zZWN0aW9uPg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2PjQzNDM8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text>chore: add eslint</text>
+        <text encoding="base64">ICAgICAgey8qPExheW91dCovfQogICAgICB7LyogIHVzZXJFbWFpbD17dm0udXNlckVtYWlsfSovfQogICAgICB7LyogIGN1cnJlbnRQcm9kdWN0PXtQcm9kdWN0RG9tYWlucy5BTkFMWVRJQ1N9Ki99CiAgICAgIHsvKiAgaGlzdG9yeT17aGlzdG9yeX0qL30KICAgICAgey8qICBhcGlIb3N0PXtjb25maWcuUkVBQ1RfQVBQX1JFU1RSRUFNX1dFQl9IT1NUfSovfQogICAgICB7Lyo+Ki99CiAgICAgIHsvKiAgPGRpdiBjbGFzc05hbWU9Im92ZXJsYXkiIC8+Ki99Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkaXNzb2MoJ21ldHJpY3MnLCBwYXJhbXMpIGFzIElBbmFseXRpY3NTdHJlYW1zUGFyYW1zOwo=</text>
+        <text encoding="base64">ICAgIDxSZWxheUVudmlyb25tZW50UHJvdmlkZXIgZW52aXJvbm1lbnQ9e2Vudmlyb25tZW50fT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAuYWN0aW9ucygoc2VsZikgPT4gKHsKICB9KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8U3VzcGVuc2UgZmFsbGJhY2s9ezxMb2FkZXJWaWV3IC8+fT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvYWQ6IGZsb3coZnVuY3Rpb24qICgpIHsKICAgICAgeWllbGQgMTA7CiAgICB9KSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L1N1c3BlbnNlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlQ29tcHV0ZWQgfSBmcm9tICdtb2J4LXJlYWN0LWxpdGUnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxFcnJvckJvdW5kYXJ5Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text>chore: remove unused deps</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8U3VzcGVuc2UgZmFsbGJhY2s9ezxMb2FkZXJWaWV3IC8+fT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBnZXRTbmFwc2hvdCwK</text>
+        <text encoding="base64">ICAgICAgey8qPExheW91dCovfQogICAgICB7LyogIHVzZXJFbWFpbD17dm0udXNlckVtYWlsfSovfQogICAgICB7LyogIGN1cnJlbnRQcm9kdWN0PXtQcm9kdWN0RG9tYWlucy5BTkFMWVRJQ1N9Ki99CiAgICAgIHsvKiAgaGlzdG9yeT17aGlzdG9yeX0qL30KICAgICAgey8qICBhcGlIb3N0PXtjb25maWcuUkVBQ1RfQVBQX1JFU1RSRUFNX1dFQl9IT1NUfSovfQogICAgICB7Lyo+Ki99CiAgICAgIHsvKiAgPGRpdiBjbGFzc05hbWU9Im92ZXJsYXkiIC8+Ki99Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">ICAgIDxSZWxheUVudmlyb25tZW50UHJvdmlkZXIgZW52aXJvbm1lbnQ9e2Vudmlyb25tZW50fT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPE1lbnU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
