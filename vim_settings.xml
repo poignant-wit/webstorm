@@ -104,12 +104,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/analytics/store/AnalyticsStore.ts" timestamp="1592314539342">
-        <mark key="[" line="72" column="34" />
-        <mark key="]" line="72" column="34" />
-        <mark key="." line="72" column="34" />
-        <mark key="^" line="72" column="35" />
-      </file>
       <file name="/Dummy.txt" timestamp="1592315694023">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
@@ -155,11 +149,11 @@
         <mark key="^" line="231" column="33" />
         <mark key="." line="231" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/hooks/useStreamsStore.ts" timestamp="1592315627775">
-        <mark key="[" line="13" column="3" />
-        <mark key="]" line="13" column="12" />
-        <mark key="." line="13" column="11" />
-        <mark key="^" line="13" column="12" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/hooks/useStreamsStore.ts" timestamp="1592378265792">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="46" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/store/base/makeCollectionStore.ts" timestamp="1592315033463">
         <mark key="[" line="3" column="0" />
@@ -172,17 +166,12 @@
         <mark key="]" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/StreamsPage/StreamsPage.tsx" timestamp="1592378232430" />
       <file name="$USER_HOME$/Documents/analytics-frontend/src/reporters/analytics/types.ts" timestamp="1592314978445">
         <mark key="[" line="1" column="49" />
         <mark key="]" line="1" column="66" />
         <mark key="." line="1" column="65" />
         <mark key="^" line="1" column="66" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/containers/chartConfigs/timeHeatChartConfig.ts" timestamp="1592314388439">
-        <mark key="[" line="46" column="40" />
-        <mark key="]" line="46" column="43" />
-        <mark key="." line="46" column="42" />
-        <mark key="^" line="46" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/store/configureStore.ts" timestamp="1592377055235">
         <mark key="[" line="2" column="0" />
@@ -205,17 +194,17 @@
         <mark key="." line="7" column="50" />
         <mark key="^" line="7" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/containers/ChartContainer.tsx" timestamp="1592377999533">
+        <mark key="[" line="77" column="13" />
+        <mark key="]" line="77" column="15" />
+        <mark key="." line="77" column="14" />
+        <mark key="^" line="77" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/main.tsx" timestamp="1592377076411">
         <mark key="[" line="26" column="26" />
         <mark key="]" line="27" column="2" />
         <mark key="." line="27" column="1" />
         <mark key="^" line="27" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/.eslintrc.js" timestamp="1592314300554">
-        <mark key="[" line="17" column="51" />
-        <mark key="]" line="17" column="55" />
-        <mark key="." line="17" column="54" />
-        <mark key="^" line="17" column="55" />
       </file>
     </filemarks>
     <jumps>
@@ -324,10 +313,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgaGlzdG9yeSA9IGNyZWF0ZUJyb3dzZXJIaXN0b3J5KCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0cmVhbXNEYXRhKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>useEffect</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWRpZW5jZVw+</text>
@@ -336,34 +325,34 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IGhpc3RvcnkgPSBjcmVhdGVCcm93c2VySGlzdG9yeSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgaGlzdG9yeSA9IGNyZWF0ZUJyb3dzZXJIaXN0b3J5KCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0cmVhbXNEYXRhKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaGlzdG9yeSB9IGZyb20gJ3N0b3JlL2NvbmZpZ3VyZVN0b3JlJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC9Sb3V0ZXI+Cgo8L1JvdXRlcj4K</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGRhdGFNYXBwZXJbc3RhdGlzdGljc1R5cGVdKHJhd0RhdGEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L1JvdXRlcj4K</text>
+        <text encoding="base64">ICAgICAgcmF3RGEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8Um91dGVyIGhpc3Rvcnk9e2hpc3Rvcnl9Pgo=</text>
+        <text encoding="base64">ICAgICAgaWYgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxBbmFseXRpY3NSZXBvcnRlckNvbnRleHQuUHJvdmlkZXIgdmFsdWU9e2FuYWx5dGljc1JlcG9ydGVyfT4KICAgICAgPFByb3ZpZGVyc0NvbnRleHQuUHJvdmlkZXIKICAgICAgICB2YWx1ZT17ewogICAgICAgICAgYW5hbHl0aWNzSHR0cFByb3ZpZGVyLAogICAgICAgICAgYXBpSHR0cFByb3ZpZGVyLAogICAgICAgICAgY29va2llc1Byb3ZpZGVyLAogICAgICAgICAgc2Vzc2lvblN0b3JhZ2VQcm92aWRlciwKICAgICAgICB9fQogICAgICA+CiAgICAgICAgPFJvb3RTdG9yZUNvbnRleHQuUHJvdmlkZXIgdmFsdWU9e3N0b3JlfT4K</text>
+        <text encoding="base64">Y29uc3QgaGlzdG9yeSA9IGNyZWF0ZUJyb3dzZXJIaXN0b3J5KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L1Jvb3RTdG9yZUNvbnRleHQuUHJvdmlkZXI+CiAgICAgIDwvUHJvdmlkZXJzQ29udGV4dC5Qcm92aWRlcj4KICAgIDwvQW5hbHl0aWNzUmVwb3J0ZXJDb250ZXh0LlByb3ZpZGVyPiwK</text>
+        <text encoding="base64">aW1wb3J0IHsgaGlzdG9yeSB9IGZyb20gJ3N0b3JlL2NvbmZpZ3VyZVN0b3JlJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgey8qPExheW91dCovfQogICAgICB7LyogIHVzZXJFbWFpbD17dm0udXNlckVtYWlsfSovfQogICAgICB7LyogIGN1cnJlbnRQcm9kdWN0PXtQcm9kdWN0RG9tYWlucy5BTkFMWVRJQ1N9Ki99CiAgICAgIHsvKiAgaGlzdG9yeT17aGlzdG9yeX0qL30KICAgICAgey8qICBhcGlIb3N0PXtjb25maWcuUkVBQ1RfQVBQX1JFU1RSRUFNX1dFQl9IT1NUfSovfQogICAgICB7Lyo+Ki99CiAgICAgIHsvKiAgPGRpdiBjbGFzc05hbWU9Im92ZXJsYXkiIC8+Ki99Cg==</text>
+        <text encoding="base64">PC9Sb3V0ZXI+Cgo8L1JvdXRlcj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxSZWxheUVudmlyb25tZW50UHJvdmlkZXIgZW52aXJvbm1lbnQ9e2Vudmlyb25tZW50fT4K</text>
+        <text encoding="base64">ICAgICAgICA8L1JvdXRlcj4K</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
