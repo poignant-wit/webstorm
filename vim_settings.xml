@@ -104,69 +104,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/AppViewModel.ts" timestamp="1592322108166">
-        <mark key="[" line="47" column="32" />
-        <mark key="]" line="47" column="43" />
-        <mark key="^" line="47" column="43" />
-        <mark key="." line="47" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/reporters/analytics/types.ts" timestamp="1592314978445">
-        <mark key="[" line="1" column="49" />
-        <mark key="]" line="1" column="66" />
-        <mark key="." line="1" column="65" />
-        <mark key="^" line="1" column="66" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/reporters/analytics/AnalyticsReporterDev.ts" timestamp="1592314989373">
-        <mark key="[" line="3" column="44" />
-        <mark key="]" line="3" column="51" />
-        <mark key="." line="3" column="50" />
-        <mark key="^" line="3" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/components/Menu/Menu.tsx" timestamp="1592323004022">
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="24" />
-        <mark key="^" line="18" column="24" />
-        <mark key="." line="18" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/containers/chartConfigs/timeHeatChartConfig.ts" timestamp="1592314388439">
-        <mark key="[" line="46" column="40" />
-        <mark key="]" line="46" column="43" />
-        <mark key="." line="46" column="42" />
-        <mark key="^" line="46" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/store/users/Users.ts" timestamp="1592315570951">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/reporters/analytics/AnalyticsReporter.ts" timestamp="1592315001044">
-        <mark key="[" line="7" column="44" />
-        <mark key="]" line="7" column="51" />
-        <mark key="." line="7" column="50" />
-        <mark key="^" line="7" column="51" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/analytics/store/AnalyticsStore.ts" timestamp="1592314539342">
         <mark key="[" line="72" column="34" />
         <mark key="]" line="72" column="34" />
         <mark key="." line="72" column="34" />
         <mark key="^" line="72" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chart-counters/useSelectedTargets.ts" timestamp="1592314116106">
-        <mark key="[" line="14" column="1" />
-        <mark key="]" line="14" column="1" />
-        <mark key="^" line="14" column="6" />
-        <mark key="." line="14" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/store/base/makeCollectionStore.ts" timestamp="1592315033463">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" timestamp="1592323472227">
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="^" line="176" column="36" />
-        <mark key="." line="170" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1592315694023">
         <mark key="[" line="0" column="0" />
@@ -174,11 +116,20 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/AppViewModel.ts" timestamp="1592322108166">
+        <mark key="[" line="47" column="32" />
+        <mark key="]" line="47" column="43" />
+        <mark key="^" line="47" column="43" />
+        <mark key="." line="47" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/audience/audience-page.tsx" timestamp="1592321738212">
         <mark key="[" line="109" column="19" />
         <mark key="]" line="109" column="33" />
         <mark key="^" line="109" column="33" />
         <mark key="." line="109" column="32" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1592376188445">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/store/channels/ChannelModel.ts" timestamp="1592314894257">
         <mark key="[" line="37" column="18" />
@@ -192,6 +143,12 @@
         <mark key="." line="23" column="19" />
         <mark key="^" line="23" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/components/Menu/Menu.tsx" timestamp="1592323004022">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="24" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-page.tsx" timestamp="1592319029413">
         <mark key="[" line="231" column="19" />
         <mark key="]" line="231" column="33" />
@@ -204,6 +161,56 @@
         <mark key="." line="13" column="11" />
         <mark key="^" line="13" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/store/base/makeCollectionStore.ts" timestamp="1592315033463">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" timestamp="1592376725068">
+        <mark key="'" line="49" column="7" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/reporters/analytics/types.ts" timestamp="1592314978445">
+        <mark key="[" line="1" column="49" />
+        <mark key="]" line="1" column="66" />
+        <mark key="." line="1" column="65" />
+        <mark key="^" line="1" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/containers/chartConfigs/timeHeatChartConfig.ts" timestamp="1592314388439">
+        <mark key="[" line="46" column="40" />
+        <mark key="]" line="46" column="43" />
+        <mark key="." line="46" column="42" />
+        <mark key="^" line="46" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/store/configureStore.ts" timestamp="1592377055235">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/reporters/analytics/AnalyticsReporterDev.ts" timestamp="1592314989373">
+        <mark key="[" line="3" column="44" />
+        <mark key="]" line="3" column="51" />
+        <mark key="." line="3" column="50" />
+        <mark key="^" line="3" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/store/users/Users.ts" timestamp="1592315570951">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/reporters/analytics/AnalyticsReporter.ts" timestamp="1592315001044">
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="7" column="51" />
+        <mark key="." line="7" column="50" />
+        <mark key="^" line="7" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/main.tsx" timestamp="1592377076411">
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="27" column="2" />
+        <mark key="." line="27" column="1" />
+        <mark key="^" line="27" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/.eslintrc.js" timestamp="1592314300554">
         <mark key="[" line="17" column="51" />
         <mark key="]" line="17" column="55" />
@@ -212,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="41" filename="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" />
       <jump line="14" column="9" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-page.tsx" />
       <jump line="79" column="34" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-page.tsx" />
       <jump line="80" column="32" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-page.tsx" />
@@ -312,51 +318,52 @@
       <jump line="82" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/api/restream/analytics.ts" />
       <jump line="60" column="15" filename="$USER_HOME$/Documents/analytics-frontend/src/api/restream/analytics.ts" />
       <jump line="182" column="23" filename="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" />
+      <jump line="49" column="7" filename="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgey8qPExheW91dCovfQogICAgICB7LyogIHVzZXJFbWFpbD17dm0udXNlckVtYWlsfSovfQogICAgICB7LyogIGN1cnJlbnRQcm9kdWN0PXtQcm9kdWN0RG9tYWlucy5BTkFMWVRJQ1N9Ki99CiAgICAgIHsvKiAgaGlzdG9yeT17aGlzdG9yeX0qL30KICAgICAgey8qICBhcGlIb3N0PXtjb25maWcuUkVBQ1RfQVBQX1JFU1RSRUFNX1dFQl9IT1NUfSovfQogICAgICB7Lyo+Ki99CiAgICAgIHsvKiAgPGRpdiBjbGFzc05hbWU9Im92ZXJsYXkiIC8+Ki99Cg==</text>
+        <text encoding="base64">Y29uc3QgaGlzdG9yeSA9IGNyZWF0ZUJyb3dzZXJIaXN0b3J5KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>about</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWRpZW5jZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2PjQzNDM8L2Rpdj4K</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGhpc3RvcnkgPSBjcmVhdGVCcm93c2VySGlzdG9yeSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgey8qPExheW91dCovfQogICAgICB7LyogIHVzZXJFbWFpbD17dm0udXNlckVtYWlsfSovfQogICAgICB7LyogIGN1cnJlbnRQcm9kdWN0PXtQcm9kdWN0RG9tYWlucy5BTkFMWVRJQ1N9Ki99CiAgICAgIHsvKiAgaGlzdG9yeT17aGlzdG9yeX0qL30KICAgICAgey8qICBhcGlIb3N0PXtjb25maWcuUkVBQ1RfQVBQX1JFU1RSRUFNX1dFQl9IT1NUfSovfQogICAgICB7Lyo+Ki99CiAgICAgIHsvKiAgPGRpdiBjbGFzc05hbWU9Im92ZXJsYXkiIC8+Ki99Cg==</text>
+        <text encoding="base64">Y29uc3QgaGlzdG9yeSA9IGNyZWF0ZUJyb3dzZXJIaXN0b3J5KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxSZWxheUVudmlyb25tZW50UHJvdmlkZXIgZW52aXJvbm1lbnQ9e2Vudmlyb25tZW50fT4K</text>
+        <text encoding="base64">aW1wb3J0IHsgaGlzdG9yeSB9IGZyb20gJ3N0b3JlL2NvbmZpZ3VyZVN0b3JlJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8U3VzcGVuc2UgZmFsbGJhY2s9ezxMb2FkZXJWaWV3IC8+fT4K</text>
+        <text encoding="base64">PC9Sb3V0ZXI+Cgo8L1JvdXRlcj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L1N1c3BlbnNlPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L1JvdXRlcj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxFcnJvckJvdW5kYXJ5Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8Um91dGVyIGhpc3Rvcnk9e2hpc3Rvcnl9Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8U3VzcGVuc2UgZmFsbGJhY2s9ezxMb2FkZXJWaWV3IC8+fT4K</text>
+        <text encoding="base64">ICAgIDxBbmFseXRpY3NSZXBvcnRlckNvbnRleHQuUHJvdmlkZXIgdmFsdWU9e2FuYWx5dGljc1JlcG9ydGVyfT4KICAgICAgPFByb3ZpZGVyc0NvbnRleHQuUHJvdmlkZXIKICAgICAgICB2YWx1ZT17ewogICAgICAgICAgYW5hbHl0aWNzSHR0cFByb3ZpZGVyLAogICAgICAgICAgYXBpSHR0cFByb3ZpZGVyLAogICAgICAgICAgY29va2llc1Byb3ZpZGVyLAogICAgICAgICAgc2Vzc2lvblN0b3JhZ2VQcm92aWRlciwKICAgICAgICB9fQogICAgICA+CiAgICAgICAgPFJvb3RTdG9yZUNvbnRleHQuUHJvdmlkZXIgdmFsdWU9e3N0b3JlfT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgey8qPExheW91dCovfQogICAgICB7LyogIHVzZXJFbWFpbD17dm0udXNlckVtYWlsfSovfQogICAgICB7LyogIGN1cnJlbnRQcm9kdWN0PXtQcm9kdWN0RG9tYWlucy5BTkFMWVRJQ1N9Ki99CiAgICAgIHsvKiAgaGlzdG9yeT17aGlzdG9yeX0qL30KICAgICAgey8qICBhcGlIb3N0PXtjb25maWcuUkVBQ1RfQVBQX1JFU1RSRUFNX1dFQl9IT1NUfSovfQogICAgICB7Lyo+Ki99CiAgICAgIHsvKiAgPGRpdiBjbGFzc05hbWU9Im92ZXJsYXkiIC8+Ki99Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L1Jvb3RTdG9yZUNvbnRleHQuUHJvdmlkZXI+CiAgICAgIDwvUHJvdmlkZXJzQ29udGV4dC5Qcm92aWRlcj4KICAgIDwvQW5hbHl0aWNzUmVwb3J0ZXJDb250ZXh0LlByb3ZpZGVyPiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxSZWxheUVudmlyb25tZW50UHJvdmlkZXIgZW52aXJvbm1lbnQ9e2Vudmlyb25tZW50fT4K</text>
+        <text encoding="base64">ICAgICAgey8qPExheW91dCovfQogICAgICB7LyogIHVzZXJFbWFpbD17dm0udXNlckVtYWlsfSovfQogICAgICB7LyogIGN1cnJlbnRQcm9kdWN0PXtQcm9kdWN0RG9tYWlucy5BTkFMWVRJQ1N9Ki99CiAgICAgIHsvKiAgaGlzdG9yeT17aGlzdG9yeX0qL30KICAgICAgey8qICBhcGlIb3N0PXtjb25maWcuUkVBQ1RfQVBQX1JFU1RSRUFNX1dFQl9IT1NUfSovfQogICAgICB7Lyo+Ki99CiAgICAgIHsvKiAgPGRpdiBjbGFzc05hbWU9Im92ZXJsYXkiIC8+Ki99Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE1lbnU+Cg==</text>
+        <text encoding="base64">ICAgIDxSZWxheUVudmlyb25tZW50UHJvdmlkZXIgZW52aXJvbm1lbnQ9e2Vudmlyb25tZW50fT4K</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
