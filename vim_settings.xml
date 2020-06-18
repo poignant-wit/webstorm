@@ -42,11 +42,11 @@
         <entry>.,.+8action GotoFile</entry>
         <entry>action ReformatCode</entry>
         <entry>action TypeHierarchy</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action Vcs.UpdateProject</entry>
         <entry>action $SelectAll</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>action GotoFile</entry>
+        <entry>action EditorDuplicate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -154,11 +154,10 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor/session-monitor.tsx" timestamp="1592490474775">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="60" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="70" column="6" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor/session-monitor.tsx" timestamp="1592491122319">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="80" column="19" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/hooks/useStreamsStore.ts" timestamp="1592378265792">
         <mark key="[" line="48" column="0" />
@@ -294,16 +293,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4OwogIHBhZGRpbmc6IDAgJGdyaWQtYmFzZS12YWx1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICA8dGQ+VEVTVDwvdGQ+CiAgICAgICAgICAgICAgPC90cj4K</text>
       </register>
       <register name="-" type="4">
-        <text>Session monitor chart</text>
+        <text>./session-monitor.module.scss</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRTZWxlY3RlZFRhYlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4OwogIHBhZGRpbmc6IDAgJGdyaWQtYmFzZS12YWx1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICA8dGQ+VEVTVDwvdGQ+CiAgICAgICAgICAgICAgPC90cj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgPERhdGFDb250YWluZXIgbG9hZGluZz17ZmFsc2V9PlRhYmxlPC9EYXRhQ29udGFpbmVyPgo=</text>
@@ -336,7 +335,7 @@
         <text encoding="base64">ICBxdWVyeUVycm9yCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action EditorDuplicate</text>
       </register>
     </registers>
   </component>
