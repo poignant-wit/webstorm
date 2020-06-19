@@ -128,11 +128,11 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.tsx" timestamp="1592556379498">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="52" column="47" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.tsx" timestamp="1592563852581">
+        <mark key="[" line="126" column="54" />
+        <mark key="]" line="126" column="68" />
+        <mark key="." line="126" column="67" />
+        <mark key="^" line="126" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" timestamp="1592484318962">
         <mark key="'" line="15" column="62" />
@@ -143,9 +143,9 @@
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/chat-overview/chat-overview.tsx" timestamp="1592483733733">
         <mark key="^" line="37" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-table/channels-table.tsx" timestamp="1592553693021">
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="237" column="22" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-table/channels-table.tsx" timestamp="1592563368935">
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="195" column="10" />
         <mark key="." line="136" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1592484455950">
@@ -172,7 +172,7 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1592488668656">
+      <file name="/GraphQL.variables.json" timestamp="1592563625812">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-table/channels-table.module.scss" timestamp="1592554846361">
@@ -300,47 +300,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCB0YWJsZU91dGdvaW5nQ2xhc3NlcyA9IGNsYXNzTmFtZXMoCiAgICB0YWJsZVN0eWxlcy50YWJsZSwKICAgIHN0eWxlc1sndGFibGUtb3V0Z29pbmcnXSwKICApOwo=</text>
+      <register name="&quot;" type="4">
+        <text>audioCodec</text>
       </register>
       <register name="-" type="4">
-        <text>outgoing</text>
+        <text>audioCodec</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRTZWxlY3RlZFRhYlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsZWZ0OiA0cHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3F1ZXJ5UHJvcHM/LnZpZXdlcj8uc2Vzc2lvbj8uYXVkaW9Db2RlYyB8fCAnLSd9PC90ZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCB0YWJsZU91dGdvaW5nQ2xhc3NlcyA9IGNsYXNzTmFtZXMoCiAgICB0YWJsZVN0eWxlcy50YWJsZSwKICAgIHN0eWxlc1sndGFibGUtb3V0Z29pbmcnXSwKICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+MjI8L3RkPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRnb2luZzogYWdncmVnYXRpb25zKAogICAgICAgICAgcGFyYW1zOiB7IG1ldHJpYzogTU9OSVRPUl9PVVRHT0lORywgbW9kZTogVE9UQUxfRVhDTFVERSB9CiAgICAgICAgKSB7CiAgICAgICAgICBpZAogICAgICAgICAgdGFyZ2V0IHsKICAgICAgICAgICAgX190eXBlbmFtZQogICAgICAgICAgICAuLi4gb24gQWdncmVnYXRpb25UYXJnZXRDaGFubmVsU3RyZWFtaW5nIHsKICAgICAgICAgICAgICBjaGFubmVsIHsKICAgICAgICAgICAgICAgIGRpc3BsYXlOYW1lCiAgICAgICAgICAgICAgICBwbGF0Zm9ybSB7CiAgICAgICAgICAgICAgICAgIGljb24gewogICAgICAgICAgICAgICAgICAgIHBuZwogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+NDU2MzQ8L3RkPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2Vzc2lvbk1vbml0b3JRdWVyeSB9IGZyb20gJy4vX19nZW5lcmF0ZWRfXy9zZXNzaW9uTW9uaXRvclF1ZXJ5LmdyYXBocWwnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+MjwvdGQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmb250LWNvbDogJGdyaWQtYmFzZS12YWx1ZSAqIDI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+MzQ2PC90ZD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDx0ZCAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+MjM0PC90ZD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgIDxSYWRpbyAvPgogICAgICAgICAgICAgICAgICA8L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDx0ZCAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICApfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHRkIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZpZGVvSGVpZ2h0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChhZ2dyZWdhdGlvbi5zdGF0ZS5zdGF0dXMgPT09ICdzdWNjZXNzJykgewogICAgICAgICAgICBvbkNoYW5nZVNlbGVjdGVkKGFnZ3JlZ2F0aW9uLmlkKTsKICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIGtlCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
