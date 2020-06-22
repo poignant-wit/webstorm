@@ -111,10 +111,6 @@
         <mark key="." line="417" column="30" />
         <mark key="^" line="417" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.module.scss" timestamp="1592566912140">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="22" column="1" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/elements/controls/radio.tsx" timestamp="1592816873162">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="24" />
@@ -126,11 +122,15 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chat-trends/session-chat-trends.tsx" timestamp="1592818368624">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="34" column="61" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chat-trends/session-chat-trends.tsx" timestamp="1592818525679">
+        <mark key="[" line="68" column="74" />
+        <mark key="]" line="72" column="2" />
+        <mark key="." line="72" column="1" />
+        <mark key="^" line="72" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.module.scss" timestamp="1592818442944">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.tsx" timestamp="1592568775301">
         <mark key="[" line="107" column="43" />
@@ -150,10 +150,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-viewers/session-viewers.tsx" timestamp="1592817055369">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-viewers/session-viewers.tsx" timestamp="1592818505771">
         <mark key="'" line="68" column="0" />
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="174" column="26" />
+        <mark key="[" line="107" column="4" />
+        <mark key="]" line="194" column="9" />
         <mark key="^" line="171" column="55" />
         <mark key="." line="171" column="54" />
       </file>
@@ -172,10 +172,10 @@
       <file name="/GraphQL.result.json" timestamp="1592810187965">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chat-trends/session-trends.module.scss" timestamp="1592818419345">
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="12" column="15" />
-        <mark key="." line="12" column="14" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chat-trends/session-trends.module.scss" timestamp="1592818477413">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
         <mark key="^" line="12" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/elements/radio/radio.tsx" timestamp="1592568732216">
@@ -186,9 +186,9 @@
       <file name="/GraphQL.variables.json" timestamp="1592817548526">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-table/channels-table.module.scss" timestamp="1592817693796">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="67" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/channels-table/channels-table.module.scss" timestamp="1592818466880">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="74" />
         <mark key="^" line="49" column="24" />
         <mark key="." line="49" column="23" />
       </file>
@@ -318,8 +318,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>pie</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICByZXR1cm4gPGRpdj5TZXNzaW9uIGNoYXQgdHJlbmRzPC9kaXY+Owo=</text>
       </register>
       <register name="-" type="4">
         <text>pie</text>
@@ -327,38 +327,38 @@
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRyaWNTZWNvbmRhcnlcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLnNlc3Npb25DaGFydENoYXR0ZXJzVG9wX2FnZ3JlZ2F0aW9ucwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">PGRpdiBjbGFzc05hbWU9e3N0eWxlcy5jb250YWluZXJ9PgogICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzWydjaGFydC1saW5lJ119PgogICAgICAgIDxEYXRhQ29udGFpbmVyCiAgICAgICAgICBsb2FkaW5nPXtsb2FkaW5nfQogICAgICAgICAgdGl0bGU9eyd2aWV3ZXJzJ30KICAgICAgICAgIGNvdW50ZXJzPXsKICAgICAgICAgICAgPFNlc3Npb25WaWV3ZXJzQ291bnRlcnNGcmFnbWVudAogICAgICAgICAgICAgIHNlbGVjdGVkPXtzZWxlY3RlZEFnZ3JlZ2F0aW9uc30KICAgICAgICAgICAgICBhZ2dyZWdhdGlvbnM9e2FnZ3JlZ2F0aW9uc30KICAgICAgICAgICAgICBzdHJlYW1zPXtzdHJlYW1zfQogICAgICAgICAgICAvPgogICAgICAgICAgfQogICAgICAgID4KICAgICAgICAgIDxDaGFydFNlc3Npb25GcmFnbWVudAogICAgICAgICAgICBzZWxlY3RlZENoYW5uZWxzPXtzZWxlY3RlZEFnZ3JlZ2F0aW9uc30KICAgICAgICAgICAgYWdncmVnYXRpb25zPXthZ2dyZWdhdGlvbnN9CiAgICAgICAgICAvPgogICAgICAgIDwvRGF0YUNvbnRhaW5lcj4KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXNbJ2NoYXJ0LXBpZSddfT4KICAgICAgICA8RGF0YUNvbnRhaW5lciBsb2FkaW5nPXtsb2FkaW5nfSB0aXRsZT17J3dhdGNoZWQgbWludXRlcyd9PgogICAgICAgICAgPFNlc3Npb25DaGFydFdhdGNoZWRNaW51dGVzRnJhZ21lbnQgYWdncmVnYXRpb25zPXthZ2dyZWdhdGlvbnN9IC8+CiAgICAgICAgPC9EYXRhQ29udGFpbmVyPgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy50YWJsZX0+CiAgICAgICAgPERhdGFDb250YWluZXIgbG9hZGluZz17ZmFsc2V9PgogICAgICAgICAgPHRhYmxlIGNsYXNzTmFtZT17dGFibGVDbGFzc2VzfT4KICAgICAgICAgICAgPHRoZWFkPgogICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgIDx0ZCAvPgogICAgICAgICAgICAgICAgPHRkPkNoYW5uZWw8L3RkPgogICAgICAgICAgICAgICAgPHRkPkF2ZXJhZ2U8L3RkPgogICAgICAgICAgICAgICAgPHRkPk1heGltdW08L3RkPgogICAgICAgICAgICAgICAgPHRkPlBlYWsgVGltZTwvdGQ+CiAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgPC90aGVhZD4KICAgICAgICAgICAgPHRib2R5PgogICAgICAgICAgICAgIHtsb2FkaW5nICYmICgKICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzTmFtZT17dGFibGVTdHlsZXMubG9hZGVyfT4KICAgICAgICAgICAgICAgICAgICA8RG90c0xvYWRlciBzaXplPXs0MH0gLz4KICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICB7IWxvYWRpbmcgJiYgIUJvb2xlYW4oYWdncmVnYXRpb25zLmxlbmd0aCkgJiYgKAogICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICA8dGQgY2xhc3NOYW1lPXt0YWJsZVN0eWxlcy5sb2FkZXJ9Pk5vIGRhdGE8L3RkPgogICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICApfQogICAgICAgICAgICAgIHshbG9hZGluZyAmJgogICAgICAgICAgICAgICAgYWdncmVnYXRpb25zLm1hcCgoYWdncmVnYXRpb24pID0+IHsKICAgICAgICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgICAgICA8dHIKICAgICAgICAgICAgICAgICAgICAgIGtleT17YWdncmVnYXRpb24uaWR9CiAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ewogICAgICAgICAgICAgICAgICAgICAgICBhZ2dyZWdhdGlvbi50YXJnZXQuX190eXBlbmFtZSA9PT0KICAgICAgICAgICAgICAgICAgICAgICAgJ0FnZ3JlZ2F0aW9uVGFyZ2V0VG90YWwnCiAgICAgICAgICAgICAgICAgICAgICAgICAgPyB0YWJsZVN0eWxlcy5ib2xkCiAgICAgICAgICAgICAgICAgICAgICAgICAgOiAnJwogICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPENoZWNrYm94CiAgICAgICAgICAgICAgICAgICAgICAgICAgb25DaGFuZ2U9eygpID0+IHNlbGVjdEFnZ3JlZ2F0aW9uKGFnZ3JlZ2F0aW9uLmlkKX0KICAgICAgICAgICAgICAgICAgICAgICAgICBjaGVja2VkPXtzZWxlY3RlZEFnZ3JlZ2F0aW9ucy5pbmNsdWRlcygKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFnZ3JlZ2F0aW9uLmlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgICAgICA8QWdncmVnYXRpb25UaXRsZUZyYWdtZW50IGFnZ3JlZ2F0aW9uPXthZ2dyZWdhdGlvbn0gLz4KICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICA8dGQ+e2FnZ3JlZ2F0aW9uLnN0YXRlPy5kYXRhPy5kZXNjcmliZT8ubWVhbn08L3RkPgogICAgICAgICAgICAgICAgICAgICAgPHRkPnthZ2dyZWdhdGlvbi5zdGF0ZT8uZGF0YT8uZGVzY3JpYmU/Lm1heC5jb3VudH08L3RkPgogICAgICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgICAgICB7YWdncmVnYXRpb24uc3RhdGUuZGF0YT8uZGVzY3JpYmU/Lm1heC50aW1lICYmCiAgICAgICAgICAgICAgICAgICAgICAgICAgbW9tZW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAudW5peChhZ2dyZWdhdGlvbi5zdGF0ZS5kYXRhPy5kZXNjcmliZT8ubWF4LnRpbWUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZm9ybWF0KCdoaDptbTpzcycpfQogICAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgfSl9CiAgICAgICAgICAgIDwvdGJvZHk+CiAgICAgICAgICA8L3RhYmxlPgogICAgICAgIDwvRGF0YUNvbnRhaW5lcj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLnNlc3Npb25DaGFydFdhdGNoZWRNaW51dGVzX2FnZ3JlZ2F0aW9ucwo=</text>
+        <text encoding="base64">ICByZXR1cm4gPGRpdj5TZXNzaW9uIGNoYXQgdHJlbmRzPC9kaXY+Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLnNlc3Npb25DaGF0Q291bnRlcnNfYWdncmVnYXRpb25zTWVzc2FnZXMK</text>
+        <text encoding="base64">ICBncmlkLXRlbXBsYXRlLWNvbHVtbnM6IDY0cHggYXV0byByZXBlYXQoMywgYXV0bykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLnNlc3Npb25DaGFydExpbmVfYWdncmVnYXRpb25zCg==</text>
+        <text encoding="base64">ICBncmlkLWNvbHVtbjogOSAvIHNwYW4gNDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLnNlc3Npb25DaGF0Q291bnRlcnNfYWdncmVnYXRpb25zQ2hhdHRlcnMK</text>
+        <text encoding="base64">ICBncmlkLWNvbHVtbjogMSAvIHNwYW4gODsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIC4uLnNlc3Npb25DaGFydFdhdGNoZWRNaW51dGVzX2FnZ3JlZ2F0aW9ucwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLmNoYW5uZWxzVGFibGVfYWdncmVnYXRpb25zCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC4uLnNlc3Npb25DaGF0Q291bnRlcnNfYWdncmVnYXRpb25zTWVzc2FnZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLnNlc3Npb25Gb2xsb3dlcnNDb3VudGVyc19hZ2dyZWdhdGlvbnMK</text>
+        <text encoding="base64">ICAgICAgICAgIC4uLnNlc3Npb25DaGFydExpbmVfYWdncmVnYXRpb25zCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLnNlc3Npb25Gb2xsb3dlcnNDb3VudGVyc19hZ2dyZWdhdGlvbnMK</text>
+        <text encoding="base64">ICAgICAgICAgIC4uLnNlc3Npb25DaGF0Q291bnRlcnNfYWdncmVnYXRpb25zQ2hhdHRlcnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLmNoYW5uZWxzVGFibGVfYWdncmVnYXRpb25zCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC4uLnNlc3Npb25DaGFydFdhdGNoZWRNaW51dGVzX2FnZ3JlZ2F0aW9ucwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
