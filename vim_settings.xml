@@ -132,12 +132,6 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.tsx" timestamp="1592568775301">
-        <mark key="[" line="107" column="43" />
-        <mark key="]" line="107" column="65" />
-        <mark key="^" line="107" column="65" />
-        <mark key="." line="107" column="64" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chat-messages/session-chat-messages.tsx" timestamp="1592819664791">
         <mark key="'" line="16" column="12" />
         <mark key="[" line="78" column="0" />
@@ -169,6 +163,12 @@
         <mark key="]" line="14" column="24" />
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1592982677965">
+        <mark key="[" line="26" column="56" />
+        <mark key="]" line="26" column="69" />
+        <mark key="." line="26" column="68" />
+        <mark key="^" line="26" column="69" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1592810187965">
         <mark key="[" line="0" column="0" />
@@ -321,10 +321,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>socket</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>socket</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RlZENoYW5uZWxzXD4=</text>
