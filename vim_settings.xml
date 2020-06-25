@@ -45,8 +45,8 @@
         <entry>action Vcs.UpdateProject</entry>
         <entry>action $SelectAll</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
+        <entry>action EditorDuplicate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -160,10 +160,10 @@
         <mark key="]" line="151" column="14" />
         <mark key="." line="151" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-viewers/session-viewers.tsx" timestamp="1593081857479">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-viewers/session-viewers.tsx" timestamp="1593083110864">
         <mark key="'" line="79" column="0" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="78" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="164" column="26" />
         <mark key="^" line="161" column="55" />
         <mark key="." line="13" column="0" />
       </file>
@@ -185,10 +185,10 @@
       <file name="/GraphQL.result.json" timestamp="1593069010816">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-outgoing/session-monitor-outgoing.module.scss" timestamp="1593081648540">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-outgoing/session-monitor-outgoing.module.scss" timestamp="1593082587255">
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="26" column="33" />
+        <mark key="." line="26" column="33" />
         <mark key="^" line="25" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/monitor-incoming-bitrate/monitor-incoming-bitrate.tsx" timestamp="1593076633664">
@@ -200,11 +200,10 @@
       <file name="/GraphQL.variables.json" timestamp="1593072448855">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-outgoing/session-monitor-outgoing.tsx" timestamp="1593081896777">
-        <mark key="[" line="24" column="11" />
-        <mark key="]" line="25" column="44" />
-        <mark key="." line="25" column="43" />
-        <mark key="^" line="25" column="44" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-outgoing/session-monitor-outgoing.tsx" timestamp="1593083174140">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-followers/session-followers.tsx" timestamp="1593076552532">
         <mark key="'" line="100" column="22" />
@@ -319,49 +318,49 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGt3Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgc2Vzc2lvbk1vbml0b3JJbmNvbWluZ1F1ZXJ5IH0gZnJvbSAnbmV4dC9wYWdlcy9zZXNzaW9uL3Nlc3Npb24tbW9uaXRvci1pbmNvbWluZy9fX2dlbmVyYXRlZF9fL3Nlc3Npb25Nb25pdG9ySW5jb21pbmdRdWVyeS5ncmFwaHFsJzsKaW1wb3J0IHsgTW9uaXRvckluY29taW5nQml0cmF0ZUZyYWdtZW50IH0gZnJvbSAnbmV4dC9wYWdlcy9zZXNzaW9uL3Nlc3Npb24tbW9uaXRvci1pbmNvbWluZy9tb25pdG9yLWluY29taW5nLWJpdHJhdGUvbW9uaXRvci1pbmNvbWluZy1iaXRyYXRlJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>wrapper</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsUmVmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPEFnZ3JlZ2F0aW9uVGl0bGVGcmFnbWVudCBhZ2dyZWdhdGlvbj17YWdncmVnYXRpb259IC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPENoZWNrYm94CiAgICAgICAgICAgICAgICAgICAgICAgICAgb25DaGFuZ2U9eygpID0+IHNlbGVjdEFnZ3JlZ2F0aW9uKGFnZ3JlZ2F0aW9uLmlkKX0KICAgICAgICAgICAgICAgICAgICAgICAgICBjaGVja2VkPXtzZWxlY3RlZEFnZ3JlZ2F0aW9ucy5pbmNsdWRlcygKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFnZ3JlZ2F0aW9uLmlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGt3Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgc2Vzc2lvbk1vbml0b3JJbmNvbWluZ1F1ZXJ5IH0gZnJvbSAnbmV4dC9wYWdlcy9zZXNzaW9uL3Nlc3Npb24tbW9uaXRvci1pbmNvbWluZy9fX2dlbmVyYXRlZF9fL3Nlc3Npb25Nb25pdG9ySW5jb21pbmdRdWVyeS5ncmFwaHFsJzsKaW1wb3J0IHsgTW9uaXRvckluY29taW5nQml0cmF0ZUZyYWdtZW50IH0gZnJvbSAnbmV4dC9wYWdlcy9zZXNzaW9uL3Nlc3Npb24tbW9uaXRvci1pbmNvbWluZy9tb25pdG9yLWluY29taW5nLWJpdHJhdGUvbW9uaXRvci1pbmNvbWluZy1iaXRyYXRlJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">KAogICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICA8dGQ+NDU2PC90ZD4KICAgICAgICAgICAgICAgICAgPHRkPjQ1NjwvdGQ+CiAgICAgICAgICAgICAgICAgIDx0ZD40NTY8L3RkPgogICAgICAgICAgICAgICAgICA8dGQ+MjQ8L3RkPgogICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAp</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWxlY3RlZEFnZ3JlZ2F0aW9ucyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiByZWQ7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBsb2FkaW5nID0gdXNlTWVtbygoKSA9PiB7CiAgICByZXR1cm4gIXF1ZXJ5RXJyb3IgJiYgIXF1ZXJ5UHJvcHM7CiAgfSwgW3F1ZXJ5UHJvcHMsIHF1ZXJ5RXJyb3JdKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0YWJsZSB7CiAgICBncmlkLXRlbXBsYXRlLWNvbHVtbnM6IHJlcGVhdCg0LCBhdXRvKTsKICAgIGJhY2tncm91bmQ6IHJlZDsKICB9Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhZ2dyZWdhdGlvbnMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJhY2sK</text>
+        <text encoding="base64">ICBjb25zdCBhZ2dyZWdhdGlvbnMgPSB1c2VNZW1vKCgpID0+IHsKICAgIHJldHVybiBxdWVyeVByb3BzPy52aWV3ZXI/LnNlc3Npb24/LmFnZ3JlZ2F0aW9ucyB8fCBbXTsKICB9LCBbcXVlcnlQcm9wc10pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGt3Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">KAogICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICA8dGQ+NDU2PC90ZD4KICAgICAgICAgICAgICAgICAgPHRkPjQ1NjwvdGQ+CiAgICAgICAgICAgICAgICAgIDx0ZD40NTY8L3RkPgogICAgICAgICAgICAgICAgICA8dGQ+MjQ8L3RkPgogICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAp</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBncmlkLXRlbXBsYXRlLWNvbHVtbnM6IHJlcGVhdCg5LCBhdXRvKQo=</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kOiByZWQ7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGRpdiBjbGFzc05hbWU9e3N0eWxlcy50YWJsZX0+CiAgICAgICAgICA8RGF0YUNvbnRhaW5lciBsb2FkaW5nPXtmYWxzZX0+CiAgICAgICAgICAgIDx0YWJsZSBjbGFzc05hbWU9e3RhYmxlQ2xhc3Nlc30+CiAgICAgICAgICAgICAgPHRoZWFkPgogICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICA8dGQ+Qml0cmF0ZTwvdGQ+CiAgICAgICAgICAgICAgICAgIDx0ZD5TdWNjZXNzZnVsIHN0YXJ0czwvdGQ+CiAgICAgICAgICAgICAgICAgIDx0ZD5SZXN0YXJ0czwvdGQ+CiAgICAgICAgICAgICAgICAgIDx0ZD5NYXggYnVmZmVyIHNpemU8L3RkPgogICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICA8L3RoZWFkPgogICAgICAgICAgICAgIDx0Ym9keT4KICAgICAgICAgICAgICAgIHtsb2FkaW5nICYmICgKICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9e3RhYmxlU3R5bGVzLmxvYWRlcn0+CiAgICAgICAgICAgICAgICAgICAgICA8RG90c0xvYWRlciBzaXplPXs0MH0gLz4KICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICAgIHshbG9hZGluZyAmJiAoCiAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICA8dGQ+NDU2PC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQ+NDU2PC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQ+NDU2PC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQ+MjQ8L3RkPgogICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICA8L3Rib2R5PgogICAgICAgICAgICA8L3RhYmxlPgogICAgICAgICAgPC9EYXRhQ29udGFpbmVyPgogICAgICAgIDwvZGl2Pg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB0YWJsZSB7CiAgICBncmlkLXRlbXBsYXRlLWNvbHVtbnM6IHJlcGVhdCg0LCBhdXRvKTsKICAgIGJhY2tncm91bmQ6IHJlZDsKICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action EditorDuplicate</text>
       </register>
     </registers>
   </component>
