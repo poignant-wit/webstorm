@@ -104,12 +104,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1593014938918">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1593066523207">
         <mark key="'" line="255" column="32" />
-        <mark key="[" line="212" column="31" />
-        <mark key="]" line="213" column="33" />
-        <mark key="^" line="213" column="33" />
-        <mark key="." line="213" column="32" />
+        <mark key="[" line="146" column="22" />
+        <mark key="]" line="146" column="37" />
+        <mark key="^" line="146" column="37" />
+        <mark key="." line="146" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.module.scss" timestamp="1593064745167">
         <mark key="[" line="33" column="42" />
@@ -149,11 +149,11 @@
         <mark key="." line="5" column="6" />
         <mark key="^" line="5" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/hooks/use-query-params.ts" timestamp="1592983991701">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="10" column="45" />
-        <mark key="." line="10" column="44" />
-        <mark key="^" line="10" column="45" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/hooks/use-query-params.ts" timestamp="1593066640025">
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="21" column="13" />
+        <mark key="^" line="15" column="53" />
+        <mark key="." line="21" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/App.tsx" timestamp="1593003655281">
         <mark key="[" line="151" column="13" />
@@ -322,8 +322,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICA8UmFkaW8gY2hlY2tlZD17dHJ1ZX0gb25DaGFuZ2U9e2NvbnNvbGUubG9nfSAvPgogICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkPkluY29taW5nPC90ZD4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -335,34 +335,34 @@
         <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKHNlc3Npb24gJiYgY2hhbm5lbFJlZi5jdXJyZW50KSB7CiAgICAgIGNoYW5uZWxSZWYuY3VycmVudC5wdXNoKCdsaXN0ZW4nLCB7IG1ldHJpY3M6IFt0YWJdIH0pOwogICAgfQogIH0sIFtzZXNzaW9uLCB0YWJdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICA8UmFkaW8gY2hlY2tlZD17dHJ1ZX0gb25DaGFuZ2U9e2NvbnNvbGUubG9nfSAvPgogICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkPkluY29taW5nPC90ZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHRkIC8+CiAgICAgICAgICAgICAgICAgIDx0ZCAvPgo=</text>
+        <text encoding="base64">ICAgIHNlYXJjaFBhcmFtcy5mb3JFYWNoKAogICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFubmVsUmVmLmN1cnJlbnQucHVzaCgnbGlzdGVuJywgeyBtZXRyaWNzOiBbdGFiXSB9KTsK</text>
+        <text encoding="base64">ICAgICAgKHZhbHVlLCBrKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBxdWVyeVBhcmFtcyA9IHVzZVEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gY2hhbm5lbC5wdXNoKCdsaXN0ZW4nLCB7IG1ldHJpY3M6IFsndmlld2VycyddIH0pOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChjaGFubmVsUmVmLmN1cnJlbnQpIHsKICAgIH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBzZWxlY3RlZFRhYiA9IHVzZU1lbW8oKCkgPT4gewogICAgc3dpdGNoICh0YWIpIHsKICAgICAgY2FzZSBTZXNzaW9uUGFnZVRhYnMuVklFV0VSUzoKICAgICAgICByZXR1cm4gQWdncy5WSUVXRVJTOwogICAgICBjYXNlIFNlc3Npb25QYWdlVGFicy5GT0xMT1dFUlM6CiAgICAgICAgcmV0dXJuIEFnZ3MuRk9MTE9XRVJTOwogICAgICBjYXNlIFNlc3Npb25QYWdlVGFicy5DSEFUX01FU1NBR0VTOgogICAgICAgIHJldHVybiBBZ2dzLkNIQVRfTUVTU0FHRVM7CiAgICAgIGNhc2UgU2Vzc2lvblBhZ2VUYWJzLkNIQVRfVFJFTkRTOgogICAgICAgIHJldHVybiBBZ2dzLkNIQVRfVFJFTkRTOwogICAgICBjYXNlIFNlc3Npb25QYWdlVGFicy5NT05JVE9SX0lOQ09NSU5HOgogICAgICAgIHJldHVybiBBZ2dzLk1PTklUT1I7CgogICAgICBkZWZhdWx0OgogICAgICAgIHJldHVybiBBZ2dzLlZJRVdFUlM7CiAgICB9CiAgfSwgW3RhYl0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICA8UmFkaW8gY2hlY2tlZD17dHJ1ZX0gb25DaGFuZ2U9e2NvbnNvbGUubG9nfSAvPgogICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkPkluY29taW5nPC90ZD4K</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
