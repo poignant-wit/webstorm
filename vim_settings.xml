@@ -111,11 +111,10 @@
         <mark key="^" line="213" column="33" />
         <mark key="." line="213" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/elements/controls/radio.tsx" timestamp="1592816873162">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="24" />
-        <mark key="^" line="14" column="24" />
-        <mark key="." line="14" column="23" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.module.scss" timestamp="1593064745167">
+        <mark key="[" line="33" column="42" />
+        <mark key="]" line="33" column="43" />
+        <mark key="." line="33" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chat-messages/session-chat-messages.module.scss" timestamp="1592817718850">
         <mark key="[" line="21" column="0" />
@@ -131,6 +130,11 @@
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.module.scss" timestamp="1592818442944">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.tsx" timestamp="1593064732040">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chat-messages/session-chat-messages.tsx" timestamp="1592819664791">
         <mark key="'" line="16" column="12" />
@@ -211,13 +215,6 @@
         <mark key="'" line="113" column="10" />
         <mark key="[" line="113" column="0" />
         <mark key="]" line="170" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-followers/session-followers.tsx" timestamp="1592817251490">
-        <mark key="'" line="17" column="12" />
-        <mark key="[" line="90" column="4" />
-        <mark key="]" line="166" column="9" />
-        <mark key="." line="146" column="0" />
-        <mark key="^" line="114" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -326,7 +323,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFubmVsUmVmLmN1cnJlbnQucHVzaCgnbGlzdGVuJywgeyBtZXRyaWNzOiBbdGFiXSB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICA8UmFkaW8gY2hlY2tlZD17dHJ1ZX0gb25DaGFuZ2U9e2NvbnNvbGUubG9nfSAvPgogICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkPkluY29taW5nPC90ZD4K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -338,34 +335,34 @@
         <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKHNlc3Npb24gJiYgY2hhbm5lbFJlZi5jdXJyZW50KSB7CiAgICAgIGNoYW5uZWxSZWYuY3VycmVudC5wdXNoKCdsaXN0ZW4nLCB7IG1ldHJpY3M6IFt0YWJdIH0pOwogICAgfQogIH0sIFtzZXNzaW9uLCB0YWJdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFubmVsUmVmLmN1cnJlbnQucHVzaCgnbGlzdGVuJywgeyBtZXRyaWNzOiBbdGFiXSB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICA8UmFkaW8gY2hlY2tlZD17dHJ1ZX0gb25DaGFuZ2U9e2NvbnNvbGUubG9nfSAvPgogICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkPkluY29taW5nPC90ZD4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHRkIC8+CiAgICAgICAgICAgICAgICAgIDx0ZCAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFubmVsUmVmLmN1cnJlbnQucHVzaCgnbGlzdGVuJywgeyBtZXRyaWNzOiBbdGFiXSB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gY2hhbm5lbC5wdXNoKCdsaXN0ZW4nLCB7IG1ldHJpY3M6IFsndmlld2VycyddIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChjaGFubmVsUmVmLmN1cnJlbnQpIHsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgLy8gY2hhbm5lbC5wdXNoKCdsaXN0ZW4nLCB7IG1ldHJpY3M6IFsndmlld2VycyddIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBzZWxlY3RlZFRhYiA9IHVzZU1lbW8oKCkgPT4gewogICAgc3dpdGNoICh0YWIpIHsKICAgICAgY2FzZSBTZXNzaW9uUGFnZVRhYnMuVklFV0VSUzoKICAgICAgICByZXR1cm4gQWdncy5WSUVXRVJTOwogICAgICBjYXNlIFNlc3Npb25QYWdlVGFicy5GT0xMT1dFUlM6CiAgICAgICAgcmV0dXJuIEFnZ3MuRk9MTE9XRVJTOwogICAgICBjYXNlIFNlc3Npb25QYWdlVGFicy5DSEFUX01FU1NBR0VTOgogICAgICAgIHJldHVybiBBZ2dzLkNIQVRfTUVTU0FHRVM7CiAgICAgIGNhc2UgU2Vzc2lvblBhZ2VUYWJzLkNIQVRfVFJFTkRTOgogICAgICAgIHJldHVybiBBZ2dzLkNIQVRfVFJFTkRTOwogICAgICBjYXNlIFNlc3Npb25QYWdlVGFicy5NT05JVE9SX0lOQ09NSU5HOgogICAgICAgIHJldHVybiBBZ2dzLk1PTklUT1I7CgogICAgICBkZWZhdWx0OgogICAgICAgIHJldHVybiBBZ2dzLlZJRVdFUlM7CiAgICB9CiAgfSwgW3RhYl0pOwo=</text>
+        <text encoding="base64">ICAgIGlmIChjaGFubmVsUmVmLmN1cnJlbnQpIHsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBjaGFydExpbmVDbGFzc2VzID0gY2xhc3NOYW1lcyhzdHlsZXNbJ2NoYXJ0LWxpbmUnXSwgewogICAgW3N0eWxlcy5maWxsXTogc2VsZWN0ZWRUYWIgIT09IEFnZ3MuVklFV0VSUywKICB9KTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCB0YWJsZUxheW91dCA9IHVzZU1lbW8oKCkgPT4gewogICAgc3dpdGNoIChzZWxlY3RlZFRhYikgewogICAgICBjYXNlIEFnZ3MuVklFV0VSUzoKICAgICAgICByZXR1cm4gQ2hhbm5lbHNUYWJsZUxheW91dC5WSUVXRVJTX1NFU1NJT047CiAgICAgIGNhc2UgQWdncy5GT0xMT1dFUlM6CiAgICAgICAgcmV0dXJuIENoYW5uZWxzVGFibGVMYXlvdXQuRk9MTE9XRVJTX1NFU1NJT047CiAgICAgIGNhc2UgQWdncy5DSEFUX01FU1NBR0VTOgogICAgICAgIHJldHVybiBDaGFubmVsc1RhYmxlTGF5b3V0LkNIQVRfU0VTU0lPTjsKICAgICAgY2FzZSBBZ2dzLkNIQVRfVFJFTkRTOgogICAgICAgIHJldHVybiBDaGFubmVsc1RhYmxlTGF5b3V0LkNIQVRfVFJFTkRTX1NFU1NJT047CiAgICAgIGRlZmF1bHQ6CiAgICAgICAgcmV0dXJuIENoYW5uZWxzVGFibGVMYXlvdXQuVklFV0VSU19TRVNTSU9OOwogICAgfQogIH0sIFtzZWxlY3RlZFRhYl0pOwo=</text>
+        <text encoding="base64">ICBjb25zdCBzZWxlY3RlZFRhYiA9IHVzZU1lbW8oKCkgPT4gewogICAgc3dpdGNoICh0YWIpIHsKICAgICAgY2FzZSBTZXNzaW9uUGFnZVRhYnMuVklFV0VSUzoKICAgICAgICByZXR1cm4gQWdncy5WSUVXRVJTOwogICAgICBjYXNlIFNlc3Npb25QYWdlVGFicy5GT0xMT1dFUlM6CiAgICAgICAgcmV0dXJuIEFnZ3MuRk9MTE9XRVJTOwogICAgICBjYXNlIFNlc3Npb25QYWdlVGFicy5DSEFUX01FU1NBR0VTOgogICAgICAgIHJldHVybiBBZ2dzLkNIQVRfTUVTU0FHRVM7CiAgICAgIGNhc2UgU2Vzc2lvblBhZ2VUYWJzLkNIQVRfVFJFTkRTOgogICAgICAgIHJldHVybiBBZ2dzLkNIQVRfVFJFTkRTOwogICAgICBjYXNlIFNlc3Npb25QYWdlVGFicy5NT05JVE9SX0lOQ09NSU5HOgogICAgICAgIHJldHVybiBBZ2dzLk1PTklUT1I7CgogICAgICBkZWZhdWx0OgogICAgICAgIHJldHVybiBBZ2dzLlZJRVdFUlM7CiAgICB9CiAgfSwgW3RhYl0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
