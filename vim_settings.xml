@@ -45,8 +45,8 @@
         <entry>action Vcs.UpdateProject</entry>
         <entry>action $SelectAll</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -178,6 +178,7 @@
       <file name="/GraphQL.result.json" timestamp="1593414361891">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/errors/ErrorFactory.ts" timestamp="1593418811371" />
       <file name="$USER_HOME$/Documents/_own/strtp/src/views/common/typography/typography.tsx" timestamp="1593348623670">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="78" />
@@ -345,7 +346,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
   </component>
