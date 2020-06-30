@@ -133,12 +133,12 @@
         <mark key="^" line="30" column="37" />
         <mark key="." line="30" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/header/session-header.tsx" timestamp="1593499311025">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/header/session-header.tsx" timestamp="1593510666535">
         <mark key="'" line="55" column="10" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="62" column="47" />
-        <mark key="." line="66" column="0" />
+        <mark key="[" line="25" column="20" />
+        <mark key="]" line="25" column="31" />
+        <mark key="^" line="25" column="31" />
+        <mark key="." line="25" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/hooks/aggregations-hooks.ts" timestamp="1593501394950">
         <mark key="[" line="104" column="4" />
@@ -146,7 +146,7 @@
         <mark key="." line="104" column="10" />
         <mark key="^" line="104" column="11" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1593506372238">
+      <file name="/GraphQL.variables.json" timestamp="1593510470404">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/data-container/data-container.module.scss" timestamp="1593500018929">
@@ -165,12 +165,12 @@
         <mark key="^" line="192" column="33" />
         <mark key="." line="192" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.tsx" timestamp="1593505467326">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.tsx" timestamp="1593510563906">
         <mark key="'" line="12" column="12" />
-        <mark key="[" line="121" column="63" />
-        <mark key="]" line="121" column="64" />
-        <mark key="^" line="121" column="64" />
-        <mark key="." line="121" column="63" />
+        <mark key="[" line="143" column="97" />
+        <mark key="]" line="143" column="108" />
+        <mark key="." line="143" column="107" />
+        <mark key="^" line="143" column="108" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-block/overview-block.tsx" timestamp="1593499977893">
         <mark key="[" line="59" column="0" />
@@ -318,46 +318,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>bytesOutRate</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>bytesOutRate</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsUmVmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICAgICAge3Byb3BPcignLS0nLCAnc3VjY2Vzc2Z1bFB1Ymxpc2hTdGFydHMnLCBzdHJlYW1EYXRhKX0KICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICB7cXVlcnlQcm9wcz8udmlld2VyPy5zZXNzaW9uPy5hdWRpb0ZyZXF1ZW5jeSB8fCAnLSd9CiAgICAgICAgICAgICAgICAgICAgPC90ZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDx0ZD40NTY8L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPyBgJHtxdWVyeVByb3BzPy52aWV3ZXIuc2Vzc2lvbi52aWRlb1dpZHRofXgke3F1ZXJ5UHJvcHM/LnZpZXdlci5zZXNzaW9uLnZpZGVvV2lkdGh9YAogICAgICAgICAgICAgICAgICAgICAgICA6ICctJ30K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+NDU2PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+MjQ8L3RkPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+MjAwPC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDx0ZD40NTY8L3RkPgo=</text>
       </register>
       <register name="4" type="2">
-        <text>feat: monitor outgoing tab</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+NDU2PC90ZD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+MjAwPC90ZD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhZ2dyZWdhdGlvbnMubGVuZ3RoKTsK</text>
+        <text>feat: monitor outgoing tab</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlbXB0eSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhZ2dyZWdhdGlvbnMubGVuZ3RoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbGVjdGVkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
