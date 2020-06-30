@@ -146,7 +146,7 @@
         <mark key="." line="104" column="10" />
         <mark key="^" line="104" column="11" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1593504471565">
+      <file name="/GraphQL.variables.json" timestamp="1593506372238">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/data-container/data-container.module.scss" timestamp="1593500018929">
@@ -198,11 +198,11 @@
         <mark key="^" line="26" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-video-service-ts/src/utils/aws-s3.ts" timestamp="1593423395141" />
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-outgoing/session-monitor-outgoing.tsx" timestamp="1593500710537">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="73" />
-        <mark key="." line="120" column="74" />
-        <mark key="^" line="120" column="75" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-outgoing/session-monitor-outgoing.tsx" timestamp="1593506387801">
+        <mark key="[" line="28" column="10" />
+        <mark key="]" line="28" column="17" />
+        <mark key="." line="28" column="16" />
+        <mark key="^" line="28" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-followers/session-followers.tsx" timestamp="1593500995431">
         <mark key="'" line="107" column="22" />
@@ -318,46 +318,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>videoHeight</text>
+        <text>bytesOutRate</text>
       </register>
       <register name="-" type="4">
-        <text>videoHeight</text>
+        <text>bytesOutRate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsUmVmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcXVlcnlQcm9wcz8udmlld2VyPy5zZXNzaW9uPy5hdWRpb0ZyZXF1ZW5jeSAmJgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICAgICAge3Byb3BPcignLS0nLCAnc3VjY2Vzc2Z1bFB1Ymxpc2hTdGFydHMnLCBzdHJlYW1EYXRhKX0KICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+NDU2PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDx0ZD40NTY8L3RkPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+MjAwPC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+NDU2PC90ZD4K</text>
       </register>
       <register name="3" type="2">
-        <text>feat: monitor outgoing tab</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+MjAwPC90ZD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>feat: monitor outgoing tab</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhZ2dyZWdhdGlvbnMubGVuZ3RoKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhZ2dyZWdhdGlvbnMubGVuZ3RoKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlbXB0eSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbGVjdGVkKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhlbXB0eSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7CiAgICByZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbGVjdGVkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
