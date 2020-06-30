@@ -104,12 +104,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/services/AuthTokenService.ts" timestamp="1593420546931">
-        <mark key="[" line="27" column="17" />
-        <mark key="]" line="27" column="21" />
-        <mark key="^" line="27" column="21" />
-        <mark key="." line="27" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chat-trends/session-chat-trends.tsx" timestamp="1593500962799">
         <mark key="'" line="38" column="20" />
         <mark key="[" line="33" column="17" />
@@ -152,6 +146,9 @@
         <mark key="." line="104" column="10" />
         <mark key="^" line="104" column="11" />
       </file>
+      <file name="/GraphQL.variables.json" timestamp="1593504471565">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/data-container/data-container.module.scss" timestamp="1593500018929">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -168,12 +165,8 @@
         <mark key="^" line="192" column="33" />
         <mark key="." line="192" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.tsx" timestamp="1593503056125">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.tsx" timestamp="1593504596090">
         <mark key="'" line="12" column="12" />
-        <mark key="[" line="68" column="6" />
-        <mark key="]" line="68" column="8" />
-        <mark key="^" line="68" column="8" />
-        <mark key="." line="68" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-block/overview-block.tsx" timestamp="1593499977893">
         <mark key="[" line="59" column="0" />
@@ -320,47 +313,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>feat: monitor outgoing tab</text>
+      <register name="&quot;" type="4">
+        <text>videoHeight</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>videoHeight</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsUmVmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBlcnJvciA9IHVzZUFnZ3JlZ2F0aW9uc0Vycm9yKGFnZ3JlZ2F0aW9ucywgc2VsZWN0ZWRBZ2dyZWdhdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcXVlcnlQcm9wcz8udmlld2VyPy5zZXNzaW9uPy5hdWRpb0ZyZXF1ZW5jeSAmJgo=</text>
       </register>
       <register name="1" type="2">
-        <text>feat: monitor outgoing tab</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+NDU2PC90ZD4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+MjAwPC90ZD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhZ2dyZWdhdGlvbnMubGVuZ3RoKTsK</text>
+        <text>feat: monitor outgoing tab</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlbXB0eSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhZ2dyZWdhdGlvbnMubGVuZ3RoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbGVjdGVkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7CiAgICByZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhlbXB0eSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlcnJvcik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbGVjdGVkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlcnJvcik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7CiAgICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
