@@ -32,7 +32,6 @@
         <entry>action EditorScrollToCenter</entry>
         <entry>action $Paste</entry>
         <entry>action ImplementMethods</entry>
-        <entry>action $Cut</entry>
         <entry>action Find</entry>
         <entry>action Replace</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
@@ -47,6 +46,7 @@
         <entry>action TsLintFileFixAction</entry>
         <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
+        <entry>action $Cut</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -129,6 +129,7 @@
         <mark key="^" line="24" column="22" />
         <mark key="." line="24" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/node_modules/@xstate/react/lib/index.d.ts" timestamp="1593619299645" />
       <file name="$USER_HOME$/Documents/restream-frontend/src/App.tsx" timestamp="1593603907456">
         <mark key="[" line="72" column="28" />
         <mark key="]" line="72" column="37" />
@@ -140,12 +141,6 @@
         <mark key="]" line="8" column="35" />
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/hooks/aggregations-hooks.ts" timestamp="1593501394950">
-        <mark key="[" line="104" column="4" />
-        <mark key="]" line="104" column="11" />
-        <mark key="." line="104" column="10" />
-        <mark key="^" line="104" column="11" />
       </file>
       <file name="/GraphQL.variables.json" timestamp="1593510470404">
         <mark key="[" line="0" column="0" />
@@ -186,11 +181,11 @@
         <mark key="." line="44" column="21" />
         <mark key="^" line="44" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/destintaions/Destinations.tsx" timestamp="1593617155979">
-        <mark key="[" line="38" column="9" />
-        <mark key="]" line="38" column="15" />
-        <mark key="^" line="38" column="15" />
-        <mark key="." line="38" column="14" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/destintaions/Destinations.tsx" timestamp="1593620067518">
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="38" column="35" />
+        <mark key="." line="38" column="34" />
+        <mark key="^" line="38" column="35" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1593602323617">
         <mark key="[" line="0" column="0" />
@@ -314,10 +309,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>src</text>
+        <text>'init'</text>
       </register>
       <register name="-" type="4">
-        <text>src</text>
+        <text>'init'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsUmVmXD4=</text>
@@ -326,37 +321,65 @@
         <text encoding="base64">ICAgICAgb246IHsKICAgICAgICBMT0FEOiAnbG9hZGluZycsCiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvYnV0dG9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gb25DbGljaz17fT4K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSwgc2VuZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaXZpZGUoKQo=</text>
+        <text encoding="base64">ICAgICAgdHlwZTogJ2ZpbmFsJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhjdHgsIGV2ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHRhcmdldDogJ2luaXQnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZW50cnk6ICdsb2FkaW5nJwo=</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgb24K</text>
+        <text encoding="base64">ICAgICAgICAgIGFjdGlvbnM6IHNlbmRQYXJlbnQoJ0xPQUQnKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Ly8gQHRzLWlnbm9yZQo=</text>
       </register>
+      <register name="8" type="4">
+        <text>{
+            delay: 1000
+          }</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text>const destinationMachine = Machine({
+  id: 'destination',
+  initial: 'init',
+  context: {
+    id: null,
+    title: null,
+  },
+  states: {
+    init: {
+      on: {
+        '': [{ target: 'loading' }],
+      },
+    },
+    loading: {
+      invoke: {
+        src: search,
+      },
+      on: {
+        'LOAD': {
+          actions: sendParent('LOAD', {
+            delay: 1000
+          })
+        }
+      }
+    },
+  },
+});</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action $Cut</text>
       </register>
     </registers>
   </component>
