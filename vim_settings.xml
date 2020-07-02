@@ -45,8 +45,8 @@
         <entry>action $SelectAll</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>action EditorDuplicate</entry>
-        <entry>action GotoFile</entry>
         <entry>action $Cut</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -110,12 +110,6 @@
         <mark key="^" line="23" column="17" />
         <mark key="." line="23" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chat-messages/session-chat-messages.tsx" timestamp="1593503130973">
-        <mark key="'" line="19" column="12" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/socket.ts" timestamp="1593511654620">
         <mark key="[" line="6" column="38" />
         <mark key="]" line="6" column="44" />
@@ -164,6 +158,10 @@
         <mark key="." line="143" column="107" />
         <mark key="^" line="143" column="108" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/store.tsx" timestamp="1593699575989">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="30" column="2" />
+      </file>
       <file name="/Dummy.txt" timestamp="1593586392139">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="25" />
@@ -194,7 +192,7 @@
         <mark key="." line="28" column="16" />
         <mark key="^" line="28" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/destintaions/destinationsMachine.ts" timestamp="1593697964879">
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/destintaions/destinationsMachine.ts" timestamp="1593699547980">
         <mark key="[" line="15" column="46" />
         <mark key="]" line="15" column="46" />
         <mark key="." line="15" column="46" />
@@ -307,7 +305,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZvcm1EYXRhID0gbmV3IEZvcm1EYXRhKCk7CiAgICBmb3JtRGF0YS5hcHBlbmQoJ2NoYW5uZWxJZCcsIGNoYW5uZWxJZCk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHRpdGxlc1N0b3JlQ29udGV4dCA9IGNyZWF0ZUNvbnRleHQ8SVRpdGxlc1N0b3JlPigKICAvLyBAdHMtaWdub3JlCiAgbnVsbCBhcyBJVGl0bGVzU3RvcmUsCik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -316,7 +314,7 @@
         <text encoding="base64">XDxjaGFubmVsUmVmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZvcm1EYXRhID0gbmV3IEZvcm1EYXRhKCk7CiAgICBmb3JtRGF0YS5hcHBlbmQoJ2NoYW5uZWxJZCcsIGNoYW5uZWxJZCk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHRpdGxlc1N0b3JlQ29udGV4dCA9IGNyZWF0ZUNvbnRleHQ8SVRpdGxlc1N0b3JlPigKICAvLyBAdHMtaWdub3JlCiAgbnVsbCBhcyBJVGl0bGVzU3RvcmUsCik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZS5jb250ZXh0KTsK</text>
@@ -349,7 +347,7 @@
         <text>e const</text>
       </register>
       <register name=":" type="4">
-        <text>action $Cut</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
   </component>
