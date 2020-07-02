@@ -175,17 +175,10 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/components/data-container/data-container.tsx" timestamp="1593503001112">
-        <mark key="[" line="44" column="21" />
-        <mark key="]" line="44" column="22" />
-        <mark key="." line="44" column="21" />
-        <mark key="^" line="44" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/destintaions/Destinations.tsx" timestamp="1593620067518">
-        <mark key="[" line="37" column="18" />
-        <mark key="]" line="38" column="35" />
-        <mark key="." line="38" column="34" />
-        <mark key="^" line="38" column="35" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/destintaions/Destinations.tsx" timestamp="1593674754090">
+        <mark key="[" line="64" column="58" />
+        <mark key="]" line="64" column="58" />
+        <mark key="." line="64" column="58" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1593602323617">
         <mark key="[" line="0" column="0" />
@@ -202,9 +195,14 @@
         <mark key="." line="28" column="16" />
         <mark key="^" line="28" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/destintaions/destinationsMachine.ts" timestamp="1593674669527">
+        <mark key="[" line="15" column="46" />
+        <mark key="]" line="15" column="46" />
+        <mark key="." line="15" column="46" />
+        <mark key="^" line="15" column="48" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="10" filename="$USER_HOME$/Documents/analytics-frontend/src/analytics/store/AnalyticsStore.ts" />
       <jump line="1" column="47" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-block/overview-block.tsx" />
       <jump line="4" column="49" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-block/overview-block.tsx" />
       <jump line="5" column="51" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-block/overview-block.tsx" />
@@ -304,79 +302,52 @@
       <jump line="12" column="12" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.tsx" />
       <jump line="23" column="18" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/monitor-incoming-fps/monitor-incoming-fps.tsx" />
       <jump line="154" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
+      <jump line="45" column="9" filename="$USER_HOME$/Documents/restream-frontend/src/views/destintaions/Destinations.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>'init'</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>'init'</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsUmVmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgb246IHsKICAgICAgICBMT0FEOiAnbG9hZGluZycsCiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGxvYWRlZDoge307Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZS5jb250ZXh0KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSwgc2VuZCk7Cg==</text>
+        <text encoding="base64">ICAgIGVycm9yOiB7fTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdHlwZTogJ2ZpbmFsJywK</text>
+        <text encoding="base64">ICAgIHJlZDogewogICAgICBzdGF0ZXM6IHsKICAgICAgICB3YWxrOiB7fTsKICAgICAgICB3YWl0OiB7fTsKICAgICAgICBzdG9wOiB7fTsKICAgICAgfTsKICAgIH07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRhcmdldDogJ2luaXQnLAo=</text>
+        <text encoding="base64">ICB8IHsgdHlwZTogJ1BFRF9DT1VOVERPV04nOyBkdXJhdGlvbjogbnVtYmVyIH07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGRlc3RpbmF0aW9uc01hY2hpbmUgPSBNYWNoaW5lKHt9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFjdGlvbnM6IHNlbmRQYXJlbnQoJ0xPQUQnKSwK</text>
+        <text encoding="base64">ICBlbnRyeTogc2VhcmNoLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">aW50ZXJmYWNlIElEZXN0aW5hdGlvbnNDb250ZXh0IHsKICBjaGFubmVsczogeyBpZDogbnVtYmVyOyByZWY6IGFueSB9W107Cn0K</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-            delay: 1000
-          }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgZGVzdGluYXRpb25zTWFjaGluZSA9IE1hY2hpbmU8SURlc3RpbmF0aW9uc0NvbnRleHQ+KHsKICBpbml0aWFsOiAnaWRsZScsCiAgZW50cnk6IHNlYXJjaCwKICBjb250ZXh0OiB7CiAgICBjaGFubmVsczogW10sCiAgfSwKICBzdGF0ZXM6IHsKICAgIGlkbGU6IHsKICAgICAgb246IHsKICAgICAgICBMT0FEOiAnbG9hZGluZycsCiAgICAgIH0sCiAgICB9LAogICAgbG9hZGluZzogewogICAgICBpbnZva2U6IHsKICAgICAgICBzcmM6IHNlYXJjaCwKICAgICAgICBvbkRvbmU6IHsKICAgICAgICAgIHRhcmdldDogJ2xvYWRlZCcsCiAgICAgICAgICBhY3Rpb25zOiBhc3NpZ24oewogICAgICAgICAgICBjaGFubmVsczogKGN0eCwgZXZlbnQpID0+IHsKICAgICAgICAgICAgICByZXR1cm4gZXZlbnQuZGF0YS5tYXAoKGk6IGFueSkgPT4gKHsKICAgICAgICAgICAgICAgIC4uLmksCiAgICAgICAgICAgICAgICByZWY6IHNwYXduKGRlc3RpbmF0aW9uTWFjaGluZS53aXRoQ29udGV4dChpKSksCiAgICAgICAgICAgICAgfSkpOwogICAgICAgICAgICB9LAogICAgICAgICAgfSksCiAgICAgICAgfSwKICAgICAgICBvbkVycm9yOiAnZXJyb3InLAogICAgICB9LAogICAgfSwKICAgIGxvYWRlZDogewogICAgICBvbjogewogICAgICAgIExPQUQ6ICdsb2FkaW5nJywKICAgICAgfSwKICAgIH0sCiAgICBlcnJvcjogewogICAgICBvbjogewogICAgICAgIExPQUQ6ICdsb2FkaW5nJywKICAgICAgfSwKICAgIH0sCiAgfSwKfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>const destinationMachine = Machine({
-  id: 'destination',
-  initial: 'init',
-  context: {
-    id: null,
-    title: null,
-  },
-  states: {
-    init: {
-      on: {
-        '': [{ target: 'loading' }],
-      },
-    },
-    loading: {
-      invoke: {
-        src: search,
-      },
-      on: {
-        'LOAD': {
-          actions: sendParent('LOAD', {
-            delay: 1000
-          })
-        }
-      }
-    },
-  },
-});</text>
+        <text>e const</text>
       </register>
       <register name=":" type="4">
         <text>action $Cut</text>
