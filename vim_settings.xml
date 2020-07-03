@@ -104,63 +104,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/components/ErrorView/ErrorView.module.scss" timestamp="1593519738613">
-        <mark key="[" line="23" column="19" />
-        <mark key="]" line="23" column="20" />
-        <mark key="^" line="23" column="17" />
-        <mark key="." line="23" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/socket.ts" timestamp="1593511654620">
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="6" column="44" />
-        <mark key="." line="6" column="43" />
-        <mark key="^" line="6" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/header/session-header.tsx" timestamp="1593510675068">
-        <mark key="'" line="55" column="10" />
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="22" />
-        <mark key="^" line="24" column="22" />
-        <mark key="." line="24" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/node_modules/@xstate/react/lib/index.d.ts" timestamp="1593619299645" />
-      <file name="$USER_HOME$/Documents/restream-frontend/src/App.tsx" timestamp="1593603907456">
-        <mark key="[" line="72" column="28" />
-        <mark key="]" line="72" column="37" />
-        <mark key="." line="72" column="36" />
-        <mark key="^" line="72" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/.env.production" timestamp="1593519865937">
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="8" column="35" />
-        <mark key="." line="8" column="34" />
-        <mark key="^" line="8" column="35" />
-      </file>
-      <file name="/GraphQL.variables.json" timestamp="1593510470404">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" timestamp="1593586321014">
         <mark key="'" line="157" column="0" />
         <mark key="[" line="151" column="46" />
         <mark key="]" line="151" column="47" />
         <mark key="^" line="151" column="31" />
         <mark key="." line="151" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.module.scss" timestamp="1593519598931">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.tsx" timestamp="1593510563906">
-        <mark key="'" line="12" column="12" />
-        <mark key="[" line="143" column="97" />
-        <mark key="]" line="143" column="108" />
-        <mark key="." line="143" column="107" />
-        <mark key="^" line="143" column="108" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/store.tsx" timestamp="1593699645774">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="30" column="2" />
       </file>
       <file name="/Dummy.txt" timestamp="1593586392139">
         <mark key="[" line="0" column="24" />
@@ -177,8 +126,20 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="28" column="44" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1593692774798">
+      <file name="$USER_HOME$/Documents/analytics-frontend/.env.production" timestamp="1593519865937">
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="8" column="35" />
+        <mark key="." line="8" column="34" />
+        <mark key="^" line="8" column="35" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1593759167488">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/components/ErrorView/ErrorView.module.scss" timestamp="1593519738613">
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="23" column="20" />
+        <mark key="^" line="23" column="17" />
+        <mark key="." line="23" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-outgoing/session-monitor-outgoing.module.scss" timestamp="1593503315926">
         <mark key="[" line="26" column="42" />
@@ -186,17 +147,55 @@
         <mark key="." line="26" column="43" />
         <mark key="^" line="26" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/socket.ts" timestamp="1593511654620">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="44" />
+        <mark key="." line="6" column="43" />
+        <mark key="^" line="6" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.module.scss" timestamp="1593519598931">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.tsx" timestamp="1593510563906">
+        <mark key="'" line="12" column="12" />
+        <mark key="[" line="143" column="97" />
+        <mark key="]" line="143" column="108" />
+        <mark key="." line="143" column="107" />
+        <mark key="^" line="143" column="108" />
+      </file>
+      <file name="/GraphQL.variables.json" timestamp="1593510470404">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/header/session-header.tsx" timestamp="1593510675068">
+        <mark key="'" line="55" column="10" />
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="22" />
+        <mark key="^" line="24" column="22" />
+        <mark key="." line="24" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-outgoing/session-monitor-outgoing.tsx" timestamp="1593506387801">
         <mark key="[" line="28" column="10" />
         <mark key="]" line="28" column="17" />
         <mark key="." line="28" column="16" />
         <mark key="^" line="28" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/store.tsx" timestamp="1593699645774">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="30" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/destintaions/destinationsMachine.ts" timestamp="1593699547980">
         <mark key="[" line="15" column="46" />
         <mark key="]" line="15" column="46" />
         <mark key="." line="15" column="46" />
         <mark key="^" line="15" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/App.tsx" timestamp="1593603907456">
+        <mark key="[" line="72" column="28" />
+        <mark key="]" line="72" column="37" />
+        <mark key="." line="72" column="36" />
+        <mark key="^" line="72" column="37" />
       </file>
     </filemarks>
     <jumps>
