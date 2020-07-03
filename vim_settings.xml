@@ -143,11 +143,11 @@
         <mark key="]" line="158" column="16" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593779580199">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="40" />
-        <mark key="^" line="0" column="40" />
-        <mark key="." line="0" column="39" />
+      <file name="/Dummy.txt" timestamp="1593780089567">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/.env.production" timestamp="1593780059912">
         <mark key="[" line="8" column="32" />
@@ -312,7 +312,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>fix: empty states</text>
+        <text>fix: clear query params on sessions page</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -324,34 +324,34 @@
         <text encoding="base64">ICB1c2VDbGVhclF1ZXJ5UGFyYW1zKHsgZXhjbHVkZTogWyd0YWInXSB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text>fix: empty states</text>
+        <text>fix: clear query params on sessions page</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlQ2xlYXJRdWVyeVBhcmFtcyB9IGZyb20gJ25leHQvaG9va3MvdXNlLXF1ZXJ5LXBhcmFtcyc7Cg==</text>
+        <text>fix: empty states</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgdXNlQ2xlYXJRdWVyeVBhcmFtcyB9IGZyb20gJ25leHQvaG9va3MvdXNlLXF1ZXJ5LXBhcmFtcyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVzZUNsZWFyUXVlcnlQYXJhbXMoKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA0MTYyMjYwMQogICAgICAgICAgICAgIHAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVxLmZldGNoT3B0cy5oZWFkZXJzWyd1c2VyLWlkJ10gPSAnMic7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text>feat: empty session on 403</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHVzZUNsZWFyUXVlcnlQYXJhbXMoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA0MTYyMjYwMQogICAgICAgICAgICAgIHAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcmVxLmZldGNoT3B0cy5oZWFkZXJzWyd1c2VyLWlkJ10gPSAnMic7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text>feat: empty session on 403</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">LnRhYmxlLXdyYXBwZXIgewogIGRpc3BsYXk6IGZsZXg7CiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICBmbGV4OiAxOwp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
