@@ -44,8 +44,8 @@
         <entry>action Vcs.UpdateProject</entry>
         <entry>action $SelectAll</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action $Cut</entry>
+        <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
@@ -111,37 +111,6 @@
         <mark key="^" line="151" column="31" />
         <mark key="." line="151" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.module.scss" timestamp="1593762603036">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chat-messages/session-chat-messages.module.scss" timestamp="1593762491895">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.tsx" timestamp="1593762578327">
-        <mark key="'" line="12" column="12" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chat-messages/session-chat-messages.tsx" timestamp="1593762823952">
-        <mark key="[" line="140" column="17" />
-        <mark key="]" line="140" column="17" />
-        <mark key="." line="140" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/store.tsx" timestamp="1593699645774">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="30" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/App.tsx" timestamp="1593603907456">
-        <mark key="[" line="72" column="28" />
-        <mark key="]" line="72" column="37" />
-        <mark key="." line="72" column="36" />
-        <mark key="^" line="72" column="37" />
-      </file>
       <file name="/Dummy.txt" timestamp="1593762851718">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="25" />
@@ -157,20 +126,50 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="28" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/.env.production" timestamp="1593519865937">
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="8" column="35" />
-        <mark key="." line="8" column="34" />
-        <mark key="^" line="8" column="35" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.module.scss" timestamp="1593762603036">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1593764915014">
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/relay/environment.ts" timestamp="1593777279930">
+        <mark key="[" line="75" column="42" />
+        <mark key="]" line="75" column="43" />
+        <mark key="." line="75" column="42" />
+        <mark key="^" line="75" column="43" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1593777135464">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chat-messages/session-chat-messages.module.scss" timestamp="1593762491895">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-outgoing/session-monitor-outgoing.module.scss" timestamp="1593762472991">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="24" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.tsx" timestamp="1593778374902">
+        <mark key="'" line="12" column="12" />
+        <mark key="[" line="89" column="13" />
+        <mark key="]" line="89" column="51" />
+        <mark key="." line="89" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chat-messages/session-chat-messages.tsx" timestamp="1593778305145">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="38" />
+        <mark key="." line="140" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-viewers/session-viewers.tsx" timestamp="1593778317042">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="38" />
+        <mark key="." line="129" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/store.tsx" timestamp="1593699645774">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="30" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chat-trends/session-chat-trends.module.scss" timestamp="1593762487125">
         <mark key="[" line="23" column="0" />
@@ -188,10 +187,21 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/App.tsx" timestamp="1593603907456">
+        <mark key="[" line="72" column="28" />
+        <mark key="]" line="72" column="37" />
+        <mark key="." line="72" column="36" />
+        <mark key="^" line="72" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-followers/session-followers.module.scss" timestamp="1593762220130">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-followers/session-followers.tsx" timestamp="1593778332341">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="38" />
+        <mark key="." line="101" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -299,17 +309,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>markup</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVtcHR5PXshYWdncmVnYXRpb25zLmxlbmd0aH0K</text>
       </register>
       <register name="-" type="4">
-        <text>markup</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsUmVmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHRpdGxlc1N0b3JlQ29udGV4dCA9IGNyZWF0ZUNvbnRleHQ8SVRpdGxlc1N0b3JlPigKICAvLyBAdHMtaWdub3JlCiAgbnVsbCBhcyBJVGl0bGVzU3RvcmUsCik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVtcHR5PXshYWdncmVnYXRpb25zLmxlbmd0aH0K</text>
       </register>
       <register name="1" type="2">
         <text>feat: empty session on 403</text>
