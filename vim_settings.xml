@@ -147,6 +147,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="66" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chat-trends/session-chat-trends.tsx" timestamp="1595314770107">
+        <mark key="[" line="114" column="49" />
+        <mark key="]" line="114" column="61" />
+        <mark key="." line="114" column="60" />
+        <mark key="^" line="114" column="61" />
+      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/pages/SessionsPage/SessionsPage.tsx" timestamp="1593779517224">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -162,12 +168,6 @@
         <mark key="[" line="34" column="38" />
         <mark key="]" line="34" column="38" />
         <mark key="." line="34" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/hooks/use-query-params.ts" timestamp="1593779428710">
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="16" column="24" />
-        <mark key="^" line="16" column="24" />
-        <mark key="." line="16" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/elements/icon/img/error-icon.svg" timestamp="1595242860865" />
       <file name="/GraphQL.variables.json" timestamp="1594998924383">
@@ -302,10 +302,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>props</text>
+        <text>watched minutes</text>
       </register>
       <register name="-" type="4">
-        <text>props</text>
+        <text>watched minutes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaGFyZVw+</text>
