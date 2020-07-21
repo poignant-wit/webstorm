@@ -111,11 +111,11 @@
         <mark key="^" line="151" column="31" />
         <mark key="." line="151" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594998036623">
+      <file name="/Dummy.txt" timestamp="1595314794773">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/restream-landings/src/page-pricing-individuals/utils/PricingUrlParams.ts" timestamp="1594280895955">
         <mark key="'" line="1" column="44" />
@@ -164,14 +164,14 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/src/components/Menu/Menu.tsx" timestamp="1593779490725">
-        <mark key="[" line="34" column="38" />
-        <mark key="]" line="34" column="38" />
-        <mark key="." line="34" column="38" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/elements/icon/img/error-icon.svg" timestamp="1595242860865" />
       <file name="/GraphQL.variables.json" timestamp="1594998924383">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/TitlesPage.tsx" timestamp="1595325520739">
+        <mark key="'" line="85" column="10" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/next/Entry.tsx" timestamp="1594999015897">
         <mark key="[" line="46" column="30" />
@@ -197,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="49" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-block/overview-block.tsx" />
       <jump line="5" column="51" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-block/overview-block.tsx" />
       <jump line="43" column="17" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-block/overview-block.tsx" />
       <jump line="10" column="9" filename="$USER_HOME$/Documents/analytics-frontend/src/analytics/store/AnalyticsStore.ts" />
@@ -297,51 +296,52 @@
       <jump line="154" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-page.tsx" />
       <jump line="45" column="9" filename="$USER_HOME$/Documents/restream-frontend/src/views/destintaions/Destinations.tsx" />
       <jump line="1" column="44" filename="$USER_HOME$/Documents/restream-landings/src/page-pricing-individuals/utils/PricingUrlParams.ts" />
+      <jump line="85" column="10" filename="$USER_HOME$/Documents/restream-frontend/src/views/titles/TitlesPage.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>watched minutes</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zdCB7IHQgfSA9IHVzZVRyYW5zbGF0aW9uKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>watched minutes</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaGFyZVw+</text>
+        <text encoding="base64">XDx0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChyZXNwb25zZS5lcnJvcikgewogICAgICAgICAgICByZXR1cm4gIDxkaXY+RXJyb3I8L2Rpdj4KICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICBjb25zdCB7IHQgfSA9IHVzZVRyYW5zbGF0aW9uKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcy5jaGFubmVsLmRpc3BsYXlOYW1lKTsK</text>
+        <text>chore: prod env</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYWN0aXZlCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcy5jaGFubmVsLmRpc3BsYXlOYW1lKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWN0aXZlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgbWFjaGluZSA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlkCg==</text>
+        <text encoding="base64">Y29uc3QgbWFjaGluZSA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLkNoYQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsYXRmb3JtIHsKICAgICAgICAgICAgbmFtZQogICAgICAgICAgfQogICAgICAgICAgZGlzcGxheU5hbWUKICAgICAgICAgIGFjdGl2ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC4uLkNoYQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQHJlbGF5KHBsdXJhbDogdHJ1ZSkgewogICAgICAgICAgICAgICAgc3RhdGUgewogICAgICAgICAgICAgICAgICAgIGRhdGEgewogICAgICAgICAgICAgICAgICAgICAgICAuLi4gb24gQWdncmVnYXRpb25EYXRhTW9uaXRvckluY29taW5nIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZwcyB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ3JhcGggewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBsYXRmb3JtIHsKICAgICAgICAgICAgbmFtZQogICAgICAgICAgfQogICAgICAgICAgZGlzcGxheU5hbWUKICAgICAgICAgIGFjdGl2ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJhZ21lbnQgbW9uaXRvckluY29taW5nRnBzX2FnZ3JlZ2F0aW9ucyBvbiBBZ2dyZWdhdGlvbgogICAgICAgICAgICBAcmVsYXkocGx1cmFsOiB0cnVlKSB7CiAgICAgICAgICAgICAgICBzdGF0ZSB7CiAgICAgICAgICAgICAgICAgICAgZGF0YSB7CiAgICAgICAgICAgICAgICAgICAgICAgIC4uLiBvbiBBZ2dyZWdhdGlvbkRhdGFNb25pdG9ySW5jb21pbmcgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZnBzIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBncmFwaCB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY291bnQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQHJlbGF5KHBsdXJhbDogdHJ1ZSkgewogICAgICAgICAgICAgICAgc3RhdGUgewogICAgICAgICAgICAgICAgICAgIGRhdGEgewogICAgICAgICAgICAgICAgICAgICAgICAuLi4gb24gQWdncmVnYXRpb25EYXRhTW9uaXRvckluY29taW5nIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZwcyB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ3JhcGggewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -350,9 +350,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzaGFyZVw+</last-search>
+      <last-search encoding="base64">XDx0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaGFyZVw+</last-pattern>
+      <last-pattern encoding="base64">XDx0XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1c2VTZWxlY3RlZEFnZ3JlZ2F0aW9uSWRzXD4=</last-substitute>
       <last-dir>1</last-dir>
