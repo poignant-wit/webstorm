@@ -42,11 +42,11 @@
         <entry>action ReformatCode</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action Vcs.UpdateProject</entry>
-        <entry>action $SelectAll</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>action $Cut</entry>
         <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
+        <entry>action $SelectAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -151,11 +151,11 @@
         <mark key="." line="9" column="59" />
         <mark key="^" line="9" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595314794773">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="29" />
-        <mark key="^" line="0" column="29" />
-        <mark key="." line="0" column="28" />
+      <file name="/Dummy.txt" timestamp="1595573172232">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="55" />
+        <mark key="^" line="0" column="55" />
+        <mark key="." line="0" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/api.ts" timestamp="1595510050184">
         <mark key="'" line="54" column="2" />
@@ -284,7 +284,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgewogICAgICAgICAgaW5nZXN0IHsKICAgICAgICAgICAgdGl0bGUKICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text>fix: top chatters chart title</text>
       </register>
       <register name="-" type="4">
         <text>watched minutes</text>
@@ -296,37 +296,37 @@
         <text encoding="base64">ICBjb25zdCB7IHQgfSA9IHVzZVRyYW5zbGF0aW9uKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgewogICAgICAgICAgaW5nZXN0IHsKICAgICAgICAgICAgdGl0bGUKICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text>fix: top chatters chart title</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgIHtxdWVyeVByb3BzPy52aWV3ZXI/LnNlc3Npb24/LnNlcnZlci5pbmdlc3QudGl0bGUgfHwgJy0nfQogICAgICAgICAgICAgICAgICA8L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgewogICAgICAgICAgaW5nZXN0IHsKICAgICAgICAgICAgdGl0bGUKICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD5TZXJ2ZXI8L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgIHtxdWVyeVByb3BzPy52aWV3ZXI/LnNlc3Npb24/LnNlcnZlci5pbmdlc3QudGl0bGUgfHwgJy0nfQogICAgICAgICAgICAgICAgICA8L3RkPgo=</text>
       </register>
       <register name="4" type="2">
-        <text>chore: prod env</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD5TZXJ2ZXI8L3RkPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcy5jaGFubmVsLmRpc3BsYXlOYW1lKTsK</text>
+        <text>chore: prod env</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYWN0aXZlCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcy5jaGFubmVsLmRpc3BsYXlOYW1lKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWN0aXZlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgbWFjaGluZSA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlkCg==</text>
+        <text encoding="base64">Y29uc3QgbWFjaGluZSA9IAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action $SelectAll</text>
       </register>
     </registers>
   </component>
