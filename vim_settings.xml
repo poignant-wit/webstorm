@@ -111,17 +111,11 @@
         <mark key="^" line="151" column="31" />
         <mark key="." line="151" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/next/relay/socket.ts" timestamp="1594995994268">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="37" />
-        <mark key="." line="5" column="34" />
-        <mark key="^" line="5" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/next/relay/environment.ts" timestamp="1594996041154">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="66" column="30" />
+      <file name="$USER_HOME$/Documents/restream-ui-kit/src/button/button.tsx" timestamp="1595517792814" />
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.module.scss" timestamp="1595573061313">
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="26" column="33" />
+        <mark key="." line="26" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chat-trends/session-chat-trends.tsx" timestamp="1595314770107">
         <mark key="[" line="114" column="49" />
@@ -135,6 +129,11 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.tsx" timestamp="1595573028207">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/TitlesPage.tsx" timestamp="1595325520739">
         <mark key="'" line="85" column="10" />
         <mark key="[" line="85" column="0" />
@@ -145,10 +144,6 @@
         <mark key="]" line="72" column="41" />
         <mark key="^" line="72" column="41" />
         <mark key="." line="72" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/analytics-frontend/package.json" timestamp="1594995533041">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="67" column="171" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/next/Channel.tsx" timestamp="1594999154768">
         <mark key="[" line="9" column="37" />
@@ -161,12 +156,6 @@
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/package.json" timestamp="1594995299870">
-        <mark key="[" line="74" column="117" />
-        <mark key="]" line="74" column="116" />
-        <mark key="." line="74" column="115" />
-        <mark key="^" line="74" column="116" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/api.ts" timestamp="1595510050184">
         <mark key="'" line="54" column="2" />
@@ -295,7 +284,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCB7IHQgfSA9IHVzZVRyYW5zbGF0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgewogICAgICAgICAgaW5nZXN0IHsKICAgICAgICAgICAgdGl0bGUKICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>watched minutes</text>
@@ -307,34 +296,34 @@
         <text encoding="base64">ICBjb25zdCB7IHQgfSA9IHVzZVRyYW5zbGF0aW9uKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>chore: prod env</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgewogICAgICAgICAgaW5nZXN0IHsKICAgICAgICAgICAgdGl0bGUKICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcy5jaGFubmVsLmRpc3BsYXlOYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgIHtxdWVyeVByb3BzPy52aWV3ZXI/LnNlc3Npb24/LnNlcnZlci5pbmdlc3QudGl0bGUgfHwgJy0nfQogICAgICAgICAgICAgICAgICA8L3RkPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYWN0aXZlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD5TZXJ2ZXI8L3RkPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>chore: prod env</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgbWFjaGluZSA9IAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcy5jaGFubmVsLmRpc3BsYXlOYW1lKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlkCg==</text>
+        <text encoding="base64">ICAgICAgYWN0aXZlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLkNoYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsYXRmb3JtIHsKICAgICAgICAgICAgbmFtZQogICAgICAgICAgfQogICAgICAgICAgZGlzcGxheU5hbWUKICAgICAgICAgIGFjdGl2ZQo=</text>
+        <text encoding="base64">Y29uc3QgbWFjaGluZSA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQHJlbGF5KHBsdXJhbDogdHJ1ZSkgewogICAgICAgICAgICAgICAgc3RhdGUgewogICAgICAgICAgICAgICAgICAgIGRhdGEgewogICAgICAgICAgICAgICAgICAgICAgICAuLi4gb24gQWdncmVnYXRpb25EYXRhTW9uaXRvckluY29taW5nIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZwcyB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ3JhcGggewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlkCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
