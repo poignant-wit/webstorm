@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwdWdUZW1wbGF0ZXNcPg==</entry>
-        <entry encoding="base64">XDxlbW9qaXNcPg==</entry>
         <entry encoding="base64">XDxBbmFseXRpY3NDaGF0VHJlbmRzRGF0YVw+</entry>
         <entry encoding="base64">XDxjaGF0VHJlbmRzXD4=</entry>
         <entry encoding="base64">XDxhcnJvd1w+</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxzaGFyZVw+</entry>
         <entry encoding="base64">XDx0XD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVDaGFubmVsSW5mb1w+</entry>
+        <entry encoding="base64">XDxBYm9ydFNpZ25hbFw+</entry>
+        <entry encoding="base64">XDxjYXRlZ29yaWVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
@@ -117,15 +117,15 @@
         <mark key="^" line="0" column="55" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/api.ts" timestamp="1595586868488">
-        <mark key="'" line="54" column="2" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/api.ts" timestamp="1595589290137">
+        <mark key="'" line="131" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.module.scss" timestamp="1595573061313">
         <mark key="[" line="26" column="32" />
         <mark key="]" line="26" column="33" />
         <mark key="." line="26" column="33" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1595586346939">
+      <file name="/GraphQL.result.json" timestamp="1595849417416">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-chat-trends/session-chat-trends.tsx" timestamp="1595314770107">
@@ -156,6 +156,9 @@
       <file name="/GraphQL.variables.json" timestamp="1594998924383">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/components/platform-item/form/Form.tsx" timestamp="1595849550638">
+        <mark key="'" line="160" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/next/Entry.tsx" timestamp="1594999015897">
         <mark key="[" line="46" column="30" />
         <mark key="]" line="46" column="38" />
@@ -168,6 +171,10 @@
         <mark key="^" line="72" column="41" />
         <mark key="." line="72" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/actions.ts" timestamp="1595589146712">
+        <mark key="[" line="334" column="0" />
+        <mark key="]" line="335" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/next/Channel.tsx" timestamp="1594999154768">
         <mark key="[" line="9" column="37" />
         <mark key="]" line="9" column="60" />
@@ -176,9 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="17" filename="$USER_HOME$/Documents/analytics-frontend/src/next/pages/overview/overview-block/overview-block.tsx" />
-      <jump line="10" column="9" filename="$USER_HOME$/Documents/analytics-frontend/src/analytics/store/AnalyticsStore.ts" />
-      <jump line="41" column="4" filename="$USER_HOME$/Documents/analytics-frontend/src/analytics/store/AnalyticsStore.ts" />
       <jump line="5" column="2" filename="$USER_HOME$/Documents/analytics-frontend/src/analytics/store/AnalyticsStore.ts" />
       <jump line="4" column="2" filename="$USER_HOME$/Documents/analytics-frontend/src/analytics/store/AnalyticsStore.ts" />
       <jump line="40" column="4" filename="$USER_HOME$/Documents/analytics-frontend/src/analytics/store/AnalyticsStore.ts" />
@@ -276,21 +280,24 @@
       <jump line="1" column="44" filename="$USER_HOME$/Documents/restream-landings/src/page-pricing-individuals/utils/PricingUrlParams.ts" />
       <jump line="85" column="10" filename="$USER_HOME$/Documents/restream-frontend/src/views/titles/TitlesPage.tsx" />
       <jump line="54" column="2" filename="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/api.ts" />
+      <jump line="131" column="26" filename="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/api.ts" />
+      <jump line="156" column="13" filename="$USER_HOME$/Documents/restream-frontend/src/views/titles/components/platform-item/form/Form.tsx" />
+      <jump line="160" column="25" filename="$USER_HOME$/Documents/restream-frontend/src/views/titles/components/platform-item/form/Form.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>fix: top chatters chart title</text>
+        <text encoding="base64">ICAgICAgbGV0IGNvbnRyb2xsZXIgPSBuZXcgQWJvcnRDb250cm9sbGVyKCk7CiAgICAgIGxldCBzaWduYWwgPSBjb250cm9sbGVyLnNpZ25hbDsK</text>
       </register>
       <register name="-" type="4">
         <text>watched minutes</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVDaGFubmVsSW5mb1w+</text>
+        <text encoding="base64">XDxjYXRlZ29yaWVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCB7IHQgfSA9IHVzZVRyYW5zbGF0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0IGNvbnRyb2xsZXIgPSBuZXcgQWJvcnRDb250cm9sbGVyKCk7CiAgICAgIGxldCBzaWduYWwgPSBjb250cm9sbGVyLnNpZ25hbDsK</text>
       </register>
       <register name="1" type="2">
         <text>fix: top chatters chart title</text>
@@ -329,9 +336,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVDaGFubmVsSW5mb1w+</last-search>
+      <last-search encoding="base64">XDxjYXRlZ29yaWVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVDaGFubmVsSW5mb1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjYXRlZ29yaWVzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1c2VTZWxlY3RlZEFnZ3JlZ2F0aW9uSWRzXD4=</last-substitute>
       <last-dir>1</last-dir>
