@@ -111,11 +111,11 @@
         <mark key="^" line="151" column="31" />
         <mark key="." line="151" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595573172232">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="55" />
-        <mark key="^" line="0" column="55" />
-        <mark key="." line="0" column="54" />
+      <file name="/Dummy.txt" timestamp="1595951498357">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/api.ts" timestamp="1595589290137">
         <mark key="'" line="131" column="26" />
@@ -160,6 +160,12 @@
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/components/platform-item/PlatformItem.tsx" timestamp="1595850188758">
         <mark key="'" line="46" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/Events.tsx" timestamp="1595954089123">
+        <mark key="[" line="109" column="42" />
+        <mark key="]" line="109" column="48" />
+        <mark key="^" line="109" column="48" />
+        <mark key="." line="109" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/components/platform-item/form/Form.tsx" timestamp="1595922097086">
         <mark key="'" line="160" column="25" />
       </file>
@@ -169,12 +175,7 @@
         <mark key="." line="46" column="37" />
         <mark key="^" line="46" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/App.tsx" timestamp="1594996191880">
-        <mark key="[" line="72" column="35" />
-        <mark key="]" line="72" column="41" />
-        <mark key="^" line="72" column="41" />
-        <mark key="." line="72" column="40" />
-      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/App.tsx" timestamp="1595951765337" />
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/actions.ts" timestamp="1595589146712">
         <mark key="[" line="334" column="0" />
         <mark key="]" line="335" column="37" />
@@ -292,46 +293,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGNvbnRyb2xsZXIgPSBuZXcgQWJvcnRDb250cm9sbGVyKCk7CiAgICAgIGxldCBzaWduYWwgPSBjb250cm9sbGVyLnNpZ25hbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBUb2dnbGUK</text>
       </register>
       <register name="-" type="4">
-        <text>watched minutes</text>
+        <text>toAdd</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yaWVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGNvbnRyb2xsZXIgPSBuZXcgQWJvcnRDb250cm9sbGVyKCk7CiAgICAgIGxldCBzaWduYWwgPSBjb250cm9sbGVyLnNpZ25hbDsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="1" type="2">
-        <text>fix: top chatters chart title</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBUb2dnbGUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgewogICAgICAgICAgaW5nZXN0IHsKICAgICAgICAgICAgdGl0bGUKICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgIHtxdWVyeVByb3BzPy52aWV3ZXI/LnNlc3Npb24/LnNlcnZlci5pbmdlc3QudGl0bGUgfHwgJy0nfQogICAgICAgICAgICAgICAgICA8L3RkPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD5TZXJ2ZXI8L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text>chore: prod env</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcy5jaGFubmVsLmRpc3BsYXlOYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYWN0aXZlCg==</text>
+        <text encoding="base64">ICAgIGtvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGFyZ2V0OiAnZXZlbnQnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgbWFjaGluZSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NpZ24oewogICAgICAgICAgdGl0bGU6IChjdHg6IGFueSkgPT4gewogICAgICAgICAgICByZXR1cm4gY3R4LnRpdGxlOwogICAgICAgICAgfSwKICAgICAgICB9KSwK</text>
       </register>
       <register name=":" type="4">
         <text>action $SelectAll</text>
