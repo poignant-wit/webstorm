@@ -42,11 +42,11 @@
         <entry>action ReformatCode</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action Vcs.UpdateProject</entry>
-        <entry>action TsLintFileFixAction</entry>
         <entry>action $Cut</entry>
-        <entry>action $SelectAll</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
+        <entry>action $SelectAll</entry>
+        <entry>action TsLintFileFixAction</entry>
+        <entry>action EditorDuplicate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -104,11 +104,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventModalMachine.ts" timestamp="1596015149178">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="7" />
-        <mark key="^" line="18" column="7" />
-        <mark key="." line="18" column="6" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventModalMachine.ts" timestamp="1596018918860">
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="0" />
+        <mark key="^" line="217" column="45" />
+        <mark key="." line="192" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.module.scss" timestamp="1595573061313">
         <mark key="[" line="26" column="32" />
@@ -129,16 +129,21 @@
         <mark key="^" line="83" column="2" />
         <mark key="." line="83" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/makeDestinationRefs.ts" timestamp="1596015177275">
-        <mark key="[" line="0" column="56" />
-        <mark key="]" line="0" column="85" />
-        <mark key="^" line="0" column="85" />
-        <mark key="." line="0" column="84" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/makeDestinationRefs.ts" timestamp="1596016770949">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/components/platform-item/form/Form.tsx" timestamp="1595922097086">
         <mark key="'" line="160" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/App.tsx" timestamp="1595951765337" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/App.tsx" timestamp="1596018251758">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="72" column="72" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/actions.ts" timestamp="1595589146712">
         <mark key="[" line="334" column="0" />
         <mark key="]" line="335" column="37" />
@@ -149,6 +154,12 @@
         <mark key="]" line="19" column="12" />
         <mark key="." line="19" column="11" />
         <mark key="^" line="19" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/EventModal.tsx" timestamp="1596018226963">
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="24" column="32" />
+        <mark key="^" line="20" column="36" />
+        <mark key="." line="24" column="32" />
       </file>
       <file name="/Dummy.txt" timestamp="1595951498357">
         <mark key="[" line="0" column="10" />
@@ -169,18 +180,15 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/elements/textarea/Textarea.module.scss" timestamp="1595920968565" />
-      <file name="/" timestamp="1595495803743">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/__tests__/makeDestionationRefs.test.ts" timestamp="1596015057500">
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/__tests__/makeDestionationRefs.test.ts" timestamp="1596017911431">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="61" column="23" />
+        <mark key="]" line="61" column="32" />
+        <mark key="." line="61" column="31" />
+        <mark key="^" line="61" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="18" filename="$USER_HOME$/Documents/analytics-frontend/src/api/restream/analytics.ts" />
-      <jump line="123" column="17" filename="$USER_HOME$/Documents/analytics-frontend/src/api/restream/analytics.ts" />
       <jump line="124" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/api/restream/analytics.ts" />
       <jump line="125" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/api/restream/analytics.ts" />
       <jump line="126" column="0" filename="$USER_HOME$/Documents/analytics-frontend/src/api/restream/analytics.ts" />
@@ -279,54 +287,56 @@
       <jump line="107" column="34" filename="$USER_HOME$/Documents/restream-frontend/src/machines/eventForm.ts" />
       <jump line="116" column="36" filename="$USER_HOME$/Documents/restream-frontend/src/machines/eventForm.ts" />
       <jump line="120" column="36" filename="$USER_HOME$/Documents/restream-frontend/src/machines/eventForm.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/__tests__/makeDestionationRefs.test.ts" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/__tests__/makeDestionationRefs.test.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>channe</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>channe</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRUaXRsZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICBjb25zdCBbc3RhdGUsIHNlbmRdID0gdXNlTWFjaGluZSgKICAgIGV2ZW50Rm9ybU1hY2hpbmUud2l0aENvbnRleHQoewogICAgICB0aXRsZTogJycsCiAgICAgIGRlc2NyaXB0aW9uOiAnJywKCiAgICAgIGNoYW5uZWxzOiBbCiAgICAgICAgeyBpZDogMSwgZGlzcGxheU5hbWU6ICdmaXJzdCcsIHN0cmVhbWluZ1BsYXRmb3JtSWQ6IDEgfSwKICAgICAgICB7IGlkOiAyLCBkaXNwbGF5TmFtZTogJ3NlY29uZCcsIHN0cmVhbWluZ1BsYXRmb3JtSWQ6IDQgfSwKICAgICAgXSwKICAgICAgZGVzdGluYXRpb25zOiBbeyBpZDogJ2QxJywgY2hhbm5lbElkOiAxIH1dLAoKICAgICAgZGVzdGluYXRpb25SZWZzOiBbXSwKICAgIH0pLAogICk7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBpZiAoc3RhdGUubWF0Y2hlcygnc3VibWl0LnJlYWR5VG9TYXZlRGVzdGluYXRpb25zJykpIHsKICAgICAgY29uc29sZS5sb2coJ3JlYWR5IHRvIHNhdmUgZGVzdGluYXRpb25zIGFuZCBjbG9zZSBwb3B1cCcpOwogICAgfQogICAgaWYgKHN0YXRlLm1hdGNoZXMoJ3N1Ym1pdC5lcnJvcicpKSB7CiAgICAgIGNvbnNvbGUubG9nKCdzaG93IHN1Ym1pdCBlcnJvcicpOwogICAgfQogIH0sIFtzdGF0ZV0pOwoKICBjb25zdCByZW5kZXJFdmVudFN0ZXAgPSAoKSA9PiB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2PgogICAgICAgIDxkaXY+RXZlbnQ8L2Rpdj4KICAgICAgICA8aW5wdXQKICAgICAgICAgIHN0eWxlPXt7IGNvbG9yOiAnYmxhY2snIH19CiAgICAgICAgICB0eXBlPSJ0ZXh0IgogICAgICAgICAgdmFsdWU9e3N0YXRlLmNvbnRleHQudGl0bGV9CiAgICAgICAgICBvbkNoYW5nZT17KGUpID0+CiAgICAgICAgICAgIHNlbmQoeyB0eXBlOiBFdmVudEZvcm1FdmVudHMuU0VUX1RJVExFLCB0aXRsZTogZS50YXJnZXQudmFsdWUgfSkKICAgICAgICAgIH0KICAgICAgICAvPgogICAgICAgIHtzdGF0ZS5tYXRjaGVzKCdpZGxlLmV2ZW50U3RlcC50aXRsZS5lcnJvcicpICYmICgKICAgICAgICAgIDxzcGFuPkVycm9yIHRpdGxlPC9zcGFuPgogICAgICAgICl9CiAgICAgICAgPHRleHRhcmVhIC8+CiAgICAgICAge3N0YXRlLm1hdGNoZXMoJ2lkbGUuZXZlbnRTdGVwLmRlc2NyaXB0aW9uLmVycm9yJykgJiYgKAogICAgICAgICAgPHNwYW4+RXJyb3IgZGVzY3JpcHRpb248L3NwYW4+CiAgICAgICAgKX0KICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9eygpID0+IHNlbmQoRXZlbnRGb3JtRXZlbnRzLlNVQk1JVCl9Pk5leHQ8L2J1dHRvbj4KICAgICAgPC9kaXY+CiAgICApOwogIH07CgogIGNvbnN0IHJlbmRlckRlc3RpbmF0aW9uc1N0ZXAgPSAoKSA9PiB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2PgogICAgICAgIDxkaXY+RGVzdGluYXRpb25zPC9kaXY+CiAgICAgICAge3N0YXRlLmNvbnRleHQuZGVzdGluYXRpb25SZWZzLm1hcCgoY2hhbm5lbCwgaW5kZXgpID0+IHsKICAgICAgICAgIHJldHVybiA8RGVzdGluYXRpb24ga2V5PXtpbmRleH0gZGVzdGluYXRpb25SZWY9e2NoYW5uZWx9IC8+OwogICAgICAgIH0pfQogICAgICAgIDxkaXY+CiAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9eygpID0+IHNlbmQoRXZlbnRGb3JtRXZlbnRzLkJBQ0spfT5CYWNrPC9idXR0b24+CiAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9eygpID0+IHNlbmQoRXZlbnRGb3JtRXZlbnRzLlNVQk1JVCl9Pk5leHQ8L2J1dHRvbj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICApOwogIH07CgogIHJldHVybiAoCiAgICA8ZGl2PgogICAgICBFdmVudHMKICAgICAgPGg0Pnshc3RhdGUuY29udGV4dC5ldmVudElkID8gJ0NyZWF0ZSBldmVudCcgOiAnRWRpdCBldmVudCd9PC9oND4KICAgICAge3N0YXRlLm1hdGNoZXMoJ2lkbGUuZXZlbnRTdGVwJykgJiYgcmVuZGVyRXZlbnRTdGVwKCl9CiAgICAgIHtzdGF0ZS5tYXRjaGVzKCdpZGxlLmRlc3RpbmF0aW9uc1N0ZXAnKSAmJiByZW5kZXJEZXN0aW5hdGlvbnNTdGVwKCl9CiAgICA8L2Rpdj4KICApOwogIAogIAogIAogIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB7IGlkOiAnZDEnLCBjaGFubmVsSWQ6IDEgfSwKICAgICAgICB7IGlkOiAnZDInLCBjaGFubmVsSWQ6IDUgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdHlwZXMgfSBmcm9tICdtb2J4LXN0YXRlLXRyZWUnOwppbXBvcnQgeyBtYWtlQmFzZUNvbGxlY3Rpb25TdG9yZSB9IGZyb20gJy4uLy4uLy4uLy4uLy4uLy4uLy4uL3N0b3JlL2Jhc2UnOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IE1vZGVsID0gdHlwZXMubW9kZWwoewogICAgICBpZDogdHlwZXMuc3RyaW5nLAogICAgfSk7CiAgICBjb25zdCBDb2xsZWN0aW9uU3RvcmUgPSBtYWtlQmFzZUNvbGxlY3Rpb25TdG9yZShNb2RlbCk7CiAgICBjb25zdCBjb2xsZWN0aW9uU3RvcmUgPSBDb2xsZWN0aW9uU3RvcmUuY3JlYXRlKCk7Cg==</text>
+        <text encoding="base64">Ly8gQHRzLWlnbm9yZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gPGRpdj5FdmVudCBNb2RhbDwvZGl2PjsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKAogICAgICAgICAgICBjdHguY2hhbm5lbHMsCiAgICAgICAgICAgIGN0eC5kZXN0aW5hdGlvbnMsCiAgICAgICAgICAgIG1ha2VEZXN0aW5hdGlvblJlZnMoY3R4LmNoYW5uZWxzLCBjdHguZGVzdGluYXRpb25zKSwKICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">XSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVmLnN0YXRlLnRvU3RyaW5ncygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhc3NpZ24oewogICAgICAgICAgICAgICAgZGVzdGluYXRpb25SZWZzOiAoY3R4KSA9PiB7CiAgICAgICAgICAgICAgICAgIHJldHVybiBjdHguY2hhbm5lbHMubWFwKChpOiBhbnkpID0+CiAgICAgICAgICAgICAgICAgICAgc3Bhd24oCiAgICAgICAgICAgICAgICAgICAgICBldmVudERlc3RpbmF0aW9uRm9ybU1hY2hpbmUud2l0aENvbnRleHQoewogICAgICAgICAgICAgICAgICAgICAgICBjaGFubmVsSWQ6IGksCiAgICAgICAgICAgICAgICAgICAgICB9KSwKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICB9KSwK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjdHguZGVzdGluYXRpb25SZWZzLik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXNzaWduKHsKICAgICAgICAgICAgICAgdGl0bGU6IChjdHgsIGV2ZW50KSA9PiB7CiAgaWYgKGV2ZW50LnR5cGUgPT09IEV2ZW50Rm9ybUV2ZW50cy5TRVRfVElUTEUpIHsKICAgICAgICAgICAgY29uc29sZS5sb2coJ3NldFRpdGxlIGFjdGlvbicsIGV2ZW50LnRpdGxlKTsKICAgICAgICAgICAgcmV0dXJuIGV2ZW50LnRpdGxlOwogICAgICAgICAgfQoKICAgICAgICAgIHJldHVybiBjdHgudGl0bGU7CiAgICAgICAgfSwKICAgICAgfSksCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRXZlbnRzIH0gZnJvbSAnLi92aWV3cy9FdmVudHMnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZS50b1N0cmluZ3MoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb246IHsKICAgICAgICAgICAgICAnJzogWwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICB0YXJnZXQ6ICdzYXZlRXZlbnQnLAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICBdLAogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIGlkOiAnMScsCiAgICAgICAgY2hhbm5lbElkOiAxLAogICAgICB9LAogICAgICB7CiAgICAgICAgaWQ6ICcyJywKICAgICAgICBjaGFubmVsSWQ6IDUsCiAgICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action EditorDuplicate</text>
       </register>
     </registers>
   </component>
