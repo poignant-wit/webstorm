@@ -104,12 +104,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventModalMachine.ts" timestamp="1596018918860">
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="^" line="217" column="45" />
-        <mark key="." line="192" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/analytics-frontend/src/next/pages/session/session-monitor-incoming/session-monitor-incoming.module.scss" timestamp="1595573061313">
         <mark key="[" line="26" column="32" />
         <mark key="]" line="26" column="33" />
@@ -128,6 +122,12 @@
         <mark key="]" line="85" column="1" />
         <mark key="^" line="83" column="2" />
         <mark key="." line="83" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventDestinationMachine.ts" timestamp="1596023977806">
+        <mark key="[" line="70" column="27" />
+        <mark key="]" line="70" column="32" />
+        <mark key="^" line="70" column="32" />
+        <mark key="." line="70" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/makeDestinationRefs.ts" timestamp="1596016770949">
         <mark key="[" line="33" column="0" />
@@ -294,46 +294,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKGN0eCkgPT4gewogICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdlbmFibGUgbmV3JywgY3R4LmNoYW5uZWxJZCk7CiAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>BACK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRUaXRsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7IGlkOiAnZDEnLCBjaGFubmVsSWQ6IDEgfSwKICAgICAgICB7IGlkOiAnZDInLCBjaGFubmVsSWQ6IDUgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBbRXZlbnRGb3JtRXZlbnRzLkJBQ0tdOiAnZXZlbnRTdGVwJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKGN0eCkgPT4gewogICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdlbmFibGUgbmV3JywgY3R4LmNoYW5uZWxJZCk7CiAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzZW5kUGFyZW50KHsKICAgICAgICAgICAgICAgIHR5cGU6IEV2ZW50Rm9ybUV2ZW50cy5BRERfVE9fQ1JFQVRFX0xJU1QsCiAgICAgICAgICAgICAgICBjaGFubmVsSWQ6IGN0eC5jaGFubmVsSWQsCiAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKAogICAgICAgICAgICBjdHguY2hhbm5lbHMsCiAgICAgICAgICAgIGN0eC5kZXN0aW5hdGlvbnMsCiAgICAgICAgICAgIG1ha2VEZXN0aW5hdGlvblJlZnMoY3R4LmNoYW5uZWxzLCBjdHguZGVzdGluYXRpb25zKSwKICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdldmVudFN0ZXAnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVmLnN0YXRlLnRvU3RyaW5ncygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzZW5kUGFyZW50KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCkgPT4gewogICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd0dHR0Jyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjdHguZGVzdGluYXRpb25SZWZzLik7Cg==</text>
+        <text encoding="base64">Y29uc3Qgb25FbmFibGUgID0gY29uZChbCiAgewogICAgY29uZDogCiAgfQpdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXZlbnRzIH0gZnJvbSAnLi92aWV3cy9FdmVudHMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">Ly8gQHRzLWlnbm9yZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIGlkOiAnMScsCiAgICAgICAgY2hhbm5lbElkOiAxLAogICAgICB9LAogICAgICB7CiAgICAgICAgaWQ6ICcyJywKICAgICAgICBjaGFubmVsSWQ6IDUsCiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKAogICAgICAgICAgICBjdHguY2hhbm5lbHMsCiAgICAgICAgICAgIGN0eC5kZXN0aW5hdGlvbnMsCiAgICAgICAgICAgIG1ha2VEZXN0aW5hdGlvblJlZnMoY3R4LmNoYW5uZWxzLCBjdHguZGVzdGluYXRpb25zKSwKICAgICAgICAgICk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
