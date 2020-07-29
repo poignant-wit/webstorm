@@ -160,11 +160,11 @@
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/components/platform-item/PlatformItem.tsx" timestamp="1595850188758">
         <mark key="'" line="46" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/Events.tsx" timestamp="1595954386791">
-        <mark key="[" line="68" column="39" />
-        <mark key="]" line="68" column="44" />
-        <mark key="." line="68" column="43" />
-        <mark key="^" line="68" column="44" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/Events.tsx" timestamp="1596003954810">
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="34" column="6" />
+        <mark key="." line="34" column="5" />
+        <mark key="^" line="34" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/components/platform-item/form/Form.tsx" timestamp="1595922097086">
         <mark key="'" line="160" column="25" />
@@ -179,6 +179,12 @@
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/titles/store/actions.ts" timestamp="1595589146712">
         <mark key="[" line="334" column="0" />
         <mark key="]" line="335" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/machines/eventForm.ts" timestamp="1596004388346">
+        <mark key="[" line="16" column="52" />
+        <mark key="]" line="16" column="61" />
+        <mark key="^" line="16" column="61" />
+        <mark key="." line="16" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/next/Channel.tsx" timestamp="1594999154768">
         <mark key="[" line="9" column="37" />
@@ -292,47 +298,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
+      <register name="&quot;" type="4">
+        <text>FETCH_USER</text>
       </register>
       <register name="-" type="4">
-        <text>destionationsState</text>
+        <text>FETCH_USER</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yaWVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgIC4uLmN0eCwKICAgICAgICAgICAgZGVzdGluYXRpb25zVG9BZGQ6IGN0eC5kZXN0aW5hdGlvbnNUb0FkZC5maWx0ZXIoCiAgICAgICAgICAgICAgLy8gQHRzLWlnbm9yZQogICAgICAgICAgICAgIChkKSA9PiBkICE9PSBldmVudC5jaGFubmVsSWQsCiAgICAgICAgICAgICksCiAgICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICB0aXRsZTogc3RyaW5nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
+        <text encoding="base64">ICB1c2VyOiBVc2VyIHwgbnVsbDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3R4LmRlc3RpbmF0aW9uc1RvQWRkLmZpbHRlcigKICAgICAgICAgICAgLy8gQHRzLWlnbm9yZQogICAgICAgICAgICAoZCkgPT4gZCAhPT0gZXZlbnQuY2hhbm5lbElkLAogICAgICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgY2hhbm5lbHM6IFsxLCAyLCAzXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY3R4Owo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudC5jaGFubmVsSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVzdGluYXRpb25zSW5pdGk6IHsKICAgICAgICBpbml0aWFsOiBbXSwKICAgICAgICB0b0FkZDogW10sCiAgICAgICAgdG9SZW1vdmU6IFtdLAogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3R4LmRlc3RpbmF0aW9uc1RvQWRkLmZpbHRlcigKICAgICAgICAgICAgLy8gQHRzLWlnbm9yZQogICAgICAgICAgICAoZCkgPT4gZCAhPT0gZXZlbnQuY2hhbm5lbElkLAogICAgICAgICAgKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBUb2dnbGUK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY3R4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudC5jaGFubmVsSWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZGVzdGluYXRpb25zSW5pdGk6IHsKICAgICAgICBpbml0aWFsOiBbXSwKICAgICAgICB0b0FkZDogW10sCiAgICAgICAgdG9SZW1vdmU6IFtdLAogICAgICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBUb2dnbGUK</text>
       </register>
       <register name=":" type="4">
         <text>action $SelectAll</text>
