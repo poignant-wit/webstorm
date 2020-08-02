@@ -110,12 +110,6 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/destination/body/Destination.module.scss" timestamp="1596210912912">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="15" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/destination/body/DestinationBody.module.scss" timestamp="1596211042792">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="16" />
@@ -145,11 +139,18 @@
         <mark key="^" line="15" column="13" />
         <mark key="." line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" timestamp="1596359065823">
-        <mark key="[" line="83" column="56" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" timestamp="1596370134285">
+        <mark key="[" line="55" column="9" />
         <mark key="]" line="83" column="57" />
         <mark key="^" line="83" column="57" />
         <mark key="." line="83" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" timestamp="1596370719381">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="66" column="2" />
+        <mark key="]" line="66" column="15" />
+        <mark key="^" line="66" column="15" />
+        <mark key="." line="66" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/destination/Destination.module.scss" timestamp="1596356813999">
         <mark key="[" line="16" column="33" />
@@ -157,8 +158,11 @@
         <mark key="." line="17" column="19" />
         <mark key="^" line="17" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/destination/Destination.tsx" timestamp="1596357094670">
-        <mark key="^" line="60" column="14" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/destination/Destination.tsx" timestamp="1596370227416">
+        <mark key="[" line="57" column="33" />
+        <mark key="]" line="57" column="40" />
+        <mark key="^" line="57" column="40" />
+        <mark key="." line="57" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-step/EventStep.module.scss" timestamp="1596358427471">
         <mark key="[" line="5" column="10" />
@@ -321,47 +325,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB8IHsgdHlwZTogQ29tbW9uRXZlbnRzLlNFVF9WQUxJRF9TVEFURSB9CiAgfCB7IHR5cGU6IENvbW1vbkV2ZW50cy5TRVRfRVJST1JfU1RBVEUgfTsK</text>
+      <register name="&quot;" type="4">
+        <text>eventId</text>
       </register>
       <register name="-" type="4">
-        <text>Description</text>
+        <text>eventId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRfRVJST1JfU1RBVEVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPEZvcm1Hcm91cD4KICAgICAgICA8SW5wdXRMYWJlbD5EZXNjcmlwdGlvbjwvSW5wdXRMYWJlbD4KICAgICAgICA8VGV4dGFyZWEKICAgICAgICAgIHZhbHVlPXtzdGF0ZS5jb250ZXh0LmRlc2NyaXB0aW9ufQogICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PgogICAgICAgICAgICBzZW5kKEV2ZW50Q29tbW9uRGF0YUV2ZW50cy5TRVRfREVTQ1JJUFRJT04sIHsKICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogZS50YXJnZXQudmFsdWUsCiAgICAgICAgICAgIH0pCiAgICAgICAgICB9CiAgICAgICAgLz4KICAgICAgPC9Gb3JtR3JvdXA+Cg==</text>
+        <text encoding="base64">aW50ZXJmYWNlIEV2ZW50RGVzdGluYXRpb25Ub0VkaXQgewogIGV2ZW50SWQ6IHN0cmluZzsKICBwYXlsb2FkOiBFdmVudERlc3RpbmF0aW9uUGF5bG9hZDsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB8IHsgdHlwZTogQ29tbW9uRXZlbnRzLlNFVF9WQUxJRF9TVEFURSB9CiAgfCB7IHR5cGU6IENvbW1vbkV2ZW50cy5TRVRfRVJST1JfU1RBVEUgfTsK</text>
+        <text encoding="base64">ICBkZXN0aW5hdGlvbnNUb0VkaXQ6IHN0cmluZ1tdOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>feat: set payload/error</text>
+        <text encoding="base64">ICBkZXN0aW5hdGlvbnNUb0VkaXQ6IHN0cmluZ1tdOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8c3Bhbj5FcnJvciBpbnB1dDwvc3Bhbj4K</text>
+        <text encoding="base64">ICBwYXlsb2FkOiBFdmVudERlc3RpbmF0aW9uUGF5bG9hZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvPgogICAgICAgIDxzcGFuPkVycm9yIGlucHV0PC9zcGFuPgo=</text>
+        <text encoding="base64">ICBjaGFubmVsSWQ6IG51bWJlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbHVlPXtzdGF0ZS5jb250ZXh0LmRlc2NyaXB0aW9ufQogICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PgogICAgICAgICAgICBzZW5kKEV2ZW50Q29tbW9uRGF0YUV2ZW50cy5TRVRfREVTQ1JJUFRJT04sIHsKICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogZS50YXJnZXQudmFsdWUsCiAgICAgICAgICAgIH0pCiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICB8IHsgdHlwZTogQ29tbW9uRXZlbnRzLlNFVF9WQUxJRF9TVEFURSB9CiAgfCB7IHR5cGU6IENvbW1vbkV2ZW50cy5TRVRfRVJST1JfU1RBVEUgfTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUZXh0YXJlYQogICAgICAgICAgICB2YWx1ZT17c3RhdGUuY29udGV4dC5kZXNjcmlwdGlvbn0KICAgICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PgogICAgICAgICAgICAgIHNlbmQoRXZlbnRDb21tb25EYXRhRXZlbnRzLlNFVF9ERVNDUklQVElPTiwgewogICAgICAgICAgICAgICAgZGVzY3JpcHRpb246IGUudGFyZ2V0LnZhbHVlLAogICAgICAgICAgICAgIH0pCiAgICAgICAgICAgIH0KICAgICAgICAgIC8+Cg==</text>
+        <text>feat: set payload/error</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWU9e3N0YXRlLmNvbnRleHQuZGVzY3JpcHRpb259CiAgICAgICAgICAgIG9uQ2hhbmdlPXsoZSkgPT4KICAgICAgICAgICAgICBzZW5kKEV2ZW50Q29tbW9uRGF0YUV2ZW50cy5TRVRfREVTQ1JJUFRJT04sIHsKICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBlLnRhcmdldC52YWx1ZSwKICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c3Bhbj5FcnJvciBpbnB1dDwvc3Bhbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8Rm9ybUdyb3VwPgo=</text>
+        <text encoding="base64">ICAgICAgICAvPgogICAgICAgIDxzcGFuPkVycm9yIGlucHV0PC9zcGFuPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIEV2ZW50U3RlcFByb3BzIHsKICBzZXJ2aWNlOiBJbnRlcnByZXRlcjxJRXZlbnRNYWNoaW5lQ29udGV4dD47Cn0KCmNvbnN0IEV2ZW50U3RlcDogRkM8RXZlbnRTdGVwUHJvcHM+ID0gKHsgc2VydmljZSB9KSA9PiB7CiAgY29uc3QgW3N0YXRlLCBzZW5kXSA9IHVzZVNlcnZpY2Uoc2VydmljZSk7CgogIHJldHVybiAoCiAgICA8ZGl2PgogICAgICA8Rm9ybUdyb3VwPgogICAgICAgIDxJbnB1dExhYmVsPlRpdGxlPC9JbnB1dExhYmVsPgogICAgICAgIDxJbnB1dAogICAgICAgICAgdHlwZT0idGV4dCIKICAgICAgICAgIHZhbHVlPXtzdGF0ZS5jb250ZXh0LnRpdGxlfQogICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PgogICAgICAgICAgICBzZW5kKEV2ZW50Q29tbW9uRGF0YUV2ZW50cy5TRVRfVElUTEUsIHsgdGl0bGU6IGUudGFyZ2V0LnZhbHVlIH0pCiAgICAgICAgICB9CiAgICAgICAgICBlcnJvcj17c3RhdGUubWF0Y2hlcygndGl0bGUuZXJyb3InKX0KICAgICAgICAvPgogICAgICA8L0Zvcm1Hcm91cD4KICAgICAgPEZvcm1Hcm91cD4KICAgICAgICA8SW5wdXRMYWJlbD5EZXNjcmlwdGlvbjwvSW5wdXRMYWJlbD4KICAgICAgICA8VGV4dGFyZWEKICAgICAgICAgIHZhbHVlPXtzdGF0ZS5jb250ZXh0LmRlc2NyaXB0aW9ufQogICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PgogICAgICAgICAgICBzZW5kKEV2ZW50Q29tbW9uRGF0YUV2ZW50cy5TRVRfREVTQ1JJUFRJT04sIHsKICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogZS50YXJnZXQudmFsdWUsCiAgICAgICAgICAgIH0pCiAgICAgICAgICB9CiAgICAgICAgLz4KICAgICAgPC9Gb3JtR3JvdXA+CiAgICA8L2Rpdj4KICApOwp9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbHVlPXtzdGF0ZS5jb250ZXh0LmRlc2NyaXB0aW9ufQogICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PgogICAgICAgICAgICBzZW5kKEV2ZW50Q29tbW9uRGF0YUV2ZW50cy5TRVRfREVTQ1JJUFRJT04sIHsKICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogZS50YXJnZXQudmFsdWUsCiAgICAgICAgICAgIH0pCiAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
