@@ -186,11 +186,11 @@
         <mark key="]" line="130" column="0" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596378607014">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="24" />
+      <file name="/Dummy.txt" timestamp="1596379801902">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-step/EventStep.tsx" timestamp="1596379686695">
         <mark key="[" line="27" column="0" />
@@ -321,11 +321,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzdWJtaXQgbmVzdGVkJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>description</text>
       </register>
       <register name="-" type="4">
-        <text>'VALIDATE'</text>
+        <text>description</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21tb25QYXlsb2FkQWN0b3JcPg==</text>
@@ -334,34 +334,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZW5kKEV2ZW50QnVpbGRlckV2ZW50cy5TVUJNSVQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzdWJtaXQgbmVzdGVkJyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRXZlbnRCdWlsZGVyRXZlbnRzIH0gZnJvbSAnLi4vLi4vLi4vLi4vbWFjaGluZXMvZXZlbnRCdWlsZGVyJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzdWJtaXQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7Lyo8aW5wdXQgdHlwZT17J3N1Ym1pdCd9IGhpZGRlbj17dHJ1ZX0gLz4qL30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBvblN1Ym1pdDogKCkgPT4gdm9pZDsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzdWJtaXQgbmVzdGVkJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzdWJtaXQnKTs7CiAgICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzdWJtaXQnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPC9mb3JtPgo=</text>
+        <text encoding="base64">ICBvblN1Ym1pdDogKCkgPT4gdm9pZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZm9ybT4K</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzdWJtaXQnKTs7CiAgICAgICAgICA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxmb3JtCiAgICAgICAgICAgIG9uU3VibWl0PXsoZSkgPT4gewogICAgICAgICAgICAgIGUucHJldmVudERlZmF1bHQoKTsKICAgICAgICAgICAgICBzZW5kKEV2ZW50QnVpbGRlckV2ZW50cy5TVUJNSVQpOwogICAgICAgICAgICB9fQogICAgICAgICAgPgo=</text>
+        <text encoding="base64">ICAgICAgPC9mb3JtPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8Zm9ybT4K</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZm9ybT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Zvcm0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxmb3JtCiAgICAgICAgICAgIG9uU3VibWl0PXsoZSkgPT4gewogICAgICAgICAgICAgIGUucHJldmVudERlZmF1bHQoKTsKICAgICAgICAgICAgICBzZW5kKEV2ZW50QnVpbGRlckV2ZW50cy5TVUJNSVQpOwogICAgICAgICAgICB9fQogICAgICAgICAgPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
