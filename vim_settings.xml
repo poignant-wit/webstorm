@@ -45,8 +45,8 @@
         <entry>action $Cut</entry>
         <entry>action $SelectAll</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
+        <entry>action EditorDuplicate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -108,11 +108,11 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="20" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/image-picker/image-picker.tsx" timestamp="1596449271166">
-        <mark key="[" line="28" column="22" />
-        <mark key="]" line="29" column="20" />
-        <mark key="." line="29" column="19" />
-        <mark key="^" line="29" column="20" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/image-picker/image-picker.tsx" timestamp="1596453060168">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="21" column="31" />
+        <mark key="." line="21" column="30" />
+        <mark key="^" line="21" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/App.tsx" timestamp="1596445755676">
         <mark key="[" line="77" column="64" />
@@ -164,12 +164,12 @@
       <file name="/GraphQL.result.json" timestamp="1596446384072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/image-picker/image-picker.ts" timestamp="1596450101540">
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/image-picker/image-picker.ts" timestamp="1596453094335">
         <mark key="'" line="38" column="20" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="41" column="42" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/factory.ts" timestamp="1596377491981">
         <mark key="[" line="7" column="0" />
@@ -292,10 +292,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2V2ZW50JywgZXZlbnQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>file</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSSW1hZ2VVcGxvYWRlcklucHV0XD4=</text>
@@ -304,37 +304,37 @@
         <text encoding="base64">ICAgICAgLy8gICBzZXRUaW1lb3V0KHJlc29sdmUsIDEwMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2V2ZW50JywgZXZlbnQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGhpcy4nLCBmaWxlc1swXSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gZG9jdW1lbnQuYWN0aXZlRWxlbWVudC5vbmZvY3VzID0gZnVuY3Rpb24gKCkgewogICAgICAvLyAgIGRvY3VtZW50LmFjdGl2ZUVsZW1lbnQub25mb2N1cyA9IG51bGw7CiAgICAgIC8vICAgc2V0VGltZW91dChyZXNvbHZlLCAxMDApOwogICAgICAvLyB9Owo=</text>
+        <text encoding="base64">ICAgICAgICByZXNvbHZlKCd0ZXN0Jyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbGlzdGVuZXIK</text>
+        <text encoding="base64">ICAgICAgLy8gaWYgKG11bHRpcGxlKSB7CiAgICAgIC8vICAgcmV0dXJuIHJlc29sdmUoZmlsZXMpOwogICAgICAvLyB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZG9jdW1lbnQuYWN0aXZlRWxlbWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmVzb2x2ZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFjdGlvbnM6IHsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudC5hY3RpdmVFbGVtZW50LnJlbW92ZUV2ZW50TGlzdGVuZXIoJ2ZvY3VzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgc2V0RmlsZTogYXNzaWduKHsKICAgICAgICBmaWxlOiAoY3R4LCBldmVudCkgPT4KICAgICAgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudC5hY3RpdmVFbGVtZW50Lm9uZm9jdXMgPSBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action EditorDuplicate</text>
       </register>
     </registers>
   </component>
