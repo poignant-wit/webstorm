@@ -151,12 +151,6 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/youtube-form/YoutubeForm.module.scss" timestamp="1596357391253">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="3" column="28" />
-        <mark key="^" line="3" column="28" />
-        <mark key="." line="3" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/constants.ts" timestamp="1596376807949">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="3" column="23" />
@@ -179,11 +173,11 @@
         <mark key="]" line="130" column="0" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596379801902">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="32" />
-        <mark key="^" line="0" column="32" />
-        <mark key="." line="0" column="31" />
+      <file name="/Dummy.txt" timestamp="1596437664814">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-step/EventStep.tsx" timestamp="1596379686695">
         <mark key="[" line="27" column="0" />
@@ -318,7 +312,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L01vZGFsVmlld1Byb3ZpZGVyPgo=</text>
+        <text>feat: common payload submit form</text>
       </register>
       <register name="-" type="4">
         <text>description</text>
@@ -330,34 +324,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZW5kKEV2ZW50QnVpbGRlckV2ZW50cy5TVUJNSVQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L01vZGFsVmlld1Byb3ZpZGVyPgo=</text>
+        <text>feat: common payload submit form</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXZlbnRCdWlsZGVyRXZlbnRzIH0gZnJvbSAnLi4vLi4vLi4vLi4vbWFjaGluZXMvZXZlbnRCdWlsZGVyJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L01vZGFsVmlld1Byb3ZpZGVyPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7Lyo8aW5wdXQgdHlwZT17J3N1Ym1pdCd9IGhpZGRlbj17dHJ1ZX0gLz4qL30K</text>
+        <text encoding="base64">aW1wb3J0IHsgRXZlbnRCdWlsZGVyRXZlbnRzIH0gZnJvbSAnLi4vLi4vLi4vLi4vbWFjaGluZXMvZXZlbnRCdWlsZGVyJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzdWJtaXQgbmVzdGVkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7Lyo8aW5wdXQgdHlwZT17J3N1Ym1pdCd9IGhpZGRlbj17dHJ1ZX0gLz4qL30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzdWJtaXQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzdWJtaXQgbmVzdGVkJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvblN1Ym1pdDogKCkgPT4gdm9pZDsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzdWJtaXQnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzdWJtaXQnKTs7CiAgICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICBvblN1Ym1pdDogKCkgPT4gdm9pZDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPC9mb3JtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzdWJtaXQnKTs7CiAgICAgICAgICA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZm9ybT4K</text>
+        <text encoding="base64">ICAgICAgPC9mb3JtPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
