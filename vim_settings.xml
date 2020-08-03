@@ -108,7 +108,7 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="20" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/image-picker/image-picker.tsx" timestamp="1596446100850">
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/image-picker/image-picker.tsx" timestamp="1596449271166">
         <mark key="[" line="28" column="22" />
         <mark key="]" line="29" column="20" />
         <mark key="." line="29" column="19" />
@@ -120,10 +120,10 @@
         <mark key="." line="77" column="74" />
         <mark key="^" line="77" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" timestamp="1596377544898">
-        <mark key="'" line="76" column="30" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" timestamp="1596449078058">
+        <mark key="'" line="142" column="20" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="24" />
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" timestamp="1596378305703">
@@ -164,6 +164,13 @@
       <file name="/GraphQL.result.json" timestamp="1596446384072">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/image-picker/image-picker.ts" timestamp="1596450101540">
+        <mark key="'" line="38" column="20" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="41" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/factory.ts" timestamp="1596377491981">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -180,8 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/__tests__/makeDestionationRefs.test.ts" />
-      <jump line="172" column="27" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventModalMachine.ts" />
       <jump line="168" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventDestinationMachine.ts" />
       <jump line="42" column="17" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventDestinationMachine.ts" />
       <jump line="78" column="19" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventDestinationMachine.ts" />
@@ -280,51 +285,53 @@
       <jump line="34" column="27" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
       <jump line="63" column="2" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
       <jump line="10" column="70" filename="$USER_HOME$/Documents/rads-frontend/src/views/campaign/creation/description/form/DescriptionForm.tsx" />
+      <jump line="142" column="20" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="38" column="20" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/image-picker/image-picker.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc05hbWU9e3N0eWxlcy5pbnB1dH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>onChange</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSSW1hZ2VVcGxvYWRlcklucHV0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBbc3RhdGUsIHNlbmRdID0gdXNlTWFjaGluZShpbWFnZVBpY2tlck1hY2hpbmUpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gICBzZXRUaW1lb3V0KHJlc29sdmUsIDEwMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc05hbWU9e3N0eWxlcy5pbnB1dH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaW5wdXRSZWYuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gZG9jdW1lbnQuYWN0aXZlRWxlbWVudC5vbmZvY3VzID0gZnVuY3Rpb24gKCkgewogICAgICAvLyAgIGRvY3VtZW50LmFjdGl2ZUVsZW1lbnQub25mb2N1cyA9IG51bGw7CiAgICAgIC8vICAgc2V0VGltZW91dChyZXNvbHZlLCAxMDApOwogICAgICAvLyB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb3NudCAK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbGlzdGVuZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB1c2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB8IHsgdHlwZTogSW1hZ2VQaWNrZXJFdmVudHMuVkFMSURBVEUgfQogIHwgeyB0eXBlOiBJbWFnZVBpY2tlckV2ZW50cy5TRVRfREVTQ1JJUFRJT047IGRlc2NyaXB0aW9uOiBzdHJpbmcgfTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZG9jdW1lbnQuYWN0aXZlRWxlbWVudCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZXNjcmlwdGlvbjogc3RyaW5nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBTRVRfREVTQ1JJUFRJT04gPSAnU0VUX0RFU0NSSVBUSU9OJywKICBWQUxJREFURSA9ICdWQUxJREFURScsCg==</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudC5hY3RpdmVFbGVtZW50LnJlbW92ZUV2ZW50TGlzdGVuZXIoJ2ZvY3VzJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFjdGlvbnM6IHsKICAgICAgc2V0VGl0bGU6IGFzc2lnbih7CiAgICAgICAgdGl0bGU6IChjdHgsIGV2ZW50KSA9PiB7CiAgICAgICAgICBpZiAoZXZlbnQudHlwZSA9PT0gSW1hZ2VQaWNrZXJFdmVudHMuU0VUX1RJVExFKSB7CiAgICAgICAgICAgIHJldHVybiBldmVudC50aXRsZTsKICAgICAgICAgIH0KCiAgICAgICAgICByZXR1cm4gY3R4LnRpdGxlOwogICAgICAgIH0sCiAgICAgIH0pLAoKICAgICAgc2V0RGVzY3JpcHRpb246IGFzc2lnbih7CiAgICAgICAgZGVzY3JpcHRpb246IChjdHgsIGV2ZW50KSA9PiB7CiAgICAgICAgICBpZiAoZXZlbnQudHlwZSA9PT0gSW1hZ2VQaWNrZXJFdmVudHMuU0VUX0RFU0NSSVBUSU9OKSB7CiAgICAgICAgICAgIHJldHVybiBldmVudC5kZXNjcmlwdGlvbjsKICAgICAgICAgIH0KCiAgICAgICAgICByZXR1cm4gY3R4LmRlc2NyaXB0aW9uOwogICAgICAgIH0sCiAgICAgIH0pLAogICAgfSwKICAgIGd1YXJkczogewogICAgICBpc1RpdGxlVmFsaWQ6IChjdHgsIGV2ZW50KSA9PiB7CiAgICAgICAgaWYgKGV2ZW50LnR5cGUgPT09IEltYWdlUGlja2VyRXZlbnRzLlNFVF9USVRMRSkgewogICAgICAgICAgcmV0dXJuIGV2ZW50LnRpdGxlLmxlbmd0aCA+IDU7CiAgICAgICAgfQogICAgICAgIHJldHVybiBjdHgudGl0bGUubGVuZ3RoID4gNTsKICAgICAgfSwKICAgIH0s</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudC5hY3RpdmVFbGVtZW50Lm9uZm9jdXMgPSBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
