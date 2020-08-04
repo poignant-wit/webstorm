@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxTRVRfRVJST1JfU1RBVEVcPg==</entry>
         <entry encoding="base64">XDxzZW5kU3VibWl0XD4=</entry>
         <entry encoding="base64">XDxSRU1PVkVfREVTVElOQVRJT05cPg==</entry>
         <entry encoding="base64">XDxkZXN0aW5hdGlvbnNUb1JlbW92ZVw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxSSW1hZ2VVcGxvYWRlcklucHV0XD4=</entry>
         <entry encoding="base64">XDxjb21tb25cPg==</entry>
         <entry encoding="base64">XDxTRVRfQ09NTU9OX1BBWUxPQURcPg==</entry>
+        <entry encoding="base64">XDxzZW5kUmVtb3ZlRGVzdGluYXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
@@ -107,18 +107,19 @@
       <file name="$USER_HOME$/Documents/restream-frontend/src/index.scss" timestamp="1596464686861">
         <mark key="[" line="3" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" timestamp="1596542184353">
-        <mark key="[" line="25" column="10" />
-        <mark key="]" line="25" column="14" />
-        <mark key="." line="25" column="13" />
-        <mark key="^" line="25" column="14" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" timestamp="1596545371872">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="333" column="45" />
+        <mark key="]" line="333" column="52" />
+        <mark key="^" line="333" column="52" />
+        <mark key="." line="333" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" timestamp="1596533699982">
-        <mark key="'" line="133" column="0" />
-        <mark key="[" line="426" column="0" />
-        <mark key="]" line="426" column="0" />
-        <mark key="." line="426" column="0" />
-        <mark key="^" line="426" column="29" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" timestamp="1596545952717">
+        <mark key="'" line="103" column="15" />
+        <mark key="[" line="437" column="6" />
+        <mark key="]" line="437" column="12" />
+        <mark key="^" line="437" column="12" />
+        <mark key="." line="437" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/constants.ts" timestamp="1596535355547">
         <mark key="[" line="2" column="56" />
@@ -188,11 +189,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/destination/Destination.tsx" timestamp="1596535435826">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="55" column="40" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/destination/Destination.tsx" timestamp="1596545414408">
+        <mark key="[" line="57" column="25" />
+        <mark key="]" line="57" column="56" />
+        <mark key="^" line="57" column="56" />
+        <mark key="." line="57" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/api/index.ts" timestamp="1596532385266">
         <mark key="]" line="1" column="27" />
@@ -211,17 +212,14 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" timestamp="1596545738467">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="52" column="18" />
+        <mark key="." line="58" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="4" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventDestinationMachine.ts" />
-      <jump line="38" column="28" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventDestinationMachine.ts" />
-      <jump line="203" column="18" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventDestinationMachine.ts" />
-      <jump line="59" column="12" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventDestinationMachine.ts" />
-      <jump line="83" column="32" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventDestinationMachine.ts" />
-      <jump line="44" column="17" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventDestinationMachine.ts" />
-      <jump line="84" column="2" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventDestinationMachine.ts" />
-      <jump line="172" column="25" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventDestinationMachine.ts" />
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventDestinationMachine.ts" />
       <jump line="31" column="2" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventDestinationMachine.ts" />
       <jump line="37" column="2" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventDestinationMachine.ts" />
       <jump line="47" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/platforms/Youtube.tsx" />
@@ -313,51 +311,60 @@
       <jump line="149" column="18" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
       <jump line="135" column="29" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
       <jump line="133" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
+      <jump line="116" column="23" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="162" column="31" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="211" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="166" column="17" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="439" column="36" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
+      <jump line="81" column="46" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
+      <jump line="232" column="25" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
+      <jump line="103" column="15" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>TOGGLE</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>TOGGLE</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTRVRfQ09NTU9OX1BBWUxPQURcPg==</text>
+        <text encoding="base64">XDxzZW5kUmVtb3ZlRGVzdGluYXRpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBUT0dHTEUgPSAnVE9HR0xFJywK</text>
+        <text encoding="base64">ICBldmVudElkPzogc3RyaW5nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBhY3Rpb25zLAogIGFzc2lnbiwKICBJbnRlcnByZXRlciwKICBNYWNoaW5lLAogIHNlbmRQYXJlbnQsCiAgc2VuZFVwZGF0ZSwKICBzcGF3biwKfSBmcm9tICd4c3RhdGUnOwppbXBvcnQgeyBjaG9vc2UsIHNlbmQgfSBmcm9tICd4c3RhdGUvbGliL2FjdGlvbnMnOwppbXBvcnQgeyBQbGF0Zm9ybSB9IGZyb20gJy4uLy4uL3RpdGxlcy9zdG9yZS90eXBlcyc7CmltcG9ydCB7IG1ha2VEZXN0aW5hdGlvbk1hY2hpbmUgfSBmcm9tICcuL3BheWxvYWRzL2ZhY3RvcnknOwppbXBvcnQgeyBJWW91dHViZVBheWxvYWRNYWNoaW5lQ29udGV4dCB9IGZyb20gJy4vcGF5bG9hZHMveW91dHViZSc7CmltcG9ydCB7IEV2ZW50QnVpbGRlckV2ZW50cyB9IGZyb20gJy4vZXZlbnRCdWlsZGVyJzsKCmNvbnN0IHsgbG9nIH0gPSBhY3Rpb25zOwoKZXhwb3J0IGVudW0gRGVzdGluYXRpb25FdmVudHMgewogIFRPR0dMRSA9ICdUT0dHTEUnLAogIFRPR0dMRV9FRElUX01PREUgPSAnVE9HR0xFX0VESVRfTU9ERScsCiAgRURJVF9NT0RFX09GRiA9ICdFRElUX01PREVfT0ZGJywKCiAgU0VUX1BBWUxPQUQgPSAnU0VUX1BBWUxPQUQnLAogIFNFVF9FUlJPUiA9ICdTRVRfRVJST1InLAp9Cgp0eXBlIERlc3RpbmF0aW9uUGF5bG9hZEFjdG9yID0gSW50ZXJwcmV0ZXI8SVlvdXR1YmVQYXlsb2FkTWFjaGluZUNvbnRleHQ+OwoKdHlwZSBEZXN0aW5hdGlvblBheWxvYWQgPSB7IFtrZXk6IHN0cmluZ106IG51bWJlciB8IHN0cmluZyB9OwoKZXhwb3J0IGludGVyZmFjZSBJRGVzdGluYXRpb25NYWNoaW5lQ29udGV4dCB7CiAgY2hhbm5lbElkOiBudW1iZXI7CiAgZGVzdGluYXRpb25JZD86IHN0cmluZzsKICBkaXNwbGF5TmFtZTogc3RyaW5nOwogIHN0cmVhbWluZ1BsYXRmb3JtSWQ6IFBsYXRmb3JtOwoKICBwYXlsb2FkPzogRGVzdGluYXRpb25QYXlsb2FkOwogIGVycm9yPzogc3RyaW5nOwoKICBwYXlsb2FkQWN0b3JSZWY6IERlc3RpbmF0aW9uUGF5bG9hZEFjdG9yIHwgbnVsbDsKCiAgLy8gSW5pdGlhbCBwYXlsb2FkCiAgZXZlbnRUaXRsZT86IHN0cmluZzsKfQoKZXhwb3J0IGludGVyZmFjZSBJRGVzdGluYXRpb25NYWNoaW5lU3RhdGVzIHsKICBzdGF0ZXM6IHsKICAgIGluaXQ6IHt9OwogICAgaWRsZTogewogICAgICBzdGF0ZXM6IHsKICAgICAgICBwYXlsb2FkOiB7CiAgICAgICAgICBzdGF0ZXM6IHsKICAgICAgICAgICAgdmFsaWQ6IHt9OwogICAgICAgICAgICBlcnJvcjoge307CiAgICAgICAgICB9OwogICAgICAgIH07CiAgICAgICAgZWRpdDogewogICAgICAgICAgc3RhdGVzOiB7CiAgICAgICAgICAgIGNsb3NlZDoge307CiAgICAgICAgICAgIG9wZW5lZDoge307CiAgICAgICAgICB9OwogICAgICAgIH07CiAgICAgICAgYXZhaWxhYmlsaXR5OiB7CiAgICAgICAgICBzdGF0ZXM6IHsKICAgICAgICAgICAgZW5hYmxlZDoge307CiAgICAgICAgICAgIGRpc2FibGVkOiB7fTsKICAgICAgICAgIH07CiAgICAgICAgfTsKICAgICAgfTsKICAgIH07CiAgfTsKfQoKZXhwb3J0IHR5cGUgSURlc3RpbmF0aW9uTWFjaGluZUV2ZW50cyA9CiAgfCB7IHR5cGU6IERlc3RpbmF0aW9uRXZlbnRzLlRPR0dMRSB9CiAgfCB7IHR5cGU6IERlc3RpbmF0aW9uRXZlbnRzLkVESVRfTU9ERV9PRkYgfQogIHwgeyB0eXBlOiBEZXN0aW5hdGlvbkV2ZW50cy5UT0dHTEVfRURJVF9NT0RFIH0KICB8IHsgdHlwZTogRGVzdGluYXRpb25FdmVudHMuU0VUX1BBWUxPQUQ7IHBheWxvYWQ6IERlc3RpbmF0aW9uUGF5bG9hZCB9CiAgfCB7IHR5cGU6IERlc3RpbmF0aW9uRXZlbnRzLlNFVF9FUlJPUjsgZXJyb3I6IHN0cmluZyB9OwoKZXhwb3J0IGNvbnN0IGV2ZW50RGVzdGluYXRpb25Gb3JtTWFjaGluZSA9IE1hY2hpbmU8CiAgSURlc3RpbmF0aW9uTWFjaGluZUNvbnRleHQsCiAgSURlc3RpbmF0aW9uTWFjaGluZVN0YXRlcywKICBJRGVzdGluYXRpb25NYWNoaW5lRXZlbnRzCj4oCiAgewogICAgaW5pdGlhbDogJ2luaXQnLAogICAgc3RhdGVzOiB7CiAgICAgIGluaXQ6IHsKICAgICAgICBvbjogewogICAgICAgICAgJyc6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgIGFjdGlvbnM6IFsnbWFrZVBheWxvYWRBY3RvcicsICdzZW5kU3VibWl0J10sCiAgICAgICAgICAgICAgdGFyZ2V0OiAnaWRsZScsCiAgICAgICAgICAgIH0sCiAgICAgICAgICBdLAogICAgICAgIH0sCiAgICAgIH0sCgogICAgICBpZGxlOiB7CiAgICAgICAgdHlwZTogJ3BhcmFsbGVsJywKCiAgICAgICAgc3RhdGVzOiB7CiAgICAgICAgICBwYXlsb2FkOiB7CiAgICAgICAgICAgIGluaXRpYWw6ICd2YWxpZCcsCiAgICAgICAgICAgIHN0YXRlczogewogICAgICAgICAgICAgIHZhbGlkOiB7CiAgICAgICAgICAgICAgICBvbjogewogICAgICAgICAgICAgICAgICBbRGVzdGluYXRpb25FdmVudHMuU0VUX0VSUk9SXTogewogICAgICAgICAgICAgICAgICAgIHRhcmdldDogJ2Vycm9yJywKICAgICAgICAgICAgICAgICAgICBhY3Rpb25zOiBbCiAgICAgICAgICAgICAgICAgICAgICAnc2V0RXJyb3InLAogICAgICAgICAgICAgICAgICAgICAgJ2NsZWFyUGF5bG9hZCcsCiAgICAgICAgICAgICAgICAgICAgICAnc2VuZFJlbW92ZURlc3RpbmF0aW9uJywKICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICBbRGVzdGluYXRpb25FdmVudHMuU0VUX1BBWUxPQURdOiB7CiAgICAgICAgICAgICAgICAgICAgYWN0aW9uczogWydzZXRQYXlsb2FkJywgJ3NlbmRBZGREZXN0aW5hdGlvbiddLAogICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIGVycm9yOiB7CiAgICAgICAgICAgICAgICBvbjogewogICAgICAgICAgICAgICAgICBbRGVzdGluYXRpb25FdmVudHMuU0VUX1BBWUxPQURdOiB7CiAgICAgICAgICAgICAgICAgICAgdGFyZ2V0OiAndmFsaWQnLAogICAgICAgICAgICAgICAgICAgIGFjdGlvbnM6IFsnc2V0UGF5bG9hZCcsICdzZW5kQWRkRGVzdGluYXRpb24nXSwKICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgfSwKICAgICAgICAgIH0sCgogICAgICAgICAgZWRpdDogewogICAgICAgICAgICBpbml0aWFsOiAnY2xvc2VkJywKICAgICAgICAgICAgc3RhdGVzOiB7CiAgICAgICAgICAgICAgb3BlbmVkOiB7CiAgICAgICAgICAgICAgICBvbjogewogICAgICAgICAgICAgICAgICBbRGVzdGluYXRpb25FdmVudHMuVE9HR0xFX0VESVRfTU9ERV06ICdjbG9zZWQnLAogICAgICAgICAgICAgICAgICBbRGVzdGluYXRpb25FdmVudHMuRURJVF9NT0RFX09GRl06ICdjbG9zZWQnLAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIGNsb3NlZDogewogICAgICAgICAgICAgICAgb246IHsKICAgICAgICAgICAgICAgICAgW0Rlc3RpbmF0aW9uRXZlbnRzLlRPR0dMRV9FRElUX01PREVdOiB7CiAgICAgICAgICAgICAgICAgICAgdGFyZ2V0OiAnb3BlbmVkJywKICAgICAgICAgICAgICAgICAgICBhY3Rpb25zOiBbJ3NlbmRDaGFubmVsVG9FZGl0J10sCiAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIH0sCiAgICAgICAgICB9LAoKICAgICAgICAgIGF2YWlsYWJpbGl0eTogewogICAgICAgICAgICBpbml0aWFsOiAnZW5hYmxlZCcsCiAgICAgICAgICAgIHN0YXRlczogewogICAgICAgICAgICAgIGVuYWJsZWQ6IHsKICAgICAgICAgICAgICAgIG9uOiB7CiAgICAgICAgICAgICAgICAgIFtEZXN0aW5hdGlvbkV2ZW50cy5UT0dHTEVdOiB7CiAgICAgICAgICAgICAgICAgICAgdGFyZ2V0OiAnZGlzYWJsZWQnLAogICAgICAgICAgICAgICAgICAgIGFjdGlvbnM6IFsnc2VuZFJlbW92ZURlc3RpbmF0aW9uJ10sCiAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgZGlzYWJsZWQ6IHsKICAgICAgICAgICAgICAgIG9uOiB7CiAgICAgICAgICAgICAgICAgIFtEZXN0aW5hdGlvbkV2ZW50cy5UT0dHTEVdOiB7CiAgICAgICAgICAgICAgICAgICAgdGFyZ2V0OiAnZW5hYmxlZCcsCiAgICAgICAgICAgICAgICAgICAgYWN0aW9uczogWydzZW5kQWRkRGVzdGluYXRpb24nXSwKICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgfSwKICAgICAgICAgIH0sCiAgICAgICAgfSwKICAgICAgfSwKICAgIH0sCiAgfSwKICB7CiAgICBhY3Rpb25zOiB7CiAgICAgIG1ha2VQYXlsb2FkQWN0b3I6IGFzc2lnbih7CiAgICAgICAgcGF5bG9hZEFjdG9yUmVmOiAoY3R4KSA9PiB7CiAgICAgICAgICBjb25zdCBtYWNoaW5lID0gbWFrZURlc3RpbmF0aW9uTWFjaGluZShjdHguc3RyZWFtaW5nUGxhdGZvcm1JZCwgewogICAgICAgICAgICB0aXRsZTogY3R4LmV2ZW50VGl0bGUgfHwgJycsCiAgICAgICAgICB9KTsKCiAgICAgICAgICBpZiAobWFjaGluZSkgewogICAgICAgICAgICByZXR1cm4gc3Bhd24obWFjaGluZSwgJ3BheWxvYWQtYWN0b3InKSBhcyBEZXN0aW5hdGlvblBheWxvYWRBY3RvcjsKICAgICAgICAgIH0KICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0sCiAgICAgIH0pLAoKICAgICAgc2VuZENoYW5uZWxUb0VkaXQ6IHNlbmRQYXJlbnQoKGN0eCkgPT4gewogICAgICAgIHJldHVybiB7CiAgICAgICAgICB0eXBlOiBFdmVudEJ1aWxkZXJFdmVudHMuU0VUX0NIQU5ORUxfRURJVF9NT0RFLAogICAgICAgICAgY2hhbm5lbElkOiBjdHguY2hhbm5lbElkLAogICAgICAgIH07CiAgICAgIH0pLAoKICAgICAgc2VuZEFkZERlc3RpbmF0aW9uOiBzZW5kUGFyZW50KChjdHgpID0+IHsKICAgICAgICByZXR1cm4gewogICAgICAgICAgdHlwZTogJ0FERF9ERVNUSU5BVElPTicsCiAgICAgICAgICBjaGFubmVsSWQ6IGN0eC5jaGFubmVsSWQsCiAgICAgICAgICBkZXN0aW5hdGlvbklkOiBjdHguZGVzdGluYXRpb25JZCwKICAgICAgICAgIHBheWxvYWQ6IGN0eC5wYXlsb2FkLAogICAgICAgIH07CiAgICAgIH0pLAoKICAgICAgc2VuZFJlbW92ZURlc3RpbmF0aW9uOiBzZW5kUGFyZW50KChjdHgpID0+IHsKICAgICAgICByZXR1cm4gewogICAgICAgICAgdHlwZTogJ1JFTU9WRV9ERVNUSU5BVElPTicsCiAgICAgICAgICBjaGFubmVsSWQ6IGN0eC5jaGFubmVsSWQsCiAgICAgICAgICBkZXN0aW5hdGlvbklkOiBjdHguZGVzdGluYXRpb25JZCwKICAgICAgICB9OwogICAgICB9KSwKCiAgICAgIHNlbmRTdWJtaXQ6IHNlbmQoJ1NVQk1JVCcsIHsgdG86ICdwYXlsb2FkLWFjdG9yJyB9KSwKCiAgICAgIHNldFBheWxvYWQ6IGFzc2lnbih7CiAgICAgICAgcGF5bG9hZDogKGN0eCwgZXZlbnQpID0+IHsKICAgICAgICAgIGlmIChldmVudC50eXBlID09PSBEZXN0aW5hdGlvbkV2ZW50cy5TRVRfUEFZTE9BRCkgewogICAgICAgICAgICByZXR1cm4gZXZlbnQucGF5bG9hZDsKICAgICAgICAgIH0KCiAgICAgICAgICByZXR1cm4gY3R4LnBheWxvYWQ7CiAgICAgICAgfSwKICAgICAgfSksCgogICAgICBjbGVhclBheWxvYWQ6IGFzc2lnbih7CiAgICAgICAgcGF5bG9hZDogKF8pID0+ICh7fSksCiAgICAgIH0pLAoKICAgICAgc2V0RXJyb3I6IGFzc2lnbih7CiAgICAgICAgZXJyb3I6IChjdHgsIGV2ZW50KSA9PiB7CiAgICAgICAgICBpZiAoZXZlbnQudHlwZSA9PT0gRGVzdGluYXRpb25FdmVudHMuU0VUX0VSUk9SKSB7CiAgICAgICAgICAgIHJldHVybiBldmVudC5lcnJvcjsKICAgICAgICAgIH0KCiAgICAgICAgICByZXR1cm4gY3R4LmVycm9yOwogICAgICAgIH0sCiAgICAgIH0pLAogICAgfSwKICB9LAopOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGlvbnM6IFtdLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>feat(image-picker): button styles</text>
+        <text encoding="base64">ICAgICAgICAgICAgb246IHsKICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGxhdGZvcm0gfSBmcm9tICcuLi8uLi90eXBlcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnJzogWwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICB0YXJnZXQ6ICdzYXZlRXZlbnQnLAogICAgICAgICAgICAgICAgICBhY3Rpb25zOiBbXSwKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGVudW0gUGxhdGZvcm0gewogIEZBQ0VCT09LID0gMSwKICBZT1VUVUJFID0gMiwKfQo=</text>
+        <text encoding="base64">ICAgICAgICB7IGlkOiAxLCBkaXNwbGF5TmFtZTogJ2ZpcnN0Jywgc3RyZWFtaW5nUGxhdGZvcm1JZDogMiB9LAogICAgICAgIHsgaWQ6IDIsIGRpc3BsYXlOYW1lOiAnc2Vjb25kJywgc3RyZWFtaW5nUGxhdGZvcm1JZDogMiB9LAogICAgICAgIHsgaWQ6IDMsIGRpc3BsYXlOYW1lOiAndGhpcmQnLCBzdHJlYW1pbmdQbGF0Zm9ybUlkOiAyIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGxhdGZvcm0gfSBmcm9tICcuLi90eXBlcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY3R4LmV2ZW50SWQpIHsKICAgICAgICAgIGNvbnNvbGUubG9nKCdFRElUIGV2ZW50IHdpdGggcGFyYW1zJywgY3R4LnRpdGxlLCBjdHguZGVzY3JpcHRpb24pOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBjb25zb2xlLmxvZygnQ1JFQVRFIGV2ZW50IHdpdGggcGFyYW1zJywgY3R4LnRpdGxlLCBjdHguZGVzY3JpcHRpb24pOwogICAgICAgIH0KICAgICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKHsgaWQ6ICduZXcgZXZlbnQnIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGxhdGZvcm0gfSBmcm9tICcuLi8uLi8uLi8uLi90eXBlcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGxhdGZvcm0gfSBmcm9tICcuLi8uLi90eXBlcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgY3JlYXRlRGVzdGluYXRpb246IChjdHgpID0+IHsKICAgICAgICBjb25zb2xlLmxvZygnY3JlYXRlIGRlc3RpbmF0aW9uJyk7CiAgICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGxhdGZvcm0gfSBmcm9tICcuLi8uLi8uLi90eXBlcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXZlbnQuZGF0YSk7Cg==</text>
+        <text encoding="base64">ICBkZXN0aW5hdGlvbklkPzogc3RyaW5nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -366,9 +373,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTRVRfQ09NTU9OX1BBWUxPQURcPg==</last-search>
+      <last-search encoding="base64">XDxzZW5kUmVtb3ZlRGVzdGluYXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTRVRfQ09NTU9OX1BBWUxPQURcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5kUmVtb3ZlRGVzdGluYXRpb25cPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1c2VTZWxlY3RlZEFnZ3JlZ2F0aW9uSWRzXD4=</last-substitute>
       <last-dir>1</last-dir>
