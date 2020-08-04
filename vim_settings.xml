@@ -45,8 +45,8 @@
         <entry>action $SelectAll</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>action $Cut</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
+        <entry>action EditorDuplicate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -120,12 +120,12 @@
         <mark key="^" line="21" column="34" />
         <mark key="." line="21" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" timestamp="1596527838444">
-        <mark key="'" line="99" column="15" />
-        <mark key="[" line="245" column="33" />
-        <mark key="]" line="245" column="33" />
-        <mark key="^" line="245" column="34" />
-        <mark key="." line="245" column="33" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" timestamp="1596529201198">
+        <mark key="'" line="141" column="26" />
+        <mark key="[" line="403" column="24" />
+        <mark key="]" line="403" column="23" />
+        <mark key="." line="403" column="22" />
+        <mark key="^" line="403" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/date-picker/date-picker.scss" timestamp="1596466957790">
         <mark key="[" line="0" column="0" />
@@ -209,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="29" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventDestinationMachine.ts" />
       <jump line="24" column="15" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventDestinationMachine.ts" />
       <jump line="40" column="49" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventDestinationMachine.ts" />
       <jump line="25" column="2" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/eventDestinationMachine.ts" />
@@ -309,54 +308,55 @@
       <jump line="204" column="19" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
       <jump line="20" column="24" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
       <jump line="99" column="15" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
+      <jump line="141" column="26" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>feat(image-picker): button styles</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>styles</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRfQ09NTU9OX1BBWUxPQURcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBjdHguZGVzY3JpcHRpb24sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxvYWRpbmdFdmVudDoge30sCg==</text>
       </register>
       <register name="1" type="2">
-        <text>feat(image-picker): button styles</text>
+        <text encoding="base64">ICAgICAgY2hhOiB7fTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBvbjogewogICAgICAgIC8vICAgJyc6IHsKICAgICAgICAvLyAgICAgdGFyZ2V0OiAnaWRsZScsCiAgICAgICAgLy8gICB9LAogICAgICAgIC8vIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzdWJtaXQnKTsK</text>
+        <text>feat(image-picker): button styles</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZS5jb250ZXh0KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBbZGF0ZSwgc2V0RGF0ZV0gPSB1c2VTdGF0ZShuZXcgRGF0ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzdWJtaXQnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qPElucHV0IC8+Ki99Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZS5jb250ZXh0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvbgo=</text>
+        <text encoding="base64">ICBjb25zdCBbZGF0ZSwgc2V0RGF0ZV0gPSB1c2VTdGF0ZShuZXcgRGF0ZSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qPElucHV0IC8+Ki99Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6IDE0cHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action EditorDuplicate</text>
       </register>
     </registers>
   </component>
