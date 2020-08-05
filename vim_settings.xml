@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxSRU1PVkVfRlJPTV9DUkVBVEVfTElTVFw+</entry>
         <entry encoding="base64">XDxyZW1vdmVGcm9tRGVzdGluYXRpb25Ub0NyZWF0ZVw+</entry>
         <entry encoding="base64">XDxSRU1PVkVfRlJPTV9SRU1PVkVfTElTVFw+</entry>
         <entry encoding="base64">XDxFRElUX01PREVfT0ZGXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxzZW5kRGVzdGluYXRpb25FcnJvclw+</entry>
         <entry encoding="base64">XDxyZW5kZXJFdmVudEl0ZW1cPg==</entry>
         <entry encoding="base64">XDxyb290U3RvcmVcPg==</entry>
+        <entry encoding="base64">XDxjcmVhdGVEZXN0aW5hdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
@@ -128,19 +128,19 @@
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" timestamp="1596611130946">
-        <mark key="'" line="285" column="25" />
-        <mark key="[" line="505" column="21" />
-        <mark key="]" line="505" column="27" />
-        <mark key="." line="505" column="26" />
-        <mark key="^" line="505" column="27" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" timestamp="1596617057589">
+        <mark key="'" line="455" column="12" />
+        <mark key="[" line="291" column="0" />
+        <mark key="]" line="296" column="22" />
+        <mark key="." line="291" column="0" />
+        <mark key="^" line="457" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" timestamp="1596614888671">
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" timestamp="1596615706702">
         <mark key="'" line="317" column="23" />
-        <mark key="[" line="599" column="25" />
-        <mark key="]" line="599" column="44" />
-        <mark key="^" line="599" column="44" />
-        <mark key="." line="599" column="43" />
+        <mark key="[" line="596" column="56" />
+        <mark key="]" line="596" column="56" />
+        <mark key="." line="596" column="56" />
+        <mark key="^" line="602" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-step/EventStep.tsx" timestamp="1596549064261">
         <mark key="[" line="85" column="79" />
@@ -166,10 +166,10 @@
         <mark key="." line="174" column="45" />
         <mark key="^" line="174" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/settings/settings.tsx" timestamp="1596613688422">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/settings/settings.tsx" timestamp="1596615854818">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="33" />
+        <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/destination/header/DestinationHeader.tsx" timestamp="1596549676039">
@@ -177,6 +177,12 @@
         <mark key="]" line="38" column="64" />
         <mark key="." line="38" column="63" />
         <mark key="^" line="38" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/destination/Destination.tsx" timestamp="1596616181653">
+        <mark key="[" line="47" column="35" />
+        <mark key="]" line="47" column="40" />
+        <mark key="." line="47" column="39" />
+        <mark key="^" line="47" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/list/event-row/event-row.tsx" timestamp="1596613296066">
         <mark key="[" line="34" column="0" />
@@ -202,24 +208,20 @@
         <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/events/events-view-model.ts" timestamp="1596613910482" />
-      <file name="/Dummy.txt" timestamp="1596613451493">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="16" />
+      <file name="/Dummy.txt" timestamp="1596615897572">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="39" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" timestamp="1596613262243">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" timestamp="1596616140925">
+        <mark key="[" line="116" column="58" />
+        <mark key="]" line="116" column="72" />
+        <mark key="." line="116" column="71" />
+        <mark key="^" line="116" column="72" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
-      <jump line="185" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
-      <jump line="124" column="31" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
-      <jump line="165" column="23" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
-      <jump line="126" column="31" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
       <jump line="44" column="29" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
       <jump line="277" column="47" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
       <jump line="161" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
@@ -315,51 +317,56 @@
       <jump line="3" column="9" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
       <jump line="33" column="41" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
       <jump line="317" column="23" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
+      <jump line="242" column="38" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="194" column="28" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="463" column="42" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="473" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="445" column="12" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>createEvent</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbHdheXM6IFsKICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGFyZ2V0OiAnaWRsZScsCiAgICAgICAgICAgICAgICAgICAgICAgIGFjdGlvbnM6ICdzZW5kUGFyZW50RGVzdGluYXRpb25FcnJvcicsCiAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>createEvent</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb290U3RvcmVcPg==</text>
+        <text encoding="base64">XDxjcmVhdGVEZXN0aW5hdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcHVzaEV2ZW50SW50b1N0b3JlOiAoY3R4KSA9PiB7CiAgICAgICAgcm9vdFN0b3JlLmV2ZW50cy5jcmVhdGVFdmVudCh7IGlkOiBjdHguZXZlbnRJZCB9KTsKICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbnRyeTogJ3NlbmRQYXJlbnREZXN0aW5hdGlvbkVycm9yJywKICAgICAgICAgICAgICAgICAgICBvbjogewogICAgICAgICAgICAgICAgICAgICAgW0Rlc3RpbmF0aW9uRXZlbnRzLlNBVkVdOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRhcmdldDogJ3Byb2Nlc3NpbmcnLAogICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcm9vdFN0b3JlIH0gZnJvbSAnLi4vLi4vLi4vc3RvcmUnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbHdheXM6IFsKICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGFyZ2V0OiAnaWRsZScsCiAgICAgICAgICAgICAgICAgICAgICAgIGFjdGlvbnM6ICdzZW5kUGFyZW50RGVzdGluYXRpb25FcnJvcicsCiAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbnRyeTogJ3NlbmRQYXJlbnREZXN0aW5hdGlvbkVycm9yJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZUV2ZW50OiAoZXZlbnQ6IHsgaWQ6IHN0cmluZyB9KSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGV2ZW50KTsKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGN0eC5lcnJvcjsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">dmVudHMKICAgICAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdyZWplY3QnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3Rpb25zOiAncHVzaEV2ZW50SW50b1N0b3JlJywK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGV2ZW50LnR5cGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text>fix(events-page): remove unnecessary modal view conавввшавававtext</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChldmVudC50eXBlID09PSApIHsKICAgICAgICAgICAgcmV0dXJuIGV2ZW50LmVycm9yOwogICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgIGhhbmRsZUNsaWNrU2V0dGluZ3NHdWVzdExpbmsoZXZlbnQuaWQpOwogICAgICAgICAgICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbHdheXM6IFsKICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGFyZ2V0OiAnaWRsZScsCiAgICAgICAgICAgICAgICAgICAgICAgIGFjdGlvbnM6ICdzZW5kUGFyZW50RGVzdGluYXRpb25FcnJvcicsCiAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2csCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbnRyeToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvbkNsaWNrRWRpdDogKCkgPT4gdm9pZCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -368,9 +375,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyb290U3RvcmVcPg==</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVEZXN0aW5hdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb290U3RvcmVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVEZXN0aW5hdGlvblw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1c2VTZWxlY3RlZEFnZ3JlZ2F0aW9uSWRzXD4=</last-substitute>
       <last-dir>1</last-dir>
