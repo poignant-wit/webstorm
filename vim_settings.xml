@@ -132,11 +132,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" timestamp="1596630851971">
-        <mark key="'" line="487" column="0" />
-        <mark key="]" line="12" column="2" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" timestamp="1596640258837">
+        <mark key="'" line="169" column="18" />
+        <mark key="[" line="528" column="0" />
+        <mark key="]" line="528" column="0" />
         <mark key="^" line="12" column="2" />
-        <mark key="." line="12" column="1" />
+        <mark key="." line="528" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" timestamp="1596625626894">
         <mark key="'" line="679" column="12" />
@@ -225,7 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="283" column="52" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="26" column="10" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="96" column="30" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="32" column="16" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
@@ -325,12 +325,13 @@
       <jump line="52" column="10" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="484" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="35" column="17" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/facebook.tsx" />
+      <jump line="169" column="18" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>YoutubeForm</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZWRpdCBkZXN0aW5hdGlvbicsIGN0eCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>YoutubeForm</text>
@@ -342,34 +343,34 @@
         <text encoding="base64">ICAgICAgICAgIHJldHVybiBldmVudC50aXRsZS5sZW5ndGggPiAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text>feat: load event and destinations</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZWRpdCBkZXN0aW5hdGlvbicsIGN0eCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBldmVudC50aXRsZS5sZW5ndGggPT09IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjdHgucGF5bG9hZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL1BheWxvYWRGb3JtLm1vZHVsZS5zY3NzJzsK</text>
+        <text>feat: load event and destinations</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgWW91dHViZVBheWxvYWRBY3Rpb25zIH0gZnJvbSAnLi4vLi4vLi4vbWFjaGluZXMvcGF5bG9hZHMveW91dHViZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBldmVudC50aXRsZS5sZW5ndGggPT09IDA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL0ZhY2Vib29rLm1vZHVsZS5zY3NzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL1BheWxvYWRGb3JtLm1vZHVsZS5zY3NzJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YWN5U3RhdHVzOiBZb3V0dWJlUHJpdmFjeVN0YXR1cy5QVUJMSUMsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgWW91dHViZVBheWxvYWRBY3Rpb25zIH0gZnJvbSAnLi4vLi4vLi4vbWFjaGluZXMvcGF5bG9hZHMveW91dHViZSc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YWN5U3RhdHVzOiBZb3V0dWJlUHJpdmFjeVN0YXR1czsK</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL0ZhY2Vib29rLm1vZHVsZS5zY3NzJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRmFjZWJvb2sgfSBmcm9tICcuLi8uLi9jb21wb25lbnRzL3BheWxvYWRzL2ZhY2Vib29rL2ZhY2Vib29rJzsK</text>
+        <text encoding="base64">ICBwcml2YWN5U3RhdHVzOiBZb3V0dWJlUHJpdmFjeVN0YXR1cy5QVUJMSUMsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGVzdGluYXRpb25FdmVudHMgfSBmcm9tICcuLi9kZXN0aW5hdGlvbic7Cg==</text>
+        <text encoding="base64">ICBwcml2YWN5U3RhdHVzOiBZb3V0dWJlUHJpdmFjeVN0YXR1czsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
