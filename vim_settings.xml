@@ -202,11 +202,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596704115168">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="33" />
+      <file name="/Dummy.txt" timestamp="1596704752590">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event-delete/delete-event-modal.tsx" timestamp="1596703622663">
         <mark key="[" line="1" column="41" />
@@ -320,10 +320,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>expected</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>expected</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb3RTdXBwb3J0ZWRQYXlsb2FkTWFjaGluZUNvbnRleHRcPg==</text>
@@ -332,34 +332,34 @@
         <text encoding="base64">Ly8gICAgIGV4cGVjdChwcm9jZXNzZWQpLnRvRXF1YWwoZXhwZWN0ZWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fSkK</text>
+        <text>fix: production env events backend</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRlc3RpbmF0aW9ucyA9IFsKICAgICAgewogICAgICAgIGlkOiAnMScsCiAgICAgICAgY2hhbm5lbElkOiAxLAogICAgICAgIG1ldGE6IHsgdGl0bGU6ICd0aXRsZScgfSwKICAgICAgfSwKICAgIF07Cg==</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text>style: lint warnings</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRlc3RpbmF0aW9ucyA9IFsKICAgICAgewogICAgICAgIGlkOiAnMScsCiAgICAgICAgY2hhbm5lbElkOiAxLAogICAgICAgIG1ldGE6IHsgdGl0bGU6ICd0aXRsZScgfSwKICAgICAgfSwKICAgIF07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>feat: not-supported destination</text>
+        <text>style: lint warnings</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGVzdGluYXRpb25Nb2RlbCB9IGZyb20gJy4vRGVzdGluYXRpb25Nb2RlbCc7Cg==</text>
+        <text>feat: not-supported destination</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL2ZhY2Vib29rLm1vZHVsZS5zY3NzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgRGVzdGluYXRpb25Nb2RlbCB9IGZyb20gJy4vRGVzdGluYXRpb25Nb2RlbCc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgeyBsb2cgfSA9IGFjdGlvbnM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL2ZhY2Vib29rLm1vZHVsZS5zY3NzJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwo=</text>
+        <text encoding="base64">Y29uc3QgeyBsb2cgfSA9IGFjdGlvbnM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
