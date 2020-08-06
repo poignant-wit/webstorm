@@ -173,12 +173,11 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="29" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/rads-frontend/src/common/components/RImageUploaderInput/RImageUploaderInput.tsx" timestamp="1596714247839">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="20" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/api/client/buildAuthApiClient.ts" timestamp="1596728103376">
+      <file name="$USER_HOME$/Documents/restream-frontend/src/api/client/buildAuthApiClient.ts" timestamp="1596728772488">
         <mark key="'" line="44" column="9" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="68" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/facebook.tsx" timestamp="1596724169055">
         <mark key="'" line="216" column="0" />
@@ -200,11 +199,11 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="59" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596727576824">
+      <file name="/Dummy.txt" timestamp="1596728817853">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="36" />
-        <mark key="^" line="0" column="36" />
-        <mark key="." line="0" column="35" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/api/channels.ts" timestamp="1596727541858">
         <mark key="[" line="4" column="51" />
@@ -220,6 +219,12 @@
         <mark key="^" line="150" column="27" />
       </file>
       <file name="/destination.ts" timestamp="1596717092991" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.module.scss" timestamp="1596729395700">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="16" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="12" column="16" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="448" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
@@ -327,46 +332,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICByZWZyZXNoVG9rZW5Vcmw6IGAke1JFU1RSRUFNX1dFQl9IT1NUfS9hcGkvdXNlcmAsCg==</text>
+        <text>feat: show initial error event modal</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZyZXNoVG9rZW5VcmxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZWZyZXNoVG9rZW5Vcmw6IGAke1JFU1RSRUFNX1dFQl9IT1NUfS9hcGkvdXNlcmAsCg==</text>
+        <text encoding="base64">ICAgICAgLi4ueyAneC1heHNyZi10b2tlbic6IGdldENvb2tpZXMoJ2FjY2Vzc1hzcmZUb2tlbicpIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text>fix: remove logs</text>
+        <text>feat: show initial error event modal</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>feat: disable date-picker ranges</text>
+        <text>fix: remove logs</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXZlbnQpOwo=</text>
+        <text>feat: disable date-picker ranges</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGVzdGluYXRpb25SZWZDb250ZXh0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXZlbnQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGV2ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGVzdGluYXRpb25SZWZDb250ZXh0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGV2ZW50KTsK</text>
       </register>
       <register name="7" type="2">
-        <text>feat: validate fb and yt payloadsав</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text>feat: validate fb and yt payloadsав</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkYXlzT2ZXZWVrOiBbMF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
