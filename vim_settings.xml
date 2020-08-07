@@ -44,9 +44,9 @@
         <entry>action $Cut</entry>
         <entry>action ImplementMethods</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action $SelectAll</entry>
         <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
+        <entry>action $SelectAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -193,11 +193,11 @@
         <mark key="]" line="56" column="68" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596809672098">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="29" />
-        <mark key="^" line="0" column="29" />
-        <mark key="." line="0" column="28" />
+      <file name="/Dummy.txt" timestamp="1596811890217">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/youtube-form/youtube.tsx" timestamp="1596811687911">
         <mark key="'" line="11" column="0" />
@@ -325,11 +325,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text>feat: use-input-ref-with-focus hook</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>input</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkRXZlbnRcPg==</text>
@@ -338,37 +338,37 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVmPXtpbnB1dFRpdGxlUmVmfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4geyBpZiAoaW5wdXRUaXRsZVJlZi5jdXJyZW50KSB7CiAgICAgIGlucHV0VGl0bGVSZWYuY3VycmVudC5mb2N1cygpOwogICAgfQogIH0sIFtdKTsK</text>
+        <text>feat: use-input-ref-with-focus hook</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBpbnB1dFRpdGxlUmVmID0gdXNlUmVmPEhUTUxJbnB1dEVsZW1lbnQgfCBudWxsPihudWxsKTsK</text>
+        <text>fix: format date-picker input</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4geyBpZiAoaW5wdXRUaXRsZVJlZi5jdXJyZW50KSB7CiAgICAgIGlucHV0VGl0bGVSZWYuY3VycmVudC5mb2N1cygpOwogICAgfQogIH0sIFtdKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyB1c2VFZmZlY3QoKCkgPT4gewogIC8vICAgaWYgKGlucHV0VGl0bGVSZWYuY3VycmVudCkgewogIC8vICAgICBpbnB1dFRpdGxlUmVmLmN1cnJlbnQuZm9jdXMoKTsKICAvLyAgIH0KICAvLyB9LCBbXSk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBpbnB1dFRpdGxlUmVmID0gdXNlUmVmPEhUTUxJbnB1dEVsZW1lbnQgfCBudWxsPihudWxsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBpbnB1dFRpdGxlUmVmID0gdXNlUmVmPEhUTUxJbnB1dEVsZW1lbnQgfCBudWxsPihudWxsKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">cmVmYWN0b3I6IGV2ZW50LWNvbW1vbi1kYXRhIC0+IGNvbW1vbi1wYXlsb2Fk</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAvLyB1c2VFZmZlY3QoKCkgPT4gewogIC8vICAgaWYgKGlucHV0VGl0bGVSZWYuY3VycmVudCkgewogIC8vICAgICBpbnB1dFRpdGxlUmVmLmN1cnJlbnQuZm9jdXMoKTsKICAvLyAgIH0KICAvLyB9LCBbXSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAvLyBjb25zdCBpbnB1dFRpdGxlUmVmID0gdXNlUmVmPEhUTUxJbnB1dEVsZW1lbnQgfCBudWxsPihudWxsKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zdCAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZm9ybWF0RGF0ZSwgcGFyc2VEYXRlIH0gZnJvbSAncmVhY3QtZGF5LXBpY2tlci9tb21lbnQnOwo=</text>
+        <text encoding="base64">cmVmYWN0b3I6IGV2ZW50LWNvbW1vbi1kYXRhIC0+IGNvbW1vbi1wYXlsb2Fk</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action $SelectAll</text>
       </register>
     </registers>
   </component>
