@@ -45,8 +45,8 @@
         <entry>action ImplementMethods</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>action $SelectAll</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -107,12 +107,6 @@
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" timestamp="1596809233426">
         <mark key="'" line="449" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/api/client/index.ts" timestamp="1596728119534">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="51" />
-        <mark key="^" line="56" column="5" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/twitch.ts" timestamp="1596785256043">
         <mark key="'" line="4" column="20" />
         <mark key="[" line="2" column="0" />
@@ -120,10 +114,11 @@
         <mark key="^" line="115" column="31" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/default/default.tsx" timestamp="1596784495542">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="49" column="3" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/default/default.tsx" timestamp="1596811642052">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="47" />
+        <mark key="." line="31" column="29" />
+        <mark key="^" line="31" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" timestamp="1596784595774">
         <mark key="'" line="432" column="15" />
@@ -144,11 +139,11 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-step/EventStep.tsx" timestamp="1596810049029">
-        <mark key="'" line="79" column="12" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-step/EventStep.tsx" timestamp="1596811741788">
+        <mark key="'" line="73" column="12" />
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
         <mark key="^" line="22" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/facebook.ts" timestamp="1596785154697">
@@ -174,18 +169,17 @@
         <mark key="." line="17" column="36" />
         <mark key="^" line="17" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/facebook/facebook.tsx" timestamp="1596809822436">
-        <mark key="'" line="42" column="52" />
-        <mark key="[" line="17" column="44" />
-        <mark key="]" line="18" column="2" />
-        <mark key="^" line="18" column="2" />
-        <mark key="." line="18" column="1" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/facebook/facebook.tsx" timestamp="1596811757786">
+        <mark key="'" line="33" column="12" />
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/twitch/twitch.tsx" timestamp="1596784542066">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="34" column="38" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/twitch/twitch.tsx" timestamp="1596811684909">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="31" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="37" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/store/events/EventsStore.ts" timestamp="1596783762009">
         <mark key="[" line="153" column="50" />
@@ -205,6 +199,13 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/youtube-form/youtube.tsx" timestamp="1596811687911">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="33" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="61" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" timestamp="1596809167730">
         <mark key="'" line="74" column="16" />
         <mark key="[" line="74" column="43" />
@@ -220,7 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/destination/destination.tsx" />
       <jump line="209" column="19" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="204" column="34" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="512" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
@@ -320,54 +320,55 @@
       <jump line="449" column="47" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
       <jump line="167" column="13" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" />
       <jump line="73" column="16" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" />
+      <jump line="33" column="12" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/facebook/facebook.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBpbnB1dFRpdGxlUmVmID0gdXNlUmVmPEhUTUxJbnB1dEVsZW1lbnQgfCBudWxsPihudWxsKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXNlUmVmPEhUTUxJbnB1dEVsZW1lbnQgfCBudWxsPihudWxsKTs=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkRXZlbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBpbnB1dFRpdGxlUmVmID0gdXNlUmVmPEhUTUxJbnB1dEVsZW1lbnQgfCBudWxsPihudWxsKTsKCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGlmIChpbnB1dFRpdGxlUmVmLmN1cnJlbnQpIHsKICAgICAgaW5wdXRUaXRsZVJlZi5jdXJyZW50LmZvY3VzKCk7CiAgICB9CiAgfSwgW10pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVmPXtpbnB1dFRpdGxlUmVmfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBpbnB1dFRpdGxlUmVmID0gdXNlUmVmPEhUTUxJbnB1dEVsZW1lbnQgfCBudWxsPihudWxsKTsK</text>
+        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4geyBpZiAoaW5wdXRUaXRsZVJlZi5jdXJyZW50KSB7CiAgICAgIGlucHV0VGl0bGVSZWYuY3VycmVudC5mb2N1cygpOwogICAgfQogIH0sIFtdKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
+        <text encoding="base64">ICBjb25zdCBpbnB1dFRpdGxlUmVmID0gdXNlUmVmPEhUTUxJbnB1dEVsZW1lbnQgfCBudWxsPihudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVmYWN0b3I6IGV2ZW50LWNvbW1vbi1kYXRhIC0+IGNvbW1vbi1wYXlsb2Fk</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyB1c2VFZmZlY3QoKCkgPT4gewogIC8vICAgaWYgKGlucHV0VGl0bGVSZWYuY3VycmVudCkgewogIC8vICAgICBpbnB1dFRpdGxlUmVmLmN1cnJlbnQuZm9jdXMoKTsKICAvLyAgIH0KICAvLyB9LCBbXSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZm9ybWF0RGF0ZSwgcGFyc2VEYXRlIH0gZnJvbSAncmVhY3QtZGF5LXBpY2tlci9tb21lbnQnOwo=</text>
+        <text encoding="base64">ICAvLyBjb25zdCBpbnB1dFRpdGxlUmVmID0gdXNlUmVmPEhUTUxJbnB1dEVsZW1lbnQgfCBudWxsPihudWxsKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
       <register name="7" type="2">
-        <text>refactor: remove unused interfaces</text>
+        <text encoding="base64">cmVmYWN0b3I6IGV2ZW50LWNvbW1vbi1kYXRhIC0+IGNvbW1vbi1wYXlsb2Fk</text>
       </register>
       <register name="8" type="2">
-        <text>feat: twitch payload title validation</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXZlbnREZXN0aW5hdGlvblBheWxvYWQgfSBmcm9tICcuLi90eXBlcyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZm9ybWF0RGF0ZSwgcGFyc2VEYXRlIH0gZnJvbSAncmVhY3QtZGF5LXBpY2tlci9tb21lbnQnOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
   </component>
