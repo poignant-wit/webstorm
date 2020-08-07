@@ -45,8 +45,8 @@
         <entry>action ImplementMethods</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>action $SelectAll</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -110,11 +110,12 @@
         <mark key="^" line="56" column="5" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/twitch.ts" timestamp="1596784380258">
-        <mark key="[" line="110" column="20" />
-        <mark key="]" line="110" column="29" />
-        <mark key="^" line="110" column="29" />
-        <mark key="." line="110" column="28" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/twitch.ts" timestamp="1596785250066">
+        <mark key="'" line="5" column="20" />
+        <mark key="[" line="116" column="18" />
+        <mark key="]" line="116" column="19" />
+        <mark key="^" line="116" column="31" />
+        <mark key="." line="116" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/default/default.tsx" timestamp="1596784495542">
         <mark key="[" line="16" column="0" />
@@ -140,18 +141,16 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/constants.ts" timestamp="1596722159327">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="14" column="2" />
-        <mark key="^" line="14" column="2" />
-        <mark key="." line="14" column="1" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/youtube.tsx" timestamp="1596726416286">
         <mark key="'" line="64" column="49" />
         <mark key="[" line="198" column="41" />
         <mark key="]" line="198" column="46" />
         <mark key="." line="198" column="45" />
         <mark key="^" line="198" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/facebook.ts" timestamp="1596785154697">
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="206" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/factory.ts" timestamp="1596784408930">
         <mark key="[" line="32" column="11" />
@@ -197,11 +196,11 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="59" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596783869336">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="31" />
-        <mark key="^" line="0" column="31" />
-        <mark key="." line="0" column="30" />
+      <file name="/Dummy.txt" timestamp="1596785014900">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/api/channels.ts" timestamp="1596727541858">
         <mark key="[" line="4" column="51" />
@@ -209,8 +208,12 @@
         <mark key="." line="4" column="51" />
         <mark key="^" line="4" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" timestamp="1596783353606">
-        <mark key="'" line="141" column="60" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" timestamp="1596784950021">
+        <mark key="'" line="142" column="60" />
+        <mark key="[" line="107" column="14" />
+        <mark key="]" line="107" column="18" />
+        <mark key="." line="107" column="17" />
+        <mark key="^" line="107" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.module.scss" timestamp="1596729395700">
         <mark key="[" line="12" column="15" />
@@ -220,8 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
-      <jump line="208" column="13" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
       <jump line="660" column="16" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
       <jump line="37" column="27" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" />
       <jump line="55" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" />
@@ -320,54 +321,56 @@
       <jump line="16" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
       <jump line="614" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
       <jump line="430" column="15" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="110" column="28" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/twitch.ts" />
+      <jump line="4" column="20" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/twitch.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>DefaultPayloadMachineContext</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIEd1YXJkcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>DefaultPayloadMachineContext</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkRXZlbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhc2UgUGxhdGZvcm0uRkFDRUJPT0s6CiAgICAgIHJldHVybiAoCiAgICAgICAgPEZhY2Vib29rCiAgICAgICAgICBzZXJ2aWNlPXsKICAgICAgICAgICAgc3RhdGUuY29udGV4dC5wYXlsb2FkQWN0b3JSZWYgYXMgSW50ZXJwcmV0ZXI8CiAgICAgICAgICAgICAgRmFjZWJvb2tQYXlsb2FkTWFjaGluZUNvbnRleHQKICAgICAgICAgICAgPgogICAgICAgICAgfQogICAgICAgIC8+CiAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgaXNUaXRsZUludmFsaWQ6IChjdHgsIGV2ZW50KSA9PiB7CiAgICAgICAgaWYgKGV2ZW50LnR5cGUgPT09IEZhY2Vib29rUGF5bG9hZEV2ZW50cy5TRVRfVElUTEUpIHsKICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgIGV2ZW50LnRpdGxlLmxlbmd0aCA+IFRJVExFX01BWCB8fCBldmVudC50aXRsZS5sZW5ndGggPCBUSVRMRV9NSU4KICAgICAgICAgICk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBjdHgudGl0bGUubGVuZ3RoID4gVElUTEVfTUFYIHx8IGN0eC50aXRsZS5sZW5ndGggPCBUSVRMRV9NSU47CiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL1R3aXRjaC5tb2R1bGUuc2Nzcyc7Cg==</text>
+        <text encoding="base64">ICAgIC8vIEd1YXJkcwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gPGRpdiAvPjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGFyZ2V0OiAndmFsaWQnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGVmYXVsdFBheWxvYWRNYWNoaW5lQ29udGV4dCB9IGZyb20gIi4uLy4uLy4uL21hY2hpbmVzL3BheWxvYWRzL2RlZmF1bHQiOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnRVJST1InLCBzdGF0ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGVmYXVsdFBheWxvYWRFdmVudHMgfSBmcm9tICcuLi8uLi9tYWNoaW5lLWV2ZW50cy9wYXlsb2Fkcy9kZWZhdWx0JzsKaW1wb3J0IHsgRmFjZWJvb2tQYXlsb2FkRXZlbnRzIH0gZnJvbSAnLi4vLi4vbWFjaGluZS1ldmVudHMvcGF5bG9hZHMvZmFjZWJvb2snOwo=</text>
+        <text encoding="base64">ICAgICAgaXNUaXRsZVZhbGlkOiAoY3R4LCBldmVudCkgPT4gewogICAgICAgIGlmIChldmVudC50eXBlID09PSBUd2l0Y2hQYXlsb2FkRXZlbnRzLlNFVF9USVRMRSkgewogICAgICAgICAgcmV0dXJuIGV2ZW50LnRpdGxlLmxlbmd0aCA+IDA7CiAgICAgICAgfQogICAgICAgIHJldHVybiBjdHgudGl0bGUubGVuZ3RoID4gMDsKICAgICAgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBWQUxJREFURSA9ICdWQUxJREFURScsCg==</text>
+        <text encoding="base64">ICAgICAgaXNUaXRsZUludmFsaWQ6IChjdHgsIGV2ZW50KSA9PiB7CiAgICAgICAgaWYgKGV2ZW50LnR5cGUgPT09IFR3aXRjaFBheWxvYWRFdmVudHMuU0VUX1RJVExFKSB7CiAgICAgICAgICByZXR1cm4gZXZlbnQudGl0bGUubGVuZ3RoIDwgMTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGN0eC50aXRsZS5sZW5ndGggPCAxOwogICAgICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text>refactor: remove unused code</text>
+        <text>fix: created event time on list</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZDogZXZlbnQuaWQsCiAgICAgICAgICAgICAgdXNlcklkOiBldmVudC51c2VySWQsCiAgICAgICAgICAgICAgdGl0bGU6IGV2ZW50LnRpdGxlLAogICAgICAgICAgICAgIHN0YXR1czogZXZlbnQuc3RhdHVzLAogICAgICAgICAgICAgIGNyZWF0ZWRBdDogZXZlbnQuY3JlYXRlZEF0LAogICAgICAgICAgICAgIHN0YXJ0ZWRBdDogZXZlbnQuc3RhcnRlZEF0LAogICAgICAgICAgICAgIGZpbmlzaGVkQXQ6IGV2ZW50LmZpbmlzaGVkQXQsCiAgICAgICAgICAgICAgc2NoZWR1bGVkRm9yOiBldmVudC5zY2hlZHVsZWRfZm9yLAogICAgICAgICAgICAgIG1ldGE6IHsKICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBldmVudC5tZXRhLmRlc2NyaXB0aW9uLAogICAgICAgICAgICAgICAgY292ZXJVcmw6IGV2ZW50Lm1ldGEuY292ZXJVcmwsCiAgICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL1R3aXRjaC5tb2R1bGUuc2Nzcyc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NoZWR1bGVkRm9yOiBjdHguZGF0ZXRpbWUuZ2V0VGltZSgpLAo=</text>
+        <text encoding="base64">ICByZXR1cm4gPGRpdiAvPjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRGVmYXVsdFBheWxvYWRNYWNoaW5lQ29udGV4dCB9IGZyb20gIi4uLy4uLy4uL21hY2hpbmVzL3BheWxvYWRzL2RlZmF1bHQiOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
   </component>
