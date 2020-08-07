@@ -45,8 +45,8 @@
         <entry>action ImplementMethods</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>action $SelectAll</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
+        <entry>action EditorDuplicate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -104,6 +104,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" timestamp="1596809233426">
+        <mark key="'" line="449" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/api/client/index.ts" timestamp="1596728119534">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="51" />
@@ -129,11 +132,11 @@
         <mark key="." line="32" column="42" />
         <mark key="^" line="32" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" timestamp="1596783666756">
-        <mark key="'" line="616" column="6" />
-        <mark key="[" line="573" column="0" />
-        <mark key="]" line="573" column="0" />
-        <mark key="." line="573" column="0" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" timestamp="1596808741900">
+        <mark key="'" line="562" column="25" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machine-events/payloads/twitch.ts" timestamp="1596784180502">
         <mark key="[" line="0" column="12" />
@@ -141,12 +144,12 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/youtube.tsx" timestamp="1596726416286">
-        <mark key="'" line="64" column="49" />
-        <mark key="[" line="198" column="41" />
-        <mark key="]" line="198" column="46" />
-        <mark key="." line="198" column="45" />
-        <mark key="^" line="198" column="46" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-step/EventStep.tsx" timestamp="1596810049029">
+        <mark key="'" line="79" column="12" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="22" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/facebook.ts" timestamp="1596785154697">
         <mark key="[" line="199" column="0" />
@@ -158,12 +161,25 @@
         <mark key="^" line="32" column="38" />
         <mark key="." line="32" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/date-picker/date-picker.tsx" timestamp="1596726932190">
-        <mark key="'" line="45" column="10" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="29" column="53" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/hooks/use-input-ref-focus.ts" timestamp="1596809920033">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/date-picker/date-picker.tsx" timestamp="1596809626880">
+        <mark key="'" line="50" column="10" />
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="17" column="37" />
+        <mark key="." line="17" column="36" />
+        <mark key="^" line="17" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/facebook/facebook.tsx" timestamp="1596809822436">
+        <mark key="'" line="42" column="52" />
+        <mark key="[" line="17" column="44" />
+        <mark key="]" line="18" column="2" />
+        <mark key="^" line="18" column="2" />
+        <mark key="." line="18" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/twitch/twitch.tsx" timestamp="1596784542066">
         <mark key="[" line="12" column="0" />
@@ -183,37 +199,18 @@
         <mark key="]" line="56" column="68" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/facebook.tsx" timestamp="1596724169055">
-        <mark key="'" line="216" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="184" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/guest-link/guest-link-modal.tsx" timestamp="1596727228394">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="59" column="2" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1596785272138">
+      <file name="/Dummy.txt" timestamp="1596809672098">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="37" />
-        <mark key="^" line="0" column="37" />
-        <mark key="." line="0" column="36" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/api/channels.ts" timestamp="1596727541858">
-        <mark key="[" line="4" column="51" />
-        <mark key="]" line="4" column="51" />
-        <mark key="." line="4" column="51" />
-        <mark key="^" line="4" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" timestamp="1596784950021">
-        <mark key="'" line="142" column="60" />
-        <mark key="[" line="107" column="14" />
-        <mark key="]" line="107" column="18" />
-        <mark key="." line="107" column="17" />
-        <mark key="^" line="107" column="18" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" timestamp="1596809167730">
+        <mark key="'" line="74" column="16" />
+        <mark key="[" line="74" column="43" />
+        <mark key="]" line="74" column="52" />
+        <mark key="." line="74" column="51" />
+        <mark key="^" line="74" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.module.scss" timestamp="1596729395700">
         <mark key="[" line="12" column="15" />
@@ -223,10 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="660" column="16" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
-      <jump line="37" column="27" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" />
-      <jump line="55" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" />
-      <jump line="20" column="13" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/destination/Destination.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/destination/destination.tsx" />
       <jump line="209" column="19" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="204" column="34" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
@@ -323,54 +316,58 @@
       <jump line="430" column="15" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="110" column="28" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/twitch.ts" />
       <jump line="4" column="20" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/twitch.ts" />
+      <jump line="578" column="25" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
+      <jump line="449" column="47" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
+      <jump line="167" column="13" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" />
+      <jump line="73" column="16" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>feat: twitch payload</text>
+        <text encoding="base64">ICAvLyBjb25zdCBpbnB1dFRpdGxlUmVmID0gdXNlUmVmPEhUTUxJbnB1dEVsZW1lbnQgfCBudWxsPihudWxsKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text encoding="base64">dXNlUmVmPEhUTUxJbnB1dEVsZW1lbnQgfCBudWxsPihudWxsKTs=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkRXZlbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaXNUaXRsZUludmFsaWQ6IChjdHgsIGV2ZW50KSA9PiB7CiAgICAgICAgaWYgKGV2ZW50LnR5cGUgPT09IEZhY2Vib29rUGF5bG9hZEV2ZW50cy5TRVRfVElUTEUpIHsKICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgIGV2ZW50LnRpdGxlLmxlbmd0aCA+IFRJVExFX01BWCB8fCBldmVudC50aXRsZS5sZW5ndGggPCBUSVRMRV9NSU4KICAgICAgICAgICk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBjdHgudGl0bGUubGVuZ3RoID4gVElUTEVfTUFYIHx8IGN0eC50aXRsZS5sZW5ndGggPCBUSVRMRV9NSU47CiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICBjb25zdCBpbnB1dFRpdGxlUmVmID0gdXNlUmVmPEhUTUxJbnB1dEVsZW1lbnQgfCBudWxsPihudWxsKTsKCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGlmIChpbnB1dFRpdGxlUmVmLmN1cnJlbnQpIHsKICAgICAgaW5wdXRUaXRsZVJlZi5jdXJyZW50LmZvY3VzKCk7CiAgICB9CiAgfSwgW10pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text>feat: twitch payload</text>
+        <text encoding="base64">ICAvLyBjb25zdCBpbnB1dFRpdGxlUmVmID0gdXNlUmVmPEhUTUxJbnB1dEVsZW1lbnQgfCBudWxsPihudWxsKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRmFjZWJvb2tQYXlsb2FkRXZlbnRzIH0gZnJvbSAnLi4vLi4vbWFjaGluZS1ldmVudHMvcGF5bG9hZHMvZmFjZWJvb2snOwo=</text>
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIEd1YXJkcwo=</text>
+        <text encoding="base64">cmVmYWN0b3I6IGV2ZW50LWNvbW1vbi1kYXRhIC0+IGNvbW1vbi1wYXlsb2Fk</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGFyZ2V0OiAndmFsaWQnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnRVJST1InLCBzdGF0ZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZm9ybWF0RGF0ZSwgcGFyc2VEYXRlIH0gZnJvbSAncmVhY3QtZGF5LXBpY2tlci9tb21lbnQnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaXNUaXRsZVZhbGlkOiAoY3R4LCBldmVudCkgPT4gewogICAgICAgIGlmIChldmVudC50eXBlID09PSBUd2l0Y2hQYXlsb2FkRXZlbnRzLlNFVF9USVRMRSkgewogICAgICAgICAgcmV0dXJuIGV2ZW50LnRpdGxlLmxlbmd0aCA+IDA7CiAgICAgICAgfQogICAgICAgIHJldHVybiBjdHgudGl0bGUubGVuZ3RoID4gMDsKICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaXNUaXRsZUludmFsaWQ6IChjdHgsIGV2ZW50KSA9PiB7CiAgICAgICAgaWYgKGV2ZW50LnR5cGUgPT09IFR3aXRjaFBheWxvYWRFdmVudHMuU0VUX1RJVExFKSB7CiAgICAgICAgICByZXR1cm4gZXZlbnQudGl0bGUubGVuZ3RoIDwgMTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGN0eC50aXRsZS5sZW5ndGggPCAxOwogICAgICB9LAo=</text>
+        <text>refactor: remove unused interfaces</text>
       </register>
       <register name="8" type="2">
-        <text>fix: created event time on list</text>
+        <text>feat: twitch payload title validation</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL1R3aXRjaC5tb2R1bGUuc2Nzcyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRXZlbnREZXN0aW5hdGlvblBheWxvYWQgfSBmcm9tICcuLi90eXBlcyc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action EditorDuplicate</text>
       </register>
     </registers>
   </component>
