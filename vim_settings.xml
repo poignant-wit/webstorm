@@ -110,12 +110,12 @@
         <mark key="^" line="56" column="5" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/twitch.ts" timestamp="1596785250066">
-        <mark key="'" line="5" column="20" />
-        <mark key="[" line="116" column="18" />
-        <mark key="]" line="116" column="19" />
-        <mark key="^" line="116" column="31" />
-        <mark key="." line="116" column="19" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/twitch.ts" timestamp="1596785256043">
+        <mark key="'" line="4" column="20" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="115" column="31" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/default/default.tsx" timestamp="1596784495542">
         <mark key="[" line="16" column="0" />
@@ -196,11 +196,11 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="59" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596785014900">
+      <file name="/Dummy.txt" timestamp="1596785272138">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="19" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="0" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/api/channels.ts" timestamp="1596727541858">
         <mark key="[" line="4" column="51" />
@@ -328,7 +328,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIEd1YXJkcwo=</text>
+        <text>feat: twitch payload</text>
       </register>
       <register name="-" type="4">
         <text>data</text>
@@ -340,34 +340,34 @@
         <text encoding="base64">ICAgICAgaXNUaXRsZUludmFsaWQ6IChjdHgsIGV2ZW50KSA9PiB7CiAgICAgICAgaWYgKGV2ZW50LnR5cGUgPT09IEZhY2Vib29rUGF5bG9hZEV2ZW50cy5TRVRfVElUTEUpIHsKICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgIGV2ZW50LnRpdGxlLmxlbmd0aCA+IFRJVExFX01BWCB8fCBldmVudC50aXRsZS5sZW5ndGggPCBUSVRMRV9NSU4KICAgICAgICAgICk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBjdHgudGl0bGUubGVuZ3RoID4gVElUTEVfTUFYIHx8IGN0eC50aXRsZS5sZW5ndGggPCBUSVRMRV9NSU47CiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIEd1YXJkcwo=</text>
+        <text>feat: twitch payload</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGFyZ2V0OiAndmFsaWQnLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRmFjZWJvb2tQYXlsb2FkRXZlbnRzIH0gZnJvbSAnLi4vLi4vbWFjaGluZS1ldmVudHMvcGF5bG9hZHMvZmFjZWJvb2snOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnRVJST1InLCBzdGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIEd1YXJkcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaXNUaXRsZVZhbGlkOiAoY3R4LCBldmVudCkgPT4gewogICAgICAgIGlmIChldmVudC50eXBlID09PSBUd2l0Y2hQYXlsb2FkRXZlbnRzLlNFVF9USVRMRSkgewogICAgICAgICAgcmV0dXJuIGV2ZW50LnRpdGxlLmxlbmd0aCA+IDA7CiAgICAgICAgfQogICAgICAgIHJldHVybiBjdHgudGl0bGUubGVuZ3RoID4gMDsKICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGFyZ2V0OiAndmFsaWQnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaXNUaXRsZUludmFsaWQ6IChjdHgsIGV2ZW50KSA9PiB7CiAgICAgICAgaWYgKGV2ZW50LnR5cGUgPT09IFR3aXRjaFBheWxvYWRFdmVudHMuU0VUX1RJVExFKSB7CiAgICAgICAgICByZXR1cm4gZXZlbnQudGl0bGUubGVuZ3RoIDwgMTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGN0eC50aXRsZS5sZW5ndGggPCAxOwogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnRVJST1InLCBzdGF0ZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>fix: created event time on list</text>
+        <text encoding="base64">ICAgICAgaXNUaXRsZVZhbGlkOiAoY3R4LCBldmVudCkgPT4gewogICAgICAgIGlmIChldmVudC50eXBlID09PSBUd2l0Y2hQYXlsb2FkRXZlbnRzLlNFVF9USVRMRSkgewogICAgICAgICAgcmV0dXJuIGV2ZW50LnRpdGxlLmxlbmd0aCA+IDA7CiAgICAgICAgfQogICAgICAgIHJldHVybiBjdHgudGl0bGUubGVuZ3RoID4gMDsKICAgICAgfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL1R3aXRjaC5tb2R1bGUuc2Nzcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgaXNUaXRsZUludmFsaWQ6IChjdHgsIGV2ZW50KSA9PiB7CiAgICAgICAgaWYgKGV2ZW50LnR5cGUgPT09IFR3aXRjaFBheWxvYWRFdmVudHMuU0VUX1RJVExFKSB7CiAgICAgICAgICByZXR1cm4gZXZlbnQudGl0bGUubGVuZ3RoIDwgMTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGN0eC50aXRsZS5sZW5ndGggPCAxOwogICAgICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gPGRpdiAvPjsK</text>
+        <text>fix: created event time on list</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGVmYXVsdFBheWxvYWRNYWNoaW5lQ29udGV4dCB9IGZyb20gIi4uLy4uLy4uL21hY2hpbmVzL3BheWxvYWRzL2RlZmF1bHQiOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL1R3aXRjaC5tb2R1bGUuc2Nzcyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
