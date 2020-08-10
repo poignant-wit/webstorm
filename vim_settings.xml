@@ -45,8 +45,8 @@
         <entry>action ImplementMethods</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>action EditorDuplicate</entry>
-        <entry>action GotoFile</entry>
         <entry>action $SelectAll</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -107,6 +107,7 @@
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" timestamp="1596809233426">
         <mark key="'" line="449" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/package.json" timestamp="1597039297372" />
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/twitch.ts" timestamp="1596785256043">
         <mark key="'" line="4" column="20" />
         <mark key="[" line="2" column="0" />
@@ -187,11 +188,12 @@
         <mark key="^" line="154" column="23" />
         <mark key="." line="154" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/api/client/buildAuthApiClient.ts" timestamp="1596728772488">
-        <mark key="'" line="44" column="9" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="68" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/providers/streaming-statuses-provider.tsx" timestamp="1597039336866">
+        <mark key="'" line="78" column="51" />
+        <mark key="[" line="164" column="10" />
+        <mark key="]" line="168" column="6" />
+        <mark key="^" line="168" column="6" />
+        <mark key="." line="168" column="5" />
       </file>
       <file name="/Dummy.txt" timestamp="1596811890217">
         <mark key="[" line="0" column="12" />
@@ -213,15 +215,8 @@
         <mark key="." line="74" column="51" />
         <mark key="^" line="74" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.module.scss" timestamp="1596729395700">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="16" />
-        <mark key="^" line="9" column="20" />
-        <mark key="." line="12" column="16" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="19" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="204" column="34" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="512" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="525" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
@@ -321,6 +316,7 @@
       <jump line="167" column="13" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" />
       <jump line="73" column="16" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" />
       <jump line="33" column="12" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/facebook/facebook.tsx" />
+      <jump line="78" column="51" filename="$USER_HOME$/Documents/restream-frontend/src/providers/streaming-statuses-provider.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -368,7 +364,7 @@
         <text encoding="base64">cmVmYWN0b3I6IGV2ZW50LWNvbW1vbi1kYXRhIC0+IGNvbW1vbi1wYXlsb2Fk</text>
       </register>
       <register name=":" type="4">
-        <text>action $SelectAll</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
   </component>
