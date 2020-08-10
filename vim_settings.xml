@@ -104,26 +104,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" timestamp="1597044194360">
-        <mark key="'" line="153" column="20" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destinations/channel/header/Header.tsx" timestamp="1597049536019">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="36" column="50" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destinations/destinations.tsx" timestamp="1597052508188" />
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/monitor.tsx" timestamp="1597049096441">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/models/destination.ts" timestamp="1597043020852">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="18" />
-        <mark key="^" line="4" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destination/destination.tsx" timestamp="1597045962225">
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="11" column="33" />
-        <mark key="^" line="11" column="33" />
-        <mark key="." line="11" column="32" />
+      <file name="/Dummy.txt" timestamp="1597052590727">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destinations/channel/Channel.tsx" timestamp="1597049634664">
         <mark key="[" line="25" column="0" />
@@ -131,45 +122,17 @@
         <mark key="^" line="66" column="42" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/back-button/back-button.tsx" timestamp="1597052194093">
-        <mark key="[" line="15" column="5" />
-        <mark key="]" line="16" column="15" />
-        <mark key="." line="16" column="14" />
-        <mark key="^" line="16" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destinations/channel/header/Header.tsx" timestamp="1597049536019">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="36" column="50" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destinations/destinations.module.scss" timestamp="1597052261877">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="19" />
-        <mark key="^" line="13" column="19" />
-        <mark key="." line="13" column="18" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/models/event.ts" timestamp="1597048436185">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="3" column="22" />
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destinations/breadcrumbs/breadcrumbs.tsx" timestamp="1597049051780">
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="3" column="28" />
-        <mark key="." line="3" column="28" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/preview.tsx" timestamp="1597055889705">
+        <mark key="[" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/store/events/EventsStore.ts" timestamp="1597044922032">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/settings/settings.tsx" timestamp="1597044829081">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="36" column="28" />
-        <mark key="." line="37" column="0" />
+      <file name="/GraphQL.result.json" timestamp="1597055124452">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/event-live-page.tsx" timestamp="1597052134404">
         <mark key="'" line="245" column="0" />
@@ -178,25 +141,38 @@
         <mark key="^" line="268" column="42" />
         <mark key="." line="268" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/event-page.module.scss" timestamp="1597046870340">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/event-page.module.scss" timestamp="1597056001320">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/events/events-page.tsx" timestamp="1597044781289">
-        <mark key="'" line="112" column="20" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destinations/destinations.tsx" timestamp="1597055709910">
+        <mark key="[" line="51" column="16" />
+        <mark key="]" line="51" column="16" />
+        <mark key="." line="51" column="16" />
+        <mark key="^" line="51" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597052590727">
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="0" column="29" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="29" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/monitor.tsx" timestamp="1597055967834">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="36" />
+        <mark key="^" line="6" column="36" />
+        <mark key="." line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/api/channels.ts" timestamp="1597043674356">
-        <mark key="[" line="4" column="51" />
-        <mark key="]" line="4" column="51" />
-        <mark key="." line="4" column="51" />
-        <mark key="^" line="4" column="52" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/back-button/back-button.tsx" timestamp="1597052194093">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="16" column="15" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/store/events/EventsStore.ts" timestamp="1597044922032">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destinations/breadcrumbs/breadcrumbs.tsx" timestamp="1597049051780">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" timestamp="1597047118414">
         <mark key="[" line="172" column="0" />
@@ -204,9 +180,41 @@
         <mark key="." line="97" column="62" />
         <mark key="^" line="97" column="63" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/common.ts" timestamp="1597055137127">
+        <mark key="'" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/preview.module.scss" timestamp="1597056058557">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/settings/settings.tsx" timestamp="1597044829081">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="36" column="28" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/monitor.module.scss" timestamp="1597055992147">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="4" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destinations/destinations.module.scss" timestamp="1597052261877">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+        <mark key="." line="13" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destination/destination.tsx" timestamp="1597045962225">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="33" />
+        <mark key="^" line="11" column="33" />
+        <mark key="." line="11" column="32" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="25" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="302" column="30" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="477" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="621" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
@@ -306,15 +314,16 @@
       <jump line="20" column="35" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/event-live-page.tsx" />
       <jump line="250" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/event-live-page.tsx" />
       <jump line="58" column="24" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destinations/destinations.tsx" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/common.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBib3JkZXItcmFkaXVzOiA0cHg7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>Monitor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSb3V0ZUNvbXBvbmVudFByb3BzXD4=</text>
@@ -323,34 +332,34 @@
         <text encoding="base64">LnRpdGxlIHsKICBtYXJnaW4tYm90dG9tOiAxNnB4Owp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>feat: event page basic elements</text>
+        <text encoding="base64">ICBib3JkZXItcmFkaXVzOiA0cHg7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQnJlYWRjcnVtYnMgfSBmcm9tICcuL2JyZWFkY3J1bWJzL2JyZWFkY3J1bWJzJzsK</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kOiAjMjUzODU4Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGVzdGluYXRpb24gfSBmcm9tICcuL2Rlc3RpbmF0aW9uL2Rlc3RpbmF0aW9uJzsK</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kOiBncmVlbjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgQWxsIEV2ZW50cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8QnJlYWRjcnVtYnMgLz4K</text>
+        <text>fcmp</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJvdy1sZWZ0LWljb24uc3ZnCg==</text>
+        <text encoding="base64">ZmNtcCAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7LyogIDxidXR0b24gb25DbGljaz17aGFuZGxlT25DbGlja0VkaXRFdmVudH0+RWRpdCBldmVudDwvYnV0dG9uPiovfQogICAgICAgIHsvKiAgPGRpdj4qL30KICAgICAgICB7LyogICAge3N0YXRlLmNvbnRleHQuZGVzdGluYXRpb25zLm1hcCgoZCkgPT4geyovfQogICAgICAgIHsvKiAgICAgIHJldHVybiA8RGVzdGluYXRpb24ga2V5PXtkLmlkfSBjaGFubmVsSWQ9e2QuY2hhbm5lbElkfSAvPjsqL30KICAgICAgICB7LyogICAgfSl9Ki99CiAgICAgICAgey8qICA8L2Rpdj4qL30K</text>
+        <text>fc</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAxNnB4Owo=</text>
+        <text>feat: event page basic elements</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmbGV4OiAxOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQnJlYWRjcnVtYnMgfSBmcm9tICcuL2JyZWFkY3J1bWJzL2JyZWFkY3J1bWJzJzsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
