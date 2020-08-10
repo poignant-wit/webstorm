@@ -104,12 +104,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destinations/channel/header/Header.tsx" timestamp="1597049536019">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="36" column="50" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/preview.tsx" timestamp="1597057102207">
         <mark key="[" line="3" column="24" />
         <mark key="]" line="3" column="24" />
@@ -151,11 +145,17 @@
         <mark key="^" line="29" column="7" />
         <mark key="." line="29" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597061306288">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="14" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/App.tsx" timestamp="1597061490903">
+        <mark key="'" line="125" column="43" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1597061507601">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destinations/channel/Channel.tsx" timestamp="1597049634664">
         <mark key="[" line="25" column="0" />
@@ -213,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="30" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="187" column="30" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="244" column="30" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="270" column="41" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
@@ -313,12 +312,13 @@
       <jump line="219" column="26" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/event-live-page.tsx" />
       <jump line="108" column="24" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/event-live-page.tsx" />
       <jump line="94" column="21" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destinations/destinations.tsx" />
+      <jump line="126" column="43" filename="$USER_HOME$/Documents/restream-frontend/src/App.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text>feat(event-page): loader</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -330,34 +330,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3BsYXlOYW1lPXtjaGFubmVsTmFtZShkZXN0aW5hdGlvbi5jaGFubmVsSWQpfQo=</text>
       </register>
       <register name="1" type="2">
-        <text>feat(event-page): preview placeholder</text>
+        <text>feat(event-page): loader</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8VGl0bGUgdGl0bGU9e3RpdGxlfSBlcnJvcj17ZmFsc2V9IC8+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRXZlbnRQYWdlIH0gZnJvbSAnLi92aWV3cy9ldmVudHMvcGFnZXMvZXZlbnQvZXZlbnQtcGFnZSc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text>feat(event-page): preview placeholder</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlCg==</text>
+        <text encoding="base64">ICAgICAgICA8VGl0bGUgdGl0bGU9e3RpdGxlfSBlcnJvcj17ZmFsc2V9IC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBpZiAobG9hZGluZykgeyByZXR1cm4gPFNrZWxldG9uIHN0eWxlPXt7IGhlaWdodDogMTAwLCB3aWR0aCB9fSAvPjsK</text>
+        <text encoding="base64">ICAgIHJlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBjb250YWluZXJSZWYgPSB1c2VSZWY8SFRNTERpdkVsZW1lbnQgfCBudWxsPihudWxsKTsKICBjb25zdCBbd2lkdGgsIHNldFdpZHRoXSA9IHVzZVN0YXRlKDApOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKGNvbnRhaW5lclJlZi5jdXJyZW50KSB7CiAgICAgIGNvbnNvbGUubG9nKCd3aXRkdCcsIGNvbnRhaW5lclJlZi5jdXJyZW50LmNsaWVudFdpZHRoKTsKICAgICAgLy8gc2V0V2lkdGgoY29udGFpbmVyUmVmLmN1cnJlbnQpOwogICAgfQogIH0sIFtdKTsKCiAgY29uc29sZS5sb2cod2lkdGgpOwo=</text>
+        <text encoding="base64">ICAvLyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBpZiAobG9hZGluZykgeyByZXR1cm4gPFNrZWxldG9uIHN0eWxlPXt7IGhlaWdodDogMTAwLCB3aWR0aCB9fSAvPjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8V2l0aFNrZWxldG9uIGxvYWRpbmc9e3RydWV9Pgo=</text>
+        <text encoding="base64">ICBjb25zdCBjb250YWluZXJSZWYgPSB1c2VSZWY8SFRNTERpdkVsZW1lbnQgfCBudWxsPihudWxsKTsKICBjb25zdCBbd2lkdGgsIHNldFdpZHRoXSA9IHVzZVN0YXRlKDApOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKGNvbnRhaW5lclJlZi5jdXJyZW50KSB7CiAgICAgIGNvbnNvbGUubG9nKCd3aXRkdCcsIGNvbnRhaW5lclJlZi5jdXJyZW50LmNsaWVudFdpZHRoKTsKICAgICAgLy8gc2V0V2lkdGgoY29udGFpbmVyUmVmLmN1cnJlbnQpOwogICAgfQogIH0sIFtdKTsKCiAgY29uc29sZS5sb2cod2lkdGgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
