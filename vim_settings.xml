@@ -130,12 +130,12 @@
         <mark key="^" line="394" column="80" />
         <mark key="." line="394" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/preview.tsx" timestamp="1597173318232">
-        <mark key="k" line="190" column="5" />
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="0" />
-        <mark key="^" line="187" column="64" />
-        <mark key="." line="190" column="0" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/preview.tsx" timestamp="1597175517375">
+        <mark key="k" line="213" column="5" />
+        <mark key="[" line="181" column="39" />
+        <mark key="]" line="182" column="34" />
+        <mark key="." line="182" column="33" />
+        <mark key="^" line="182" column="34" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1597170122076">
         <mark key="[" line="0" column="0" />
@@ -154,10 +154,10 @@
         <mark key="." line="26" column="15" />
         <mark key="^" line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/StreamingPreview/StreamingPreviewPlayer.ts" timestamp="1597148194377">
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/StreamingPreview/StreamingPreviewPlayer.ts" timestamp="1597174541561">
         <mark key="'" line="41" column="21" />
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="7" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
@@ -317,17 +317,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>console.log</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>console.log</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbkNvbXBsZXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBwbCA9IHVzZVJlZjxTdHJlYW1pbmdQcmV2aWV3UGxheWVyIHwgbnVsbD4obnVsbCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IEZsdkpzIGZyb20gJ2Zsdi5qcyc7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -336,28 +336,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCchISEhISFlcnJvcicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAudGhlbihjb25zb2xlLmxvZykuY2F0Y2goY29uc29sZS5sb2cpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Nsb3NlIGxpc3RlbmVyJyk7Cg==</text>
+        <text encoding="base64">ICAgIHBsLmN1cnJlbnQuYXR0YWNoTWVkaWFFbGVtZW50KHZpZGVvUmVmLmN1cnJlbnQgYXMgSFRNTE1lZGlhRWxlbWVudCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvbkVuZGVkPXsoKTogdm9pZCA9PiBzdG9yZS5vblBsYXliYWNrU3RvcHBlZCgpfQogICAgICAgIG9uUGF1c2U9eygpOiB2b2lkID0+IHN0b3JlLm9uUGxheWJhY2tTdG9wcGVkKCl9Cg==</text>
+        <text encoding="base64">ICAgIGNpb25zdAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0b3JlLm9uUGxheWJhY2tTdGFydGVkKGV2ZW50LmN1cnJlbnRUYXJnZXQuY3VycmVudFRpbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCchISEhISFlcnJvcicpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0b3JlLm9uUGxheWJhY2tTdGFydGVkKGV2ZW50LmN1cnJlbnRUYXJnZXQuY3VycmVudFRpbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Nsb3NlIGxpc3RlbmVyJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3ZpZGVvLWlkJykhIGFzIEhUTUxNZWRpYUVsZW1lbnQsCg==</text>
+        <text encoding="base64">ICAgICAgICBvbkVuZGVkPXsoKTogdm9pZCA9PiBzdG9yZS5vblBsYXliYWNrU3RvcHBlZCgpfQogICAgICAgIG9uUGF1c2U9eygpOiB2b2lkID0+IHN0b3JlLm9uUGxheWJhY2tTdG9wcGVkKCl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB2aWV3ID0gZW5jb2Rlci5lbmNvZGUoJ+KCrCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
