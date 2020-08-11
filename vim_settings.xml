@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdmFpbGFiaWxpdHlcPg==</entry>
         <entry encoding="base64">XDxOb3RTdXBwb3J0ZWRQYXlsb2FkTWFjaGluZUNvbnRleHRcPg==</entry>
         <entry encoding="base64">XDxpc1RpdGxlSW52YWxpZFw+</entry>
         <entry encoding="base64">XDxpbml0aWFsVGl0bGVcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxTRVRfVElUTEVcPg==</entry>
         <entry encoding="base64">XDxtb21lbnRcPg==</entry>
         <entry encoding="base64">XDxub3RTdXBwb3J0ZWRcPg==</entry>
+        <entry encoding="base64">XDxyZWZyZXNoRXZlbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
@@ -45,8 +45,8 @@
         <entry>action ImplementMethods</entry>
         <entry>action $SelectAll</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicate</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -110,6 +110,9 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" timestamp="1597128312679">
+        <mark key="'" line="563" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/preview.tsx" timestamp="1597077230119">
         <mark key="[" line="156" column="35" />
         <mark key="]" line="156" column="41" />
@@ -153,11 +156,11 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="8" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597076615098">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="27" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="26" />
+      <file name="/Dummy.txt" timestamp="1597128261477">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="58" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/event-live-page.tsx" timestamp="1597066375587">
         <mark key="'" line="220" column="21" />
@@ -165,12 +168,6 @@
         <mark key="]" line="19" column="1" />
         <mark key="." line="319" column="0" />
         <mark key="^" line="9" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destinations/with-skeleton/with-skeleton.tsx" timestamp="1597060917389">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="18" />
-        <mark key="^" line="13" column="56" />
-        <mark key="." line="1" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" timestamp="1597075896825">
         <mark key="'" line="71" column="12" />
@@ -214,9 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="41" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
-      <jump line="182" column="24" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
-      <jump line="240" column="24" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="296" column="24" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="476" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="97" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/api/events.ts" />
@@ -314,62 +308,65 @@
       <jump line="30" column="34" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/linkedin.ts" />
       <jump line="21" column="20" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" />
       <jump line="71" column="12" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="127" column="1" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
+      <jump line="561" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
+      <jump line="563" column="27" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>OFFLINE</text>
+      <register name="&quot;" type="2">
+        <text>refactor(destination-header): extract classNames logicавав</text>
       </register>
       <register name="-" type="4">
         <text>OFFLINE</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub3RTdXBwb3J0ZWRcPg==</text>
+        <text encoding="base64">XDxyZWZyZXNoRXZlbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNhc2UgUGxhdGZvcm0uVFdJVENIOgogICAgICByZXR1cm4gKAogICAgICAgIDxUd2l0Y2gKICAgICAgICAgIHNlcnZpY2U9ewogICAgICAgICAgICBzdGF0ZS5jb250ZXh0LnBheWxvYWRBY3RvclJlZiBhcyBJbnRlcnByZXRlcjwKICAgICAgICAgICAgICBUd2l0Y2hQYXlsb2FkTWFjaGluZUNvbnRleHQKICAgICAgICAgICAgPgogICAgICAgICAgfQogICAgICAgIC8+CiAgICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbG9hZGluZyB0b2tlbicpOwo=</text>
+        <text>refactor(destination-header): extract classNames logicавав</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbG9hZGluZyB0b2tlbicpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGluaXQ6IHsKICAgICAgc3RhdGVzOiB7CiAgICAgICAgbG9hZGluZ1Rva2VuOiB7fTsKICAgICAgICBzb2NrZXRDb25uZWN0aW5nOiB7fTsKICAgICAgfTsKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9mZmxpbmU6IHt9LAogICAgaW5pdDogewo=</text>
+        <text encoding="base64">ICAgIGluaXQ6IHsKICAgICAgc3RhdGVzOiB7CiAgICAgICAgbG9hZGluZ1Rva2VuOiB7fTsKICAgICAgICBzb2NrZXRDb25uZWN0aW5nOiB7fTsKICAgICAgfTsKICAgIH07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>fix: hide edit for unsupported platforddms</text>
+        <text encoding="base64">ICAgIG9mZmxpbmU6IHt9LAogICAgaW5pdDogewo=</text>
       </register>
       <register name="6" type="2">
-        <text>feat: add linkedin</text>
+        <text>fix: hide edit for unsupported platforddms</text>
       </register>
       <register name="7" type="2">
-        <text>feat: load preview token</text>
+        <text>feat: add linkedin</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5hZGQoMTAsICdtaW51dGVzJykudG9EYXRlKCksCg==</text>
+        <text>feat: load preview token</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVHdpdGNoUGF5bG9hZEV2ZW50cyB9IGZyb20gJy4uLy4uLy4uL21hY2hpbmUtZXZlbnRzL3BheWxvYWRzL3R3aXRjaCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5hZGQoMTAsICdtaW51dGVzJykudG9EYXRlKCksCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicate</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxub3RTdXBwb3J0ZWRcPg==</last-search>
+      <last-search encoding="base64">XDxyZWZyZXNoRXZlbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub3RTdXBwb3J0ZWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyZWZyZXNoRXZlbnRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1c2VTZWxlY3RlZEFnZ3JlZ2F0aW9uSWRzXD4=</last-substitute>
       <last-dir>1</last-dir>
