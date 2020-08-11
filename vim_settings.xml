@@ -110,8 +110,11 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" timestamp="1597128312679">
-        <mark key="'" line="563" column="27" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" timestamp="1597129488611">
+        <mark key="'" line="353" column="28" />
+        <mark key="[" line="562" column="0" />
+        <mark key="]" line="563" column="26" />
+        <mark key="." line="562" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/preview.tsx" timestamp="1597077230119">
         <mark key="[" line="156" column="35" />
@@ -126,6 +129,13 @@
         <mark key="^" line="100" column="64" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/events/events-page.tsx" timestamp="1597129682901">
+        <mark key="'" line="118" column="20" />
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="35" column="26" />
+        <mark key="^" line="35" column="26" />
+        <mark key="." line="35" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/constants.ts" timestamp="1597064080920">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -137,12 +147,6 @@
         <mark key="]" line="4" column="21" />
         <mark key="." line="4" column="21" />
         <mark key="^" line="36" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/settings/settings.tsx" timestamp="1597061424523">
-        <mark key="[" line="41" column="24" />
-        <mark key="]" line="41" column="35" />
-        <mark key="^" line="41" column="35" />
-        <mark key="." line="41" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/App.tsx" timestamp="1597061490903">
         <mark key="'" line="125" column="43" />
@@ -156,11 +160,11 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="8" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597128261477">
+      <file name="/Dummy.txt" timestamp="1597129871320">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="58" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/event-live-page.tsx" timestamp="1597066375587">
         <mark key="'" line="220" column="21" />
@@ -194,9 +198,11 @@
         <mark key="." line="41" column="39" />
         <mark key="^" line="41" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" timestamp="1597073781386">
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" timestamp="1597129642530">
         <mark key="'" line="21" column="20" />
-        <mark key="[" line="79" column="26" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="100" column="13" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/api/users.ts" timestamp="1597067756896">
         <mark key="[" line="12" column="5" />
@@ -211,8 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="296" column="24" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
-      <jump line="476" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="97" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/api/events.ts" />
       <jump line="3" column="38" filename="$USER_HOME$/Documents/restream-frontend/src/api/events.ts" />
       <jump line="347" column="19" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/eventBuilder.ts" />
@@ -311,51 +315,53 @@
       <jump line="127" column="1" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
       <jump line="561" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
       <jump line="563" column="27" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
+      <jump line="347" column="28" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
+      <jump line="353" column="28" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>refactor(destination-header): extract classNames logicавав</text>
+        <text>feat: add flv.js</text>
       </register>
       <register name="-" type="4">
-        <text>OFFLINE</text>
+        <text>eventId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZyZXNoRXZlbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhc2UgUGxhdGZvcm0uVFdJVENIOgogICAgICByZXR1cm4gKAogICAgICAgIDxUd2l0Y2gKICAgICAgICAgIHNlcnZpY2U9ewogICAgICAgICAgICBzdGF0ZS5jb250ZXh0LnBheWxvYWRBY3RvclJlZiBhcyBJbnRlcnByZXRlcjwKICAgICAgICAgICAgICBUd2l0Y2hQYXlsb2FkTWFjaGluZUNvbnRleHQKICAgICAgICAgICAgPgogICAgICAgICAgfQogICAgICAgIC8+CiAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG9uU3VjY2Vzc1VwZGF0ZSAmJiBjdHguZXZlbnRJZCkgewogICAgICAgICAgICAgIG9uU3VjY2Vzc1VwZGF0ZShjdHguZXZlbnRJZCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text>refactor(destination-header): extract classNames logicавав</text>
+        <text>feat: add flv.js</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbG9hZGluZyB0b2tlbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xl0LDQstCw0LIubG9nKCdyZWZyZXNoIGV2ZW50Jyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3JlZnJlc2gnLCBvblN1Y2Nlc3NVcGRhdGUsIGN0eC5ldmVudElkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGluaXQ6IHsKICAgICAgc3RhdGVzOiB7CiAgICAgICAgbG9hZGluZ1Rva2VuOiB7fTsKICAgICAgICBzb2NrZXRDb25uZWN0aW5nOiB7fTsKICAgICAgfTsKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdyZWZyZXNoIGV2ZW50Jyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9mZmxpbmU6IHt9LAogICAgaW5pdDogewo=</text>
+        <text>refactor(destination-header): extract classNames logicавав</text>
       </register>
       <register name="6" type="2">
-        <text>fix: hide edit for unsupported platforddms</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbG9hZGluZyB0b2tlbicpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text>feat: add linkedin</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text>feat: load preview token</text>
+        <text encoding="base64">ICAgIGluaXQ6IHsKICAgICAgc3RhdGVzOiB7CiAgICAgICAgbG9hZGluZ1Rva2VuOiB7fTsKICAgICAgICBzb2NrZXRDb25uZWN0aW5nOiB7fTsKICAgICAgfTsKICAgIH07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5hZGQoMTAsICdtaW51dGVzJykudG9EYXRlKCksCg==</text>
+        <text encoding="base64">ICAgIG9mZmxpbmU6IHt9LAogICAgaW5pdDogewo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
