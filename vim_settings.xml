@@ -5,26 +5,26 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxTRVRfQ09NTU9OX1BBWUxPQURcPg==</entry>
-        <entry encoding="base64">XDxlZGl0aW5nRXZlbnRcPg==</entry>
-        <entry encoding="base64">XDxzZXREYXRlXD4=</entry>
-        <entry encoding="base64">XDxsb2dcPg==</entry>
-        <entry encoding="base64">XDx3ZWJzaXRlQ2xpZW50XD4=</entry>
-        <entry encoding="base64">XDxnZXRQcmV2aWV3VG9rZW5cPg==</entry>
-        <entry encoding="base64">XDxpbmdlc3REb21haW5cPg==</entry>
-        <entry encoding="base64">XDxzdHJlYW1pbmdfcHJldmlld192aWRlb1w+</entry>
-        <entry encoding="base64">XDx2aWRlb0VsZW1lbnRcPg==</entry>
-        <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
-        <entry encoding="base64">XDxEZWJ1Z0RhdGFcPg==</entry>
-        <entry encoding="base64">XDxERVNDUklQVElPTl9NQVhcPg==</entry>
-        <entry encoding="base64">XDxUSVRMRV9NSU5cPg==</entry>
-        <entry encoding="base64">XDxvbkNvbXBsZXRlXD4=</entry>
         <entry encoding="base64">XDxvbkRlYnVnRGF0YVVwZGF0ZVw+</entry>
         <entry encoding="base64">XDxvbkVycm9yXD4=</entry>
         <entry encoding="base64">XDx0b2tlbkxvYWRpbmdcPg==</entry>
         <entry encoding="base64">XDxsb2FkaW5nVG9rZW5cPg==</entry>
         <entry encoding="base64">XDxzZXRJbmdlc3REb21haW5cPg==</entry>
         <entry encoding="base64">XDxzZW5kVmFsaWRhdGVFdmVudFBheWxvYWRcPg==</entry>
+        <entry encoding="base64">XDxzZW5kVmFsaWRhdGVJbWFnZVw+</entry>
+        <entry encoding="base64">XDxzZXRDb21tb25EYXRhXD4=</entry>
+        <entry encoding="base64">XDxjb3Zlclw+</entry>
+        <entry encoding="base64">XDxzZXRJbWFnZVw+</entry>
+        <entry encoding="base64">XDxzZXRDb3Zlclw+</entry>
+        <entry encoding="base64">XDx1cGRhdGluZ0NvdmVyXD4=</entry>
+        <entry encoding="base64">XDx1cGxvYWRpbmdDb3Zlclw+</entry>
+        <entry encoding="base64">XDxSSW1hZ2VVcGxvYWRlcklucHV0XD4=</entry>
+        <entry encoding="base64">XDx1cGxvYWRDb3Zlclw+</entry>
+        <entry encoding="base64">XDxzZW5kUGFyZW50Q3JvcHBlZFw+</entry>
+        <entry encoding="base64">XDxub3RBbGxvd2VkUGxhdGZvcm1zXD4=</entry>
+        <entry encoding="base64">XDxtYWtlSW1hZ2VQaWNrZXJBY3Rvclw+</entry>
+        <entry encoding="base64">XDxtYWtlUGF5bG9hZEFjdG9yXD4=</entry>
+        <entry encoding="base64">XDxlZGl0RGVzdGluYXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
@@ -104,12 +104,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" timestamp="1597250659554">
-        <mark key="'" line="226" column="27" />
-        <mark key="[" line="551" column="30" />
-        <mark key="]" line="551" column="47" />
-        <mark key="." line="551" column="46" />
-        <mark key="^" line="551" column="47" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/facebook/facebook.tsx" timestamp="1597259667167">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="9" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" timestamp="1597260197538">
+        <mark key="'" line="721" column="26" />
+        <mark key="[" line="721" column="0" />
+        <mark key="]" line="721" column="68" />
+        <mark key="." line="483" column="30" />
+        <mark key="^" line="483" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/preview.tsx" timestamp="1597229290520">
         <mark key="'" line="190" column="45" />
@@ -118,12 +123,12 @@
         <mark key="^" line="283" column="32" />
         <mark key="." line="285" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/api/events.ts" timestamp="1597247393586">
-        <mark key="'" line="26" column="7" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="154" column="4" />
-        <mark key="." line="152" column="36" />
-        <mark key="^" line="152" column="36" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/api/events.ts" timestamp="1597260116500">
+        <mark key="'" line="3" column="55" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="57" />
+        <mark key="." line="151" column="12" />
+        <mark key="^" line="151" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/monitor.tsx" timestamp="1597222795961">
         <mark key="[" line="11" column="14" />
@@ -131,46 +136,34 @@
         <mark key="^" line="11" column="31" />
         <mark key="." line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/StreamingPreview/StreamingPreviewPlayer.ts" timestamp="1597215896032">
-        <mark key="'" line="160" column="6" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/image-picker/image-picker.tsx" timestamp="1597258274647">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="42" column="54" />
+        <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/linkedin.ts" timestamp="1597156399498">
-        <mark key="'" line="5" column="6" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/api/destinations.ts" timestamp="1597260141372">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="80" column="57" />
+        <mark key="]" line="80" column="59" />
+        <mark key="." line="80" column="58" />
+        <mark key="^" line="80" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/image-picker/image-picker.tsx" timestamp="1597248883341">
-        <mark key="[" line="44" column="57" />
-        <mark key="]" line="44" column="57" />
-        <mark key="^" line="44" column="54" />
-        <mark key="." line="44" column="57" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/makeDestinationRefs.ts" timestamp="1597258660130">
+        <mark key="'" line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/api/destinations.ts" timestamp="1597247526015">
-        <mark key="[" line="61" column="60" />
-        <mark key="]" line="61" column="75" />
-        <mark key="." line="61" column="74" />
-        <mark key="^" line="61" column="75" />
+      <file name="/Dummy.txt" timestamp="1597258309197">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597229334447">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-step/EventStep.tsx" timestamp="1597248044514">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="9" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-step/EventStep.tsx" timestamp="1597259604278">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="67" column="22" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/StreamingPreview/StreamingPreviewWebSocketLoader.ts" timestamp="1597172576719">
-        <mark key="'" line="116" column="17" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1597215043661">
+      <file name="/GraphQL.result.json" timestamp="1597257555897">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/providers/streaming-statuses-provider.tsx" timestamp="1597227811284">
@@ -185,25 +178,25 @@
         <mark key="^" line="330" column="33" />
         <mark key="." line="330" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/image-picker/image-picker.ts" timestamp="1597250531046">
-        <mark key="[" line="148" column="34" />
-        <mark key="]" line="148" column="35" />
-        <mark key="^" line="148" column="35" />
-        <mark key="." line="148" column="34" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" timestamp="1597260352078">
+        <mark key="'" line="601" column="0" />
+        <mark key="[" line="148" column="17" />
+        <mark key="]" line="148" column="27" />
+        <mark key="." line="148" column="26" />
+        <mark key="^" line="148" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/linkedin/linkedin.tsx" timestamp="1597156067546">
-        <mark key="'" line="57" column="43" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="50" column="40" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/image-picker/image-picker.ts" timestamp="1597259485283">
+        <mark key="'" line="131" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" timestamp="1597248742533">
+      <file name="$USER_HOME$/Documents/rads-frontend/src/views/campaign/creation/description/form/DescriptionForm.tsx" timestamp="1597257567211">
+        <mark key="'" line="10" column="70" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" timestamp="1597256842941">
         <mark key="'" line="21" column="20" />
-        <mark key="[" line="172" column="69" />
-        <mark key="]" line="172" column="120" />
-        <mark key="." line="172" column="119" />
-        <mark key="^" line="172" column="120" />
+        <mark key="[" line="87" column="4" />
+        <mark key="]" line="89" column="29" />
+        <mark key="." line="89" column="28" />
+        <mark key="^" line="89" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/preview.module.scss" timestamp="1597229307296">
         <mark key="[" line="52" column="17" />
@@ -219,31 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="449" column="47" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
-      <jump line="167" column="13" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" />
-      <jump line="73" column="16" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" />
-      <jump line="33" column="12" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/facebook/facebook.tsx" />
-      <jump line="78" column="51" filename="$USER_HOME$/Documents/restream-frontend/src/providers/streaming-statuses-provider.tsx" />
-      <jump line="180" column="23" filename="$USER_HOME$/Documents/restream-frontend/src/providers/streaming-statuses-provider.tsx" />
-      <jump line="5" column="9" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/destination/Destination.tsx" />
-      <jump line="1" column="9" filename="$USER_HOME$/Documents/restream-frontend/src/views/titles/TitlesEmbedPage.tsx" />
-      <jump line="153" column="20" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
-      <jump line="281" column="19" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/event-live-page.tsx" />
-      <jump line="20" column="35" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/event-live-page.tsx" />
-      <jump line="250" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/event-live-page.tsx" />
-      <jump line="58" column="24" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destinations/destinations.tsx" />
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/common.ts" />
-      <jump line="48" column="23" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/event-live-page.tsx" />
-      <jump line="219" column="26" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/event-live-page.tsx" />
-      <jump line="108" column="24" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/event-live-page.tsx" />
-      <jump line="94" column="21" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destinations/destinations.tsx" />
-      <jump line="126" column="43" filename="$USER_HOME$/Documents/restream-frontend/src/App.tsx" />
-      <jump line="220" column="21" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/event-live-page.tsx" />
-      <jump line="30" column="34" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/linkedin.ts" />
-      <jump line="21" column="20" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" />
-      <jump line="71" column="12" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
-      <jump line="127" column="1" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
-      <jump line="561" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
       <jump line="563" column="27" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
       <jump line="347" column="28" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
       <jump line="353" column="28" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
@@ -319,51 +287,76 @@
       <jump line="111" column="40" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/image-picker/image-picker.ts" />
       <jump line="207" column="29" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
       <jump line="225" column="27" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
+      <jump line="208" column="57" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
+      <jump line="551" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
+      <jump line="213" column="29" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
+      <jump line="236" column="29" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
+      <jump line="53" column="2" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
+      <jump line="219" column="29" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
+      <jump line="524" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
+      <jump line="146" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/image-picker/image-picker.ts" />
+      <jump line="298" column="10" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
+      <jump line="98" column="8" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
+      <jump line="316" column="24" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
+      <jump line="10" column="70" filename="$USER_HOME$/Documents/rads-frontend/src/views/campaign/creation/description/form/DescriptionForm.tsx" />
+      <jump line="716" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
+      <jump line="720" column="26" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
+      <jump line="3" column="55" filename="$USER_HOME$/Documents/restream-frontend/src/api/events.ts" />
+      <jump line="115" column="27" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/image-picker/image-picker.ts" />
+      <jump line="2" column="9" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/makeDestinationRefs.ts" />
+      <jump line="142" column="25" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="441" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="427" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="326" column="28" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="63" column="22" filename="$USER_HOME$/Documents/restream-frontend/src/api/destinations.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/api/destinations.ts" />
+      <jump line="552" column="8" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="600" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>CommonPayloadEvents</text>
+        <text>makeImagePickerActor</text>
       </register>
       <register name="-" type="4">
-        <text>CommonPayloadEvents</text>
+        <text>makeImagePickerActor</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5kVmFsaWRhdGVFdmVudFBheWxvYWRcPg==</text>
+        <text encoding="base64">XDxlZGl0RGVzdGluYXRpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2VuZFZhbGlkYXRlRXZlbnRQYXlsb2FkOiBzZW5kKENvbW1vblBheWxvYWRFdmVudHMuVkFMSURBVEUsIHsKICAgICAgICB0bzogJ2NvbW1vbi1wYXlsb2FkJywKICAgICAgfSksCg==</text>
+        <text encoding="base64">ICAgICAgY2xlYXJEZXN0aW5hdGlvbklkOiBhc3NpZ24oewogICAgICAgIGRlc3RpbmF0aW9uSWQ6IChfKSA9PiB1bmRlZmluZWQsCiAgICAgIH0pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aXRsZTogY3R4LnRpdGxlLAogICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBjdHguZGVzY3JpcHRpb24sCiAgICAgICAgICAgICAgZGF0ZXRpbWU6IGN0eC5kYXRldGltZSwKICAgICAgICAgICAgICBpbml0aWFsU2NoZWR1bGVkRm9yOiBjdHguZXZlbnRJZAogICAgICAgICAgICAgICAgPyBuZXcgRGF0ZShjdHguZGF0ZXRpbWUuZ2V0VGltZSgpKQogICAgICAgICAgICAgICAgOiBudWxsLAo=</text>
+        <text encoding="base64">ICB1cGxvYWRDb3ZlcjogYXN5bmMgKAogICAgZXZlbnRJZDogc3RyaW5nLAogICAgZGVzdGluYXRpb25JZDogc3RyaW5nLAogICAgaW1hZ2U6IHN0cmluZywKICApID0+IHsKICAgIGF3YWl0IGFwaUNsaWVudC5yZXF1ZXN0KHsKICAgICAgLy8gQHRzLWlnbm9yZQogICAgICBtZXRob2Q6ICdVUExPQUQnLAogICAgICB1cmw6IGAvZXZlbnRzLyR7ZXZlbnRJZH0vJHtkZXN0aW5hdGlvbklkfS9jb3ZlcmAsCiAgICB9KTsKICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXMgSW50ZXJwcmV0ZXI8CiAgICAgICAgICAgICAgRmFjZWJvb2tQYXlsb2FkTWFjaGluZUNvbnRleHQKICAgICAgICAgICAgICA+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICBpbWFnZVBpY2tlclNlcnZpY2UsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBpbWFnZVBpY2tlclNlcnZpY2U6IEludGVycHJldGVyPEltYWdlUGlja2VyTWFjaGluZUNvbnRleHQ+IHwgbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1cGxvYWRDb3ZlcjogYXN5bmMgKGlkOiBzdHJpbmcsIGV2ZW50SWQ6IHN0cmluZykgPT4gewogICAgYXdhaXQgYXBpQ2xpZW50LmRlbGV0ZShgL2V2ZW50cy8ke2V2ZW50SWR9L2Rlc3RpbmF0aW9ucy8ke2lkfWApOwogIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGAvZXZlbnRzLyR7ZXZlbnRJZH0vZGVzdGluYXRpb25zLyR7aWR9YAo=</text>
+        <text encoding="base64">ICAgICAgICA8Rm9ybUdyb3VwPgogICAgICAgICAgPElucHV0TGFiZWw+RGVzY3JpcHRpb248L0lucHV0TGFiZWw+CiAgICAgICAgICA8VGV4dGFyZWEKICAgICAgICAgICAgdmFsdWU9e3N0YXRlLmNvbnRleHQuZGVzY3JpcHRpb24gfHwgJyd9CiAgICAgICAgICAgIGVycm9yPXtzdGF0ZS5tYXRjaGVzKCdkZXNjcmlwdGlvbi5lcnJvcicpfQogICAgICAgICAgICBvbkNoYW5nZT17KGUpID0+CiAgICAgICAgICAgICAgc2VuZChGYWNlYm9va1BheWxvYWRFdmVudHMuU0VUX0RFU0NSSVBUSU9OLCB7CiAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogZS50YXJnZXQudmFsdWUsCiAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfQogICAgICAgICAgLz4KICAgICAgICA8L0Zvcm1Hcm91cD4K</text>
       </register>
       <register name="8" type="2">
-        <text>feat: handle stop stream on preview</text>
+        <text encoding="base64">ICAgICAgICBpbml0OiB7fTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IG1hY2hpbmUgPSBtYWtlRGVzdGluYXRpb25NYWNoaW5lKAogICAgICAgICAgICBjdHguc3RyZWFtaW5nUGxhdGZvcm1JZCwKICAgICAgICAgICAgY3R4LnBheWxvYWQsCiAgICAgICAgICApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
@@ -372,9 +365,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzZW5kVmFsaWRhdGVFdmVudFBheWxvYWRcPg==</last-search>
+      <last-search encoding="base64">XDxlZGl0RGVzdGluYXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5kVmFsaWRhdGVFdmVudFBheWxvYWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxlZGl0RGVzdGluYXRpb25cPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1c2VTZWxlY3RlZEFnZ3JlZ2F0aW9uSWRzXD4=</last-substitute>
       <last-dir>1</last-dir>
