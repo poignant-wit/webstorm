@@ -104,11 +104,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1597222078257">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="16" />
+      <file name="/Dummy.txt" timestamp="1597223711908">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="41" />
+        <mark key="^" line="0" column="41" />
+        <mark key="." line="0" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/StreamingPreview/StreamingPreviewWebSocketLoader.ts" timestamp="1597172576719">
         <mark key="'" line="116" column="17" />
@@ -121,10 +121,6 @@
         <mark key="]" line="2" column="36" />
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/preview.tsx" timestamp="1597223608948">
-        <mark key="'" line="205" column="6" />
-        <mark key="^" line="249" column="66" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1597215043661">
         <mark key="[" line="0" column="0" />
@@ -316,7 +312,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4gewogICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgIHNlbmQoUHJldmlld0V2ZW50cy5TRVRfT05MSU5FLCB7IGRvbWFpbjogJ3Rlc3REb21haW4nIH0pOwogICAgfSwgNDAwMCk7CiAgfSwgW3NlbmRdKTsK</text>
+        <text>fix: remove debug tag</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -328,34 +324,34 @@
         <text encoding="base64">ICAnd3M6Ly9sb2NhbGhvc3Q6ODE4MC9hcGkvcHJldmlldz90b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKMWMyVnlYMmxrSWpveExDSmxlSEFpT2pFNU1UWXlNemt3TWpKOS5iVl9PRk1iWTJ0eE1QWUF1eGcyRnZNLTNnTlJ5OExQaXE2NlZ2SktidWxRJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4gewogICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgIHNlbmQoUHJldmlld0V2ZW50cy5TRVRfT05MSU5FLCB7IGRvbWFpbjogJ3Rlc3REb21haW4nIH0pOwogICAgfSwgNDAwMCk7CiAgfSwgW3NlbmRdKTsK</text>
+        <text>fix: remove debug tag</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gY29uc3QgcHJldmlld1VybCA9Ci8vICAgKHdpbmRvdy5sb2NhdGlvbi5ocmVmLnN0YXJ0c1dpdGgoJ2h0dHBzOi8vJykgPyAnd3NzJyA6ICd3cycpICsKLy8gICBgOi8vJHsnZnJhbmtmdXJ0LTYucmVzdHJlYW0uaW8nfS9wcmV2aWV3P3Rva2VuPSR7J3Rva2VuJ31gOwo=</text>
+        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4gewogICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgIHNlbmQoUHJldmlld0V2ZW50cy5TRVRfT05MSU5FLCB7IGRvbWFpbjogJ3Rlc3REb21haW4nIH0pOwogICAgfSwgNDAwMCk7CiAgfSwgW3NlbmRdKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgcHJldmlld1VybCA9CiAgJ3dzOi8vbG9jYWxob3N0OjgxODAvYXBpL3ByZXZpZXc/dG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SjFjMlZ5WDJsa0lqb3hMQ0psZUhBaU9qRTVNVFl5TXprd01qSjkuYlZfT0ZNYlkydHhNUFlBdXhnMkZ2TS0zZ05SeThMUGlxNjZWdkpLYnVsUSc7Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgcHJldmlld1VybCA9Ci8vICAgKHdpbmRvdy5sb2NhdGlvbi5ocmVmLnN0YXJ0c1dpdGgoJ2h0dHBzOi8vJykgPyAnd3NzJyA6ICd3cycpICsKLy8gICBgOi8vJHsnZnJhbmtmdXJ0LTYucmVzdHJlYW0uaW8nfS9wcmV2aWV3P3Rva2VuPSR7J3Rva2VuJ31gOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3QgcHJldmlld1VybCA9CiAgJ3dzOi8vbG9jYWxob3N0OjgxODAvYXBpL3ByZXZpZXc/dG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SjFjMlZ5WDJsa0lqb3hMQ0psZUhBaU9qRTVNVFl5TXprd01qSjkuYlZfT0ZNYlkydHhNUFlBdXhnMkZ2TS0zZ05SeThMUGlxNjZWdkpLYnVsUSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gZndzOi8vbG9jYWxob3N0OjgxODAvYXBpL3ByZXZpZXc/dG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SjFjMlZ5WDJsa0lqb3hMQ0psZUhBaU9qRTVNVFl5TXprd01qSjkuYlZfT0ZNYlkydHhNUFlBdXhnMkZ2TS0zZ05SeThMUGlxNjZWdkpLYnVsUSc7Cn0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9tYWluOiB1cGRhdGVJbmNvbWluZ01lc3NhZ2Uuc2VydmVySG9zdG5hbWUsCg==</text>
+        <text encoding="base64">ICByZXR1cm4gZndzOi8vbG9jYWxob3N0OjgxODAvYXBpL3ByZXZpZXc/dG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SjFjMlZ5WDJsa0lqb3hMQ0psZUhBaU9qRTVNVFl5TXprd01qSjkuYlZfT0ZNYlkydHhNUFlBdXhnMkZ2TS0zZ05SeThMUGlxNjZWdkpLYnVsUSc7Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9tYWluOiB1cGRhdGVJbmNvbWluZ01lc3NhZ2Uuc2VydmVySG9zdG5hbWUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAobWVzc2FnZS5ldmVudElkID09PSBldmVudElkKSB7CiAgICAgICAgLy8gICBzZW5kKEV2ZW50TGl2ZVBhZ2VFdmVudC5TRVRfU1RBVFVTX09OTElORSk7CiAgICAgICAgLy8gfSBlbHNlIHsKICAgICAgICAvLyAgIHNlbmQoRXZlbnRMaXZlUGFnZUV2ZW50LlNFVF9TVEFUVVNfT0ZGTElORSk7CiAgICAgICAgLy8gfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXZlbnRMaXZlUGFnZUV2ZW50IH0gZnJvbSAnLi4vLi4vZXZlbnQtbGl2ZS1wYWdlJzsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAobWVzc2FnZS5ldmVudElkID09PSBldmVudElkKSB7CiAgICAgICAgLy8gICBzZW5kKEV2ZW50TGl2ZVBhZ2VFdmVudC5TRVRfU1RBVFVTX09OTElORSk7CiAgICAgICAgLy8gfSBlbHNlIHsKICAgICAgICAvLyAgIHNlbmQoRXZlbnRMaXZlUGFnZUV2ZW50LlNFVF9TVEFUVVNfT0ZGTElORSk7CiAgICAgICAgLy8gfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
