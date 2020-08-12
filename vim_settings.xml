@@ -5,17 +5,12 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkRlYnVnRGF0YVVwZGF0ZVw+</entry>
-        <entry encoding="base64">XDxvbkVycm9yXD4=</entry>
-        <entry encoding="base64">XDx0b2tlbkxvYWRpbmdcPg==</entry>
-        <entry encoding="base64">XDxsb2FkaW5nVG9rZW5cPg==</entry>
         <entry encoding="base64">XDxzZXRJbmdlc3REb21haW5cPg==</entry>
         <entry encoding="base64">XDxzZW5kVmFsaWRhdGVFdmVudFBheWxvYWRcPg==</entry>
         <entry encoding="base64">XDxzZW5kVmFsaWRhdGVJbWFnZVw+</entry>
         <entry encoding="base64">XDxzZXRDb21tb25EYXRhXD4=</entry>
         <entry encoding="base64">XDxjb3Zlclw+</entry>
         <entry encoding="base64">XDxzZXRJbWFnZVw+</entry>
-        <entry encoding="base64">XDxzZXRDb3Zlclw+</entry>
         <entry encoding="base64">XDx1cGRhdGluZ0NvdmVyXD4=</entry>
         <entry encoding="base64">XDx1cGxvYWRpbmdDb3Zlclw+</entry>
         <entry encoding="base64">XDxSSW1hZ2VVcGxvYWRlcklucHV0XD4=</entry>
@@ -25,6 +20,11 @@
         <entry encoding="base64">XDxtYWtlSW1hZ2VQaWNrZXJBY3Rvclw+</entry>
         <entry encoding="base64">XDxtYWtlUGF5bG9hZEFjdG9yXD4=</entry>
         <entry encoding="base64">XDxlZGl0RGVzdGluYXRpb25cPg==</entry>
+        <entry encoding="base64">XDxTQVZFXD4=</entry>
+        <entry encoding="base64">XDxzZW5kQWRkRGVzdGluYXRpb25cPg==</entry>
+        <entry encoding="base64">XDxTRVRfUEFZTE9BRFw+</entry>
+        <entry encoding="base64">XDxzZXRDb3Zlclw+</entry>
+        <entry encoding="base64">XDxzZW5kVmFsaWRhdGVDb3Zlclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
@@ -109,10 +109,10 @@
         <mark key="]" line="20" column="9" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" timestamp="1597260197538">
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" timestamp="1597261175032">
         <mark key="'" line="721" column="26" />
-        <mark key="[" line="721" column="0" />
-        <mark key="]" line="721" column="68" />
+        <mark key="[" line="569" column="0" />
+        <mark key="]" line="576" column="9" />
         <mark key="." line="483" column="30" />
         <mark key="^" line="483" column="31" />
       </file>
@@ -152,8 +152,8 @@
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/machines/makeDestinationRefs.ts" timestamp="1597258660130">
         <mark key="'" line="2" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597258309197">
-        <mark key="[" line="0" column="21" />
+      <file name="/Dummy.txt" timestamp="1597261083302">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="21" />
@@ -178,12 +178,12 @@
         <mark key="^" line="330" column="33" />
         <mark key="." line="330" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" timestamp="1597260352078">
-        <mark key="'" line="601" column="0" />
-        <mark key="[" line="148" column="17" />
-        <mark key="]" line="148" column="27" />
-        <mark key="." line="148" column="26" />
-        <mark key="^" line="148" column="27" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" timestamp="1597261201419">
+        <mark key="'" line="499" column="6" />
+        <mark key="[" line="514" column="25" />
+        <mark key="]" line="514" column="30" />
+        <mark key="." line="514" column="29" />
+        <mark key="^" line="514" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/image-picker/image-picker.ts" timestamp="1597259485283">
         <mark key="'" line="131" column="27" />
@@ -212,21 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="563" column="27" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
-      <jump line="347" column="28" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
-      <jump line="353" column="28" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
-      <jump line="415" column="9" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
-      <jump line="16" column="24" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
-      <jump line="90" column="8" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
-      <jump line="244" column="25" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
-      <jump line="154" column="28" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/common.ts" />
-      <jump line="157" column="28" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/common.ts" />
-      <jump line="63" column="9" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/common.ts" />
-      <jump line="5" column="8" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/common.ts" />
-      <jump line="145" column="35" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/payloads/common.ts" />
-      <jump line="53" column="21" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/StreamingPreview/StreamingPreviewStore.ts" />
-      <jump line="213" column="16" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/StreamingPreview/StreamingPreviewStore.ts" />
-      <jump line="189" column="17" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/StreamingPreview/StreamingPreviewStore.ts" />
       <jump line="238" column="9" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/StreamingPreview/StreamingPreviewStore.ts" />
       <jump line="40" column="10" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/StreamingPreview/StreamingPreviewStore.ts" />
       <jump line="137" column="11" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/StreamingPreview/StreamingPreviewStore.ts" />
@@ -312,21 +297,36 @@
       <jump line="3" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/api/destinations.ts" />
       <jump line="552" column="8" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
       <jump line="600" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="148" column="26" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="129" column="30" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="387" column="37" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="498" column="47" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="31" column="10" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="126" column="30" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="389" column="45" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="469" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="381" column="45" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="380" column="37" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="390" column="37" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="501" column="47" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="385" column="31" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="382" column="45" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
+      <jump line="499" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>makeImagePickerActor</text>
+        <text>image</text>
       </register>
       <register name="-" type="4">
-        <text>makeImagePickerActor</text>
+        <text>image</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlZGl0RGVzdGluYXRpb25cPg==</text>
+        <text encoding="base64">XDxzZW5kVmFsaWRhdGVDb3Zlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2xlYXJEZXN0aW5hdGlvbklkOiBhc3NpZ24oewogICAgICAgIGRlc3RpbmF0aW9uSWQ6IChfKSA9PiB1bmRlZmluZWQsCiAgICAgIH0pLAo=</text>
+        <text encoding="base64">ICAgICAgc2V0Q292ZXI6IGFzc2lnbih7CiAgICAgICAgY292ZXI6IChjdHgsIGV2ZW50KSA9PiB7CiAgICAgICAgICBpZiAoZXZlbnQudHlwZSA9PT0gRXZlbnRCdWlsZGVyRXZlbnRzLlNFVF9JTUFHRSkgewogICAgICAgICAgICByZXR1cm4gZXZlbnQuaW1hZ2U7CiAgICAgICAgICB9CiAgICAgICAgICByZXR1cm4gY3R4LmNvdmVyOwogICAgICAgIH0sCiAgICAgIH0pLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -365,9 +365,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxlZGl0RGVzdGluYXRpb25cPg==</last-search>
+      <last-search encoding="base64">XDxzZW5kVmFsaWRhdGVDb3Zlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlZGl0RGVzdGluYXRpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5kVmFsaWRhdGVDb3Zlclw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1c2VTZWxlY3RlZEFnZ3JlZ2F0aW9uSWRzXD4=</last-substitute>
       <last-dir>1</last-dir>
