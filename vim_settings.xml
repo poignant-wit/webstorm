@@ -104,11 +104,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1597227567045">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="18" />
+      <file name="/Dummy.txt" timestamp="1597228056458">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/StreamingPreview/StreamingPreviewWebSocketLoader.ts" timestamp="1597172576719">
         <mark key="'" line="116" column="17" />
@@ -122,12 +122,12 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/preview.tsx" timestamp="1597228014524">
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/preview.tsx" timestamp="1597229290520">
         <mark key="'" line="190" column="45" />
-        <mark key="[" line="321" column="23" />
-        <mark key="]" line="321" column="39" />
-        <mark key="^" line="321" column="39" />
-        <mark key="." line="321" column="38" />
+        <mark key="[" line="285" column="0" />
+        <mark key="]" line="285" column="0" />
+        <mark key="^" line="283" column="32" />
+        <mark key="." line="285" column="0" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1597215043661">
         <mark key="[" line="0" column="0" />
@@ -320,7 +320,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBvZmZsaW5lID0gdXNlTWVtbygoKSA9PiB7CiAgLy8gICByZXR1cm4gc3RhdGUubWF0Y2hlcygnb2ZmbGluZScpOwogIC8vIH0sIFtzdGF0ZV0pOwoKICAvLyB1c2VFZmZlY3QoKCkgPT4gewogIC8vICAgaWYgKG9mZmxpbmUpIHsKICAvLyAgICAgaWYgKHBsYXllci5jdXJyZW50KSB7CiAgLy8gICAgICAgcGxheWVyLmN1cnJlbnQuZGVzdHJveSgpOwogIC8vICAgICB9CiAgLy8gICB9CiAgLy8gfSwgW29mZmxpbmVdKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>updateIncomingSub</text>
@@ -329,37 +329,37 @@
         <text encoding="base64">XDxzZXRJbmdlc3REb21haW5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbmQoUHJldmlld0V2ZW50cy5TRVRfT0ZGTElORSk7Cg==</text>
+        <text encoding="base64">ICAgICAgcGxheWVyLmN1cnJlbnQgPSBudWxsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBvZmZsaW5lID0gdXNlTWVtbygoKSA9PiB7CiAgLy8gICByZXR1cm4gc3RhdGUubWF0Y2hlcygnb2ZmbGluZScpOwogIC8vIH0sIFtzdGF0ZV0pOwoKICAvLyB1c2VFZmZlY3QoKCkgPT4gewogIC8vICAgaWYgKG9mZmxpbmUpIHsKICAvLyAgICAgaWYgKHBsYXllci5jdXJyZW50KSB7CiAgLy8gICAgICAgcGxheWVyLmN1cnJlbnQuZGVzdHJveSgpOwogIC8vICAgICB9CiAgLy8gICB9CiAgLy8gfSwgW29mZmxpbmVdKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlbmQoUHJldmlld0V2ZW50cy5TRVRfT05MSU5FLCB7CiAgICAgIGRvbWFpbjogJ3Rlc3QnLAogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgcGxheWVyLmN1cnJlbnQgPSBudWxsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text>feat: preview error</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAvLyBjb25zdCBvZmZsaW5lID0gdXNlTWVtbygoKSA9PiB7CiAgLy8gICByZXR1cm4gc3RhdGUubWF0Y2hlcygnb2ZmbGluZScpOwogIC8vIH0sIFtzdGF0ZV0pOwoKICAvLyB1c2VFZmZlY3QoKCkgPT4gewogIC8vICAgaWYgKG9mZmxpbmUpIHsKICAvLyAgICAgaWYgKHBsYXllci5jdXJyZW50KSB7CiAgLy8gICAgICAgcGxheWVyLmN1cnJlbnQuZGVzdHJveSgpOwogIC8vICAgICB9CiAgLy8gICB9CiAgLy8gfSwgW29mZmxpbmVdKTsK</text>
       </register>
       <register name="5" type="2">
-        <text>fix: preview</text>
+        <text encoding="base64">ICAgIHNlbmQoUHJldmlld0V2ZW50cy5TRVRfT05MSU5FLCB7CiAgICAgIGRvbWFpbjogJ3Rlc3QnLAogICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXR0ZXItc3BhY2luZzogMC4xZW07Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBFcnJvcgo=</text>
+        <text>fix: preview</text>
       </register>
       <register name="9" type="2">
-        <text>feat: preview ingest domain from statuses</text>
+        <text encoding="base64">ICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
