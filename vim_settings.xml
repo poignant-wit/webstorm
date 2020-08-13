@@ -104,17 +104,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/payload-form.tsx" timestamp="1597302140522">
-        <mark key="'" line="39" column="13" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="61" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event-finish/event-finish-modal.tsx" timestamp="1597328296991">
         <mark key="[" line="28" column="41" />
         <mark key="]" line="28" column="41" />
         <mark key="." line="28" column="40" />
         <mark key="^" line="28" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/list/event-row/event-row.tsx" timestamp="1597331980549">
+        <mark key="[" line="94" column="86" />
+        <mark key="]" line="94" column="95" />
+        <mark key="." line="94" column="94" />
+        <mark key="^" line="94" column="95" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/api/events.ts" timestamp="1597327921479">
         <mark key="'" line="3" column="6" />
@@ -122,12 +122,6 @@
         <mark key="]" line="3" column="57" />
         <mark key="." line="151" column="12" />
         <mark key="^" line="151" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destinations/destinations.tsx" timestamp="1597327540235">
-        <mark key="[" line="79" column="47" />
-        <mark key="]" line="79" column="71" />
-        <mark key="." line="79" column="70" />
-        <mark key="^" line="79" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/constants.ts" timestamp="1597303335256">
         <mark key="[" line="35" column="2" />
@@ -170,10 +164,10 @@
         <mark key="." line="22" column="13" />
         <mark key="^" line="22" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597321322246">
+      <file name="/Dummy.txt" timestamp="1597331080361">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="39" />
+        <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/api/client/buildAuthApiClient.ts" timestamp="1597321281406">
@@ -317,46 +311,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Done</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Done</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWFkRmlsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCByb290U3RvcmUgPSB1c2VSb290U3RvcmUoKTsK</text>
+        <text encoding="base64">ICBpZiAoZGVzdGluYXRpb24ucGxhdGZvcm0gPT09IFBsYXRmb3JtLkZBQ0VCT09LKSB7CiAgICByZXR1cm4gZmFjZWJvb2tFdmVudExpbmsoZGVzdGluYXRpb24pOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24gdmFyaWFudD17J2luZm8nfSBvbkNsaWNrPXtjbG9zZU1vZGFsfT4KICAgICAgICAgICAgRG9uZQogICAgICAgICAgPC9CdXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRlc3RpbmF0aW9uLm1ldGEpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmaW5pc2gnKTsK</text>
+        <text encoding="base64">ICBBCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGV2ZW50TW9kZWwgPSBzZWxmLmNvbGxlY3Rpb24uZmluZCgKICAgICAgICAgICAgKGV2ZW50KSA9PiBldmVudC5pZCA9PT0gZXZlbnRJZCwKICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICBgaHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj0ke3BhdGgoWydtZXRhJywgJ2Jyb2FkY2FzdCcsICdpZCddLCBldmVudCl9YDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChldmVudE1vZGVsKSB7CiAgICAgICAgICAgIHNlbGYuY29sbGVjdGlvbi5yZW1vdmUoZXZlbnRNb2RlbCk7CiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW1nCiAgICAgICAgICAgICAgICAgICAgICBzcmM9e2Rlc3RpbmF0aW9uLnBsYXRmb3JtLmltYWdlLnN2Z30KICAgICAgICAgICAgICAgICAgICAgIGFsdD17ZGVzdGluYXRpb24ucGxhdGZvcm0ubmFtZX0KICAgICAgICAgICAgICAgICAgICAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>fix: encode auth header</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24gdmFyaWFudD17J3ByaW1hcnknfSBvbkNsaWNrPXtoYW5kbGVPbkNsaWNrRmluaXNoRXZlbnR9PgogICAgICAgICAgICBGaW5pc2gKICAgICAgICAgIDwvQnV0dG9uPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24gdmFyaWFudD17J2luZm8nfSBvbkNsaWNrPXtjbG9zZU1vZGFsfT4KICAgICAgICAgICAgRG9uZQogICAgICAgICAgPC9CdXR0b24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmaW5pc2gnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
