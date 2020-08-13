@@ -155,6 +155,11 @@
         <mark key="]" line="194" column="0" />
         <mark key="." line="194" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/image-picker/image-picker.tsx" timestamp="1597340659705">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/header/components/Header.tsx" timestamp="1597333918599">
         <mark key="[" line="79" column="22" />
         <mark key="]" line="79" column="23" />
@@ -193,10 +198,6 @@
       </file>
       <file name="/GraphQL.result.json" timestamp="1597332570807">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event-delete/delete-event-modal.tsx" timestamp="1597327960309">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/AppViewModel.ts" timestamp="1597337141293">
         <mark key="[" line="18" column="39" />
@@ -323,10 +324,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>fix: preview, event page channel namesав</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvbkluaXRpYWxpemVkPXtjb25zb2xlLmxvZ30K</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>this.onCropperInit.bind(this)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZyZXNoRXZlbnRDb3Zlclw+</text>
@@ -335,34 +336,34 @@
         <text encoding="base64">ICAgICAgYXdhaXQgdGhpcy5yb290U3RvcmUucGxhdGZvcm1zLmxvYWRQbGF0Zm9ybXMoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text>fix: preview, event page channel namesав</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvbkluaXRpYWxpemVkPXtjb25zb2xlLmxvZ30K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY3JvcHBlclJlZi5jdXJyZW50Lm9uSQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGV2ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvbkluaQo=</text>
       </register>
       <register name="4" type="2">
-        <text>fix: destination model event links</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY3JvcHBlclJlZi5jdXJyZW50Lnpvb21UbygxKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2hhbm5lbCk7Cg==</text>
+        <text encoding="base64">ICBpZiAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text>feat: link to events</text>
+        <text>fix: preview, event page channel namesав</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKAogICAgICAndGhpcycsCiAgICAgIHBhdGgoWydtZXRhJywgJ2xpdmVWaWRlbycsICdwZXJtYWxpbmtVcmwnXSwgZGVzdGluYXRpb24pLAogICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGV2ZW50KTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
