@@ -104,17 +104,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event-finish/event-finish-modal.tsx" timestamp="1597328296991">
-        <mark key="[" line="28" column="41" />
-        <mark key="]" line="28" column="41" />
-        <mark key="." line="28" column="40" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event-finish/event-finish-modal.tsx" timestamp="1597332094876">
+        <mark key="'" line="43" column="15" />
+        <mark key="[" line="1" column="43" />
+        <mark key="]" line="1" column="43" />
+        <mark key="." line="1" column="43" />
         <mark key="^" line="28" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/list/event-row/event-row.tsx" timestamp="1597331980549">
-        <mark key="[" line="94" column="86" />
-        <mark key="]" line="94" column="95" />
-        <mark key="." line="94" column="94" />
-        <mark key="^" line="94" column="95" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/list/event-row/event-row.tsx" timestamp="1597332023474">
+        <mark key="[" line="96" column="52" />
+        <mark key="]" line="96" column="62" />
+        <mark key="." line="96" column="61" />
+        <mark key="^" line="96" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/api/events.ts" timestamp="1597327921479">
         <mark key="'" line="3" column="6" />
@@ -122,12 +123,6 @@
         <mark key="]" line="3" column="57" />
         <mark key="." line="151" column="12" />
         <mark key="^" line="151" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/constants.ts" timestamp="1597303335256">
-        <mark key="[" line="35" column="2" />
-        <mark key="]" line="35" column="25" />
-        <mark key="." line="35" column="24" />
-        <mark key="^" line="35" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/image-picker/image-picker.module.scss" timestamp="1597311948190">
         <mark key="[" line="61" column="17" />
@@ -164,11 +159,11 @@
         <mark key="." line="22" column="13" />
         <mark key="^" line="22" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597331080361">
+      <file name="/Dummy.txt" timestamp="1597332139345">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/api/client/buildAuthApiClient.ts" timestamp="1597321281406">
         <mark key="[" line="36" column="76" />
@@ -177,6 +172,9 @@
         <mark key="." line="36" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/package.json" timestamp="1597310108280" />
+      <file name="/GraphQL.result.json" timestamp="1597332570807">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event-delete/delete-event-modal.tsx" timestamp="1597327960309">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="35" />
@@ -206,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="651" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
       <jump line="111" column="40" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/image-picker/image-picker.ts" />
       <jump line="207" column="29" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
       <jump line="225" column="27" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
@@ -306,15 +303,16 @@
       <jump line="280" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/image-picker/image-picker.ts" />
       <jump line="158" column="28" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" />
       <jump line="3" column="6" filename="$USER_HOME$/Documents/restream-frontend/src/api/events.ts" />
+      <jump line="43" column="15" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event-finish/event-finish-modal.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text>feat: finish button on event page</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWFkRmlsZVw+</text>
@@ -323,34 +321,34 @@
         <text encoding="base64">ICBpZiAoZGVzdGluYXRpb24ucGxhdGZvcm0gPT09IFBsYXRmb3JtLkZBQ0VCT09LKSB7CiAgICByZXR1cm4gZmFjZWJvb2tFdmVudExpbmsoZGVzdGluYXRpb24pOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRlc3RpbmF0aW9uLm1ldGEpOwo=</text>
+        <text>feat: finish button on event page</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBBCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRlc3RpbmF0aW9uLm1ldGEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBgaHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj0ke3BhdGgoWydtZXRhJywgJ2Jyb2FkY2FzdCcsICdpZCddLCBldmVudCl9YDsK</text>
+        <text encoding="base64">ICBBCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW1nCiAgICAgICAgICAgICAgICAgICAgICBzcmM9e2Rlc3RpbmF0aW9uLnBsYXRmb3JtLmltYWdlLnN2Z30KICAgICAgICAgICAgICAgICAgICAgIGFsdD17ZGVzdGluYXRpb24ucGxhdGZvcm0ubmFtZX0KICAgICAgICAgICAgICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICBgaHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj0ke3BhdGgoWydtZXRhJywgJ2Jyb2FkY2FzdCcsICdpZCddLCBldmVudCl9YDsK</text>
       </register>
       <register name="5" type="2">
-        <text>fix: encode auth header</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW1nCiAgICAgICAgICAgICAgICAgICAgICBzcmM9e2Rlc3RpbmF0aW9uLnBsYXRmb3JtLmltYWdlLnN2Z30KICAgICAgICAgICAgICAgICAgICAgIGFsdD17ZGVzdGluYXRpb24ucGxhdGZvcm0ubmFtZX0KICAgICAgICAgICAgICAgICAgICAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>fix: encode auth header</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24gdmFyaWFudD17J3ByaW1hcnknfSBvbkNsaWNrPXtoYW5kbGVPbkNsaWNrRmluaXNoRXZlbnR9PgogICAgICAgICAgICBGaW5pc2gKICAgICAgICAgIDwvQnV0dG9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24gdmFyaWFudD17J2luZm8nfSBvbkNsaWNrPXtjbG9zZU1vZGFsfT4KICAgICAgICAgICAgRG9uZQogICAgICAgICAgPC9CdXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24gdmFyaWFudD17J3ByaW1hcnknfSBvbkNsaWNrPXtoYW5kbGVPbkNsaWNrRmluaXNoRXZlbnR9PgogICAgICAgICAgICBGaW5pc2gKICAgICAgICAgIDwvQnV0dG9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmaW5pc2gnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24gdmFyaWFudD17J2luZm8nfSBvbkNsaWNrPXtjbG9zZU1vZGFsfT4KICAgICAgICAgICAgRG9uZQogICAgICAgICAgPC9CdXR0b24+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
