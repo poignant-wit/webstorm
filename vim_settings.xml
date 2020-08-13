@@ -116,17 +116,11 @@
         <mark key="]" line="33" column="61" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" timestamp="1597266887737">
-        <mark key="[" line="479" column="0" />
-        <mark key="]" line="479" column="0" />
-        <mark key="^" line="0" column="85" />
-        <mark key="." line="479" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/list/event-row/event-row.tsx" timestamp="1597267064680">
-        <mark key="[" line="29" column="47" />
-        <mark key="]" line="29" column="59" />
-        <mark key="^" line="29" column="59" />
-        <mark key="." line="29" column="58" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destinations/destinations.tsx" timestamp="1597326423478">
+        <mark key="[" line="78" column="28" />
+        <mark key="]" line="78" column="35" />
+        <mark key="." line="78" column="34" />
+        <mark key="^" line="78" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/events/events-page.tsx" timestamp="1597267084867">
         <mark key="[" line="133" column="33" />
@@ -162,11 +156,17 @@
         <mark key="]" line="13" column="49" />
         <mark key="." line="13" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597312070610">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="16" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destinations/destinations.module.scss" timestamp="1597326360355">
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="22" column="14" />
+        <mark key="." line="22" column="13" />
+        <mark key="^" line="22" column="14" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1597321322246">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-step/EventStep.tsx" timestamp="1597300515570">
         <mark key="[" line="81" column="0" />
@@ -316,46 +316,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>warning</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>warning</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWFkRmlsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW50cnk6ICdjbGVhckVycm9yJywK</text>
+        <text encoding="base64">LmJ1dHRvbiB7CiAgZGlzcGxheTogZmxleDsKICBtYXJnaW4tYm90dG9tOiAxNnB4Owp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>fix: cookies</text>
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uIHZhcmlhbnQ9eyd3YXJuaW5nJ30gb25DbGljaz17aGFuZGxlT25DbGlja0VkaXRFdmVudH0+CiAgICAgICAgICBGSU5JU0gKICAgICAgICA8L0J1dHRvbj4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygKICAgIHN0YXRlLmNvbnRleHQuZGVzdGluYXRpb25zUHJvY2Vzc2luZywKICAgIHN0YXRlLmNvbnRleHQuZGVzdGluYXRpb25zU3VjY2VzcywKICAgIHN0YXRlLmNvbnRleHQuZGVzdGluYXRpb25zRXJyb3IsCiAgKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcjoge307Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVycm9yOiB7fSwK</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChldmVudC50eXBlID09PSBJbWFnZVBpY2tlckV2ZW50cy5TRVRfQ1JPUFBFRCkgewogICAgICAgICAgICByZXR1cm4gZXZlbnQuY3JvcHBlZEJhc2U2NDsKICAgICAgICAgIH0K</text>
+        <text>feat(image-picker): validate image size</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text>fix: cookies</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGUuc2l6ZSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygKICAgIHN0YXRlLmNvbnRleHQuZGVzdGluYXRpb25zUHJvY2Vzc2luZywKICAgIHN0YXRlLmNvbnRleHQuZGVzdGluYXRpb25zU3VjY2VzcywKICAgIHN0YXRlLmNvbnRleHQuZGVzdGluYXRpb25zRXJyb3IsCiAgKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
