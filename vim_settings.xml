@@ -45,8 +45,8 @@
         <entry>action ImplementMethods</entry>
         <entry>action $SelectAll</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action EditorDuplicate</entry>
         <entry>action GotoFile</entry>
+        <entry>action EditorDuplicate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -151,14 +151,15 @@
         <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/store/events/EventsStore.ts" timestamp="1597338110789">
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="." line="194" column="0" />
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="213" column="0" />
+        <mark key="." line="213" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/image-picker/image-picker.tsx" timestamp="1597340659705">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/image-picker/image-picker.tsx" timestamp="1597388375556">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="45" column="31" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/header/components/Header.tsx" timestamp="1597333918599">
         <mark key="[" line="79" column="22" />
@@ -324,10 +325,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvbkluaXRpYWxpemVkPXtjb25zb2xlLmxvZ30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdoZWxsbycsIGNyb3BwZXJSZWYuY3VycmVudCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>this.onCropperInit.bind(this)</text>
+        <text>state.context.base64</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZyZXNoRXZlbnRDb3Zlclw+</text>
@@ -336,37 +337,37 @@
         <text encoding="base64">ICAgICAgYXdhaXQgdGhpcy5yb290U3RvcmUucGxhdGZvcm1zLmxvYWRQbGF0Zm9ybXMoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvbkluaXRpYWxpemVkPXtjb25zb2xlLmxvZ30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdoZWxsbycsIGNyb3BwZXJSZWYuY3VycmVudCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY3JvcHBlclJlZi5jdXJyZW50Lm9uSQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvbm5ubm4nKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvbkluaQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZS50b1N0cmluZ3MoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY3JvcHBlclJlZi5jdXJyZW50Lnpvb21UbygxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBzcmM9eydodHRwOi8vZmVuZ3l1YW5jaGVuLmdpdGh1Yi5pby9jcm9wcGVyL2ltYWdlcy9waWN0dXJlLmpwZyd9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBzcmM9eydodHRwOi8vZmVuZ3l1YW5jaGVuLmdpdGh1Yi5pby9jcm9wcGVyL2ltYWdlcy9waWN0dXJlLmpwZyd9CiAgICAgICAgICAgICAgc3R5bGU9e3sK</text>
       </register>
       <register name="7" type="2">
-        <text>fix: preview, event page channel namesав</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2hlbGxvJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZWY9e2Nyb3BwZXJSZWZ9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGV2ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvbkluaXRpYWxpemVkPXtjb25zb2xlLmxvZ30K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action EditorDuplicate</text>
       </register>
     </registers>
   </component>
