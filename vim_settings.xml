@@ -104,12 +104,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" timestamp="1597403256708">
-        <mark key="'" line="677" column="36" />
-        <mark key="[" line="327" column="36" />
-        <mark key="]" line="327" column="37" />
-        <mark key="^" line="327" column="37" />
-        <mark key="." line="327" column="36" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" timestamp="1597405463206">
+        <mark key="'" line="682" column="36" />
+        <mark key="[" line="493" column="18" />
+        <mark key="]" line="494" column="46" />
+        <mark key="^" line="494" column="46" />
+        <mark key="." line="494" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/preview.tsx" timestamp="1597337475011">
         <mark key="'" line="190" column="45" />
@@ -196,11 +196,14 @@
         <mark key="." line="18" column="47" />
         <mark key="^" line="18" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" timestamp="1597403941005">
-        <mark key="'" line="161" column="28" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" timestamp="1597405971526">
+        <mark key="[" line="311" column="0" />
+        <mark key="]" line="311" column="0" />
+        <mark key="." line="311" column="0" />
+        <mark key="^" line="310" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" timestamp="1597405331200">
+        <mark key="'" line="165" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsListPlaceholder/EventsListPlaceholder.tsx" timestamp="1597334807209">
         <mark key="[" line="148" column="33" />
@@ -208,15 +211,8 @@
         <mark key="." line="148" column="46" />
         <mark key="^" line="148" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/events/list/components/EventsListSlot/EventsListSlot.tsx" timestamp="1597334001764">
-        <mark key="[" line="13" column="34" />
-        <mark key="]" line="13" column="39" />
-        <mark key="^" line="13" column="39" />
-        <mark key="." line="13" column="38" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="10" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
       <jump line="98" column="8" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
       <jump line="316" column="24" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" />
       <jump line="10" column="70" filename="$USER_HOME$/Documents/rads-frontend/src/views/campaign/creation/description/form/DescriptionForm.tsx" />
@@ -316,15 +312,16 @@
       <jump line="195" column="5" filename="$USER_HOME$/Documents/restream-frontend/src/providers/feature-flags-provider.tsx" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/providers/feature-flags-provider.tsx" />
       <jump line="63" column="0" filename="$USER_HOME$/Documents/restream-frontend/src/providers/feature-flags-provider.tsx" />
+      <jump line="217" column="38" filename="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbHdheXM6IFt7IGFjdGlvbnM6ICdzZW5kVXBsb2FkJyB9XSwK</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdHJlYW1pbmdTdGF0dXNlc0NvbnRleHRcPg==</text>
@@ -333,34 +330,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGhlaWdodDogMjU0LAogICAgICAgICAgICAgICAgd2lkdGg6ICcxMDAlJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbHdheXM6IFt7IGFjdGlvbnM6ICdzZW5kVXBsb2FkJyB9XSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhsaW5rZWRpbkV2ZW50cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdHgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9GZWF0dXJlRmxhZ3NQcm92aWRlcj4K</text>
+        <text encoding="base64">ICBzdGF0ZS5jb250ZXh0LmZlYXR1cmVGbGFncwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsKaW1wb3J0IHsgcGF0aE9yLCBwaXBlIH0gZnJvbSAncmFtZGEnOwo=</text>
+        <text encoding="base64">ICBjb25zdCB7IGxpbmtlZGluRXZlbnRzIH0gPSB1c2VDb250ZXh0KEZlYXR1cmVGbGFnc0NvbnRleHQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSwgU3ViamVjdCB9IGZyb20gJ3J4anMnOwppbXBvcnQgeyB1c2VFZmZlY3QsIHVzZVJlZiwgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCc7CmltcG9ydCB7IGZpbHRlciwgc2hhcmUgfSBmcm9tICdyeGpzL29wZXJhdG9ycyc7CmltcG9ydCB7IGNvbmZpZyB9IGZyb20gJy4uL2NvbmZpZyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgeyBSRVNUUkVBTV9XU19IT1NULCBSRVNUUkVBTV9XRUJfSE9TVCB9ID0gY29uZmlnOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsaW5rZWRpbkV2ZW50cyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBTdHJlYW1pbmdTdGF0dXNVcGRhdGVJbmNvbWluZ01lc3NhZ2UgewogIGFjdGlvbjogJ3VwZGF0ZUluY29taW5nJzsKICBldmVudElkOiBzdHJpbmcgfCBudWxsOwogIHNlcnZlckhvc3RuYW1lOiBzdHJpbmc7Cn0KCmV4cG9ydCBlbnVtIENoYW5uZWxTdGF0dXMgewogIENPTk5FQ1RJTkcgPSAnQ09OTkVDVElORycsCiAgRElTQ09OTkVDVEVEID0gJ0RJU0NPTk5FQ1RFRCcsCiAgQ09OTkVDVEVEID0gJ0NPTk5FQ1RFRCcsCn0KCmV4cG9ydCBpbnRlcmZhY2UgU3RyZWFtaW5nU3RhdHVzVXBkYXRlT3V0Z29pbmdNZXNzYWdlIHsKICBhY3Rpb246ICd1cGRhdGVPdXRnb2luZyc7CiAgY2hhbm5lbElkOiBudW1iZXI7CiAgc3RyZWFtaW5nOiB7CiAgICBzdGF0dXM6IENoYW5uZWxTdGF0dXM7CiAgICByZXN0YXJ0czogbnVtYmVyOwogICAgcmVzdGFydGVkQXQ6IG51bWJlcjsKICB9Owp9CgpleHBvcnQgaW50ZXJmYWNlIFN0cmVhbWluZ1N0YXR1c1VwZGF0ZVN0YXR1c2VzTWVzc2FnZSB7CiAgYWN0aW9uOiAndXBkYXRlU3RhdHVzZXMnOwogIGNoYW5uZWxJZDogbnVtYmVyOwogIGV2ZW50SWRlbnRpZmllcjogc3RyaW5nOwogIHZpZXdlcnM6IG51bWJlciB8IG51bGw7CiAgb25saW5lOiBib29sZWFuOwp9CgpleHBvcnQgaW50ZXJmYWNlIFN0cmVhbWluZ1N0YXR1c0RlbGV0ZUluY29taW5nTWVzc2FnZSB7CiAgYWN0aW9uOiAnZGVsZXRlSW5jb21pbmcnOwogIGV2ZW50SWQ6IHN0cmluZyB8IG51bGw7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgU3RyZWFtaW5nU3RhdHVzRGVsZXRlT3V0Z29pbmdNZXNzYWdlIHsKICBhY3Rpb246ICdkZWxldGVPdXRnb2luZyc7CiAgY2hhbm5lbElkOiBudW1iZXI7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9GZWF0dXJlRmxhZ3NQcm92aWRlcj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgU3RyZWFtaW5nU3RhdHVzTWVzc2FnZSA9CiAgfCBTdHJlYW1pbmdTdGF0dXNVcGRhdGVJbmNvbWluZ01lc3NhZ2UKICB8IFN0cmVhbWluZ1N0YXR1c1VwZGF0ZU91dGdvaW5nTWVzc2FnZQogIHwgU3RyZWFtaW5nU3RhdHVzVXBkYXRlU3RhdHVzZXNNZXNzYWdlCiAgfCBTdHJlYW1pbmdTdGF0dXNEZWxldGVJbmNvbWluZ01lc3NhZ2UKICB8IFN0cmVhbWluZ1N0YXR1c0RlbGV0ZU91dGdvaW5nTWVzc2FnZTsK</text>
+        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsKaW1wb3J0IHsgcGF0aE9yLCBwaXBlIH0gZnJvbSAncmFtZGEnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB1cGRhdGVJbmNvbWluZyQ6IE9ic2VydmFibGU8U3RyZWFtaW5nU3RhdHVzVXBkYXRlSW5jb21pbmdNZXNzYWdlPjsKICBkZWxldGVJbmNvbWluZyQ6IE9ic2VydmFibGU8U3RyZWFtaW5nU3RhdHVzRGVsZXRlSW5jb21pbmdNZXNzYWdlPjsKICB1cGRhdGVPdXRnb2luZyQ6IE9ic2VydmFibGU8U3RyZWFtaW5nU3RhdHVzVXBkYXRlT3V0Z29pbmdNZXNzYWdlPjsKICBkZWxldGVPdXRnb2luZyQ6IE9ic2VydmFibGU8U3RyZWFtaW5nU3RhdHVzRGVsZXRlT3V0Z29pbmdNZXNzYWdlPjsKICB1cGRhdGVTdGF0dXNlcyQ6IE9ic2VydmFibGU8U3RyZWFtaW5nU3RhdHVzVXBkYXRlU3RhdHVzZXNNZXNzYWdlPjsK</text>
+        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSwgU3ViamVjdCB9IGZyb20gJ3J4anMnOwppbXBvcnQgeyB1c2VFZmZlY3QsIHVzZVJlZiwgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCc7CmltcG9ydCB7IGZpbHRlciwgc2hhcmUgfSBmcm9tICdyeGpzL29wZXJhdG9ycyc7CmltcG9ydCB7IGNvbmZpZyB9IGZyb20gJy4uL2NvbmZpZyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
