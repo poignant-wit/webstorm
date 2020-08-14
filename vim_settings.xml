@@ -104,6 +104,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/elements/textarea/Textarea.module.scss" timestamp="1597411102895">
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="14" />
+        <mark key="^" line="28" column="14" />
+        <mark key="." line="28" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/facebook/facebook.tsx" timestamp="1597408974182">
         <mark key="'" line="61" column="0" />
         <mark key="[" line="17" column="0" />
@@ -111,11 +117,12 @@
         <mark key="." line="64" column="75" />
         <mark key="^" line="64" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/payload-form.tsx" timestamp="1597409003078">
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/payload-form.tsx" timestamp="1597410942649">
         <mark key="'" line="39" column="13" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="61" />
-        <mark key="." line="68" column="0" />
+        <mark key="[" line="63" column="20" />
+        <mark key="]" line="63" column="22" />
+        <mark key="." line="63" column="21" />
+        <mark key="^" line="63" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" timestamp="1597405463206">
         <mark key="'" line="682" column="36" />
@@ -167,6 +174,12 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="74" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/image-picker/image-picker.tsx" timestamp="1597411035034">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="35" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="121" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/api/destinations.ts" timestamp="1597408605721">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="106" column="11" />
@@ -189,23 +202,23 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destinations/destination/header/Header.tsx" timestamp="1597336509618">
-        <mark key="[" line="27" column="17" />
-        <mark key="]" line="27" column="34" />
-        <mark key="^" line="27" column="34" />
-        <mark key="." line="27" column="33" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/AppViewModel.ts" timestamp="1597337141293">
         <mark key="[" line="18" column="39" />
         <mark key="]" line="18" column="48" />
         <mark key="." line="18" column="47" />
         <mark key="^" line="18" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" timestamp="1597408809313">
-        <mark key="[" line="4" column="37" />
-        <mark key="]" line="4" column="86" />
-        <mark key="^" line="4" column="86" />
-        <mark key="." line="4" column="85" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" timestamp="1597410719811">
+        <mark key="[" line="429" column="35" />
+        <mark key="]" line="429" column="42" />
+        <mark key="^" line="429" column="42" />
+        <mark key="." line="429" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/linkedin/linkedin.tsx" timestamp="1597410841435">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="33" />
+        <mark key="^" line="73" column="14" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" timestamp="1597406253287">
         <mark key="'" line="171" column="28" />
@@ -320,47 +333,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRpc2FibGVkPXtkaXNhYmxlZH0K</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0xpbmtlZGluRXZlbnRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGltYWdlUGlja2VyU2VydmljZT17c3RhdGUuY29udGV4dC5pbWFnZVBpY2tlckFjdG9yfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRpc2FibGVkPXtkaXNhYmxlZH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCd1cGxvYWQgbGlua2VkaW4gY292ZXInLCBjdHguY2hhbm5lbElkKTsK</text>
+        <text encoding="base64">ICBjb25zdCBkaXNhYmxlZCA9IHVzZU1lbW8oKCkgPT4gewoKICAgIHJldHVybiBzdGF0ZS5jb250ZXh0LgoKICB9LCBbc3RhdGVdKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGN0eC5mZWF0dXJlRmxhZ3MubGlua2VkaW5FdmVudHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjdHguZmVhdHVyZUZsYWdzLmxpbmtlZGluRXZlbnRzLCBjdHguY292ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ3VhcmQnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCd1cGxvYWQgbGlua2VkaW4gY292ZXInLCBjdHguY2hhbm5lbElkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbHdheXM6IFt7IGFjdGlvbnM6ICdzZW5kVXBsb2FkJyB9XSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjdHgK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjdHguZmVhdHVyZUZsYWdzLmxpbmtlZGluRXZlbnRzLCBjdHguY292ZXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdGF0ZS5jb250ZXh0LmZlYXR1cmVGbGFncwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGxpbmtlZGluRXZlbnRzIH0gPSB1c2VDb250ZXh0KEZlYXR1cmVGbGFnc0NvbnRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbHdheXM6IFt7IGFjdGlvbnM6ICdzZW5kVXBsb2FkJyB9XSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdHgK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
