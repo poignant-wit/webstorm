@@ -110,13 +110,6 @@
         <mark key="." line="44" column="31" />
         <mark key="^" line="44" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event-finish/event-finish-modal.tsx" timestamp="1597332094876">
-        <mark key="'" line="43" column="15" />
-        <mark key="[" line="1" column="43" />
-        <mark key="]" line="1" column="43" />
-        <mark key="." line="1" column="43" />
-        <mark key="^" line="28" column="41" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/event-modal.ts" timestamp="1597337839552">
         <mark key="'" line="675" column="6" />
         <mark key="[" line="327" column="36" />
@@ -150,16 +143,16 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/image-picker/image-picker.module.scss" timestamp="1597391007058">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="5" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/store/events/EventsStore.ts" timestamp="1597338110789">
         <mark key="[" line="213" column="0" />
         <mark key="]" line="213" column="0" />
         <mark key="." line="213" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/image-picker/image-picker.tsx" timestamp="1597388375556">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="45" column="31" />
-        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-scheduler/scheduler-website-frontend-v2/src/views/header/components/Header.tsx" timestamp="1597333918599">
         <mark key="[" line="79" column="22" />
@@ -325,46 +318,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdoZWxsbycsIGNyb3BwZXJSZWYuY3VycmVudCk7Cg==</text>
+        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKHN0YXRlLm1hdGNoZXMoJ2ltYWdlLmNyb3BwaW5nJykgJiYgY3JvcHBlclJlZi5jdXJyZW50KSB7CiAgICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAgIGNvbnNvbGUubG9nKCd6b29tJyk7CiAgICAgICAgY3JvcHBlclJlZi5jdXJyZW50IS5zY2FsZSgxKTsKICAgICAgfSwgMjAwMCk7CiAgICB9CiAgfSwgW3N0YXRlXSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>state.context.base64</text>
+        <text>zoomTo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZyZXNoRXZlbnRDb3Zlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgdGhpcy5yb290U3RvcmUucGxhdGZvcm1zLmxvYWRQbGF0Zm9ybXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlaWdodDogMjU0LAogICAgICAgICAgICAgICAgd2lkdGg6ICcxMDAlJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdoZWxsbycsIGNyb3BwZXJSZWYuY3VycmVudCk7Cg==</text>
+        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKHN0YXRlLm1hdGNoZXMoJ2ltYWdlLmNyb3BwaW5nJykgJiYgY3JvcHBlclJlZi5jdXJyZW50KSB7CiAgICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAgIGNvbnNvbGUubG9nKCd6b29tJyk7CiAgICAgICAgY3JvcHBlclJlZi5jdXJyZW50IS5zY2FsZSgxKTsKICAgICAgfSwgMjAwMCk7CiAgICB9CiAgfSwgW3N0YXRlXSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvbm5ubm4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpbml0aQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBiYWNrZ3JvdW5kPXtmYWxzZX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZS50b1N0cmluZ3MoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyBzcmM9eydodHRwOi8vZmVuZ3l1YW5jaGVuLmdpdGh1Yi5pby9jcm9wcGVyL2ltYWdlcy9waWN0dXJlLmpwZyd9Cg==</text>
+        <text encoding="base64">ICAgICAgY3JvcHBlclJlZi5jdXJyZW50Lnpvb21UbygxKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyBzcmM9eydodHRwOi8vZmVuZ3l1YW5jaGVuLmdpdGh1Yi5pby9jcm9wcGVyL2ltYWdlcy9waWN0dXJlLmpwZyd9CiAgICAgICAgICAgICAgc3R5bGU9e3sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjcm9wQm94TW92YWJsZT17ZmFsc2V9CiAgICAgICAgICAgICAgY3JvcEJveFJlc2l6YWJsZT17ZmFsc2V9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2hlbGxvJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhdXRvQ3JvcEFyZWE9ezF9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZWY9e2Nyb3BwZXJSZWZ9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdoZWxsbycsIGNyb3BwZXJSZWYuY3VycmVudCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvbkluaXRpYWxpemVkPXtjb25zb2xlLmxvZ30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvbm5ubm4nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDuplicate</text>
