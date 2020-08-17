@@ -104,6 +104,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/elements/textarea/Textarea.module.scss" timestamp="1597411102895">
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="27" column="14" />
+        <mark key="^" line="27" column="14" />
+        <mark key="." line="27" column="13" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1597415956605">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="43" />
+        <mark key="^" line="0" column="43" />
+        <mark key="." line="0" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/facebook/facebook.tsx" timestamp="1597408974182">
         <mark key="'" line="61" column="0" />
         <mark key="[" line="17" column="0" />
@@ -125,73 +137,15 @@
         <mark key="^" line="494" column="46" />
         <mark key="." line="494" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/destinations/destinations.tsx" timestamp="1597337172435">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/store/events/EventsStore.ts" timestamp="1597338110789">
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="0" />
-        <mark key="." line="213" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/providers/feature-flags-provider.tsx" timestamp="1597403911283">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="24" />
-        <mark key="^" line="16" column="74" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/Animations.module.scss" timestamp="1597659012441">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="11" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/image-picker/image-picker.tsx" timestamp="1597411035034">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="35" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="121" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/api/destinations.ts" timestamp="1597415232792">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="10" column="58" />
-        <mark key="]" line="10" column="68" />
-        <mark key="." line="10" column="67" />
-        <mark key="^" line="10" column="68" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/App.tsx" timestamp="1597413831437">
-        <mark key="[" line="83" column="48" />
-        <mark key="]" line="83" column="49" />
-        <mark key="." line="83" column="48" />
-        <mark key="^" line="83" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" timestamp="1597415370556">
-        <mark key="'" line="547" column="40" />
-        <mark key="[" line="723" column="0" />
-        <mark key="]" line="723" column="0" />
-        <mark key="^" line="721" column="41" />
-        <mark key="." line="723" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/linkedin/linkedin.tsx" timestamp="1597415918100">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="30" />
-        <mark key="^" line="73" column="14" />
-        <mark key="." line="2" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/elements/textarea/Textarea.module.scss" timestamp="1597411102895">
-        <mark key="[" line="27" column="13" />
-        <mark key="]" line="27" column="14" />
-        <mark key="^" line="27" column="14" />
-        <mark key="." line="27" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/pages/event/event/monitor/preview/preview.tsx" timestamp="1597337475011">
         <mark key="'" line="190" column="45" />
         <mark key="[" line="361" column="29" />
         <mark key="]" line="361" column="31" />
         <mark key="^" line="361" column="31" />
         <mark key="." line="361" column="30" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1597659750886">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/api/events.ts" timestamp="1597338040432">
         <mark key="'" line="3" column="6" />
@@ -212,17 +166,42 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="5" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/machines/destination.ts" timestamp="1597415370556">
+        <mark key="'" line="547" column="40" />
+        <mark key="[" line="723" column="0" />
+        <mark key="]" line="723" column="0" />
+        <mark key="^" line="721" column="41" />
+        <mark key="." line="723" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/payloads/linkedin/linkedin.tsx" timestamp="1597415918100">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="73" column="14" />
+        <mark key="." line="2" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/Animations.tsx" timestamp="1597659322236">
         <mark key="[" line="22" column="31" />
         <mark key="]" line="23" column="28" />
         <mark key="." line="23" column="27" />
         <mark key="^" line="23" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597415956605">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="43" />
-        <mark key="^" line="0" column="43" />
-        <mark key="." line="0" column="42" />
+      <file name="$USER_HOME$/Documents/restream-frontend/src/store/events/EventsStore.ts" timestamp="1597338110789">
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="213" column="0" />
+        <mark key="." line="213" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/providers/feature-flags-provider.tsx" timestamp="1597403911283">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="16" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/Animations.module.scss" timestamp="1597659012441">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="11" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/modals/event/event-modal.tsx" timestamp="1597415848341">
         <mark key="'" line="178" column="28" />
@@ -230,6 +209,25 @@
         <mark key="]" line="100" column="0" />
         <mark key="^" line="107" column="118" />
         <mark key="." line="100" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/views/events/components/image-picker/image-picker.tsx" timestamp="1597411035034">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="35" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="121" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/api/destinations.ts" timestamp="1597415232792">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="10" column="58" />
+        <mark key="]" line="10" column="68" />
+        <mark key="." line="10" column="67" />
+        <mark key="^" line="10" column="68" />
+      </file>
+      <file name="$USER_HOME$/Documents/restream-frontend/src/App.tsx" timestamp="1597413831437">
+        <mark key="[" line="83" column="48" />
+        <mark key="]" line="83" column="49" />
+        <mark key="." line="83" column="48" />
+        <mark key="^" line="83" column="49" />
       </file>
     </filemarks>
     <jumps>
